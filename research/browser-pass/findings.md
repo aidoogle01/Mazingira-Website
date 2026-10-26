@@ -151,7 +151,7 @@ Scripts: `capture.js` (capture), `frame-forms.js` (forms inside iframes), `diges
 - **Slop tells:** tracked uppercase labels throughout; middle-dot meta strings ("5 days • 2 locations • 1 country").
 
 ### Rhino Africa (`rhinoafrica/`)
-- **Nav:** Menu · Search · logo · START PLANNING (green pill), then DESTINATIONS · JOURNEYS · EXPERIENCES · INSPIRATION · IMPACT · STORIES. **H1:** "THE AUTHORITY ON LUXURY AFRICAN TRAVEL"; trip "Tanzania Revealed: Sun, Savannah and Spice". The trip sub-line says "11 days in Tanzania" while the page body says "10 Nights in total".
+- **Nav:** Menu · Search · logo · START PLANNING (green pill), then DESTINATIONS · JOURNEYS · EXPERIENCES · INSPIRATION · IMPACT · STORIES. **H1:** "THE AUTHORITY ON LUXURY AFRICAN TRAVEL"; trip "Tanzania Revealed: Sun, Savannah and Spice". Sub-line: "11 days in Tanzania" (10 nights).
 - **Hero:** slideshow on home; still on the trip page.
 - **CTA:** "START PLANNING" five times on home, plus "START PLANNING NOW", "SPEAK WITH AN EXPERT" and "BOOK WITH US".
 - **Enquiry (`/contact-us`):** full-screen wizard with a progress bar of about 10 segments. "Your dream African safari starts here." Q1: "Do you know where you want to travel to?" — Yes, I do! / I have an idea, need advice / No – Help me decide! A "NEED HELP?" phone link sits in the corner.
@@ -259,7 +259,7 @@ The homepage returned a 503 on the first probe and loaded normally a few minutes
 
 ### Nature Responsible Safari (`natureresponsible/`)
 - **Nav:** olive top strip with phone (a WhatsApp link) and email; then SAFARIS · DESTINATIONS · COMMUNITY PROJECTS · ABOUT US · FAQ'S · VERSION FRANÇAISE. No CTA button in the header. **H1:** "Tanzania Safari Experts Made Easy With Us!". On the trip page the DOM h1 is "Thank you for giving us a chance to be part of your safari experience in Tanzania", with the visible title "Our Bestseller ( 6 Days Tanzania Safari )".
-- **Hero:** the company's own still photo (safari vehicle with a lioness). The trip hero image area rendered grey in our capture.
+- **Hero:** a still photo of a safari vehicle with a lioness, apparently the company's own. The trip hero image area rendered grey in our capture.
 - **CTA:** "Help Me Plan My Safari" / "HELP ME PLAN MY TRIP", once per page.
 - **Enquiry (`/help-me-plan-my-trip/`, native Jotform "Tour Reservation Form"):** single step, 16 visible fields: full name, last name, email, country, phone (twice), arrival date, return date, number of days, package tier (e.g. "Top Luxury"), budget per person (e.g. "$1000 – $2000"), travelling as, group size, anything else, special interests.
 - **Live contact:** Tawk.to "Chat" bubble on desktop and mobile; WhatsApp number.
@@ -267,7 +267,7 @@ The homepage returned a 503 on the first probe and loaded normally a few minutes
 - **Trust:** TATO membership explained ("WHAT IS TATO?"); Tripadvisor Travellers' Choice 2023 badge; Google reviews widget script.
 - **Type:** Aclonica (display), Lato, EB Garamond, Libre Franklin and Karla (five families); Inter on the form page via Jotform.
 - **Colours:** white, blue-grey #F7F9FB, olive #4E493D, sage #9CA776, lime text #86C232.
-- **Photos:** the company's own vehicle and wildlife shots.
+- **Photos:** vehicle and wildlife shots that look like the company's own (inference).
 - **Mobile:** Chat bubble only. No overflow.
 - **Performance:** home LCP 1.6 s / 2.5 s, 1.6 MB.
 - **Slop tells:** none of the listed ones. The issues here are inconsistency (five typefaces, mixed colours), not genericness.
