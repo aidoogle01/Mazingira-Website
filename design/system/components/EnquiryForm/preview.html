@@ -1,0 +1,25 @@
+<!-- @dsCard group="Enquiry" height=620 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>EnquiryForm</title>
+<style>body{margin:0;background:var(--surface);} .wrap{padding:24px;} </style></head>
+<body class="mz"><div class="wrap">
+<form class="mz-form" style="max-width:720px" onsubmit="event.preventDefault()">
+  <div><p class="mz-eyebrow">Enquire</p><h2 style="font-size:32px;line-height:36px;margin-top:8px">Start planning with Johari</h2></div>
+  <div class="mz-field"><label for="trip">Trip</label>
+    <select id="trip"><option>Luxury Savannah to Shore (9 days)</option><option>Not sure yet, help me choose</option></select></div>
+  <div class="mz-form__row">
+    <div class="mz-field"><label for="name">Your name</label><input id="name" autocomplete="name" value="Sarah Thompson"></div>
+    <div class="mz-field"><label for="email">Email</label><input id="email" type="email" autocomplete="email" value="sarah@example.com"></div>
+  </div>
+  <div class="mz-form__row">
+    <div class="mz-field"><label for="when">When</label><input id="when" value="Aug 2027"></div>
+    <div class="mz-field"><label for="who">Travellers</label><select id="who"><option>2 adults</option></select></div>
+    <div class="mz-field"><label for="budget">Budget per person</label><select id="budget"><option>$4,000–$6,000</option></select></div>
+  </div>
+  <div class="mz-field"><label for="msg">Anything we should know?</label><textarea id="msg">Our honeymoon, so somewhere special on Zanzibar please.</textarea></div>
+  <button class="mz-btn mz-btn--block" type="submit">Send enquiry</button>
+  <p class="mz-form__alt">Prefer to chat? <a class="mz-btn mz-btn--whatsapp" href="#whatsapp">WhatsApp us</a></p>
+</form>
+</div></body>
+</html>

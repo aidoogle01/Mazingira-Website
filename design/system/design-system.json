@@ -1,0 +1,108 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-26T11:24:56Z"
+  },
+  "title": "Mazingira Safari",
+  "namespace": "Mazingira",
+  "libraries": [],
+  "sections": {},
+  "groups": [
+    "Logos",
+    "Photos"
+  ],
+  "assetGroups": {
+    "Logos": {
+      "name": "Logos",
+      "tile": "s",
+      "order": [
+        "mazingira-logo.png"
+      ],
+      "files": {
+        "mazingira-logo.png": {
+          "name": "mazingira-logo.png",
+          "blob": "d6a69693fb18ef29f9a2f369d41b4247",
+          "size": 48858,
+          "type": "image/png"
+        }
+      }
+    },
+    "Photos": {
+      "name": "Photos",
+      "tile": "m",
+      "order": [
+        "mazingira-vehicle.jpg",
+        "elephant-herd-tarangire.jpg",
+        "camp-dinner-firelight.jpg",
+        "savannah-sunset.jpg",
+        "tented-camp.jpg",
+        "leopard-on-rock.jpg",
+        "lion-in-grass.jpg",
+        "giraffes-necking.jpg"
+      ],
+      "files": {
+        "mazingira-vehicle.jpg": {
+          "name": "mazingira-vehicle.jpg",
+          "blob": "b41b55a64d0cbd8f110de964ffe6ee40",
+          "size": 440348,
+          "type": "image/jpeg"
+        },
+        "elephant-herd-tarangire.jpg": {
+          "name": "elephant-herd-tarangire.jpg",
+          "blob": "bb6cb62f432a1841d7cd01961895829d",
+          "size": 542473,
+          "type": "image/jpeg"
+        },
+        "camp-dinner-firelight.jpg": {
+          "name": "camp-dinner-firelight.jpg",
+          "blob": "b479c1fe3955d365e9b97ddb7a42c0b5",
+          "size": 490233,
+          "type": "image/jpeg"
+        },
+        "savannah-sunset.jpg": {
+          "name": "savannah-sunset.jpg",
+          "blob": "625de68191d28be0d66f8ce1bebb3acd",
+          "size": 423817,
+          "type": "image/jpeg"
+        },
+        "tented-camp.jpg": {
+          "name": "tented-camp.jpg",
+          "blob": "7358a0dfc2776546d93de2f573808599",
+          "size": 323646,
+          "type": "image/jpeg"
+        },
+        "leopard-on-rock.jpg": {
+          "name": "leopard-on-rock.jpg",
+          "blob": "f446a49477306adb4d7084e986976ee3",
+          "size": 109344,
+          "type": "image/jpeg"
+        },
+        "lion-in-grass.jpg": {
+          "name": "lion-in-grass.jpg",
+          "blob": "c0f3187c6fc6436476aac9fc28dba1ae",
+          "size": 357883,
+          "type": "image/jpeg"
+        },
+        "giraffes-necking.jpg": {
+          "name": "giraffes-necking.jpg",
+          "blob": "e72ae765a43ba43be5411b7fd7834c13",
+          "size": 90283,
+          "type": "image/jpeg"
+        }
+      }
+    }
+  },
+  "blobs": {},
+  "docs": {
+    "readme": "project/README.md",
+    "sections": []
+  },
+  "lastChange": {
+    "by": "Claude",
+    "at": "2026-10-26T11:24:56Z",
+    "via": "Claude Code",
+    "note": "First version, built from the audit of mazingirasafari.com"
+  }
+}

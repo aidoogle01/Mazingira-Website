@@ -1,0 +1,353 @@
+{
+  "note": "New site map, generated from content/ by tools/build_routes.py. `nav`: main, cta, footer or null.",
+  "routes": [
+    {
+      "path": "/",
+      "type": "home",
+      "title": "Home",
+      "nav": null
+    },
+    {
+      "path": "/safaris",
+      "type": "trip-list",
+      "title": "Safaris",
+      "nav": "main"
+    },
+    {
+      "path": "/destinations",
+      "type": "park-list",
+      "title": "Destinations",
+      "nav": "main"
+    },
+    {
+      "path": "/experiences",
+      "type": "experience-list",
+      "title": "Experiences",
+      "nav": "main"
+    },
+    {
+      "path": "/plan",
+      "type": "plan-hub",
+      "title": "Plan your trip",
+      "nav": "main"
+    },
+    {
+      "path": "/plan/faqs",
+      "type": "faqs",
+      "title": "FAQs",
+      "source": "content/faqs.json",
+      "nav": null
+    },
+    {
+      "path": "/about/team",
+      "type": "team",
+      "title": "Meet the team",
+      "source": "content/team/",
+      "nav": null
+    },
+    {
+      "path": "/about/reviews",
+      "type": "reviews",
+      "title": "Reviews",
+      "source": "content/reviews.json",
+      "nav": null
+    },
+    {
+      "path": "/enquire",
+      "type": "enquiry",
+      "title": "Enquire",
+      "nav": "cta"
+    },
+    {
+      "path": "/contact",
+      "type": "contact",
+      "title": "Contact",
+      "source": "content/site.json",
+      "nav": "footer"
+    },
+    {
+      "path": "/privacy",
+      "type": "page",
+      "title": "Privacy and cookies",
+      "source": null,
+      "nav": "footer",
+      "note": "NEW: needed for cookie consent (Facebook Pixel). No content on the old site; to be written."
+    },
+    {
+      "path": "/safaris/family-wilderness-adventure",
+      "type": "trip",
+      "title": "Family Wilderness Adventure 7-Day Safari",
+      "source": "content/trips/family-wilderness-adventure.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/great-migration-river-crossing",
+      "type": "trip",
+      "title": "7-Day Great Migration River Crossing Adventure",
+      "source": "content/trips/great-migration-river-crossing.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/honeymoon-safari-and-zanzibar",
+      "type": "trip",
+      "title": "A Romantic Honeymoon Safari and Zanzibar Retreat",
+      "source": "content/trips/honeymoon-safari-and-zanzibar.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/kilimanjaro/kilimanjaro-machame-7-day",
+      "type": "trip",
+      "title": "7-Day Kilimanjaro Expedition: Machame Route Adventure",
+      "source": "content/trips/kilimanjaro-machame-7-day.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/savannah-to-shore",
+      "type": "trip",
+      "title": "Luxury Savannah to Shore 9 Day Adventure",
+      "source": "content/trips/savannah-to-shore.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/serengeti-romantic-escape",
+      "type": "trip",
+      "title": "Serengeti Escape A Romantic Adventure",
+      "source": "content/trips/serengeti-romantic-escape.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/serengeti-under-the-stars",
+      "type": "trip",
+      "title": "Serengeti Under The Stars",
+      "source": "content/trips/serengeti-under-the-stars.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/wild-wonders-serengeti-tarangire-ruaha",
+      "type": "trip",
+      "title": "Wild Wonders: A Safari Across Serengeti, Tarangire, and Ruaha",
+      "source": "content/trips/wild-wonders-serengeti-tarangire-ruaha.json",
+      "status": "hidden",
+      "nav": null
+    },
+    {
+      "path": "/safaris/wildlife-photography-safari",
+      "type": "trip",
+      "title": "Wildlife Photography Safari, Capture Every Moment",
+      "source": "content/trips/wildlife-photography-safari.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/safaris/winged-wonders-birding",
+      "type": "trip",
+      "title": "Winged Wonders: 7 Days Tanzanian Birdwatching",
+      "source": "content/trips/winged-wonders-birding.json",
+      "status": "published",
+      "nav": null
+    },
+    {
+      "path": "/destinations/arusha",
+      "type": "park",
+      "title": "Arusha National Park",
+      "source": "content/parks/arusha.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/kilimanjaro",
+      "type": "park",
+      "title": "Kilimanjaro National Park",
+      "source": "content/parks/kilimanjaro.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/lake-manyara",
+      "type": "park",
+      "title": "Lake Manyara National Park",
+      "source": "content/parks/lake-manyara.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/ngorongoro",
+      "type": "park",
+      "title": "Ngorongoro Conservation Area",
+      "source": "content/parks/ngorongoro.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/ruaha",
+      "type": "park",
+      "title": "Ruaha National Park",
+      "source": "content/parks/ruaha.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/serengeti",
+      "type": "park",
+      "title": "Serengeti National Park",
+      "source": "content/parks/serengeti.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/tarangire",
+      "type": "park",
+      "title": "Tarangire National Park",
+      "source": "content/parks/tarangire.json",
+      "nav": null
+    },
+    {
+      "path": "/experiences/balloon-safari",
+      "type": "experience",
+      "title": "Hot Air Balloon Safari",
+      "source": "content/experiences/balloon-safari.json",
+      "nav": null
+    },
+    {
+      "path": "/experiences/maasai-village",
+      "type": "experience",
+      "title": "Maasai Village Visits",
+      "source": "content/experiences/maasai-village.json",
+      "nav": null
+    },
+    {
+      "path": "/experiences/night-game-drive",
+      "type": "experience",
+      "title": "Night Time Game Drives",
+      "source": "content/experiences/night-game-drive.json",
+      "nav": null
+    },
+    {
+      "path": "/experiences/sunset-picnic",
+      "type": "experience",
+      "title": "Sunset Picnics",
+      "source": "content/experiences/sunset-picnic.json",
+      "nav": null
+    },
+    {
+      "path": "/experiences/tented-camping",
+      "type": "experience",
+      "title": "Tanzania Classic camping safari",
+      "source": "content/experiences/tented-camping.json",
+      "nav": null
+    },
+    {
+      "path": "/experiences/walking-safari",
+      "type": "experience",
+      "title": "Walking Safaris",
+      "source": "content/experiences/walking-safari.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/tanzania",
+      "type": "page",
+      "title": "Take a Closer Look",
+      "source": "content/pages/about-tanzania.json",
+      "nav": null
+    },
+    {
+      "path": "/about",
+      "type": "page",
+      "title": "About Mazingira",
+      "source": "content/pages/about-us.json",
+      "nav": "main"
+    },
+    {
+      "path": "/accessibility",
+      "type": "page",
+      "title": "Accessibility Statement for Mazingira Safari",
+      "source": "content/pages/accessibility.json",
+      "nav": "footer"
+    },
+    {
+      "path": "/plan/where-you-stay",
+      "type": "page",
+      "title": "Accommodation",
+      "source": "content/pages/accommodation.json",
+      "nav": null
+    },
+    {
+      "path": "/plan/best-time-to-visit",
+      "type": "page",
+      "title": "Best Time to Visit Tanzania for a Safari",
+      "source": "content/pages/best-time-to-visit-tanzania-for-a-safari.json",
+      "nav": null
+    },
+    {
+      "path": "/destinations/big-five",
+      "type": "page",
+      "title": "BIG CATS",
+      "source": "content/pages/big-five.json",
+      "nav": null
+    },
+    {
+      "path": "/about/how-booking-works",
+      "type": "page",
+      "title": "Booking Process",
+      "source": "content/pages/booking-process.json",
+      "nav": null
+    },
+    {
+      "path": "/plan/honeymoon-safari-guide",
+      "type": "page",
+      "title": "How to Plan the Perfect Safari Honeymoon in Tanzania and Zanzibar",
+      "source": "content/pages/how-to-plan-the-perfect-safari-honeymoon-in-tanzania-and-zanzibar.json",
+      "nav": null
+    },
+    {
+      "path": "/kilimanjaro/packing-list",
+      "type": "page",
+      "title": "Kilimanjaro Packing Guide",
+      "source": "content/pages/kilimanjaro-packing-list.json",
+      "nav": null
+    },
+    {
+      "path": "/kilimanjaro/routes",
+      "type": "page",
+      "title": "Kilimanjaro Routes",
+      "source": "content/pages/kilimanjaro-routes.json",
+      "nav": null
+    },
+    {
+      "path": "/kilimanjaro",
+      "type": "page",
+      "title": "Kilimanjaro",
+      "source": "content/pages/kilimanjaro.json",
+      "nav": "main"
+    },
+    {
+      "path": "/terms",
+      "type": "page",
+      "title": "Payment Terms & Conditions",
+      "source": "content/pages/terms-and-conditions.json",
+      "nav": "footer"
+    },
+    {
+      "path": "/plan/travel-guide",
+      "type": "page",
+      "title": "Travel Guide Tanzania",
+      "source": "content/pages/travel-guide.json",
+      "nav": null
+    },
+    {
+      "path": "/plan/visas-and-entry",
+      "type": "page",
+      "title": "Visas & Entry Requirements,",
+      "source": "content/pages/visas-and-entry.json",
+      "nav": null
+    },
+    {
+      "path": "/plan/what-to-pack",
+      "type": "page",
+      "title": "Packing Tips For Safari",
+      "source": "content/pages/what-to-pack.json",
+      "nav": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<!-- @dsCard height=300 -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Mazingira Safari</title>
+<style>
+  html, body { margin:0; height:100%; }
+  body { background:var(--surface); color:var(--ink); font-family:var(--font-sans); overflow:hidden; }
+  .cover { position:relative; height:300px; overflow:hidden; }
+  .art { position:absolute; top:0; left:480px; width:480px; height:300px; overflow:hidden; }
+  .art svg { display:block; width:480px; height:300px; }
+  .sky { fill:var(--sand); }
+  .land { fill:var(--sage); }
+  .deep { fill:var(--forest); }
+  .sun { fill:var(--sage); }
+  .band { rx:var(--radius-lg); }
+  .crown { fill:var(--forest); rx:var(--radius-md); }
+  .trunk { fill:var(--forest); }
+  .words { position:absolute; left:var(--space-8); bottom:var(--space-8); max-width:440px; }
+  .name { margin:0; font-family:var(--font-display); font-weight:600; font-size:84px; line-height:.95; letter-spacing:-.01em; color:var(--ink); }
+  .tag { margin:var(--space-3) 0 0 2px; font-size:14px; line-height:20px; color:var(--ink-muted); }
+</style>
+</head>
+<body>
+<div class="cover">
+<div class="art" aria-hidden="true">
+<svg viewBox="0 0 480 300" width="480" height="300">
+<!--
+  blocks      sand 520×128 (sky, bled off top and right) · sage 520×88 (plain) · forest 520×88 (ground, bled off bottom), each starting x=16 · one sage disc r=32 as the sun, about 45% of 960×300
+  arrangement a strip of unequal horizontal bands, the savannah horizon read top to bottom, space-2 gaps between bands so they stay distinct in dark, left corners radius-lg
+  pattern     literal motif: the flat-topped acacia from the logo, built from radii as a radius-md crown pill on a 4px trunk; three trees on the horizon (README: "the sage wordmark with the acacia tree")
+  scales      band gaps space-2; tree crowns 96/72/56 wide, 16 tall; band corners radius-lg; crowns radius-md
+-->
+<rect class="sky band" x="16" y="-18" width="520" height="146" rx="18"/>
+<circle class="sun" cx="344" cy="64" r="32"/>
+<rect class="trunk" x="94" y="96" width="4" height="32"/>
+<rect class="crown" x="48" y="84" width="96" height="16" rx="8"/>
+<rect class="trunk" x="226" y="104" width="4" height="24"/>
+<rect class="crown" x="192" y="94" width="72" height="14" rx="7"/>
+<rect class="trunk" x="418" y="108" width="4" height="20"/>
+<rect class="crown" x="392" y="100" width="56" height="12" rx="6"/>
+<rect class="land band" x="16" y="136" width="520" height="80" rx="18"/>
+<rect class="deep band" x="16" y="224" width="520" height="96" rx="18"/>
+</svg>
+</div>
+<div class="words">
+<h1 class="name">Mazingira Safari</h1>
+<p class="tag">Tailor-made Tanzanian safaris from Arusha, led by local guides since 2007.</p>
+</div>
+</div>
+</body>
+</html>
