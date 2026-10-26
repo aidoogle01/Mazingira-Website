@@ -1,0 +1,2968 @@
+{
+ "key": "yellowzebra",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://yellowzebrasafaris.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 4553,
+    "lcpMs": 2780,
+    "perf": {
+     "ttfb": 292,
+     "domContentLoaded": 1843,
+     "perfApiTransferKB": 1407,
+     "resources": 137
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://yellowzebrasafaris.com/",
+     "title": "Luxury African Safari Holidays & Tours | Yellow Zebra Safaris",
+     "docHeight": 8552,
+     "nav": [
+      "Blog & Insights",
+      "About Us",
+      "Find Us",
+      "1(888) 377-5658",
+      "My Collection",
+      "wishlist status",
+      "Search icon Close icon",
+      "Destinations",
+      "When to Go",
+      "Trip Ideas",
+      "Safari Styles",
+      "Inspiration",
+      "Your First Safari",
+      "Make an Enquiry"
+     ],
+     "h1": [
+      {
+       "text": "Luxury, Tailor-Made African Safari Holidays by Yellow Zebra",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://customer-ubnstkcbbem7e6fl.cloudflarestream.com/fb40e8997bdd84090f251dca3baa7f57/iframe?autoplay=true&muted=true&"
+      ],
+      "sliders": [
+       "wak-carousel-container wak-hero wak-hero__home js-wak-carousel",
+       "wak-sliders-container",
+       "wak-slider-main-wrapper"
+      ],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Make an Enquiry",
+        3
+       ],
+       [
+        "Talk to an Expert",
+        1
+       ],
+       [
+        "Get in touch",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Make an Enquiry"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-mobile-form",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "",
+         "placeholder": "Search",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-form",
+       "y": 237,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "Search",
+         "placeholder": "Search for countries, camps, lodges, etc",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Icon arrow"
+       ]
+      },
+      {
+       "action": "https://forms-eu1.hsforms.com/submissions/v3/public/submit/formsnext/multipart/144927887/8ca156ea-8d87-446e-95e8-dd71d45",
+       "id": "37e578dc-4154-4651-9cc2-60adbc87ad39-8ca156ea-8d87-446e-95e8-dd71d4585a58",
+       "cls": "hsfc-Form",
+       "y": 7984,
+       "fieldsTotal": 5,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/firstname",
+         "label": "",
+         "placeholder": "First Name*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/lastname",
+         "label": "",
+         "placeholder": "Last Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "0-1/email",
+         "label": "",
+         "placeholder": "Email*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Region*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Sign Up"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-ubnstkcbbem7e6fl.cloudflarestream.com/fb40e8997bdd84090f251dca3baa7f57/iframe?autoplay=true&muted=true&loop=true&controls=f",
+      "https://www.youtube.com/embed/ei7lM19unwk?enablejsapi=1&rel=0&controls=1&autoplay=0&showinfo=0&modestbranding=1&origin=https://yellowzebrasa",
+      "https://widget.trustpilot.com/trustboxes/539ad0ffdec7e10e686debd7/index.html?templateId=539ad0ffdec7e10e686debd7&businessunitId=502a51f20000"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "whatsappWidget": "mentioned-in-html",
+       "trustpilot": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1(888) 377-5658",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "Phone",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Phone 1(888) 377-5658",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1(888) 377-5658",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "whatsapp",
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "header",
+        "cls": "wak-site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 738,
+        "h": 162,
+        "w": 1440,
+        "text": "Blog & Insights About Us Find Us 1(888) 377-5658 My Collection Destinations When to Go Trip Ideas Sa"
+       },
+       {
+        "tag": "dialog",
+        "id": "wak-dialog-local-switcher",
+        "cls": "",
+        "pos": "fixed",
+        "top": 241,
+        "bottom": 241,
+        "h": 419,
+        "w": 560,
+        "text": "Browsing from the USA? Visit our US website: Go to USA site Remain on current website"
+       }
+      ]
+     },
+     "prices": [
+      "Trips View All Trips Zambia’s Hidden Luxuries Zambia • 10 nights From £13,751 – £16,658 pp Botswana’s Best-Known National Parks",
+      " All Trips Zambia’s Hidden Luxuries Zambia • 10 nights From £13,751 – £16,658 pp Botswana’s Best-Known National Parks Botswana ",
+      ",658 pp Botswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Afric",
+      "otswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 ni",
+      "3 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 nights From £11,317 – £11,893 pp Tanzania’s Famous Northern Circuit T",
+      " pp Cape and Safari Honeymoon South Africa • 10 nights From £11,317 – £11,893 pp Tanzania’s Famous Northern Circuit Tanzania • ",
+      "11,893 pp Tanzania’s Famous Northern Circuit Tanzania • 9 nights From £5,461 – £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 ",
+      " Tanzania’s Famous Northern Circuit Tanzania • 9 nights From £5,461 – £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 nights Fr",
+      "m £5,461 – £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 nights From £13,751 – £16,658 pp Botswana’s Best-Known National Parks",
+      " £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 nights From £13,751 – £16,658 pp Botswana’s Best-Known National Parks Botswana ",
+      ",658 pp Botswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Afric",
+      "otswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 ni"
+     ],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Award-Winning Safaris We’re recognised as industry leaders by Condé Nast Traveller and the World Travel Awards. Trusted ",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "We’re recognised as industry leaders by Condé Nast Traveller and the World Travel Awards. Trusted by experts and travell",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "We’re recognised as industry leaders by Condé Nast Traveller and the World Travel Awards. Trusted by experts and travell",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "We’re recognised as industry leaders by Condé Nast Traveller and the World Travel Awards. Trusted by experts and travell",
+       "where": "body"
+      },
+      {
+       "match": "ATOL",
+       "text": "Financially Protected Journeys We’re fully accredited and bonded under ATOL, meaning you’re financially protected and ca",
+       "where": "body"
+      },
+      {
+       "match": "ATOL",
+       "text": "We’re fully accredited and bonded under ATOL, meaning you’re financially protected and can travel with peace of mind.",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Brian Jackman Safari expert for The Sunday Times, The Telegraph, Condé Nast, and the BBC",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Safari expert for The Sunday Times, The Telegraph, Condé Nast, and the BBC",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent Based on 1,787 reviews Trustpilot",
+       "where": "footer"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent",
+       "where": "footer"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Trustpilot",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "World-Travel-Award-2025-Winner-website-300x300.png",
+       "where": "body"
+      },
+      {
+       "alt": "Yellow Zebra Safaris",
+       "src": "site-logo-white.png",
+       "where": "footer"
+      },
+      {
+       "alt": "trustpilot star icon",
+       "src": "singlestar.svg",
+       "where": "footer"
+      },
+      {
+       "alt": "",
+       "src": "World-Travel-Award-2025-Winner-website-300x300.png",
+       "where": "footer"
+      },
+      {
+       "alt": "",
+       "src": "atol.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "1,787 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Rector",
+       "Figtree"
+      ],
+      "h1": "Rector",
+      "h1Style": "72px/400 ls=normal tt=none",
+      "h2": "Rector",
+      "h2Style": "67.996px/400 ls=normal tt=none",
+      "body": "Figtree",
+      "bodyStyle": "24px/400 ls=normal tt=none",
+      "nav": "Figtree",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 9106147",
+       "rgb(25, 24, 21) 2274409",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(248, 242, 236) 1312394",
+       "rgb(117, 116, 115) 783808",
+       "rgb(211, 211, 211) 783808",
+       "rgb(37, 36, 33) 188656",
+       "rgb(254, 203, 0) 102905"
+      ],
+      "textByCount": [
+       "rgb(25, 24, 21) 247",
+       "rgb(255, 255, 255) 96",
+       "rgb(124, 121, 118) 60",
+       "rgb(140, 140, 138) 10",
+       "rgb(0, 0, 0) 3"
+      ]
+     },
+     "images": {
+      "count": 44,
+      "alts": [
+       "Zebra in Tanzania",
+       "Botswana Safari - River crossing Elephants",
+       "Elephant herd, Walking safaris, Zambezi National Park, Zimbabwe",
+       "Wilderness Kulala Desert Lodge, africas oldest deserts",
+       "RPS 2012 09 140e Copy",
+       "Ross Couper© 17",
+       "image1 (1)",
+       "How to Choose Your Beach Extension After an African Safari",
+       "Africas Best Beach Destinations Zanzibar vs Kenyan Coast",
+       "Kenya’s Top 10 Luxury Lodges",
+       "Lion pride resting on the savannah, Kenya, Yellow Zebra Safaris",
+       "Zebras seen on game drive at Offbeat Mara safari lodge",
+       "Top 10 Safari Tips",
+       "What to Consider When Planning Your Trip",
+       "Masaai, Kenya - Yellow Zebra Safaris",
+       "Botswana River crossing with Elephants",
+       "leopards, Timbavati Game Reserve, south africa safaris",
+       "Safari truck watches two lions approach, Wilderness Busanga Bush Camp, Kafue, Za",
+       "Gorillas, Wilderness Bisate Reserve, Volcanoes NP, Rwanda",
+       "Exterior decking seating looking out onto the reserve, Mombo, Moremi Game Reserv",
+       "A line of zebras are half hidden in half grass as a safari truck sits behind, Ke",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "children on a game drive, ultimate south africa family safari",
+       "treehouse view, marataba safari lodge, marakele national park, south africa",
+       "Yellow Zebra Safaris"
+      ]
+     },
+     "slop": {
+      "eyebrows": 1,
+      "eyebrowEx": [
+       "Recognised by the Industry"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "16px 25",
+       "12px 13",
+       "24px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 17747,
+    "requests": 216,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://yellowzebrasafaris.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 4215,
+    "lcpMs": 1480,
+    "perf": {
+     "ttfb": 138,
+     "domContentLoaded": 1555,
+     "perfApiTransferKB": 1408,
+     "resources": 144
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://yellowzebrasafaris.com/",
+     "title": "Luxury African Safari Holidays & Tours | Yellow Zebra Safaris",
+     "docHeight": 10287,
+     "nav": [
+      "Make an Enquiry",
+      "Phone",
+      "Destinations",
+      "Chevron icon",
+      "Back Destinations",
+      "Top Safari Areas",
+      "East Africa",
+      "Southern Africa",
+      "Central Africa",
+      "Indian Ocean",
+      "Back Top Safari Areas",
+      "The Serengeti",
+      "Maasai Mara National Reserve",
+      "Okavango Delta",
+      "Sabi Sands Game Reserve",
+      "Volcanoes National Park",
+      "Back East Africa",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Uganda",
+      "Back Southern Africa",
+      "Botswana",
+      "South Africa",
+      "Zambia",
+      "Namibia",
+      "Zimbabwe",
+      "Mozambique",
+      "Malawi",
+      "Back Central Africa",
+      "The Republic of the Congo",
+      "Back Indian Ocean",
+      "Mauritius",
+      "Seychelles",
+      "When to Go",
+      "Back When to Go",
+      "By Month",
+      "By Country",
+      "Featured",
+      "Back By Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "Back By Country",
+      "Back Featured",
+      "Best Time to Visit Tanzania",
+      "Best Time to Visit Botswana",
+      "Trip Ideas",
+      "Back Trip Ideas",
+      "Trips by Destination",
+      "Interests",
+      "Featured Trips",
+      "Back Trips by Destination",
+      "Multi-Country Safaris",
+      "Back Interests",
+      "Adventure & Activity",
+      "Horseback Safari",
+      "Cultural Experiences",
+      "Gorilla Trekking Safaris",
+      "Back Featured Trips",
+      "Exploring Zimbabwe’s Famous Zambezi",
+      "Africa’s Oldest Deserts",
+      "Safari Styles",
+      "Back Safari Styles",
+      "Who's Travelling",
+      "Back Who's Travelling",
+      "Family Safaris",
+      "Honeymoon Safaris",
+      "Couples Safaris",
+      "Private Group Safaris",
+      "Solo Safaris",
+      "Senior Safaris",
+      "Birdwatching",
+      "Camping",
+      "Canoe",
+      "Fly Camping",
+      "Gorilla Trekking",
+      "Horseback Riding",
+      "Hot Air Balloon",
+      "Photography",
+      "Romantic Safaris",
+      "Scuba Diving",
+      "Walking Safaris",
+      "Wildlife Safaris",
+      "Inspiration",
+      "Back Inspiration",
+      "Get Inspired",
+      "Back Get Inspired",
+      "Great Migration",
+      "Safari Insights",
+      "Wildlife",
+      "Trips",
+      "Top 10s",
+      "Kenya’s Top 10 Luxury Lodges",
+      "Your First Safari",
+      "Back Your First Safari",
+      "Your First Safari?",
+      "How Much Does an African Safari Cost?",
+      "Top 10 Safari Tips",
+      "Back Your First Safari?",
+      "Things for Kids to Do on Safari",
+      "The Ultimate African Bucket List",
+      "Back Top 10 Safari Tips",
+      "Blog & Insights",
+      "About Us",
+      "Find Us",
+      "My Collection",
+      "wishlist status",
+      "1(888) 383-5635"
+     ],
+     "h1": [
+      {
+       "text": "Luxury, Tailor-Made African Safari Holidays by Yellow Zebra",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://customer-ubnstkcbbem7e6fl.cloudflarestream.com/fb40e8997bdd84090f251dca3baa7f57/iframe?autoplay=true&muted=true&"
+      ],
+      "sliders": [
+       "wak-carousel-container wak-hero wak-hero__home js-wak-carousel",
+       "wak-sliders-container",
+       "wak-slider-main-wrapper"
+      ],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Make an Enquiry",
+        3
+       ],
+       [
+        "Questions to Ask Before You go on a Safari",
+        2
+       ],
+       [
+        "What to Consider When Planning Your Trip",
+        2
+       ],
+       [
+        "Maasai Mara National Reserve",
+        1
+       ],
+       [
+        "Sabi Sands Game Reserve",
+        1
+       ],
+       [
+        "Back Questions to Ask Before You go on a Safari",
+        1
+       ],
+       [
+        "Back What to Consider When Planning Your Trip",
+        1
+       ],
+       [
+        "Talk to an Expert",
+        1
+       ],
+       [
+        "Get in touch",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Make an Enquiry",
+       "Maasai Mara National Reserve",
+       "Sabi Sands Game Reserve",
+       "Questions to Ask Before You go on a Safari",
+       "What to Consider When Planning Your Trip",
+       "Back Questions to Ask Before You go on a Safari",
+       "Back What to Consider When Planning Your Trip"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-mobile-form",
+       "y": 77,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "",
+         "placeholder": "Search",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-form",
+       "y": 136,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "Search",
+         "placeholder": "Search for countries, camps, lodges, etc",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Icon arrow"
+       ]
+      },
+      {
+       "action": "https://forms-eu1.hsforms.com/submissions/v3/public/submit/formsnext/multipart/144927887/8ca156ea-8d87-446e-95e8-dd71d45",
+       "id": "d4d53f5a-450f-4133-8fbd-f714d85168da-8ca156ea-8d87-446e-95e8-dd71d4585a58",
+       "cls": "hsfc-Form",
+       "y": 9540,
+       "fieldsTotal": 5,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/firstname",
+         "label": "",
+         "placeholder": "First Name*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/lastname",
+         "label": "",
+         "placeholder": "Last Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "0-1/email",
+         "label": "",
+         "placeholder": "Email*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Region*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Sign Up"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-ubnstkcbbem7e6fl.cloudflarestream.com/fb40e8997bdd84090f251dca3baa7f57/iframe?autoplay=true&muted=true&loop=true&controls=f",
+      "https://www.youtube.com/embed/ei7lM19unwk?enablejsapi=1&rel=0&controls=1&autoplay=0&showinfo=0&modestbranding=1&origin=https://yellowzebrasa",
+      "https://widget.trustpilot.com/trustboxes/539ad0ffdec7e10e686debd7/index.html?templateId=539ad0ffdec7e10e686debd7&businessunitId=502a51f20000"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "whatsappWidget": "mentioned-in-html",
+       "trustpilot": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1(888) 383-5635",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Phone",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1(888) 383-5635",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1(888) 383-5635",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "header",
+        "cls": "wak-site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 587,
+        "h": 77,
+        "w": 390,
+        "text": "Make an Enquiry Destinations Back Destinations Top Safari Areas East Africa Southern Africa Central "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "wak-site-header__navigation",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 587,
+        "h": 77,
+        "w": 390,
+        "text": "Make an Enquiry Destinations Back Destinations Top Safari Areas East Africa Southern Africa Central "
+       }
+      ]
+     },
+     "prices": [
+      "l Trips Botswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Afric",
+      "otswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 ni",
+      "3 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 nights From £11,317 – £11,893 pp Tanzania’s Famous Northern Circuit T",
+      " pp Cape and Safari Honeymoon South Africa • 10 nights From £11,317 – £11,893 pp Tanzania’s Famous Northern Circuit Tanzania • ",
+      "11,893 pp Tanzania’s Famous Northern Circuit Tanzania • 9 nights From £5,461 – £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 ",
+      " Tanzania’s Famous Northern Circuit Tanzania • 9 nights From £5,461 – £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 nights Fr",
+      "m £5,461 – £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 nights From £13,751 – £16,658 pp Botswana’s Best-Known National Parks",
+      " £6,919 pp Zambia’s Hidden Luxuries Zambia • 10 nights From £13,751 – £16,658 pp Botswana’s Best-Known National Parks Botswana ",
+      ",658 pp Botswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Afric",
+      "otswana’s Best-Known National Parks Botswana • 8 nights From £4,983 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 ni",
+      "3 – £8,726 pp Cape and Safari Honeymoon South Africa • 10 nights From £11,317 – £11,893 pp Tanzania’s Famous Northern Circuit T",
+      " pp Cape and Safari Honeymoon South Africa • 10 nights From £11,317 – £11,893 pp Tanzania’s Famous Northern Circuit Tanzania • "
+     ],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Brian Jackman Safari expert for The Sunday Times, The Telegraph, Condé Nast, and the BBC",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Safari expert for The Sunday Times, The Telegraph, Condé Nast, and the BBC",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent Based on 1,787 reviews Trustpilot",
+       "where": "footer"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent",
+       "where": "footer"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Trustpilot",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "World-Travel-Award-2025-Winner-website-1024x1024.png",
+       "where": "body"
+      },
+      {
+       "alt": "Yellow Zebra Safaris",
+       "src": "site-logo-white.png",
+       "where": "footer"
+      },
+      {
+       "alt": "trustpilot star icon",
+       "src": "singlestar.svg",
+       "where": "footer"
+      },
+      {
+       "alt": "",
+       "src": "World-Travel-Award-2025-Winner-website-1024x1024.png",
+       "where": "footer"
+      },
+      {
+       "alt": "",
+       "src": "atol.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "1,787 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Rector",
+       "Figtree"
+      ],
+      "h1": "Rector",
+      "h1Style": "48px/400 ls=normal tt=none",
+      "h2": "Rector",
+      "h2Style": "42px/400 ls=normal tt=none",
+      "body": "Figtree",
+      "bodyStyle": "24px/400 ls=normal tt=none",
+      "nav": "Figtree",
+      "button": "Figtree"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 7846993",
+       "rgb(25, 24, 21) 832311",
+       "rgb(248, 242, 236) 440596",
+       "rgb(117, 116, 115) 286414",
+       "rgb(211, 211, 211) 286414",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(254, 203, 0) 34235",
+       "rgb(252, 249, 246) 22500"
+      ],
+      "textByCount": [
+       "rgb(25, 24, 21) 278",
+       "rgb(255, 255, 255) 96",
+       "rgb(124, 121, 118) 54",
+       "rgb(140, 140, 138) 10",
+       "rgb(0, 0, 0) 3"
+      ]
+     },
+     "images": {
+      "count": 28,
+      "alts": [
+       "Masaai, Kenya - Yellow Zebra Safaris",
+       "Botswana River crossing with Elephants",
+       "leopards, Timbavati Game Reserve, south africa safaris",
+       "Safari truck watches two lions approach, Wilderness Busanga Bush Camp, Kafue, Za",
+       "Gorillas, Wilderness Bisate Reserve, Volcanoes NP, Rwanda",
+       "Exterior decking seating looking out onto the reserve, Mombo, Moremi Game Reserv",
+       "A line of zebras are half hidden in half grass as a safari truck sits behind, Ke",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "Elephant herds, Savute Safari Lodge, Chobe, Botswana",
+       "Deck, Toka Leya, Mosi Oa Tunya NP, Zambia",
+       "children on a game drive, ultimate south africa family safari",
+       "treehouse view, marataba safari lodge, marakele national park, south africa",
+       "Yellow Zebra Safaris"
+      ]
+     },
+     "slop": {
+      "eyebrows": 1,
+      "eyebrowEx": [
+       "Recognised by the Industry"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "16px 30"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 18475,
+    "requests": 214,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://yellowzebrasafaris.com/trips/tanzanias-famous-northern-circuit/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 6206,
+    "lcpMs": 4084,
+    "perf": {
+     "ttfb": 2607,
+     "domContentLoaded": 3887,
+     "perfApiTransferKB": 1908,
+     "resources": 133
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://yellowzebrasafaris.com/trips/tanzanias-famous-northern-circuit/",
+     "title": "Tanzania's famous Northern Circuit | Yellow Zebra Safaris",
+     "docHeight": 8421,
+     "nav": [
+      "Blog & Insights",
+      "About Us",
+      "Find Us",
+      "1(844) 409-1747",
+      "My Collection",
+      "wishlist status",
+      "Search icon Close icon",
+      "Destinations",
+      "When to Go",
+      "Trip Ideas",
+      "Safari Styles",
+      "Inspiration",
+      "Your First Safari",
+      "Make an Enquiry"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania’s Famous Northern Circuit",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [
+       "wak-carousel-container wak-hero wak-hero__text-first "
+      ],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://yellowzebrasafaris.com/wp-content/uploads/bis-images/9999954159/Tanzania_Mount-Kilimanjaro_Elephant-iStock-1081340204-1920x638-f50_50.jpg"
+       }
+      ],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Make an Enquiry",
+        4
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Make an Enquiry"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-mobile-form",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "",
+         "placeholder": "Search",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-form",
+       "y": 237,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "Search",
+         "placeholder": "Search for countries, camps, lodges, etc",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Icon arrow"
+       ]
+      },
+      {
+       "action": "https://forms-eu1.hsforms.com/submissions/v3/public/submit/formsnext/multipart/144927887/8ca156ea-8d87-446e-95e8-dd71d45",
+       "id": "1c84c574-a944-4d66-b448-06cc093c0b6e-8ca156ea-8d87-446e-95e8-dd71d4585a58",
+       "cls": "hsfc-Form",
+       "y": 7852,
+       "fieldsTotal": 5,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/firstname",
+         "label": "",
+         "placeholder": "First Name*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/lastname",
+         "label": "",
+         "placeholder": "Last Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "0-1/email",
+         "label": "",
+         "placeholder": "Email*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Region*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Sign Up"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1(844) 409-1747",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "Phone",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Phone 1(844) 409-1747",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1(844) 409-1747",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "1(844) 409-1747",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "header",
+        "cls": "wak-site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 738,
+        "h": 162,
+        "w": 1440,
+        "text": "Blog & Insights About Us Find Us 1(844) 409-1747 My Collection Destinations When to Go Trip Ideas Sa"
+       },
+       {
+        "tag": "dialog",
+        "id": "wak-dialog-local-switcher",
+        "cls": "",
+        "pos": "fixed",
+        "top": 241,
+        "bottom": 241,
+        "h": 419,
+        "w": 560,
+        "text": "Browsing from the USA? Visit our US website: Go to USA site Remain on current website"
+       }
+      ]
+     },
+     "prices": [
+      "so visit the Ngorongoro Crater and the Serengeti. 9 Nights Low season £5,461 High season £6,919 Guide price (pp) Tarangire Nat",
+      "goro Crater and the Serengeti. 9 Nights Low season £5,461 High season £6,919 Guide price (pp) Tarangire National Park The Ngor",
+      "ps Northern Tanzania and Zanzibar Adventure Tanzania • 12 nights From £6,020 – £8,663 pp Luxury Tanzania Safari and Beach Tanz",
+      "rn Tanzania and Zanzibar Adventure Tanzania • 12 nights From £6,020 – £8,663 pp Luxury Tanzania Safari and Beach Tanzania • 12",
+      " £8,663 pp Luxury Tanzania Safari and Beach Tanzania • 12 nights From £8,484 – £13,998 pp A Wild Northern Tanzania Safari and ",
+      "p Luxury Tanzania Safari and Beach Tanzania • 12 nights From £8,484 – £13,998 pp A Wild Northern Tanzania Safari and Beach Tanz",
+      "p A Wild Northern Tanzania Safari and Beach Tanzania • 12 nights From £8,127 – £12,428 pp Authentic Northern Tanzania and Zanz",
+      "Northern Tanzania Safari and Beach Tanzania • 12 nights From £8,127 – £12,428 pp Authentic Northern Tanzania and Zanzibar Tanza",
+      "pp Authentic Northern Tanzania and Zanzibar Tanzania • 12 nights From £5,882 – £6,771 pp Tanzania Family Adventure Tanzania • ",
+      "tic Northern Tanzania and Zanzibar Tanzania • 12 nights From £5,882 – £6,771 pp Tanzania Family Adventure Tanzania • 11 nights",
+      "5,882 – £6,771 pp Tanzania Family Adventure Tanzania • 11 nights From £4,394 – £5,794 pp Highlights of Africa: Cape Town to th",
+      "6,771 pp Tanzania Family Adventure Tanzania • 11 nights From £4,394 – £5,794 pp Highlights of Africa: Cape Town to the Serenge"
+     ],
+     "trust": [
+      {
+       "match": "Excellent",
+       "text": "Excellent Based on 1,787 reviews Trustpilot",
+       "where": "footer"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent",
+       "where": "footer"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Trustpilot",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Yellow Zebra Safaris",
+       "src": "site-logo-white.png",
+       "where": "footer"
+      },
+      {
+       "alt": "trustpilot star icon",
+       "src": "svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0ia",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "1,787 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Rector",
+       "Figtree"
+      ],
+      "h1": "Rector",
+      "h1Style": "72px/400 ls=normal tt=none",
+      "h2": "Rector",
+      "h2Style": "55.996px/400 ls=normal tt=none",
+      "body": "Rector",
+      "bodyStyle": "44px/400 ls=normal tt=none",
+      "nav": "Figtree",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 10110657",
+       "rgb(248, 242, 236) 3409931",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(25, 24, 21) 1025190",
+       "rgb(211, 211, 211) 399424",
+       "rgb(37, 36, 33) 188656",
+       "rgb(254, 203, 0) 107975",
+       "rgba(255, 255, 255, 0.5) 576"
+      ],
+      "textByCount": [
+       "rgb(25, 24, 21) 258",
+       "rgb(124, 121, 118) 101",
+       "rgb(255, 255, 255) 48",
+       "rgb(0, 0, 0) 8",
+       "rgb(140, 140, 138) 5"
+      ]
+     },
+     "images": {
+      "count": 68,
+      "alts": [
+       "Zebra in Tanzania",
+       "Botswana Safari - River crossing Elephants",
+       "Elephant herd, Walking safaris, Zambezi National Park, Zimbabwe",
+       "Wilderness Kulala Desert Lodge, africas oldest deserts",
+       "RPS 2012 09 140e Copy",
+       "Ross Couper© 17",
+       "image1 (1)",
+       "How to Choose Your Beach Extension After an African Safari",
+       "Africas Best Beach Destinations Zanzibar vs Kenyan Coast",
+       "Kenya’s Top 10 Luxury Lodges",
+       "Lion pride resting on the savannah, Kenya, Yellow Zebra Safaris",
+       "Zebras seen on game drive at Offbeat Mara safari lodge",
+       "Top 10 Safari Tips",
+       "What to Consider When Planning Your Trip",
+       "A Lion sits in a tree, peering intently into the distance - Yellow Zebra Safari",
+       "Views, Entamanu Ngorongoro, Tanzania",
+       "Rivertrees Country Inn",
+       "Arusha",
+       "Tanzania wildlife adventures with zebra, Serengeti safaris",
+       "Ngorongoro camp migration views",
+       "Grounds",
+       "Mount Meru view, Arusha, Tanzania",
+       "Ndovu Camp Tanzania",
+       "Wildlife, Ngorongoro Crater floor, Tanzania safari",
+       "Wildebeest, Serengeti National Park, Tanzania safaris",
+       "Ndovu camp view, Tarangire, Tanzania",
+       "The Highlands at Olmoti",
+       "open main tent, wayo serengeti green camp, tanzania",
+       "Lion pride, Tanzania national park safari",
+       "ngorongoro crater lodge game drive",
+       "Ross Couper© 27",
+       "Lion wildlife, Serengeti Green Camp, Serengeti, Tanzania",
+       "open main tent, wayo serengeti green camp, tanzania",
+       "lion in the grass, wilderness mokete, mababe, botswana",
+       "Hot air balloons over the plains at sunrise, Serengeti, Tanzania, Yellow Zebra S",
+       "Game drive stop in open grassland, Serengeti, Tanzania, Yellow Zebra Safaris",
+       "Guided walking safari across open grassland, East Africa, Yellow Zebra Safaris",
+       "A Safari Exploration, Trips, Yellow Zebra Safaris",
+       "Lion pride, Tanzania national park safari",
+       "ngorongoro crater lodge game drive"
+      ]
+     },
+     "slop": {
+      "eyebrows": 1,
+      "eyebrowEx": [
+       "Lauren Noakes"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 3,
+      "gradients": 0,
+      "radii": [
+       "16px 33",
+       "12px 29",
+       "10px 1",
+       "24px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7377,
+    "requests": 194,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://yellowzebrasafaris.com/trips/tanzanias-famous-northern-circuit/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3960,
+    "lcpMs": 1472,
+    "perf": {
+     "ttfb": 266,
+     "domContentLoaded": 1342,
+     "perfApiTransferKB": 2150,
+     "resources": 139
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://yellowzebrasafaris.com/trips/tanzanias-famous-northern-circuit/",
+     "title": "Tanzania's famous Northern Circuit | Yellow Zebra Safaris",
+     "docHeight": 9649,
+     "nav": [
+      "Make an Enquiry",
+      "Phone",
+      "Destinations",
+      "Chevron icon",
+      "Back Destinations",
+      "Top Safari Areas",
+      "East Africa",
+      "Southern Africa",
+      "Central Africa",
+      "Indian Ocean",
+      "Back Top Safari Areas",
+      "The Serengeti",
+      "Maasai Mara National Reserve",
+      "Okavango Delta",
+      "Sabi Sands Game Reserve",
+      "Volcanoes National Park",
+      "Back East Africa",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Uganda",
+      "Back Southern Africa",
+      "Botswana",
+      "South Africa",
+      "Zambia",
+      "Namibia",
+      "Zimbabwe",
+      "Mozambique",
+      "Malawi",
+      "Back Central Africa",
+      "The Republic of the Congo",
+      "Back Indian Ocean",
+      "Mauritius",
+      "Seychelles",
+      "When to Go",
+      "Back When to Go",
+      "By Month",
+      "By Country",
+      "Featured",
+      "Back By Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "Back By Country",
+      "Back Featured",
+      "Best Time to Visit Tanzania",
+      "Best Time to Visit Botswana",
+      "Trip Ideas",
+      "Back Trip Ideas",
+      "Trips by Destination",
+      "Interests",
+      "Featured Trips",
+      "Back Trips by Destination",
+      "Multi-Country Safaris",
+      "Back Interests",
+      "Adventure & Activity",
+      "Horseback Safari",
+      "Cultural Experiences",
+      "Gorilla Trekking Safaris",
+      "Back Featured Trips",
+      "Exploring Zimbabwe’s Famous Zambezi",
+      "Africa’s Oldest Deserts",
+      "Safari Styles",
+      "Back Safari Styles",
+      "Who's Travelling",
+      "Back Who's Travelling",
+      "Family Safaris",
+      "Honeymoon Safaris",
+      "Couples Safaris",
+      "Private Group Safaris",
+      "Solo Safaris",
+      "Senior Safaris",
+      "Birdwatching",
+      "Camping",
+      "Canoe",
+      "Fly Camping",
+      "Gorilla Trekking",
+      "Horseback Riding",
+      "Hot Air Balloon",
+      "Photography",
+      "Romantic Safaris",
+      "Scuba Diving",
+      "Walking Safaris",
+      "Wildlife Safaris",
+      "Inspiration",
+      "Back Inspiration",
+      "Get Inspired",
+      "Back Get Inspired",
+      "Great Migration",
+      "Safari Insights",
+      "Wildlife",
+      "Trips",
+      "Top 10s",
+      "Kenya’s Top 10 Luxury Lodges",
+      "Your First Safari",
+      "Back Your First Safari",
+      "Your First Safari?",
+      "How Much Does an African Safari Cost?",
+      "Top 10 Safari Tips",
+      "Back Your First Safari?",
+      "Things for Kids to Do on Safari",
+      "The Ultimate African Bucket List",
+      "Back Top 10 Safari Tips",
+      "Blog & Insights",
+      "About Us",
+      "Find Us",
+      "My Collection",
+      "wishlist status",
+      "1(833) 684-9368"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania’s Famous Northern Circuit",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [
+       "wak-carousel-container wak-hero wak-hero__text-first "
+      ],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://yellowzebrasafaris.com/wp-content/uploads/bis-images/9999954159/Tanzania_Mount-Kilimanjaro_Elephant-iStock-1081340204-780x1440-f50_50.jpg"
+       }
+      ],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Make an Enquiry",
+        4
+       ],
+       [
+        "Questions to Ask Before You go on a Safari",
+        2
+       ],
+       [
+        "What to Consider When Planning Your Trip",
+        2
+       ],
+       [
+        "Maasai Mara National Reserve",
+        1
+       ],
+       [
+        "Sabi Sands Game Reserve",
+        1
+       ],
+       [
+        "Back Questions to Ask Before You go on a Safari",
+        1
+       ],
+       [
+        "Back What to Consider When Planning Your Trip",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Make an Enquiry",
+       "Maasai Mara National Reserve",
+       "Sabi Sands Game Reserve",
+       "Questions to Ask Before You go on a Safari",
+       "What to Consider When Planning Your Trip",
+       "Back Questions to Ask Before You go on a Safari",
+       "Back What to Consider When Planning Your Trip"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-mobile-form",
+       "y": 77,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "",
+         "placeholder": "Search",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://yellowzebrasafaris.com/",
+       "id": "",
+       "cls": "wak-search-form",
+       "y": 136,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "s",
+         "label": "Search",
+         "placeholder": "Search for countries, camps, lodges, etc",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Icon arrow"
+       ]
+      },
+      {
+       "action": "https://forms-eu1.hsforms.com/submissions/v3/public/submit/formsnext/multipart/144927887/8ca156ea-8d87-446e-95e8-dd71d45",
+       "id": "574b4c95-4042-4952-b12f-e1ab4484b0ba-8ca156ea-8d87-446e-95e8-dd71d4585a58",
+       "cls": "hsfc-Form",
+       "y": 8902,
+       "fieldsTotal": 5,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/firstname",
+         "label": "",
+         "placeholder": "First Name*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "0-1/lastname",
+         "label": "",
+         "placeholder": "Last Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "0-1/email",
+         "label": "",
+         "placeholder": "Email*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Region*",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Sign Up"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1(833) 684-9368",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Phone",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1(833) 684-9368",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1(833) 684-9368",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "1(833) 684-9368",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "header",
+        "cls": "wak-site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 587,
+        "h": 77,
+        "w": 390,
+        "text": "Make an Enquiry Destinations Back Destinations Top Safari Areas East Africa Southern Africa Central "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "wak-site-header__navigation",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 587,
+        "h": 77,
+        "w": 390,
+        "text": "Make an Enquiry Destinations Back Destinations Top Safari Areas East Africa Southern Africa Central "
+       }
+      ]
+     },
+     "prices": [
+      "so visit the Ngorongoro Crater and the Serengeti. 9 Nights Low season £5,461 High season £6,919 Guide price (pp) Tarangire Nat",
+      "goro Crater and the Serengeti. 9 Nights Low season £5,461 High season £6,919 Guide price (pp) Tarangire National Park The Ngor",
+      "ps Northern Tanzania and Zanzibar Adventure Tanzania • 12 nights From £6,020 – £8,663 pp Luxury Tanzania Safari and Beach Tanz",
+      "rn Tanzania and Zanzibar Adventure Tanzania • 12 nights From £6,020 – £8,663 pp Luxury Tanzania Safari and Beach Tanzania • 12",
+      " £8,663 pp Luxury Tanzania Safari and Beach Tanzania • 12 nights From £8,484 – £13,998 pp A Wild Northern Tanzania Safari and ",
+      "p Luxury Tanzania Safari and Beach Tanzania • 12 nights From £8,484 – £13,998 pp A Wild Northern Tanzania Safari and Beach Tanz",
+      "p A Wild Northern Tanzania Safari and Beach Tanzania • 12 nights From £8,127 – £12,428 pp Authentic Northern Tanzania and Zanz",
+      "Northern Tanzania Safari and Beach Tanzania • 12 nights From £8,127 – £12,428 pp Authentic Northern Tanzania and Zanzibar Tanza",
+      "pp Authentic Northern Tanzania and Zanzibar Tanzania • 12 nights From £5,882 – £6,771 pp Tanzania Family Adventure Tanzania • ",
+      "tic Northern Tanzania and Zanzibar Tanzania • 12 nights From £5,882 – £6,771 pp Tanzania Family Adventure Tanzania • 11 nights",
+      "5,882 – £6,771 pp Tanzania Family Adventure Tanzania • 11 nights From £4,394 – £5,794 pp Highlights of Africa: Cape Town to th",
+      "6,771 pp Tanzania Family Adventure Tanzania • 11 nights From £4,394 – £5,794 pp Highlights of Africa: Cape Town to the Serenge"
+     ],
+     "trust": [
+      {
+       "match": "Excellent",
+       "text": "Excellent Based on 1,787 reviews Trustpilot",
+       "where": "footer"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent",
+       "where": "footer"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Trustpilot",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Yellow Zebra Safaris",
+       "src": "site-logo-white.png",
+       "where": "footer"
+      },
+      {
+       "alt": "trustpilot star icon",
+       "src": "singlestar.svg",
+       "where": "footer"
+      },
+      {
+       "alt": "",
+       "src": "World-Travel-Award-2025-Winner-website-1024x1024.png",
+       "where": "footer"
+      },
+      {
+       "alt": "",
+       "src": "atol.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "1,787 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Rector",
+       "Figtree"
+      ],
+      "h1": "Rector",
+      "h1Style": "48px/400 ls=normal tt=none",
+      "h2": "Rector",
+      "h2Style": "42px/400 ls=normal tt=none",
+      "body": "Rector",
+      "bodyStyle": "36px/400 ls=normal tt=none",
+      "nav": "Figtree",
+      "button": "Figtree"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 8203220",
+       "rgb(248, 242, 236) 1189229",
+       "rgb(25, 24, 21) 599948",
+       "rgba(0, 0, 0, 0.7) 438453",
+       "rgb(254, 203, 0) 39305",
+       "rgba(255, 255, 255, 0.5) 576",
+       "rgb(0, 0, 0) 206",
+       "rgb(239, 239, 239) 4"
+      ],
+      "textByCount": [
+       "rgb(25, 24, 21) 300",
+       "rgb(124, 121, 118) 101",
+       "rgb(255, 255, 255) 49",
+       "rgb(0, 0, 0) 8",
+       "rgb(140, 140, 138) 5"
+      ]
+     },
+     "images": {
+      "count": 52,
+      "alts": [
+       "A Lion sits in a tree, peering intently into the distance - Yellow Zebra Safari",
+       "Views, Entamanu Ngorongoro, Tanzania",
+       "Tanzania wildlife adventures with zebra, Serengeti safaris",
+       "Ngorongoro camp migration views",
+       "Grounds",
+       "Mount Meru view, Arusha, Tanzania",
+       "Ndovu Camp Tanzania",
+       "Wildlife, Ngorongoro Crater floor, Tanzania safari",
+       "Wildebeest, Serengeti National Park, Tanzania safaris",
+       "Ndovu camp view, Tarangire, Tanzania",
+       "The Highlands at Olmoti",
+       "open main tent, wayo serengeti green camp, tanzania",
+       "Lion pride, Tanzania national park safari",
+       "ngorongoro crater lodge game drive",
+       "Ross Couper© 27",
+       "Lion wildlife, Serengeti Green Camp, Serengeti, Tanzania",
+       "open main tent, wayo serengeti green camp, tanzania",
+       "lion in the grass, wilderness mokete, mababe, botswana",
+       "Hot air balloons over the plains at sunrise, Serengeti, Tanzania, Yellow Zebra S",
+       "Game drive stop in open grassland, Serengeti, Tanzania, Yellow Zebra Safaris",
+       "Guided walking safari across open grassland, East Africa, Yellow Zebra Safaris",
+       "A Safari Exploration, Trips, Yellow Zebra Safaris",
+       "Lion pride, Tanzania national park safari",
+       "ngorongoro crater lodge game drive",
+       "Ross Couper© 27",
+       "Lion wildlife, Serengeti Green Camp, Serengeti, Tanzania",
+       "open main tent, wayo serengeti green camp, tanzania",
+       "lion in the grass, wilderness mokete, mababe, botswana",
+       "Hot air balloons over the plains at sunrise, Serengeti, Tanzania, Yellow Zebra S",
+       "Game drive stop in open grassland, Serengeti, Tanzania, Yellow Zebra Safaris",
+       "Guided walking safari across open grassland, East Africa, Yellow Zebra Safaris",
+       "A Safari Exploration, Trips, Yellow Zebra Safaris",
+       "Lion pride, Tanzania national park safari",
+       "ngorongoro crater lodge game drive",
+       "Ross Couper© 27",
+       "Lion wildlife, Serengeti Green Camp, Serengeti, Tanzania",
+       "open main tent, wayo serengeti green camp, tanzania",
+       "lion in the grass, wilderness mokete, mababe, botswana",
+       "Hot air balloons over the plains at sunrise, Serengeti, Tanzania, Yellow Zebra S",
+       "Game drive stop in open grassland, Serengeti, Tanzania, Yellow Zebra Safaris"
+      ]
+     },
+     "slop": {
+      "eyebrows": 1,
+      "eyebrowEx": [
+       "Lauren Noakes"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 3,
+      "gradients": 0,
+      "radii": [
+       "16px 54",
+       "10px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 8192,
+    "requests": 202,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://yellowzebrasafaris.com/contact-us/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 3633,
+    "lcpMs": 1404,
+    "perf": {
+     "ttfb": 236,
+     "domContentLoaded": 1296,
+     "perfApiTransferKB": 1223,
+     "resources": 140
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://yellowzebrasafaris.com/contact-us/",
+     "title": "Enquire Now | Speak to an expert | Yellow Zebra Safaris",
+     "docHeight": 900,
+     "nav": [
+      "1(844) 204-0927"
+     ],
+     "h1": [
+      {
+       "text": "Let’s Get Planning Your Bespoke Safari!",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://yellowzebrasafaris.com/contact-us/#gf_3",
+       "id": "gform_3",
+       "cls": "multi-step-safari-planner",
+       "y": 144,
+       "fieldsTotal": 63,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_1",
+         "label": "Yes, I know where I want to go",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.1",
+         "label": "Tanzania",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.2",
+         "label": "Kenya",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.3",
+         "label": "South Africa",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.4",
+         "label": "Botswana",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.5",
+         "label": "Namibia",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.6",
+         "label": "Zimbabwe",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.7",
+         "label": "Zambia",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.8",
+         "label": "Rwanda",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.9",
+         "label": "Uganda",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.11",
+         "label": "Malawi",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.12",
+         "label": "Mozambique",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.13",
+         "label": "Mauritius",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.14",
+         "label": "Seychelles",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.15",
+         "label": "Republic of the Congo",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.16",
+         "label": "Cape Town",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.17",
+         "label": "Victoria Falls",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_4",
+         "label": "Pure safari I’d like to spend as much time as possible on safari in the bush.",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_6",
+         "label": "I have an idea",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_46",
+         "label": "Year(Required)",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_47",
+         "label": "January",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_8",
+         "label": "Start date(Required)",
+         "placeholder": "mm/dd/yyyy",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_9",
+         "label": "End date(Required)",
+         "placeholder": "mm/dd/yyyy",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_11",
+         "label": "Family",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_48",
+         "label": "Number of adults",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_13",
+         "label": "Number of children",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_49",
+         "label": "Child 1 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_52",
+         "label": "Child 2 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_53",
+         "label": "Child 3 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_51",
+         "label": "Child 4 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_50",
+         "label": "Child 5 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_59",
+         "label": "Child 6 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_58",
+         "label": "Child 7 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_60",
+         "label": "Child 8 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_61",
+         "label": "Child 9 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_19",
+         "label": "Price per person",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_23",
+         "label": "First name(Required)",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_24",
+         "label": "Last name(Required)",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": true,
+       "submit": [
+        "+44",
+        "Previous",
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "about:blank"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1(844) 204-0927",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "header",
+        "cls": "wak-site-header -header-limited",
+        "pos": "fixed",
+        "top": 16,
+        "bottom": 722,
+        "h": 162,
+        "w": 1440,
+        "text": "1(844) 204-0927"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "gform-page-footer gform_page_footer top_label",
+        "pos": "fixed",
+        "top": 708,
+        "bottom": 120,
+        "h": 72,
+        "w": 1360,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "assurance-bar__outer",
+        "pos": "fixed",
+        "top": 780,
+        "bottom": 0,
+        "h": 120,
+        "w": 1440,
+        "text": "Every Yellow Zebra safari is designed by genuine experts. All of our specialists are either ex-profe"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "World-Travel-Award-2025-Winner-website-300x300.png",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Rector",
+       "Figtree"
+      ],
+      "h1": "Rector",
+      "h1Style": "72px/400 ls=normal tt=none",
+      "h2": "Rector",
+      "h2Style": "32px/400 ls=normal tt=none",
+      "body": "Figtree",
+      "bodyStyle": "12px/400 ls=normal tt=none",
+      "nav": "\"Times New Roman\"",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(248, 242, 236) 1388160",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(255, 255, 255) 178669",
+       "rgb(209, 209, 208) 6550"
+      ],
+      "textByCount": [
+       "rgb(25, 24, 21) 8",
+       "rgb(0, 0, 0) 1",
+       "rgb(255, 255, 255) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2773,
+    "requests": 119,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://yellowzebrasafaris.com/contact-us/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3243,
+    "lcpMs": 1656,
+    "perf": {
+     "ttfb": 125,
+     "domContentLoaded": 1306,
+     "perfApiTransferKB": 1268,
+     "resources": 139
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://yellowzebrasafaris.com/contact-us/",
+     "title": "Enquire Now | Speak to an expert | Yellow Zebra Safaris",
+     "docHeight": 666,
+     "nav": [
+      "1(844) 263-9501"
+     ],
+     "h1": [
+      {
+       "text": "Let’s Get Planning Your Bespoke Safari!",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://yellowzebrasafaris.com/contact-us/#gf_3",
+       "id": "gform_3",
+       "cls": "multi-step-safari-planner",
+       "y": 80,
+       "fieldsTotal": 62,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_1",
+         "label": "Yes, I know where I want to go",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.1",
+         "label": "Tanzania",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.2",
+         "label": "Kenya",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.3",
+         "label": "South Africa",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.4",
+         "label": "Botswana",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.5",
+         "label": "Namibia",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.6",
+         "label": "Zimbabwe",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.7",
+         "label": "Zambia",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.8",
+         "label": "Rwanda",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.9",
+         "label": "Uganda",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.11",
+         "label": "Malawi",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.12",
+         "label": "Mozambique",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.13",
+         "label": "Mauritius",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.14",
+         "label": "Seychelles",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.15",
+         "label": "Republic of the Congo",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.16",
+         "label": "Cape Town",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_3.17",
+         "label": "Victoria Falls",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_4",
+         "label": "Pure safari I’d like to spend as much time as possible on safari in the bush.",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_6",
+         "label": "I have an idea",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_46",
+         "label": "Year(Required)",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_47",
+         "label": "January",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_8",
+         "label": "Start date(Required)",
+         "placeholder": "mm/dd/yyyy",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_9",
+         "label": "End date(Required)",
+         "placeholder": "mm/dd/yyyy",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_11",
+         "label": "Family",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_48",
+         "label": "Number of adults",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_13",
+         "label": "Number of children",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_49",
+         "label": "Child 1 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_52",
+         "label": "Child 2 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_53",
+         "label": "Child 3 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_51",
+         "label": "Child 4 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_50",
+         "label": "Child 5 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_59",
+         "label": "Child 6 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_58",
+         "label": "Child 7 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_60",
+         "label": "Child 8 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_61",
+         "label": "Child 9 age",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "input_19",
+         "label": "Price per person",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_23",
+         "label": "First name(Required)",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_24",
+         "label": "Last name(Required)",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": true,
+       "submit": [
+        "+44",
+        "Previous",
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "about:blank"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1(844) 263-9501",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "input",
+        "id": "gform_next_button_3_2",
+        "cls": "gform_next_button gform-theme-button button",
+        "pos": "fixed",
+        "top": 508,
+        "bottom": 106,
+        "h": 50,
+        "w": 358,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "assurance-bar__outer",
+        "pos": "fixed",
+        "top": 564,
+        "bottom": 0,
+        "h": 100,
+        "w": 390,
+        "text": "Every Yellow Zebra safari is designed by genuine experts. All of our specialists are either ex-profe"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Rector",
+       "Figtree"
+      ],
+      "h1": "Rector",
+      "h1Style": "48px/400 ls=normal tt=none",
+      "h2": "Rector",
+      "h2Style": "28px/400 ls=normal tt=none",
+      "body": "Figtree",
+      "bodyStyle": "12px/400 ls=normal tt=none",
+      "nav": "\"Times New Roman\"",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(248, 242, 236) 236328",
+       "rgb(255, 255, 255) 69072",
+       "rgb(209, 209, 208) 18600"
+      ],
+      "textByCount": [
+       "rgb(25, 24, 21) 8",
+       "rgb(0, 0, 0) 1",
+       "rgb(255, 255, 255) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2809,
+    "requests": 115,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:32:50.935Z"
+}

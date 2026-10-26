@@ -1,0 +1,2446 @@
+{
+ "key": "go2africa",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://www.go2africa.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 5867,
+    "lcpMs": 3560,
+    "perf": {
+     "ttfb": 495,
+     "domContentLoaded": 1802,
+     "perfApiTransferKB": 1093,
+     "resources": 160
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://www.go2africa.com/",
+     "title": "Go2Africa | We’ll Show You Africa",
+     "docHeight": 11280,
+     "nav": [
+      "Safari 101",
+      "Destinations",
+      "Kruger National Park",
+      "Cape Town",
+      "Victoria Falls",
+      "Okavango Delta",
+      "Serengeti",
+      "Masai Mara",
+      "View More",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Uganda",
+      "South Africa",
+      "Botswana",
+      "Zimbabwe",
+      "Zambia",
+      "Namibia",
+      "Mozambique",
+      "Malawi",
+      "Seychelles",
+      "Mauritius",
+      "Zanzibar",
+      "Madagascar",
+      "Tours & Safaris",
+      "Big 5 Safaris",
+      "Family Safaris",
+      "Ready-To-Book Safaris",
+      "Hidden Gems",
+      "Honeymoon Safaris",
+      "Luxury Safaris",
+      "Malaria Free Safaris",
+      "Migration Safaris",
+      "Safari & Beach Holidays",
+      "Trips With A Purpose",
+      "Highest Impact Safaris",
+      "View All Tours & Safaris",
+      "Travel by Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "Positive Impact",
+      "Community",
+      "Ecosystems",
+      "Sustainability",
+      "About Us",
+      "Our Story",
+      "Why Travel With Us",
+      "Newsletter Signup",
+      "Meet the Team",
+      "Traveller Reviews",
+      "Go2Africa x Craghoppers",
+      "Awards & Recognition"
+     ],
+     "h1": [
+      {
+       "text": "Africa's Trusted Tailor-Made Safari Specialists​",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [
+       {
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "src": "https://www.go2africa.com/wp-content/uploads/2025/04/Go2Africa_30secWebFilm_hq_Desktop.webm"
+       }
+      ],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact Us",
+        2
+       ],
+       [
+        "Start Here",
+        2
+       ],
+       [
+        "Ready-To-Book Safaris",
+        1
+       ],
+       [
+        "Explore Ready-To-Book Safaris",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "contact@go2africa.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "Why Book With Go2Africa",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Contact Us",
+       "Start Here",
+       "Ready-To-Book Safaris"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.go2africa.com/search",
+       "id": "",
+       "cls": "search__form position-relative",
+       "y": 8,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "search",
+         "label": "",
+         "placeholder": "Search Destinations, Tours & Safaris",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.go2africa.com/",
+       "id": "",
+       "cls": "newsletter form form--newsletter rounded-4 shadow",
+       "y": 9932,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "fname",
+         "label": "",
+         "placeholder": "First Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "",
+         "placeholder": "Email address",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://gum.criteo.com/syncframe?topUrl=www.go2africa.com&origin=onetag&ceid=b32454aa-ce0b-49a6-b74b-5302b49c8e5e#{%22bundle%22:{%22identifi",
+      "https://secure.livechatinc.com/customer/action/open_chat?license_id=8045841&group=607&embedded=1&widget_version=3&unique_groups=1&organizati"
+     ],
+     "contact": {
+      "vendorHits": {
+       "livechat": "script/iframe",
+       "hubspotChat": "script/iframe",
+       "trustpilot": "mentioned-in-html",
+       "feefo": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "+27-21-481-4900",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-888-360-2392",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-619-441",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "contact@go2africa.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "navigation sticky-top",
+        "pos": "sticky",
+        "top": 0,
+        "bottom": 847,
+        "h": 53,
+        "w": 1440,
+        "text": "English | USD 1-866-438-8677 1-866-438-8677 +27-21-481-4900 1-888-360-2392 1-800-619-441 0800-404-94"
+       }
+      ]
+     },
+     "prices": [
+      "ays – all completely flexible and arranged to your travel needs. From $12,980 to $21,530 pps East Africa's Mara, Crater & Seren",
+      "ompletely flexible and arranged to your travel needs. From $12,980 to $21,530 pps East Africa's Mara, Crater & Serengeti Migrat",
+      "ns Visited KenyaLake ManyaraMasai MaraNgorongoro CraterSerengeti From $12,500 to $16,880 pps Good Value Year-Round Migration & ",
+      "KenyaLake ManyaraMasai MaraNgorongoro CraterSerengeti From $12,500 to $16,880 pps Good Value Year-Round Migration & Safari 10 d",
+      "tions Visited ArushaKenyaLake ManyaraMasai MaraNgorongoro Crater From $16,100 to $17,000 pps Family Cape Town, Kruger & Victori",
+      "ed ArushaKenyaLake ManyaraMasai MaraNgorongoro Crater From $16,100 to $17,000 pps Family Cape Town, Kruger & Victoria Falls 10 ",
+      ". Destinations Visited Cape TownKruger National ParkSouth Africa From $7,700 to $13,080 pps Botswana's Delta, Moremi & Savute ",
+      "ions Visited Cape TownKruger National ParkSouth Africa From $7,700 to $13,080 pps Botswana's Delta, Moremi & Savute 9 days High",
+      "inations Visited BotswanaChobe National ParkOkavango DeltaSavuti From $10,160 to $13,750 pps East Africa Year-Round Migration S",
+      "sited BotswanaChobe National ParkOkavango DeltaSavuti From $10,160 to $13,750 pps East Africa Year-Round Migration Safari 10 da",
+      "inations Visited ArushaKenyaMasai MaraNgorongoro CraterSerengeti From $22,660 pps Community & Wildlife Luxury Safari: Kruger & ",
+      " Visited JohannesburgKalahariSouth AfricaThornybush Game Reserve From $19,460 to $25,650 pps East Africa's Kenya, Tanzania & Ug"
+     ],
+     "trust": [
+      {
+       "match": "B Corp",
+       "text": "As part of the B Corp-certified Nawiri Group, every journey helps strengthen landscapes, support local livelihoods and p",
+       "where": "body"
+      },
+      {
+       "match": "B Corp",
+       "text": "As part of the B Corp-certified",
+       "where": "body"
+      },
+      {
+       "match": "Feefo",
+       "text": "0 Years Crafting Personalised African Safaris 0 Client Reviews at 5 Stars on Feefo 0 Globally Recognised Travel Awards W",
+       "where": "body"
+      },
+      {
+       "match": "Feefo",
+       "text": "0 Client Reviews at 5 Stars on Feefo",
+       "where": "body"
+      },
+      {
+       "match": "Feefo",
+       "text": "Client Reviews at 5 Stars on Feefo",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent Agency To Organize Our Trips",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent. They listened and responded to all my emails, requests, changes - everthing.",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent birding, game viewing and the zebra migration in the now-green Kalahari Desert.",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "bcorp_200x100",
+       "src": "Bcorp_200x100.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "logo?merchantidentifier=go2africa",
+       "where": "body"
+      },
+      {
+       "alt": "bcorp_200x100",
+       "src": "Bcorp_200x100.png",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "feefo-widget-logo.png",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "logo?merchantidentifier=go2africa",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      ". Start Here Africa's Trusted Tailor-Made Safari Specialists​ Afri",
+      "5 Stars on Feefo 0 Globally Recognised Travel Awards Won Last Year "
+     ],
+     "fonts": {
+      "loaded": [
+       "Lato",
+       "Merriweather",
+       "Poppins"
+      ],
+      "h1": "Merriweather, serif",
+      "h1Style": "48px/400 ls=normal tt=capitalize",
+      "h2": "Merriweather, serif",
+      "h2Style": "40px/400 ls=normal tt=capitalize",
+      "body": "Lato, sans-serif",
+      "bodyStyle": "16px/400 ls=normal tt=none",
+      "nav": "Lato, sans-serif",
+      "button": "Lato, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 11035052",
+       "rgb(69, 68, 66) 4856834",
+       "rgb(248, 249, 250) 2349600",
+       "rgb(245, 245, 244) 1563255",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(46, 46, 46) 1169280",
+       "rgb(33, 37, 41) 734293",
+       "rgb(63, 63, 61) 234720"
+      ],
+      "textByCount": [
+       "rgb(33, 37, 41) 129",
+       "rgb(255, 255, 255) 113",
+       "rgb(69, 68, 66) 104",
+       "rgb(125, 123, 122) 50",
+       "rgb(200, 140, 61) 16",
+       "rgb(248, 249, 250) 3"
+      ]
+     },
+     "images": {
+      "count": 66,
+      "alts": [
+       "Head out on a walking safari with Bateleur Camp.",
+       "Enjoy sundowners from your suite at Bateleur Camp.",
+       "Flamingos at Lake Manyara.",
+       "Lake Manyara Tree Lodge Bush walks.",
+       "Treehouse suite exterior at Lake Manyara Lodge.",
+       "Treehouse suite interior at Lake Manyara Lodge.",
+       "Lemala Osonjoi Lodge is nestled among lush greenery (rendered image).",
+       "Exterior at night of the Serengeti Under Canvas camp.",
+       "Unwind and relax in luxury tented suites | Kichakani Camp, An A&K Sanctuary.",
+       "Kichakani Camp tent exterior.",
+       "Incredible views over the Serengeti plains.",
+       "Wildebeest Migration herd near Kichakani Camp, an A&K Sanctuary.",
+       "Get close to the wildlife.",
+       "Game drive views in the Crater.",
+       "Ngorongoro Crater Camp tent interior.",
+       "Dine under the stars at Ngorongoro Crater Camp.",
+       "Cape Cadogan exterior.",
+       "Swimming pool | Cape Cadogan.",
+       "The penguin colonies of Boulders Beach in Cape Town.",
+       "Explore all the activities and experiences that Cape Town has to offer.",
+       "End your day off around the campfire at Lion Sands River Lodge.",
+       "Aerial view | Lion Sands River Lodge ",
+       "Exploring Kruger National Park | Lions Sands River Lodge",
+       "Exterior of Stanley & Livingstone.",
+       "Aerial view of Xugana Island Lodge.",
+       "Get on the water of Xugana Lagoon.",
+       "Sip sundowners around a campfire at Xugana Island Lodge.",
+       "Sleep in style while staying at Xugana Island Lodge.",
+       "Aerial view of Camp Moremi.",
+       "Explore Moremi Game Reserve.",
+       "Cool off from the heat with a swim in Camp Moremi's pool.",
+       "Step into style and luxury at Savute Safari Lodge.",
+       "Gibb's Farm is on the outer slopes of the Ngorongoro Crater overlooking the Grea",
+       "Swimming pool at Gibb's Farm.",
+       "Views of Lake Manyara.",
+       "Experience a live migration.",
+       "Sundowners with a view.",
+       "Sundowners with the Masaai warriors.",
+       "Wilderness Migration game drive.",
+       "Optional hot air balloon experience."
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "Season | High Summer | Average Temperature for January | 28 Celsius | 82 Fahrenh"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "4px 19",
+       "5px 12",
+       "16px 7",
+       "6px 7",
+       "0px 0px 0px 4px 3"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4938,
+    "requests": 220,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://www.go2africa.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 5304,
+    "lcpMs": 1664,
+    "perf": {
+     "ttfb": 191,
+     "domContentLoaded": 1256,
+     "perfApiTransferKB": 1082,
+     "resources": 163
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://www.go2africa.com/",
+     "title": "Go2Africa | We’ll Show You Africa",
+     "docHeight": 12868,
+     "nav": [
+      "English | USD",
+      "Safari 101",
+      "Destinations",
+      "Top Destinations",
+      "Kruger National Park",
+      "Cape Town",
+      "Victoria Falls",
+      "Okavango Delta",
+      "Serengeti",
+      "Masai Mara",
+      "View More",
+      "East Africa",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Uganda",
+      "Southern Africa",
+      "South Africa",
+      "Botswana",
+      "Zimbabwe",
+      "Zambia",
+      "Namibia",
+      "Mozambique",
+      "Malawi",
+      "Indian Ocean Islands",
+      "Seychelles",
+      "Mauritius",
+      "Zanzibar",
+      "Madagascar",
+      "Tours & Safaris",
+      "Big 5 Safaris",
+      "Family Safaris",
+      "Ready-To-Book Safaris",
+      "Hidden Gems",
+      "Honeymoon Safaris",
+      "Luxury Safaris",
+      "Malaria Free Safaris",
+      "Migration Safaris",
+      "Safari & Beach Holidays",
+      "Trips With A Purpose",
+      "Highest Impact Safaris",
+      "View All Tours & Safaris",
+      "Travel By Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "Positive Impact",
+      "Community",
+      "Ecosystems",
+      "Sustainability",
+      "About Us",
+      "Our Story",
+      "Why Travel With Us",
+      "Newsletter Signup",
+      "Meet The Team",
+      "Traveller Reviews",
+      "Go2Africa X Craghoppers",
+      "Awards & Recognition",
+      "Blog",
+      "FAQs",
+      "Contact Us",
+      "International Toll Free Numbers",
+      "ALL OTHER COUNTRIES +27-21-481-4900",
+      "Start Here",
+      "0 Wishlist"
+     ],
+     "h1": [
+      {
+       "text": "Africa's Trusted Tailor-Made Safari Specialists​",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Go2Africa - Mobile Placeholder",
+        "src": "https://www.go2africa.com/wp-content/uploads/2025/08/homepage-video-placeholder-mobile.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Start Here",
+        3
+       ],
+       [
+        "Contact Us",
+        2
+       ],
+       [
+        "Ready-To-Book Safaris",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "contact@go2africa.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "Why Book With Go2Africa",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Ready-To-Book Safaris",
+       "Contact Us",
+       "Start Here"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.go2africa.com/search",
+       "id": "",
+       "cls": "search__form position-relative",
+       "y": 1,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "search",
+         "label": "",
+         "placeholder": "Search Destinations, Tours & Safaris",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.go2africa.com/",
+       "id": "",
+       "cls": "newsletter form form--newsletter rounded-4 shadow",
+       "y": 10782,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "fname",
+         "label": "",
+         "placeholder": "First Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "",
+         "placeholder": "Email address",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://gum.criteo.com/syncframe?topUrl=www.go2africa.com&origin=onetag&ceid=7931d5dd-1208-48eb-b360-359d4f164814#{%22bundle%22:{%22identifi",
+      "https://secure.livechatinc.com/customer/action/open_chat?license_id=8045841&group=607&embedded=1&widget_version=3&unique_groups=1&organizati"
+     ],
+     "contact": {
+      "vendorHits": {
+       "livechat": "script/iframe",
+       "hubspotChat": "script/iframe",
+       "trustpilot": "mentioned-in-html",
+       "feefo": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+27-21-481-4900",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-888-360-2392",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-619-441",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "contact@go2africa.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "navigation sticky-top",
+        "pos": "sticky",
+        "top": 0,
+        "bottom": 614,
+        "h": 50,
+        "w": 390,
+        "text": "English | USD Safari 101 Destinations Top Destinations Kruger National Park Cape Town Victoria Falls"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed-container fixed-container--bottom",
+        "pos": "fixed",
+        "top": 565,
+        "bottom": 0,
+        "h": 99,
+        "w": 390,
+        "text": "Home Start Here Explore"
+       }
+      ]
+     },
+     "prices": [
+      "ays – all completely flexible and arranged to your travel needs. From $12,980 to $21,530 pps East Africa's Mara, Crater & Seren",
+      "ompletely flexible and arranged to your travel needs. From $12,980 to $21,530 pps East Africa's Mara, Crater & Serengeti Migrat",
+      "ns Visited KenyaLake ManyaraMasai MaraNgorongoro CraterSerengeti From $12,500 to $16,880 pps Good Value Year-Round Migration & ",
+      "KenyaLake ManyaraMasai MaraNgorongoro CraterSerengeti From $12,500 to $16,880 pps Good Value Year-Round Migration & Safari 10 d",
+      "tions Visited ArushaKenyaLake ManyaraMasai MaraNgorongoro Crater From $15,270 to $17,930 pps Family Cape Town, Kruger & Victori",
+      "ed ArushaKenyaLake ManyaraMasai MaraNgorongoro Crater From $15,270 to $17,930 pps Family Cape Town, Kruger & Victoria Falls 10 ",
+      ". Destinations Visited Cape TownKruger National ParkSouth Africa From $7,700 to $13,080 pps Botswana's Delta, Moremi & Savute ",
+      "ions Visited Cape TownKruger National ParkSouth Africa From $7,700 to $13,080 pps Botswana's Delta, Moremi & Savute 9 days High",
+      "inations Visited BotswanaChobe National ParkOkavango DeltaSavuti From $10,160 to $13,750 pps East Africa Year-Round Migration S",
+      "sited BotswanaChobe National ParkOkavango DeltaSavuti From $10,160 to $13,750 pps East Africa Year-Round Migration Safari Ready",
+      "inations Visited ArushaKenyaMasai MaraNgorongoro CraterSerengeti From $23,765 to $25,610 pps Community & Wildlife Luxury Safari",
+      "sited ArushaKenyaMasai MaraNgorongoro CraterSerengeti From $23,765 to $25,610 pps Community & Wildlife Luxury Safari: Kruger & "
+     ],
+     "trust": [
+      {
+       "match": "B Corp",
+       "text": "As part of the B Corp-certified Nawiri Group, every journey helps strengthen landscapes, support local livelihoods and p",
+       "where": "body"
+      },
+      {
+       "match": "B Corp",
+       "text": "As part of the B Corp-certified",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent Agency To Organize Our Trips",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "The Ultimate East African Tri-Nation Exp ... Excellent. They listened and responded to all my emails, requests, changes ",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "The Ultimate East African Tri-Nation Exp ... Excellent. They listened and responded to all my emails, requests, changes ",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "The Ultimate East African Tri-Nation Exp ... Excellent. They listened and responded to all my emails, requests, changes ",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent. They listened and responded to all my emails, requests, changes - everthing.",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent birding, game viewing and the zebra migration in the now-green Kalahari Desert.",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Go2Africa Logo",
+       "src": "logo-white.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "bcorp_200x100",
+       "src": "Bcorp_200x100.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "logo?merchantidentifier=go2africa",
+       "where": "body"
+      },
+      {
+       "alt": "bcorp_200x100",
+       "src": "Bcorp_200x100.png",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "logo?merchantidentifier=go2africa",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      "4900 Start Here Home Start Here Explore Your Greatest Adventure Is Wa",
+      ". Start Here Africa's Trusted Tailor-Made Safari Specialists​ Afri"
+     ],
+     "fonts": {
+      "loaded": [
+       "Lato",
+       "Merriweather",
+       "Poppins"
+      ],
+      "h1": "Merriweather, serif",
+      "h1Style": "40px/400 ls=normal tt=capitalize",
+      "h2": "Merriweather, serif",
+      "h2Style": "32px/400 ls=normal tt=capitalize",
+      "body": "Lato, sans-serif",
+      "bodyStyle": "18px/400 ls=normal tt=capitalize",
+      "nav": "Lato, sans-serif",
+      "button": "Lato, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 3823255",
+       "rgb(69, 68, 66) 1444656",
+       "rgb(248, 249, 250) 1153440",
+       "rgb(245, 245, 244) 447562",
+       "rgb(33, 37, 41) 273000",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(46, 46, 46) 239460",
+       "rgb(63, 63, 61) 147030"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 172",
+       "rgb(69, 68, 66) 78",
+       "rgb(33, 37, 41) 60",
+       "rgb(125, 123, 122) 50",
+       "rgb(200, 140, 61) 11",
+       "rgb(20, 20, 20) 4"
+      ]
+     },
+     "images": {
+      "count": 59,
+      "alts": [
+       "Go2Africa - Mobile Placeholder",
+       "Head out on a walking safari with Bateleur Camp.",
+       "Enjoy sundowners from your suite at Bateleur Camp.",
+       "Flamingos at Lake Manyara.",
+       "Lake Manyara Tree Lodge Bush walks.",
+       "Treehouse suite exterior at Lake Manyara Lodge.",
+       "Treehouse suite interior at Lake Manyara Lodge.",
+       "Lemala Osonjoi Lodge is nestled among lush greenery (rendered image).",
+       "Exterior at night of the Serengeti Under Canvas camp.",
+       "Unwind and relax in luxury tented suites | Kichakani Camp, An A&K Sanctuary.",
+       "Kichakani Camp tent exterior.",
+       "Incredible views over the Serengeti plains.",
+       "Wildebeest Migration herd near Kichakani Camp, an A&K Sanctuary.",
+       "Get close to the wildlife.",
+       "Game drive views in the Crater.",
+       "Ngorongoro Crater Camp tent interior.",
+       "Dine under the stars at Ngorongoro Crater Camp.",
+       "Cape Cadogan exterior.",
+       "Swimming pool | Cape Cadogan.",
+       "The penguin colonies of Boulders Beach in Cape Town.",
+       "Explore all the activities and experiences that Cape Town has to offer.",
+       "End your day off around the campfire at Lion Sands River Lodge.",
+       "Aerial view | Lion Sands River Lodge ",
+       "Exploring Kruger National Park | Lions Sands River Lodge",
+       "Exterior of Stanley & Livingstone.",
+       "Aerial view of Xugana Island Lodge.",
+       "Get on the water of Xugana Lagoon.",
+       "Sip sundowners around a campfire at Xugana Island Lodge.",
+       "Sleep in style while staying at Xugana Island Lodge.",
+       "Aerial view of Camp Moremi.",
+       "Explore Moremi Game Reserve.",
+       "Cool off from the heat with a swim in Camp Moremi's pool.",
+       "Step into style and luxury at Savute Safari Lodge.",
+       "Gibb's Farm is on the outer slopes of the Ngorongoro Crater overlooking the Grea",
+       "Swimming pool at Gibb's Farm.",
+       "Views of Lake Manyara.",
+       "Experience a live migration.",
+       "Sundowners with a view.",
+       "Sundowners with the Masaai warriors.",
+       "Wilderness Migration game drive."
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "Season | High Summer | Average Temperature for January | 28 Celsius | 82 Fahrenh"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "4px 19",
+       "5px 12",
+       "16px 7",
+       "6px 7",
+       "0px 0px 0px 4px 3"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6249,
+    "requests": 251,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://www.go2africa.com/tours-safaris/tanzania-classic-northern-circuit",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 5926,
+    "lcpMs": 912,
+    "perf": {
+     "ttfb": 150,
+     "domContentLoaded": 1616,
+     "perfApiTransferKB": 1708,
+     "resources": 223
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://www.go2africa.com/tours-safaris/tanzania-classic-northern-circuit",
+     "title": "Tanzania Classic Northern Circuit | Go2Africa",
+     "docHeight": 9107,
+     "nav": [
+      "Safari 101",
+      "Destinations",
+      "Kruger National Park",
+      "Cape Town",
+      "Victoria Falls",
+      "Okavango Delta",
+      "Serengeti",
+      "Masai Mara",
+      "View More",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Uganda",
+      "South Africa",
+      "Botswana",
+      "Zimbabwe",
+      "Zambia",
+      "Namibia",
+      "Mozambique",
+      "Malawi",
+      "Seychelles",
+      "Mauritius",
+      "Zanzibar",
+      "Madagascar",
+      "Tours & Safaris",
+      "Big 5 Safaris",
+      "Family Safaris",
+      "Ready-To-Book Safaris",
+      "Hidden Gems",
+      "Honeymoon Safaris",
+      "Luxury Safaris",
+      "Malaria Free Safaris",
+      "Migration Safaris",
+      "Safari & Beach Holidays",
+      "Trips With A Purpose",
+      "Highest Impact Safaris",
+      "View All Tours & Safaris",
+      "Travel by Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "Positive Impact",
+      "Community",
+      "Ecosystems",
+      "Sustainability",
+      "About Us",
+      "Our Story",
+      "Why Travel With Us",
+      "Newsletter Signup",
+      "Meet the Team",
+      "Traveller Reviews",
+      "Go2Africa x Craghoppers",
+      "Awards & Recognition"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Classic Northern Circuit",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Banner-Olivers-Game",
+        "src": "https://www.go2africa.com/wp-content/uploads/2020/07/Banner-Olivers-Game-1920x630.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact Us",
+        2
+       ],
+       [
+        "Enquire Now",
+        2
+       ],
+       [
+        "Start Here",
+        1
+       ],
+       [
+        "Ready-To-Book Safaris",
+        1
+       ],
+       [
+        "contact@go2africa.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "Why Book With Go2Africa",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Contact Us",
+       "Start Here",
+       "Ready-To-Book Safaris",
+       "Enquire Now"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.go2africa.com/search",
+       "id": "",
+       "cls": "search__form position-relative",
+       "y": 8,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "search",
+         "label": "",
+         "placeholder": "Search Destinations, Tours & Safaris",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.go2africa.com/tours-safaris/tanzania-classic-northern-circuit",
+       "id": "",
+       "cls": "newsletter form form--newsletter rounded-4 shadow",
+       "y": 7759,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "fname",
+         "label": "",
+         "placeholder": "First Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "",
+         "placeholder": "Email address",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://gum.criteo.com/syncframe?topUrl=www.go2africa.com&origin=onetag&ceid=c20556fc-95e1-477a-8aec-60a7d2f602ff#{%22bundle%22:{%22identifi",
+      "https://secure.livechatinc.com/customer/action/open_chat?license_id=8045841&group=607&embedded=1&widget_version=3&unique_groups=1&organizati"
+     ],
+     "contact": {
+      "vendorHits": {
+       "livechat": "script/iframe",
+       "hubspotChat": "script/iframe",
+       "feefo": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "+27-21-481-4900",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-888-360-2392",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-619-441",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "contact@go2africa.com"
+      ],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "navigation sticky-top",
+        "pos": "sticky",
+        "top": 0,
+        "bottom": 847,
+        "h": 53,
+        "w": 1440,
+        "text": "English | USD 1-866-438-8677 1-866-438-8677 +27-21-481-4900 1-888-360-2392 1-800-619-441 0800-404-94"
+       },
+       {
+        "tag": "span",
+        "id": "C1ED565A-00D5-460C-B86C-94F199E13D1C",
+        "cls": "",
+        "pos": "fixed",
+        "top": 2373,
+        "bottom": -1474,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      " x Craghoppers Awards & Recognition Tanzania Classic Northern Circuit $9,380 - $14,720 Per Person Sharing Home Tours & Safaris",
+      "ppers Awards & Recognition Tanzania Classic Northern Circuit $9,380 - $14,720 Per Person Sharing Home Tours & Safaris Tanzania ",
+      "Customise This Sample Itinerary To Make Your Dream Safari At A Glance $9,380 - $14,720 Per Person Sharing Destinations Ngorong",
+      " This Sample Itinerary To Make Your Dream Safari At A Glance $9,380 - $14,720 Per Person Sharing Destinations Ngorongoro Crater",
+      " For Unforgettable Experiences English | USD 1 Jan 2027 - 14 Jan 2027 $13,290 16 May 2026 - 31 May 2027 $9,380 1 Jun 2027 - 30 ",
+      "lish | USD 1 Jan 2027 - 14 Jan 2027 $13,290 16 May 2026 - 31 May 2027 $9,380 1 Jun 2027 - 30 Jun 2027 $14,690 1 Jul 2027 - 30 ",
+      "027 $13,290 16 May 2026 - 31 May 2027 $9,380 1 Jun 2027 - 30 Jun 2027 $14,690 1 Jul 2027 - 30 Sep 2028 $14,720 1 Oct 2027 - 31 ",
+      "2027 $9,380 1 Jun 2027 - 30 Jun 2027 $14,690 1 Jul 2027 - 30 Sep 2028 $14,720 1 Oct 2027 - 31 Oct 2027 $13,080 1 Nov 2027 - 30 ",
+      "027 $14,690 1 Jul 2027 - 30 Sep 2028 $14,720 1 Oct 2027 - 31 Oct 2027 $13,080 1 Nov 2027 - 30 Nov 2027 $12,030 1 Dec 2027 - 31 ",
+      "028 $14,720 1 Oct 2027 - 31 Oct 2027 $13,080 1 Nov 2027 - 30 Nov 2027 $12,030 1 Dec 2027 - 31 Dec 2027 $14,690 Enquire Now Our ",
+      "027 $13,080 1 Nov 2027 - 30 Nov 2027 $12,030 1 Dec 2027 - 31 Dec 2027 $14,690 Enquire Now Our Rates Are Per Person Sharing Unle"
+     ],
+     "trust": [
+      {
+       "match": "Excellent",
+       "text": "\"Excellent\" CJ Connie Jack traveler Arusha Coffee Lodge was just lovely. Wish we had more time there. Read more reviews",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "\"Excellent\"",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent year-round game viewing",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent Agency To Organize Our Trips",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent. They listened and responded to all my emails, requests, changes - everthing.",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Feefo logo",
+       "src": "feefo-widget-logo.png",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "logo?merchantidentifier=go2africa",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Lato",
+       "Merriweather",
+       "Poppins"
+      ],
+      "h1": "Merriweather, serif",
+      "h1Style": "48px/400 ls=normal tt=capitalize",
+      "h2": "Merriweather, serif",
+      "h2Style": "40px/400 ls=normal tt=capitalize",
+      "body": "Lato, sans-serif",
+      "bodyStyle": "32px/700 ls=normal tt=none",
+      "nav": "Lato, sans-serif",
+      "button": "Lato, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 8689183",
+       "rgb(69, 68, 66) 3479749",
+       "rgb(248, 249, 250) 2349600",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(33, 37, 41) 1023731",
+       "rgb(250, 250, 250) 898144",
+       "rgb(236, 236, 236) 795696",
+       "rgb(229, 227, 223) 748800"
+      ],
+      "textByCount": [
+       "rgb(33, 37, 41) 154",
+       "rgb(255, 255, 255) 102",
+       "rgb(69, 68, 66) 89",
+       "rgb(125, 123, 122) 29",
+       "rgb(200, 140, 61) 7",
+       "rgb(0, 0, 0) 4"
+      ]
+     },
+     "images": {
+      "count": 67,
+      "alts": [
+       "Banner-Olivers-Game",
+       "Spend evenings in luxury at Arusha Coffee Lodge.",
+       "arusha_coffee_lodge_-_coffee_galore",
+       "elewana-arusha-coffee-lodge_1-2",
+       "Accommodation dotted around the lush grounds.",
+       "Enjoy a pre or post dinner drink at the firepit.",
+       "The Plantation Room interior. ",
+       "Indulge in a massage to relax before or after a long flight. ",
+       "elewana-arusha-coffee-lodge_1-4",
+       "The elegant Plantation Suite interior complete with a lounge and cozy fireplace.",
+       "Visit Shanga, where local entrepreneurs create crafts including weaving, beading",
+       "Arusha Coffee Lodge offers an a la carte menu.",
+       "The warm and welcoming main lodge area of Arusha Coffee Lodge.",
+       "oliver-s-game-drive-with-elephants-3",
+       "Find serenity in the wilds of Africa | Oliver's Camp",
+       "oliver-s-camp-exterior-with-campfire-and-seating",
+       "Only 10 tents available.",
+       "Share stories of animal sightings and get to know your hosts.",
+       "Game drive with passionate guides. ",
+       "Lounge area and interleading deck with view.",
+       "Sunset cocktails on the deck.",
+       "Big 5 Elephants spotted on a walking safari very close to camp.",
+       "the-highlands-bedroom-view",
+       "the-highlands-lounge-dome-interior-2",
+       "The Highlands Starry dome at night.",
+       "On the slopes of the extinct Olmoti volcano.",
+       "Incredible setting on Olmoti Crater.",
+       "The lounge is ideal to spend the evenings relaxing.",
+       "Enjoy a stunning view from the bath.",
+       "Breakfast on the deck.",
+       "Superb views from your bedroom.",
+       "Each suite has an en suite bathroom.",
+       "The finest bed linen and soft furnishings.",
+       "Take a walk in the wild.",
+       "Exhilarating game drives.",
+       "dunia-bush-breakfast-in-the-serengeti",
+       "Passionate guides will lead you through Africa. ",
+       "dunia-view-from-the-lounge-area",
+       "Dunia Camp tent exterior at sunrise. ",
+       "Spot the herds of the Great Migration in season."
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 8,
+      "dotEx": [
+       "Day 1: Arrive in Tanzania\n                   | 1 Nights",
+       "Arusha Coffee Lodge | Arusha, Tanzania",
+       "Days 2-3: The Safari Begins in Tarangire\n                   | 2 Nights",
+       "Oliver's Camp | Tarangire, Tanzania"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "4px 62",
+       "8px 47",
+       "5px 12",
+       "10px 4",
+       "16px 1"
+      ],
+      "animAttrs": 1,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6446,
+    "requests": 284,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://www.go2africa.com/tours-safaris/tanzania-classic-northern-circuit",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 5752,
+    "lcpMs": 1072,
+    "perf": {
+     "ttfb": 130,
+     "domContentLoaded": 1544,
+     "perfApiTransferKB": 1524,
+     "resources": 198
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://www.go2africa.com/tours-safaris/tanzania-classic-northern-circuit",
+     "title": "Tanzania Classic Northern Circuit | Go2Africa",
+     "docHeight": 13767,
+     "nav": [
+      "English | USD",
+      "Safari 101",
+      "Destinations",
+      "Top Destinations",
+      "Kruger National Park",
+      "Cape Town",
+      "Victoria Falls",
+      "Okavango Delta",
+      "Serengeti",
+      "Masai Mara",
+      "View More",
+      "East Africa",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Uganda",
+      "Southern Africa",
+      "South Africa",
+      "Botswana",
+      "Zimbabwe",
+      "Zambia",
+      "Namibia",
+      "Mozambique",
+      "Malawi",
+      "Indian Ocean Islands",
+      "Seychelles",
+      "Mauritius",
+      "Zanzibar",
+      "Madagascar",
+      "Tours & Safaris",
+      "Big 5 Safaris",
+      "Family Safaris",
+      "Ready-To-Book Safaris",
+      "Hidden Gems",
+      "Honeymoon Safaris",
+      "Luxury Safaris",
+      "Malaria Free Safaris",
+      "Migration Safaris",
+      "Safari & Beach Holidays",
+      "Trips With A Purpose",
+      "Highest Impact Safaris",
+      "View All Tours & Safaris",
+      "Travel By Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "Positive Impact",
+      "Community",
+      "Ecosystems",
+      "Sustainability",
+      "About Us",
+      "Our Story",
+      "Why Travel With Us",
+      "Newsletter Signup",
+      "Meet The Team",
+      "Traveller Reviews",
+      "Go2Africa X Craghoppers",
+      "Awards & Recognition",
+      "Blog",
+      "FAQs",
+      "Contact Us",
+      "International Toll Free Numbers",
+      "ALL OTHER COUNTRIES +27-21-481-4900",
+      "Start Here",
+      "0 Wishlist"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Classic Northern Circuit",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Banner-Olivers-Game",
+        "src": "https://www.go2africa.com/wp-content/uploads/2020/07/Banner-Olivers-Game-768x768.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact Us",
+        2
+       ],
+       [
+        "Start Here",
+        2
+       ],
+       [
+        "Ready-To-Book Safaris",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "contact@go2africa.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "Why Book With Go2Africa",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Ready-To-Book Safaris",
+       "Contact Us",
+       "Start Here"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.go2africa.com/search",
+       "id": "",
+       "cls": "search__form position-relative",
+       "y": 2,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "search",
+         "name": "search",
+         "label": "",
+         "placeholder": "Search Destinations, Tours & Safaris",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.go2africa.com/tours-safaris/tanzania-classic-northern-circuit",
+       "id": "",
+       "cls": "newsletter form form--newsletter rounded-4 shadow",
+       "y": 11580,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "fname",
+         "label": "",
+         "placeholder": "First Name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "",
+         "placeholder": "Email address",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://gum.criteo.com/syncframe?topUrl=www.go2africa.com&origin=onetag&ceid=cab1d5d0-0485-4323-aca8-95133e816ce7#{%22bundle%22:{%22identifi",
+      "https://secure.livechatinc.com/customer/action/open_chat?license_id=8045841&group=607&embedded=1&widget_version=3&unique_groups=1&organizati"
+     ],
+     "contact": {
+      "vendorHits": {
+       "livechat": "script/iframe",
+       "hubspotChat": "script/iframe",
+       "feefo": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-866-438-8677",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+27-21-481-4900",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-888-360-2392",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-619-441",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "contact@go2africa.com"
+      ],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "navigation sticky-top",
+        "pos": "sticky",
+        "top": 0,
+        "bottom": 614,
+        "h": 50,
+        "w": 390,
+        "text": "English | USD Safari 101 Destinations Top Destinations Kruger National Park Cape Town Victoria Falls"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed-container fixed-container--bottom",
+        "pos": "fixed",
+        "top": 573,
+        "bottom": 0,
+        "h": 91,
+        "w": 390,
+        "text": "Home Start Here Explore"
+       },
+       {
+        "tag": "span",
+        "id": "4512C040-11CB-4746-B61A-488BCA90EDCA",
+        "cls": "",
+        "pos": "fixed",
+        "top": 3893,
+        "bottom": -3230,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      " Start Here Home Start Here Explore Tanzania Classic Northern Circuit $9,380 - $14,720 Per Person Sharing Home Tours & Safaris",
+      "re Home Start Here Explore Tanzania Classic Northern Circuit $9,380 - $14,720 Per Person Sharing Home Tours & Safaris Tanzania ",
+      "Customise This Sample Itinerary To Make Your Dream Safari At A Glance $9,380 - $14,720 Per Person Sharing Destinations Ngorong",
+      " This Sample Itinerary To Make Your Dream Safari At A Glance $9,380 - $14,720 Per Person Sharing Destinations Ngorongoro Crater",
+      " For Unforgettable Experiences English | USD 1 Jan 2027 - 14 Jan 2027 $13,290 16 May 2026 - 31 May 2027 $9,380 1 Jun 2027 - 30 ",
+      "lish | USD 1 Jan 2027 - 14 Jan 2027 $13,290 16 May 2026 - 31 May 2027 $9,380 1 Jun 2027 - 30 Jun 2027 $14,690 1 Jul 2027 - 30 ",
+      "027 $13,290 16 May 2026 - 31 May 2027 $9,380 1 Jun 2027 - 30 Jun 2027 $14,690 1 Jul 2027 - 30 Sep 2028 $14,720 1 Oct 2027 - 31 ",
+      "2027 $9,380 1 Jun 2027 - 30 Jun 2027 $14,690 1 Jul 2027 - 30 Sep 2028 $14,720 1 Oct 2027 - 31 Oct 2027 $13,080 1 Nov 2027 - 30 ",
+      "027 $14,690 1 Jul 2027 - 30 Sep 2028 $14,720 1 Oct 2027 - 31 Oct 2027 $13,080 1 Nov 2027 - 30 Nov 2027 $12,030 1 Dec 2027 - 31 ",
+      "028 $14,720 1 Oct 2027 - 31 Oct 2027 $13,080 1 Nov 2027 - 30 Nov 2027 $12,030 1 Dec 2027 - 31 Dec 2027 $14,690 Enquire Now Our ",
+      "027 $13,080 1 Nov 2027 - 30 Nov 2027 $12,030 1 Dec 2027 - 31 Dec 2027 $14,690 Enquire Now Our Rates Are Per Person Sharing Unle"
+     ],
+     "trust": [
+      {
+       "match": "Excellent",
+       "text": "\"Excellent\" CJ Connie Jack Arusha Coffee Lodge was just lovely. Wish we had more time there. Read more reviews",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "\"Excellent\"",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent year-round game viewing",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent Agency To Organize Our Trips",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "The Ultimate East African Tri-Nation Exp ... Excellent. They listened and responded to all my emails, requests, changes ",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "The Ultimate East African Tri-Nation Exp ... Excellent. They listened and responded to all my emails, requests, changes ",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "The Ultimate East African Tri-Nation Exp ... Excellent. They listened and responded to all my emails, requests, changes ",
+       "where": "body"
+      },
+      {
+       "match": "Excellent",
+       "text": "Excellent. They listened and responded to all my emails, requests, changes - everthing.",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Go2Africa Logo",
+       "src": "logo-white.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "feefo-widget-logo.png",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo logo",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "feefo-star-icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      },
+      {
+       "alt": "Feefo Widget star",
+       "src": "svg%3E",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      "4900 Start Here Home Start Here Explore Tanzania Classic Northern Cir"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Lato",
+       "Merriweather",
+       "Poppins"
+      ],
+      "h1": "Merriweather, serif",
+      "h1Style": "32px/400 ls=normal tt=capitalize",
+      "h2": "Merriweather, serif",
+      "h2Style": "32px/400 ls=normal tt=capitalize",
+      "body": "Lato, sans-serif",
+      "bodyStyle": "18px/400 ls=normal tt=capitalize",
+      "nav": "Lato, sans-serif",
+      "button": "Lato, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 3201676",
+       "rgb(69, 68, 66) 1296912",
+       "rgb(248, 249, 250) 1153440",
+       "rgb(236, 236, 236) 600852",
+       "rgb(250, 250, 250) 339318",
+       "rgb(33, 37, 41) 273000",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(229, 227, 223) 202800"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 165",
+       "rgb(33, 37, 41) 92",
+       "rgb(69, 68, 66) 78",
+       "rgb(125, 123, 122) 29",
+       "rgb(200, 140, 61) 7",
+       "rgb(0, 0, 0) 4"
+      ]
+     },
+     "images": {
+      "count": 56,
+      "alts": [
+       "Banner-Olivers-Game",
+       "Spend evenings in luxury at Arusha Coffee Lodge.",
+       "arusha_coffee_lodge_-_coffee_galore",
+       "elewana-arusha-coffee-lodge_1-2",
+       "Accommodation dotted around the lush grounds.",
+       "Enjoy a pre or post dinner drink at the firepit.",
+       "The Plantation Room interior. ",
+       "Indulge in a massage to relax before or after a long flight. ",
+       "elewana-arusha-coffee-lodge_1-4",
+       "The elegant Plantation Suite interior complete with a lounge and cozy fireplace.",
+       "Visit Shanga, where local entrepreneurs create crafts including weaving, beading",
+       "Arusha Coffee Lodge offers an a la carte menu.",
+       "The warm and welcoming main lodge area of Arusha Coffee Lodge.",
+       "oliver-s-game-drive-with-elephants-3",
+       "Find serenity in the wilds of Africa | Oliver's Camp",
+       "oliver-s-camp-exterior-with-campfire-and-seating",
+       "Only 10 tents available.",
+       "Share stories of animal sightings and get to know your hosts.",
+       "Game drive with passionate guides. ",
+       "Lounge area and interleading deck with view.",
+       "Sunset cocktails on the deck.",
+       "Big 5 Elephants spotted on a walking safari very close to camp.",
+       "the-highlands-bedroom-view",
+       "the-highlands-lounge-dome-interior-2",
+       "The Highlands Starry dome at night.",
+       "On the slopes of the extinct Olmoti volcano.",
+       "Incredible setting on Olmoti Crater.",
+       "The lounge is ideal to spend the evenings relaxing.",
+       "Enjoy a stunning view from the bath.",
+       "Breakfast on the deck.",
+       "Superb views from your bedroom.",
+       "Each suite has an en suite bathroom.",
+       "The finest bed linen and soft furnishings.",
+       "Take a walk in the wild.",
+       "Exhilarating game drives.",
+       "dunia-bush-breakfast-in-the-serengeti",
+       "Passionate guides will lead you through Africa. ",
+       "dunia-view-from-the-lounge-area",
+       "Dunia Camp tent exterior at sunrise. ",
+       "Spot the herds of the Great Migration in season."
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 8,
+      "dotEx": [
+       "Day 1: Arrive in Tanzania\n                   | 1 Nights",
+       "Arusha Coffee Lodge | Arusha, Tanzania",
+       "Days 2-3: The Safari Begins in Tarangire\n                   | 2 Nights",
+       "Oliver's Camp | Tarangire, Tanzania"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "4px 62",
+       "8px 47",
+       "5px 12",
+       "10px 4",
+       "16px 1"
+      ],
+      "animAttrs": 1,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6790,
+    "requests": 335,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://www.go2africa.com/enquire-now",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 3203,
+    "lcpMs": 1304,
+    "perf": {
+     "ttfb": 186,
+     "domContentLoaded": 1286,
+     "perfApiTransferKB": 746,
+     "resources": 139
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://www.go2africa.com/enquire-now",
+     "title": "Enquire about your ideal safari",
+     "docHeight": 1064,
+     "nav": [],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [],
+      "aboveFold": []
+     },
+     "forms": [],
+     "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://gum.criteo.com/syncframe?topUrl=www.go2africa.com&origin=onetag&ceid=14e0a46c-3665-4faa-8d0d-182704b881e3#{%22bundle%22:{%22identifi"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "feefo": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Go2Africa logo",
+       "src": "logo-white.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Go2Africa logo",
+       "src": "logo-white.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Feefo_Dark_100x100_Seal",
+       "src": "Dark_100x100_Seal.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Feefo_Dark_100x100_Seal",
+       "src": "Dark_100x100_Seal.png",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Lato",
+       "Merriweather",
+       "Poppins"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": null,
+      "h2Style": null,
+      "body": "Lato, sans-serif",
+      "bodyStyle": "12px/400 ls=normal tt=none",
+      "nav": "Lato, sans-serif",
+      "button": "Lato, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 2976688",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(246, 246, 246) 87128",
+       "rgb(69, 68, 66) 78618",
+       "rgb(236, 236, 235) 6237"
+      ],
+      "textByCount": [
+       "rgb(33, 37, 41) 18",
+       "rgb(69, 68, 66) 3",
+       "rgb(255, 255, 255) 1",
+       "rgb(0, 0, 0) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "18px 5px 5px 1",
+       "6px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2889,
+    "requests": 138,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.go2africa.com/enquire-now",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3396,
+    "lcpMs": 1520,
+    "perf": {
+     "ttfb": 227,
+     "domContentLoaded": 1517,
+     "perfApiTransferKB": 747,
+     "resources": 147
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://www.go2africa.com/enquire-now",
+     "title": "Enquire about your ideal safari",
+     "docHeight": 2146,
+     "nav": [],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [],
+      "aboveFold": []
+     },
+     "forms": [],
+     "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://gum.criteo.com/syncframe?topUrl=www.go2africa.com&origin=onetag&ceid=ee72f600-2352-4906-9c55-f518b2729b60#{%22bundle%22:{%22identifi"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "feefo": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Go2Africa logo",
+       "src": "logo-white.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Go2Africa logo",
+       "src": "logo-white.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Feefo_Dark_100x100_Seal",
+       "src": "Dark_100x100_Seal.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Feefo_Dark_100x100_Seal",
+       "src": "Dark_100x100_Seal.png",
+       "where": "bottom"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Lato",
+       "Merriweather",
+       "Poppins"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": null,
+      "h2Style": null,
+      "body": "Lato, sans-serif",
+      "bodyStyle": "14px/400 ls=normal tt=none",
+      "nav": "Lato, sans-serif",
+      "button": "Lato, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 1611497",
+       "rgb(245, 245, 245) 532574",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(69, 68, 66) 30044",
+       "rgb(236, 236, 235) 1935"
+      ],
+      "textByCount": [
+       "rgb(69, 68, 66) 19",
+       "rgb(255, 255, 255) 3",
+       "rgb(33, 37, 41) 2",
+       "rgb(0, 0, 0) 1"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": [
+       "Footer shape"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "5px 3",
+       "6px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3037,
+    "requests": 155,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:34:38.134Z"
+}
