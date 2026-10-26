@@ -1,0 +1,8 @@
+---
+import TripPage from '../../components/TripPage.astro';
+import { published } from '../../lib/content';
+export function getStaticPaths() {
+  return published.filter((t) => t.style !== 'kilimanjaro').map((trip) => ({ params: { id: trip.id }, props: { trip } }));
+}
+---
+<TripPage trip={Astro.props.trip} />

@@ -1,0 +1,30 @@
+---
+import { Picture } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import Enquiry from '../../components/Enquiry.astro';
+import { published, tripPath, tripLabel, usd } from '../../lib/content';
+import { photo } from '../../lib/photos';
+import { TRIP_HERO } from '../../lib/art';
+const list = [...published].sort((a, b) => a.duration_days - b.duration_days || a.title.localeCompare(b.title));
+---
+<Base title="Safaris" description="Tailor-made safaris and Kilimanjaro climbs, with prices and day-by-day routes." solidHeader>
+  <section class="section">
+    <div class="wrap stack" style="gap:48px">
+      <div class="stack measure">
+        <h1 class="display-l">Our safaris</h1>
+        <p class="lead">Each of these is a starting point with a real route and a real price. Johari will change the lodges, pace and length to suit you.</p>
+      </div>
+      <div class="tripgrid">
+        {list.map((t) => { const p = photo(TRIP_HERO[t.id]); return (
+          <a class="tripcard" href={tripPath(t)}>
+            <Picture src={p.img} alt={p.alt} widths={[400, 700, 1000]} sizes="(max-width: 700px) 100vw, 33vw" formats={['avif', 'webp']} />
+            <p class="label">{tripLabel(t)}</p>
+            <h3>{t.title}</h3>
+            <p><span class="price">From {usd(t.price.from)}</span> <span class="label">per person</span></p>
+          </a>
+        ); })}
+      </div>
+    </div>
+  </section>
+  <Enquiry />
+</Base>

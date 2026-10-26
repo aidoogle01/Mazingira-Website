@@ -27,5 +27,13 @@ These values came from placeholder answers, not from Mazingira. Replace them bef
 | Q14 | `reviews.json` | `aggregate.0.count` | 120 |
 | Q14 | `reviews.json` | `aggregate.1.checked` | "client placeholder answer" |
 | Q19 | `site.json` | `languages` | ["en"] |
+| C-summaries | `trips/family-wilderness-adventure.json` | `summary` | "Seven days for families: Tarangire, Lake Manyara with a visit to a Maasai boma, two night |
+| C-summaries | `trips/great-migration-river-crossing.json` | `summary` | "Seven days following the herds north: Tarangire, the central Serengeti, two nights at Mar |
+| C-summaries | `trips/honeymoon-safari-and-zanzibar.json` | `summary` | "Twelve days for two: Tarangire, a balloon flight over the Serengeti from the Four Seasons |
+| C-summaries | `trips/savannah-to-shore.json` | `summary` | "Nine days: Tarangire, the Ngorongoro Crater and two nights at Kubu Kubu in the central Se |
+| C-summaries | `trips/serengeti-romantic-escape.json` | `summary` | "Five days for two: Lake Manyara, a night in the Serengeti and a day in the Ngorongoro Cra |
+| C-summaries | `trips/serengeti-under-the-stars.json` | `summary` | "Seven days camping: Tarangire, two nights at Nyani campsite in the central Serengeti, a g |
+| C-summaries | `trips/wildlife-photography-safari.json` | `summary` | "Eight days for photographers: Tarangire, Lake Manyara, Ndutu on the southern plains, two  |
+| C-summaries | `trips/winged-wonders-birding.json` | `summary` | "Seven days for birders, best November to April: Arusha National Park, Lake Manyara, the s |
 
-24 of 25 answers are placeholders.
+25 of 26 answers are placeholders.

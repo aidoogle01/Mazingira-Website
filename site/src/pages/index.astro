@@ -1,0 +1,128 @@
+---
+import { Picture } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import Enquiry from '../components/Enquiry.astro';
+import RouteMap from '../components/RouteMap.astro';
+import { tripById, tripPath, tripLabel, usd, site, reviews, person, published } from '../lib/content';
+import { photo, teamPhoto } from '../lib/photos';
+import { HOME_TRIPS, TRIP_HERO } from '../lib/art';
+
+const hero = teamPhoto('team', 'The Mazingira team in khaki uniforms on and around two branded Land Cruisers')!;
+const jacob = person('jacob-s-kereiya');
+const jacobImg = teamPhoto('jacob-s-kereiya', 'Jacob S. Kereiya beside a Mazingira spare-wheel cover')!;
+const goodluck = person('goodluck-nathan');
+const goodluckImg = teamPhoto('goodluck-nathan', 'Goodluck Nathan on the roof of a Mazingira safari vehicle')!;
+const featured = HOME_TRIPS.map(tripById).filter(Boolean);
+const sb = reviews.aggregate.find((r: any) => r.source === 'SafariBookings');
+const carly = reviews.featured.find((r: any) => r.name === 'Carly A');
+const elephants = photo('1ac0ef_1aa46308');
+const migration = tripById('great-migration-river-crossing');
+const guides = published.length;
+---
+<Base title="Home" description="Tailor-made safaris in northern Tanzania and Zanzibar, planned in Arusha and guided by Mazingira's own Tanzanian guides since 2007.">
+  <section class="hero">
+    <Picture class="hero__img" src={hero.img} alt={hero.alt} widths={[640, 960, 1280, 1600, 2000]} sizes="100vw" formats={['avif', 'webp']} loading="eager" fetchpriority="high" />
+    <div class="wrap hero__content">
+      <h1>Tanzania, guided by Tanzanians.</h1>
+      <p class="hero__lead">Tailor-made safaris from Arusha since {site.founded}. You travel with our own guides, in our own vehicles, on a trip we plan around you.</p>
+      <div class="actions">
+        <a class="mz-btn mz-btn--light" href="#enquire">Plan your safari</a>
+        <a class="mz-btn mz-btn--ghost" href="/safaris">See our safaris</a>
+      </div>
+      {sb && <a class="mz-review" href={sb.url}><span class="mz-review__score">{sb.rating.toFixed(1)}</span> from {sb.count} reviews on SafariBookings</a>}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap stack" style="gap:48px">
+      <p class="statement"><em>Mazingira</em> means environment in Swahili. Our guides grew up in it, and we plan every trip ourselves, from our office in Arusha.</p>
+      <dl class="facts-row">
+        <div><dt>Planning safaris since</dt><dd>{site.founded}</dd></div>
+        <div><dt>Our guides</dt><dd>All Tanzanian, all ours</dd></div>
+        <div><dt>Member of</dt><dd>Tanzania Association of Tour Operators</dd></div>
+        <div><dt>Based in</dt><dd>Arusha, Tanzania</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0" aria-labelledby="trips-title">
+    <div class="wrap">
+      <div class="actions" style="justify-content:space-between;margin-bottom:24px">
+        <h2 id="trips-title" class="heading">Safaris we run</h2>
+        <a href="/safaris">All {published.length} safaris and climbs</a>
+      </div>
+      <div class="triprows">
+        {featured.map((t: any) => {
+          const p = photo(TRIP_HERO[t.id]);
+          return (
+            <a class="triprow" href={tripPath(t)}>
+              <Picture class="triprow__img" src={p.img} alt={p.alt} widths={[480, 800, 1200]} sizes="(max-width: 760px) 100vw, 58vw" formats={['avif', 'webp']} />
+              <div class="triprow__text">
+                <p class="label">{tripLabel(t)}</p>
+                <h3 class="triprow__title">{t.title}</h3>
+                {t.summary && <p>{t.summary}</p>}
+                <p><span class="price">From {usd(t.price.from)}</span> <span class="label">per person</span></p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  {migration?.route && (
+    <section class="band-deep section" aria-labelledby="map-title">
+      <div class="wrap routeband">
+        <RouteMap stops={migration.route} title={`Route of ${migration.title}`} />
+        <div class="stack">
+          <h2 id="map-title" class="heading">Every trip has a route you can see</h2>
+          <p style="color:var(--on-deep-muted)">This is {migration.title}: Tarangire, the central and northern Serengeti for the river crossings, and the Ngorongoro Crater on the way home. Each of our safaris shows its route, day by day, before you enquire.</p>
+          <p><a class="mz-btn mz-btn--light" href={tripPath(migration)}>See this trip</a></p>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {jacob && (
+    <section class="split" aria-labelledby="founder-title">
+      <div class="split__img"><Picture src={jacobImg.img} alt={jacobImg.alt} widths={[480, 800, 1200]} sizes="(max-width: 860px) 100vw, 50vw" formats={['avif', 'webp']} style="object-position:center 20%" /></div>
+      <div class="split__panel band-dust">
+        <p class="label">Founder</p>
+        <h2 id="founder-title" class="display-l">Jacob S. Kereiya</h2>
+        <p class="measure">Jacob guided for more than 15 years with Kibo Guide Safari, Sokwe Asilia, Nomad Tanzania and Wayo Africa before starting Mazingira.</p>
+        <p><a href="/about">Read our story</a></p>
+      </div>
+    </section>
+  )}
+
+  {goodluck && (
+    <section class="section" aria-labelledby="guide-title">
+      <div class="wrap guide">
+        <Picture src={goodluckImg.img} alt={goodluckImg.alt} widths={[480, 800, 1100]} sizes="(max-width: 760px) 100vw, 40vw" formats={['avif', 'webp']} />
+        <div class="stack">
+          <p class="label">One of our guides</p>
+          <h2 id="guide-title" class="display-l">Goodluck Nathan</h2>
+          <dl>
+            <dt>Grew up</dt><dd>On the slopes of Mount Meru, Arusha region</dd>
+            <dt>Speciality</dt><dd>Birds: identification, habits and habitats</dd>
+            <dt>Trained</dt><dd>Diploma in tourism and hospitality (2021), then a year as a game-package guide on the Mara River</dd>
+          </dl>
+          <p class="measure">Goodluck grew up with an uncle who was a tour guide and conservationist, and spent four years studying birds before guiding college. He started as a transfer guide around Arusha and Kilimanjaro before joining Mazingira full-time.</p>
+          <p><a href="/about/team">Meet all our guides</a></p>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {carly && (
+    <section class="photo-band" aria-label="What guests say">
+      <Picture src={elephants.img} alt={elephants.alt} widths={[640, 960, 1280, 1600, 2000]} sizes="100vw" formats={['avif', 'webp']} />
+      <div class="wrap photo-band__content">
+        <blockquote class="quote">“{carly.text}”</blockquote>
+        <p class="quote-by">{carly.name}</p>
+      </div>
+    </section>
+  )}
+
+  <Enquiry />
+</Base>

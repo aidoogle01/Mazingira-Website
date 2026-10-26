@@ -1,0 +1,43 @@
+---
+import { Image } from 'astro:assets';
+import logo from '../assets/logo.png';
+import { site } from '../lib/content';
+const c = site.contact;
+const fmt = (n: string) => n.replace(/^\+255(\d{3})(\d{3})(\d{3})$/, '+255 $1 $2 $3');
+---
+<footer class="site-footer">
+  <div class="wrap site-footer__grid">
+    <div class="stack">
+      <Image class="site-footer__logo" src={logo} alt="Mazingira Safari" width={160} />
+      <p>Tailor-made safaris from Arusha since {site.founded}. A member of the Tanzania Association of Tour Operators (TATO).</p>
+    </div>
+    <div>
+      <h2>Talk to us</h2>
+      <ul>
+        <li><a href={`mailto:${c.email}`}>{c.email}</a></li>
+        <li><a href={`tel:${c.phone}`}>{fmt(c.phone)}</a></li>
+        <li>{c.address.street}, {c.address.locality}, P.O. Box {c.address.po_box}</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Before you book</h2>
+      <ul>
+        <li><a href="/about/how-booking-works">How booking works</a></li>
+        <li><a href="/pay-safely">How to pay us safely</a></li>
+        <li><a href="/terms">Terms and conditions</a></li>
+        <li><a href="/privacy">Privacy and cookies</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Follow us</h2>
+      <ul>
+        <li><a href={site.social.instagram}>Instagram</a></li>
+        <li><a href={site.social.facebook}>Facebook</a></li>
+        <li><a href={site.social.tiktok}>TikTok</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap" style="margin-top:48px">
+    <p class="label" style="color:var(--on-deep-muted)">Preview build. Prices, review figures and some contact details are awaiting confirmation from Mazingira, and the enquiry form doesn't send yet.</p>
+  </div>
+</footer>

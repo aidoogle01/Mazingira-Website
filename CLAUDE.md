@@ -10,6 +10,16 @@ The rebuild of mazingirasafari.com for Mazingira Safari, a Tanzanian-owned safar
 - `audit/`: the audit of the old Wix site and the lessons in `audit/workflow-notes.md`.
 - `tools/`: the content builder, route builder and validator.
 
+## The website (`site/`)
+
+Astro 7 static site, built from `content/` and `design/system/` (nothing is copied by hand). Hosted on Vercel with the project root set to `site/`.
+
+- `cd site && npm install && npm run build` builds `site/dist/`; `npx astro dev` runs it locally.
+- Photos: `python3 tools/fetch_photos.py` downloads Mazingira's own photos into `site/src/assets/photos/` and classifies them (`photo`, `lodge`, `map-graphic`, `graphic`). Only `photo` is ever shown. Which photo leads each page is art direction in `site/src/lib/art.ts`.
+- Styles: `site/src/styles/global.css` implements the design system plus its cinematic layer; tokens come from `design/system/tokens.json` at build time.
+- Pages built so far: Home, the Safaris index and every trip (`/safaris/<id>`, `/kilimanjaro/<id>`). Everything else shows the "not built yet" page.
+- The enquiry form doesn't send yet; it says so. Connect a form service before launch.
+
 ## How to make a content change (prices, itineraries, team, pages)
 
 1. Content in `content/` is **generated** by `tools/build_content.py` from the old site's data, then overlaid with `content/_review/client-answers.json`. A hand edit to a generated file is overwritten on the next build. So:

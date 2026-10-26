@@ -3,7 +3,7 @@
   "status": "published",
   "title": "Family Wilderness Adventure 7-Day Safari",
   "style": "family",
-  "summary": "Embark on a 7-day family safari in Tanzania, exploring Arusha's lush landscapes, the iconic Serengeti, and tranquil Tarangire National Park. Tailored for families, this journey offers thrilling wildlife encounters, cultural experiences, and unforgettable adventures suitable for all ages.",
+  "summary": "Seven days for families: Tarangire, Lake Manyara with a visit to a Maasai boma, two nights in the Serengeti and a day in the Ngorongoro Crater, staying at Serena lodges.",
   "description": "Embark on an unforgettable seven-day family safari through Tanzania, crafted to captivate adventurers of all ages. From the towering baobabs of Tarangire to the shimmering waters of Lake Manyara, the journey weaves through Tanzania's most enchanting landscapes, creating memories that will last a lifetime. Witness the boundless plains of the Serengeti, teeming with incredible wildlife, and marvel at the Ngorongoro Crater, a natural wonder and cradle of diversity. This expertly curated itinerary ensures thrilling wildlife encounters, enriching cultural experiences, and the perfect blend of adventure and relaxation for the whole family. Whether you're watching elephants stroll by at sunset or spotting the Big Five with wide-eyed excitement, this safari promises a magical journey into Africa’s natural splendor.",
   "duration_days": 7,
   "best_time": {
@@ -17,7 +17,7 @@
   "locations": [
     "Arusha",
     "Tarangire",
-    "Lake manyara",
+    "Lake Manyara",
     "Serengeti",
     "Ngorongoro Crater"
   ],

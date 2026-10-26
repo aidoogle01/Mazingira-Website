@@ -1,0 +1,20 @@
+---
+import { dayLabel } from '../lib/content';
+import { md } from '../lib/md';
+const { d } = Astro.props;
+const stay = d.accommodation;
+---
+<li class="day">
+  <span class="day__n">{dayLabel(d.days)}</span>
+  <div class="day__body">
+    <h3 class="day__title">{d.title || dayLabel(d.days)}</h3>
+    <div class="prose" set:html={md(d.description)} />
+    {(stay || d.meal_plan || d.altitude) && (
+      <dl class="day__meta">
+        {stay && <><dt>Stay</dt><dd>{stay}</dd></>}
+        {d.meal_plan && <><dt>Meals</dt><dd>{d.meal_plan}</dd></>}
+        {d.altitude && <><dt>Altitude</dt><dd>{d.altitude}</dd></>}
+      </dl>
+    )}
+  </div>
+</li>

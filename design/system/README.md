@@ -47,6 +47,16 @@ Taken from Mazingira's own world: the logo's sage, the olive of its spare-wheel 
 - **One shadow** (`shadow-float`), on the floating WhatsApp button.
 - **One motion moment:** the RouteMap draws its route once, leg by leg, when it scrolls into view. Nothing else fades, slides or lifts on hover; hover underlines. Respect `prefers-reduced-motion`.
 
+## Cinematic layer (website)
+
+Benchmarked against the leading safari sites (`research/browser-pass/findings.md`), the website is cinematic in structure and restrained in detail:
+
+- **Full-bleed photographic heroes**: the team on their Land Cruisers on Home, the trip's own best photo on trip pages. Still photographs, not video: the video-led competitors moved 9–46 MB per page. Darken with a bottom-up gradient so white text reads at 4.5:1 or more.
+- **A larger display scale on heroes**: up to about 112px on desktop for the Home headline, about 72px for page titles.
+- **Rhythm from colour and image**, not boxes: full-width photo bands, a **deep** forest band (`#22261A`, text `#F1F0E6`, 14.6:1) for the route map and footer, `dust` and photo split panels for people, and `surface` only for reading.
+- **The route map is the centrepiece of every trip page**, large on the deep band, drawn in `dust`.
+- The site is light-only: the photography and the deep bands carry the contrast.
+
 ## The signature: route maps
 
 Every trip page has a **RouteMap**: a quiet drawing of northern Tanzania from real coordinates, with the trip's route in `forest` and the places it skips as faint dots, with Zanzibar shown as a dotted flight off the edge. Safari buyers think in routes, so it is useful as well as distinctive, and it is drawn from Mazingira's own itineraries rather than from a template. Use it on trip pages beside the itinerary, small on TripRows, and on park pages (with the park as the only stop). Don't decorate it.

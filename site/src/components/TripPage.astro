@@ -1,0 +1,147 @@
+---
+import { Picture } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import RouteMap from './RouteMap.astro';
+import Enquiry from './Enquiry.astro';
+import Day from './Day.astro';
+import { tripLabel, bestMonths, usd, dayLabel, days, nights, experienceById, whatsapp, reviews } from '../lib/content';
+import { md } from '../lib/md';
+import { photo, photosFor } from '../lib/photos';
+import { TRIP_HERO, TRIP_BAND } from '../lib/art';
+
+const { trip: t } = Astro.props;
+const own = photosFor(t);
+const hero = TRIP_HERO[t.id] ? photo(TRIP_HERO[t.id]) : own[0];
+const band = TRIP_BAND[t.id] ? photo(TRIP_BAND[t.id]) : own[1];
+const best = bestMonths(t);
+const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
+const SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+const sb = reviews.aggregate.find((r: any) => r.source === 'SafariBookings');
+const itin = t.itinerary;
+const mid = Math.ceil(itin.length / 2);
+const addOns = (t.add_ons ?? []).map(experienceById).filter(Boolean);
+const placeName = (s: string) => s.replace(/^fly:/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+const climb = t.style === 'kilimanjaro';
+const alts = climb ? itin.filter((d: any) => d.altitude).map((d: any) => ({ day: dayLabel(d.days), m: parseInt(String(d.altitude).replace(/\D/g, ''), 10), camp: d.accommodation || d.title })) : [];
+const maxAlt = Math.max(5895, ...alts.map((a: any) => a.m));
+const routeTitle = `Route of ${t.title}: ${(t.route ?? []).map(placeName).join(', ')}`;
+---
+<Base title={t.title} description={t.summary ?? undefined} whatsappText={`Hello Johari, I'm interested in ${t.title}.`}>
+  <section class="hero hero--band">
+    {hero && <Picture class="hero__img" src={hero.img} alt={hero.alt} widths={[640, 960, 1280, 1600, 2000]} sizes="100vw" formats={['avif', 'webp']} loading="eager" fetchpriority="high" />}
+    <div class="wrap hero__content">
+      <p class="hero__credit">{tripLabel(t)}</p>
+      <h1>{t.title}</h1>
+      {t.summary && <p class="hero__lead">{t.summary}</p>}
+      <div class="hero__meta">
+        <span><span class="price">From {usd(t.price.from)}</span> per person{t.price.basis ? `, ${t.price.basis.replace(/^prices? based on /i, '')}` : ''}</span>
+        {sb && <a class="mz-review" href={sb.url}><span class="mz-review__score">{sb.rating.toFixed(1)}</span> from {sb.count} reviews on SafariBookings</a>}
+      </div>
+      <div class="actions">
+        <a class="mz-btn mz-btn--light" href="#enquire">Enquire about this trip</a>
+        <a class="mz-btn mz-btn--ghost" href="#itinerary">See the day-by-day plan</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap stack" style="gap:48px">
+      <dl class="mz-facts">
+        <div><dt>Length</dt><dd>{days(t.duration_days)}, {nights(t.duration_days)}</dd></div>
+        {best && <div><dt>Best time to go</dt><dd>{best}</dd></div>}
+        {t.start && <div><dt>Starts</dt><dd>{t.start.replace(/^Flight into /, '')} Airport</dd></div>}
+        <div><dt>Visits</dt><dd>{t.locations.join(', ')}</dd></div>
+      </dl>
+      {t.best_time?.months?.length > 0 && (
+        <div class="stack" style="gap:12px">
+          <p class="label">When to go: best {best}</p>
+          <ol class="mz-months" aria-label={`Best months: ${best}`}>
+            {MONTHS.map((m, i) => <li class:list={{ 'is-best': t.best_time.months.includes(m) }}>{SHORT[i]}</li>)}
+          </ol>
+        </div>
+      )}
+      <div class="prose lead" set:html={md(t.description)} />
+    </div>
+  </section>
+
+  {t.route && t.route.length > 1 && (
+    <section class="band-deep section" aria-labelledby="route-title">
+      <div class="wrap routeband">
+        <RouteMap stops={t.route} title={routeTitle} />
+        <div class="stack">
+          <h2 id="route-title" class="heading">The route</h2>
+          <ol class="routelist">
+            {itin.map((d: any) => <li><span class="d">{dayLabel(d.days)}</span><span>{d.title}{d.accommodation ? `, ${d.accommodation}` : ''}</span></li>)}
+          </ol>
+        </div>
+      </div>
+    </section>
+  )}
+  {climb && alts.length > 0 && (
+    <section class="band-deep section" aria-labelledby="alt-title">
+      <div class="wrap routeband">
+        <div class="stack">
+          <h2 id="alt-title" class="heading">Camp by camp</h2>
+          <p class="measure" style="color:var(--on-deep-muted)">Altitude of each night's camp on the Machame route. Uhuru Peak, the summit, is 5,895m.</p>
+        </div>
+        <ol class="altitude" aria-label="Camp altitudes">
+          {alts.map((a: any) => <li><span>{a.day}</span><span class="bar" style={`width:${(a.m / maxAlt) * 100}%`}></span><span class="m">{a.m.toLocaleString('en-GB')}m</span></li>)}
+        </ol>
+      </div>
+    </section>
+  )}
+
+  <section id="itinerary" class="section" aria-labelledby="itin-title">
+    <div class="wrap">
+      <h2 id="itin-title" class="heading" style="margin-bottom:24px">Day by day</h2>
+      <ol class="itin">
+        {itin.slice(0, mid).map((d: any) => <Day d={d} />)}
+      </ol>
+    </div>
+  </section>
+
+  {band && (
+    <section class="photo-band" aria-label="Photograph">
+      <Picture src={band.img} alt={band.alt} widths={[640, 960, 1280, 1600, 2000]} sizes="100vw" formats={['avif', 'webp']} />
+    </section>
+  )}
+
+  {itin.length > mid && (
+    <section class="section" style="padding-top:0">
+      <div class="wrap">
+        <ol class="itin" start={mid + 1}>
+          {itin.slice(mid).map((d: any) => <Day d={d} />)}
+        </ol>
+      </div>
+    </section>
+  )}
+
+  <section class="section band-soft" aria-labelledby="price-title">
+    <div class="wrap pricing">
+      <div class="stack">
+        <h2 id="price-title" class="heading">Price</h2>
+        {t.price.tiers.length > 0 ? (
+          <table class="mz-prices">
+            <caption class="label">{t.price.note ?? 'Price per person'}</caption>
+            <thead><tr><th scope="col">Group size</th><th scope="col">Per person</th></tr></thead>
+            <tbody>{t.price.tiers.map((r: any) => <tr><td>{r.group_size.endsWith('+') ? `${r.group_size.slice(0, -1)} or more` : `${r.group_size} people`}</td><td>{usd(r.usd_per_person)}</td></tr>)}</tbody>
+          </table>
+        ) : (
+          <p class="lead">From <span class="price">{usd(t.price.from)}</span> per person.</p>
+        )}
+        <p class="measure">This is a starting point. Johari will adjust the lodges, length and pace to suit you, and confirm the exact price for your dates.</p>
+      </div>
+      <div class="lists">
+        <div><h3 style="font-size:26px">Included</h3><ul>{t.includes.map((x: string) => <li>{x}</li>)}</ul></div>
+        <div><h3 style="font-size:26px">Not included</h3><ul>{t.excludes.map((x: string) => <li>{x}</li>)}</ul></div>
+      </div>
+    </div>
+    {addOns.length > 0 && (
+      <div class="wrap" style="margin-top:48px">
+        <p class="label">You can add: {addOns.map((e: any, i: number) => <>{i > 0 && (i === addOns.length - 1 ? ' and ' : ', ')}<a href={`/experiences/${e.id}`}>{e.title.toLowerCase().replace(/^\w/, (c: string) => c.toUpperCase())}</a></>)}</p>
+      </div>
+    )}
+  </section>
+
+  <Enquiry trip={t} />
+</Base>

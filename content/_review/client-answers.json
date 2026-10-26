@@ -450,6 +450,64 @@
         }
       ],
       "status": "placeholder"
+    },
+    {
+      "id": "C-summaries",
+      "q": "Trip summaries (card and hero text). The old listing-card copy broke the voice rules (\"Embark on a thrilling safari!\", \"breathtaking\").",
+      "answer": "Draft summaries written from each itinerary (places, nights, lodges) for Mazingira to approve. No facts beyond the itinerary data.",
+      "apply": [
+        {
+          "file": "trips/family-wilderness-adventure.json",
+          "set": {
+            "summary": "Seven days for families: Tarangire, Lake Manyara with a visit to a Maasai boma, two nights in the Serengeti and a day in the Ngorongoro Crater, staying at Serena lodges."
+          }
+        },
+        {
+          "file": "trips/great-migration-river-crossing.json",
+          "set": {
+            "summary": "Seven days following the herds north: Tarangire, the central Serengeti, two nights at Mara Under Canvas in the northern Serengeti for the river crossings, and a day in the Ngorongoro Crater."
+          }
+        },
+        {
+          "file": "trips/honeymoon-safari-and-zanzibar.json",
+          "set": {
+            "summary": "Twelve days for two: Tarangire, a balloon flight over the Serengeti from the Four Seasons, a day in the Ngorongoro Crater, then five nights at Meliá Zanzibar."
+          }
+        },
+        {
+          "file": "trips/savannah-to-shore.json",
+          "set": {
+            "summary": "Nine days: Tarangire, the Ngorongoro Crater and two nights at Kubu Kubu in the central Serengeti, then a flight to Zanzibar for three nights at Essque Zalu."
+          }
+        },
+        {
+          "file": "trips/serengeti-romantic-escape.json",
+          "set": {
+            "summary": "Five days for two: Lake Manyara, a night in the Serengeti and a day in the Ngorongoro Crater, with romantic dinners at Ngaresero and Kilimamoja."
+          }
+        },
+        {
+          "file": "trips/serengeti-under-the-stars.json",
+          "set": {
+            "summary": "Seven days camping: Tarangire, two nights at Nyani campsite in the central Serengeti, a game drive at Ndutu, and a night on the Ngorongoro rim before the crater."
+          }
+        },
+        {
+          "file": "trips/wildlife-photography-safari.json",
+          "set": {
+            "summary": "Eight days for photographers: Tarangire, Lake Manyara, Ndutu on the southern plains, two nights in the central Serengeti and two days in the Ngorongoro Crater."
+          }
+        },
+        {
+          "file": "trips/winged-wonders-birding.json",
+          "set": {
+            "summary": "Seven days for birders, best November to April: Arusha National Park, Lake Manyara, the salt flats of Lake Natron, the Serengeti and the Ngorongoro Crater."
+          }
+        }
+      ],
+      "resolves": [],
+      "status": "placeholder",
+      "kind": "draft copy for client approval"
     }
   ]
 }

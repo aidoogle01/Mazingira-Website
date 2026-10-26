@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "Bougainevellia Safari Lodge",
+      "name": "Bougainvillea Safari Lodge",
       "area": null,
       "description": null,
       "url": null,
@@ -70,22 +70,14 @@
       ]
     },
     {
-      "name": "Escarpement Luxury Lodge",
-      "area": null,
-      "description": null,
-      "url": null,
-      "used_in": [
-        "honeymoon-safari-and-zanzibar",
-        "winged-wonders-birding"
-      ]
-    },
-    {
       "name": "Escarpment Luxury Lodge",
       "area": null,
       "description": null,
       "url": null,
       "used_in": [
-        "great-migration-river-crossing"
+        "great-migration-river-crossing",
+        "honeymoon-safari-and-zanzibar",
+        "winged-wonders-birding"
       ]
     },
     {

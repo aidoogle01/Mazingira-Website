@@ -1,0 +1,19 @@
+---
+import { Image } from 'astro:assets';
+import logo from '../assets/logo.png';
+const { solid = false } = Astro.props;
+---
+<header class:list={['site-header', { 'site-header--solid': solid }]}>
+  <div class="wrap site-header__bar">
+    <a class="site-header__logo" href="/" aria-label="Mazingira Safari home">
+      <Image src={logo} alt="Mazingira Safari" width={176} />
+    </a>
+    <nav aria-label="Main">
+      <a class="nav-link" href="/safaris">Safaris</a>
+      <a class="nav-link" href="/destinations">Destinations</a>
+      <a class="nav-link" href="/kilimanjaro">Kilimanjaro</a>
+      <a class="nav-link" href="/about">About us</a>
+      <a class:list={['mz-btn', solid ? '' : 'mz-btn--light']} href="#enquire">Plan your safari</a>
+    </nav>
+  </div>
+</header>

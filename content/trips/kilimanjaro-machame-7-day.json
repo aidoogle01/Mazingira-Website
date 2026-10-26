@@ -10,8 +10,12 @@
     "text": "Jan- March (Less crowded) Jun - Oct",
     "months": [
       "jan",
+      "feb",
       "mar",
       "jun",
+      "jul",
+      "aug",
+      "sep",
       "oct"
     ]
   },

@@ -1,0 +1,61 @@
+---
+// The single enquiry block: planner, short form (trip pre-selected), WhatsApp, and what happens next.
+import { published, whatsapp, site, days, person } from '../lib/content';
+interface Props { trip?: any }
+const { trip } = Astro.props;
+const johari = person('johari-msangi');
+const wa = whatsapp(trip ? `Hello Johari, I'm interested in ${trip.title}.` : 'Hello Johari, I’d like help planning a safari.');
+---
+<section id="enquire" class="band-dust section" aria-labelledby="enquire-title">
+  <div class="wrap enquire">
+    <div class="stack">
+      <h2 id="enquire-title" class="heading">{trip ? 'Plan this trip with Johari' : 'Plan your safari with Johari'}</h2>
+      <p class="measure">{johari ? `${johari.name.trim()}, our travel specialist in Arusha, replies to every enquiry personally.` : 'Our travel specialist in Arusha replies to every enquiry personally.'} Tell us roughly when and who; we'll suggest the rest.</p>
+      <ol class="steps">
+        <li><div><h3>Tell us what you'd like</h3><p>Month, who's travelling, a budget and what you want to see.</p></div></li>
+        <li><div><h3>Johari replies from Arusha</h3><p>With a first itinerary and an estimated cost per person.</p></div></li>
+        <li><div><h3>Shape it together</h3><p>Change lodges, pace and length until it's right, then we send a formal quote.</p></div></li>
+        <li><div><h3>Confirm with a {site.booking_terms.deposit_pct}% deposit</h3><p>That secures your lodges and vehicle. Bank details come only with your written quote; check them with us by phone before paying.</p></div></li>
+        <li><div><h3>Your travel pack</h3><p>About two months before you fly: transfers, contacts, health tips and what to pack.</p></div></li>
+      </ol>
+    </div>
+    <form class="mz-form" data-enquiry novalidate>
+      <div class="mz-field">
+        <label for="f-trip">Trip</label>
+        <select id="f-trip" name="trip">
+          <option value="">Not sure yet, help me choose</option>
+          {published.map((t) => <option value={t.id} selected={trip?.id === t.id}>{t.title} ({days(t.duration_days).toLowerCase()})</option>)}
+        </select>
+      </div>
+      <div class="mz-form__row">
+        <div class="mz-field"><label for="f-name">Your name</label><input id="f-name" name="name" autocomplete="name" required /></div>
+        <div class="mz-field"><label for="f-email">Email</label><input id="f-email" name="email" type="email" autocomplete="email" required /></div>
+      </div>
+      <div class="mz-form__row">
+        <div class="mz-field"><label for="f-month">Month you'd like to travel</label><input id="f-month" name="month" placeholder="e.g. August 2027" /></div>
+        <div class="mz-field"><label for="f-who">Travellers</label>
+          <select id="f-who" name="travellers"><option>2 adults</option><option>1 adult</option><option>3–4 adults</option><option>Family with children</option><option>5 or more</option></select></div>
+        <div class="mz-field"><label for="f-budget">Budget per person</label>
+          <select id="f-budget" name="budget"><option>Not sure yet</option><option>Under $3,000</option><option>$3,000 to $5,000</option><option>$5,000 to $8,000</option><option>Over $8,000</option></select></div>
+      </div>
+      <div class="mz-field"><label for="f-msg">Anything we should know?</label><textarea id="f-msg" name="message"></textarea></div>
+      <button class="mz-btn" type="submit">Send enquiry</button>
+      <p class="form-status" data-status hidden></p>
+      <div class="actions"><span class="form-note">Prefer to talk it through?</span><a class="mz-btn mz-btn--whatsapp" href={wa}>WhatsApp Johari</a></div>
+    </form>
+  </div>
+</section>
+<script>
+  // Preview only: no form service is connected yet, so say so plainly instead of pretending to send.
+  document.querySelectorAll<HTMLFormElement>('[data-enquiry]').forEach((form) => {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const email = form.querySelector<HTMLInputElement>('input[type=email]')!;
+      const status = form.querySelector<HTMLElement>('[data-status]')!;
+      status.hidden = false;
+      status.textContent = email.value.includes('@')
+        ? "This preview doesn't send enquiries yet. On the live site this goes straight to Johari."
+        : 'Enter an email address so Johari can reply.';
+    });
+  });
+</script>

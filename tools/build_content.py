@@ -31,7 +31,7 @@ TYPOS = [
     (r"\bSafari's\b", 'Safaris'), (r"\bSafari’s\b", 'Safaris'), (r"\bVisa's\b", 'Visas'), (r"\bsafari's\b", 'safaris'),
     (r'\bFWD vehicle\b', '4x4 vehicle'), (r'\bKilimajoa\b', 'Kilimamoja'), (r'\bLaver Tower\b', 'Lava Tower'),
     (r'\bKatanga (Camp|Gate)\b', r'Karanga \1'), (r'\bparK\b', 'park'), (r'\bKubukubu\b', 'Kubu Kubu'),
-    (r'\bklimanajro\b', 'Kilimanjaro'), (r'\bMasai\b', 'Maasai'),
+    (r'\bklimanajro\b', 'Kilimanjaro'), (r'\bMasai\b', 'Maasai'), (r'\bManayara\b', 'Manyara'), (r'\bLake manyara\b', 'Lake Manyara'), (r'\bBougainevellia\b', 'Bougainvillea'), (r'\bEscarpement\b', 'Escarpment'),
     (r'(Arrival in Arusha)(Your)', r'\1\n\2'), (r'(Departure Day)(Savor)', r'\1\n\2'),
     (r'\s+,', ','), (r'[ \t]{2,}', ' '),
 ]
@@ -124,11 +124,17 @@ MONTHS = 'jan feb mar apr may jun jul aug sep oct nov dec'.split()
 
 def months_from(text):
     t = text.lower().replace('sept', 'sep')
-    found = re.findall(r'(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*', t)
-    if len(found) == 2 and ('-' in t or '–' in t):
-        a, b = MONTHS.index(found[0]), MONTHS.index(found[1])
-        return [MONTHS[(a + i) % 12] for i in range(((b - a) % 12) + 1)]
-    return sorted(set(found), key=MONTHS.index)
+    if re.search(r'year[ -]?round|all year', t):
+        return list(MONTHS)
+    M = r'(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*'
+    out = []
+    # every "X - Y" range in order of appearance ("Jan- March ... Jun - Oct" -> two runs), then lone months
+    for a_, b_ in re.findall(M + r'\s*[-–]\s*(?:early |late |mid )?' + M, t):
+        a, b = MONTHS.index(a_), MONTHS.index(b_)
+        out += [MONTHS[(a + i) % 12] for i in range(((b - a) % 12) + 1)]
+    rest = re.sub(M + r'\s*[-–]\s*(?:early |late |mid )?' + M, ' ', t)
+    out += re.findall(M, rest)
+    return list(dict.fromkeys(out))
 
 def build_trip(wslug, tid, style):
     page = wix(wslug)

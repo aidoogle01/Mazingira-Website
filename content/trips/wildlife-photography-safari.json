@@ -3,12 +3,25 @@
   "status": "published",
   "title": "Wildlife Photography Safari, Capture Every Moment",
   "style": "special-interest",
-  "summary": "Join our 8-day Tanzania photo safari, featuring prime wildlife photography in Tarangire, Serengeti, and Ngorongoro. Capture stunning African wildlife and landscapes with our professional guides. Enjoy park-side accommodations for the perfect shot!",
+  "summary": "Eight days for photographers: Tarangire, Lake Manyara, Ndutu on the southern plains, two nights in the central Serengeti and two days in the Ngorongoro Crater.",
   "description": "Embark on an 8-day Tanzania Wildlife Photography Safari under our \"Capture Every Moment\" series, designed specifically for photography enthusiasts. Journey through the renowned parks of Tarangire, Serengeti, and Ngorongoro, where Africa's iconic wildlife and breathtaking landscapes await your lens. With the guidance of professional photography guides, you'll have the opportunity to capture stunning images of majestic animals in their natural habitats and dramatic panoramas that define this rich region. Our carefully selected park-side accommodations ensure you are perfectly positioned to take advantage of the golden hours of dawn and dusk. Whether you’re a seasoned photographer or a passionate beginner, this safari promises to enhance your portfolio with spectacular shots and unforgettable experiences.",
   "duration_days": 8,
   "best_time": {
     "text": "Year Round (We will discuss with you for your photography goals)",
-    "months": []
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ]
   },
   "locations": [
     "Arusha",
@@ -67,9 +80,9 @@
       "days": [
         3
       ],
-      "title": "Lake Manayara National Park",
+      "title": "Lake Manyara National Park",
       "description": "Start early with a morning game drive, an optimal time to see animals actively grazing on the Savannah plains. Enjoy this lively and picturesque scene before heading to Lake Manyara National Park. Known for its tree-climbing lions and the flocks of flamingos along the lakeshore, Lake Manyara offers unique wildlife viewing opportunities in a stunning setting.\nDespite its modest size of 205 square miles, Lake Manyara is celebrated for its breathtaking beauty and lush acacia forest filled with giant fig and mahogany trees, home to troops of baboons and blue monkeys. The park’s namesake lake, a shallow alkaline body of water, expands and contracts with the seasons and supports thousands of flamingos during the rainy periods.\nBesides its famous lions and flamingos, the park also hosts giraffes, elephants, impalas, and hippos. For those interested in capturing the more elusive nocturnal wildlife, a night game drive in Lake Manyara is highly recommended, providing a rare opportunity to photograph these secretive creatures in their natural habitat.",
-      "accommodation": "Bougainevellia Safari Lodge",
+      "accommodation": "Bougainvillea Safari Lodge",
       "destination_note": "Lake Manyara National Park well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos\n\nOptional Activity\n\nNight Time Game Drive\nGet the chance to see some of the most amazing Nocturnal Animals on this unique experience.",
       "meal_plan": "Breakfast Lunch and Dinner"
     },
@@ -176,6 +189,7 @@
   "route": [
     "arusha",
     "tarangire",
+    "lake-manyara",
     "ndutu",
     "serengeti",
     "ngorongoro"
