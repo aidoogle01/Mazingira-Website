@@ -1,6 +1,6 @@
 {
   "name": "Mazingira Safari",
-  "legal_name": null,
+  "legal_name": "Mazingira Safari Ltd",
   "tagline": "Eco-Friendly Safari Adventures",
   "meaning": "'Mazingira' means 'environment' in Swahili.",
   "founded": 2007,
@@ -10,14 +10,15 @@
     "email_uk_sales": "uk.sales@mazingirasafari.com",
     "phone": "+255784278205",
     "phone_alt": "+255767278204",
-    "whatsapp": null,
+    "whatsapp": "+255784278205",
     "address": {
       "line1": "Mazingira Eco Friendly Safari Adventure",
       "locality": "Arusha",
       "po_box": "12544",
       "country": "Tanzania",
-      "street": null
-    }
+      "street": "Moshi–Arusha Road"
+    },
+    "phone_uk": "+442079460000"
   },
   "social": {
     "instagram": "https://www.instagram.com/mazingirasafaris",
@@ -58,5 +59,13 @@
         "fee_pct": 100
       }
     ]
-  }
+  },
+  "markets": [
+    "UK",
+    "US",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ]
 }

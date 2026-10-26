@@ -79,6 +79,13 @@
         },
         "address": {
           "type": "object"
+        },
+        "phone_uk": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^\\+\\d{9,15}$"
         }
       }
     },
@@ -93,6 +100,19 @@
     },
     "booking_terms": {
       "type": "object"
+    },
+    "markets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z]{2}$"
+      }
     }
   },
   "additionalProperties": false

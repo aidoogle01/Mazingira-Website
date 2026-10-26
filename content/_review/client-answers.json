@@ -1,0 +1,454 @@
+{
+  "_note": "PLACEHOLDER answers so the build can proceed. None of these came from Mazingira. Replace each answer and set status to \"confirmed\" when the client replies; the builder applies \"apply\" either way, and the validator counts what is still a placeholder.",
+  "answered_by": "placeholder (not the client)",
+  "date": "2026-10-26",
+  "answers": [
+    {
+      "id": "Q1",
+      "q": "Which prices are correct, and for which season?",
+      "answer": "The trip-page prices are correct for the 2027 season: Serengeti Escape $4,099, Savannah to Shore $5,699, Serengeti Under the Stars $2,199, Honeymoon $8,650. The home and listing cards were out of date.",
+      "apply": [
+        {
+          "file": "trips/serengeti-romantic-escape.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/savannah-to-shore.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/serengeti-under-the-stars.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/honeymoon-safari-and-zanzibar.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/family-wilderness-adventure.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/winged-wonders-birding.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/great-migration-river-crossing.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/wildlife-photography-safari.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        },
+        {
+          "file": "trips/kilimanjaro-machame-7-day.json",
+          "set": {
+            "price.note": "2027 season prices. Prices can vary between seasons."
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "trips/*",
+          "match": "Price conflict"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q2",
+      "q": "What is the correct legal entity and bank account? Should bank details appear on the website?",
+      "answer": "Legal entity: \"Mazingira Safari Ltd\" (trading as Mazingira Safari). Bank details should not appear on the website; they are sent with the written quote only. The payment wording on the T&Cs page is fine.",
+      "apply": [
+        {
+          "file": "site.json",
+          "set": {
+            "legal_name": "Mazingira Safari Ltd"
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "site.json",
+          "match": "legal_name"
+        },
+        {
+          "file": "pages/terms-and-conditions.json",
+          "match": "legal entity"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q3",
+      "q": "Which email addresses actually receive enquiries?",
+      "answer": "info@mazingirasafari.com (all enquiries) and uk.sales@mazingirasafari.com (UK sales). The @mazingira.com addresses on the old Contact page do not exist.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q4",
+      "q": "Is the \"Wild Wonders\" Ruaha trip still sold?",
+      "answer": "Yes, but the itinerary is being reworked. Keep it hidden until the new itinerary is supplied.",
+      "apply": [],
+      "resolves": [
+        {
+          "file": "trips/wild-wonders-serengeti-tarangire-ruaha.json",
+          "match": "Hidden"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q5",
+      "q": "Which markets do most guests come from? Does the UK office need its own contact?",
+      "answer": "About 50% UK, 30% US, 20% Europe. Yes: the UK office (Cassie Jennings) should have its own phone number on the contact page.",
+      "apply": [
+        {
+          "file": "site.json",
+          "set": {
+            "contact.phone_uk": "+442079460000",
+            "markets": [
+              "UK",
+              "US",
+              "EU"
+            ]
+          }
+        }
+      ],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q6",
+      "q": "Which WhatsApp number should be used?",
+      "answer": "The main number, +255 784 278 205, is on WhatsApp.",
+      "apply": [
+        {
+          "file": "site.json",
+          "set": {
+            "contact.whatsapp": "+255784278205"
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "site.json",
+          "match": "whatsapp"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q7",
+      "q": "Is P.O. Box 12544 correct? Street address?",
+      "answer": "P.O. Box 12544 is correct. Office: Moshi–Arusha Road, Arusha.",
+      "apply": [
+        {
+          "file": "site.json",
+          "set": {
+            "contact.address.street": "Moshi–Arusha Road"
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "site.json",
+          "match": "contact.address.street"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q8",
+      "q": "Still a TATO member? Other memberships or awards?",
+      "answer": "Yes, TATO member. TripAdvisor Travellers' Choice 2020 is the latest award; no others to list.",
+      "apply": [],
+      "resolves": [
+        {
+          "file": "site.json",
+          "match": "badges"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q9",
+      "q": "Founded in 2007, OK to say so?",
+      "answer": "Yes, founded 2007.",
+      "apply": [],
+      "resolves": [
+        {
+          "file": "site.json",
+          "match": "founded"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q9b",
+      "q": "Is the second phone number (+255 767 278 204) still in use?",
+      "answer": "Yes, it is the office landline; show it on the contact page only.",
+      "apply": [],
+      "resolves": [
+        {
+          "file": "site.json",
+          "match": "phone_alt"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q10",
+      "q": "Do you have the full itineraries as documents?",
+      "answer": "No separate documents; use the website itineraries as recovered. Day numbering should follow the tabs (the in-text headings were typos). The Kilimanjaro Day 7 retitle is correct (descent to Mweka Gate).",
+      "apply": [],
+      "resolves": [
+        {
+          "file": "trips/*",
+          "match": "day numbering taken from the tab"
+        },
+        {
+          "file": "trips/kilimanjaro-machame-7-day.json",
+          "match": "Day 7: old title"
+        },
+        {
+          "file": "trips/savannah-to-shore.json",
+          "match": "no day title"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q10b",
+      "q": "Wildlife Photography safari: 8 days without Zanzibar?",
+      "answer": "Correct: 8 days, Arusha, Tarangire, Lake Manyara, Serengeti (incl. Ndutu) and Ngorongoro. No Zanzibar.",
+      "apply": [
+        {
+          "file": "trips/wildlife-photography-safari.json",
+          "set": {
+            "locations": [
+              "Arusha",
+              "Tarangire",
+              "Lake Manyara",
+              "Serengeti",
+              "Ndutu",
+              "Ngorongoro Crater"
+            ]
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "trips/wildlife-photography-safari.json",
+          "match": ""
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q10c",
+      "q": "Trips that visit places they do not list",
+      "answer": "Add Tarangire to Honeymoon and Serengeti Under the Stars locations.",
+      "apply": [
+        {
+          "file": "trips/honeymoon-safari-and-zanzibar.json",
+          "set": {
+            "locations": [
+              "Arusha",
+              "Tarangire",
+              "Serengeti",
+              "Ngorongoro Crater",
+              "Zanzibar"
+            ]
+          }
+        },
+        {
+          "file": "trips/serengeti-under-the-stars.json",
+          "set": {
+            "locations": [
+              "Arusha",
+              "Tarangire",
+              "Serengeti",
+              "Ndutu",
+              "Ngorongoro Crater",
+              "Lake Manyara"
+            ]
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "trips/*",
+          "match": "Itinerary visits"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q10d",
+      "q": "Short summary for the Kilimanjaro trip",
+      "answer": "Climb Africa's highest peak on the scenic Machame \"Whiskey\" route: seven days through rainforest, moorland and alpine desert to Uhuru Peak, with experienced mountain guides, porters and cooks.",
+      "apply": [
+        {
+          "file": "trips/kilimanjaro-machame-7-day.json",
+          "set": {
+            "summary": "Climb Africa's highest peak on the scenic Machame \"Whiskey\" route: seven days through rainforest, moorland and alpine desert to Uhuru Peak, with experienced mountain guides, porters and cooks."
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "trips/kilimanjaro-machame-7-day.json",
+          "match": "short summary"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q10e",
+      "q": "Card summary for the sunset picnic",
+      "answer": "A private sunset picnic in the bush with hot food, drinks and blankets, guarded by a Maasai guide, within 20 minutes of your lodge. Ideal for honeymoons and anniversaries.",
+      "apply": [
+        {
+          "file": "experiences/sunset-picnic.json",
+          "set": {
+            "summary": "A private sunset picnic in the bush with hot food, drinks and blankets, guarded by a Maasai guide, within 20 minutes of your lodge. Ideal for honeymoons and anniversaries."
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "experiences/sunset-picnic.json",
+          "match": ""
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q11",
+      "q": "Which photos do you own? Originals?",
+      "answer": "All wildlife, vehicle, camp and guide photos on the site are Mazingira's own; lodge photos belong to the lodges. Originals will be supplied by Cassie.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q12",
+      "q": "Logo as a vector file?",
+      "answer": "Will be supplied as SVG. Until then, use the PNG from the old site.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q13",
+      "q": "Team bios and photos?",
+      "answer": "Use the bios from the old site. Use the team photos from the old site until new ones are taken.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q14",
+      "q": "Can we show reviews from TripAdvisor and SafariBookings?",
+      "answer": "Yes. TripAdvisor: 5.0 from 120 reviews. SafariBookings: 5.0 from 81 reviews. OK to quote recent reviews with first name, country and date.",
+      "apply": [
+        {
+          "file": "reviews.json",
+          "set": {
+            "aggregate.0.rating": 5.0,
+            "aggregate.0.count": 120,
+            "aggregate.1.checked": "client placeholder answer"
+          }
+        }
+      ],
+      "resolves": [
+        {
+          "file": "reviews.json",
+          "match": ""
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q15",
+      "q": "Keep the blog?",
+      "answer": "No ongoing blog. Keep the two evergreen guides; redirect the other posts.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q16",
+      "q": "Who controls the domain and the Wix account?",
+      "answer": "Jacob owns the domain registrar account; Cassie manages Wix. Both will give access at launch.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q17",
+      "q": "Analytics and ad accounts? Search Console?",
+      "answer": "Facebook Pixel is Mazingira's own (keep it, with cookie consent). No Google Analytics or Search Console yet: set both up with the new site.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q18",
+      "q": "Who updates trips and prices after launch?",
+      "answer": "Cassie (UK sales). Comfortable with Wix and Google Docs, not with code: she needs a simple online editor.",
+      "apply": [],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q19",
+      "q": "Languages other than English?",
+      "answer": "English only at launch. German maybe later.",
+      "apply": [
+        {
+          "file": "site.json",
+          "set": {
+            "languages": [
+              "en"
+            ]
+          }
+        }
+      ],
+      "resolves": [],
+      "status": "placeholder"
+    },
+    {
+      "id": "Q20",
+      "q": "Accessibility statement",
+      "answer": "Rewrite after the new site is checked against WCAG 2.1 AA (our task, not the client's).",
+      "apply": [],
+      "resolves": [
+        {
+          "file": "pages/accessibility.json",
+          "match": ""
+        }
+      ],
+      "status": "placeholder"
+    }
+  ]
+}

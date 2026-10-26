@@ -17,9 +17,10 @@
   },
   "locations": [
     "Arusha",
+    "Tarangire",
     "Serengeti",
-    "Ngorongoro Crater",
     "Ndutu",
+    "Ngorongoro Crater",
     "Lake Manyara"
   ],
   "start": "Flight into Kilimanjaro",
@@ -42,7 +43,7 @@
         "usd_per_person": 2999
       }
     ],
-    "note": "Prices can vary between seasons",
+    "note": "2027 season prices. Prices can vary between seasons.",
     "confirmed": false,
     "conflicting_prices_on_old_site": {
       "home_card_mobile": 2800

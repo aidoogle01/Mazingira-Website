@@ -40,6 +40,19 @@ for f in glob.glob(os.path.join(C, 'trips/*.json')):
         if tiers and t['price']['from'] != min(tiers):
             errors.append(f"{rel}: price.from {t['price']['from']} != cheapest tier {min(tiers)}")
 
+# placeholders: warn normally, fail with --strict (use before launch)
+ans_path = os.path.join(C, '_review/client-answers.json')
+if os.path.exists(ans_path):
+    ph = [a['id'] for a in json.load(open(ans_path))['answers'] if a.get('status') != 'confirmed']
+    if ph:
+        msg = f"{len(ph)} client answers are still placeholders: {', '.join(ph)}"
+        (errors.append if '--strict' in sys.argv else print)(('' if '--strict' in sys.argv else 'WARNING: ') + msg)
+if '--strict' in sys.argv:
+    for f in glob.glob(os.path.join(C, 'trips/*.json')):
+        t = json.load(open(f))
+        if t['status'] == 'published' and not t['price']['confirmed']:
+            errors.append(f"{os.path.relpath(f, C)}: price not confirmed by client")
+
 print(f'{n} files checked')
 if errors:
     print('\n'.join(errors))

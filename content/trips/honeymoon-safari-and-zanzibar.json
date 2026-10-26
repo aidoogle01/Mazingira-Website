@@ -17,6 +17,7 @@
   },
   "locations": [
     "Arusha",
+    "Tarangire",
     "Serengeti",
     "Ngorongoro Crater",
     "Zanzibar"
@@ -28,7 +29,7 @@
     "from": 8650,
     "basis": "price based on 2 people sharing",
     "tiers": [],
-    "note": null,
+    "note": "2027 season prices. Prices can vary between seasons.",
     "confirmed": false,
     "conflicting_prices_on_old_site": {
       "packages_listing": 8600

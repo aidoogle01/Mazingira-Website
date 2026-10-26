@@ -2,6 +2,8 @@
 
 Only the client can answer these. Grouped by urgency.
 
+> **Status (26 Oct 2026):** all questions have **placeholder answers** in [`content/_review/client-answers.json`](../content/_review/client-answers.json) so the build can proceed. None came from Mazingira. Values that depend on them are listed in [`content/_review/placeholders.md`](../content/_review/placeholders.md). When the client replies, update each answer, set `"status": "confirmed"`, and re-run `tools/build_content.py`.
+
 ## Urgent (affects money or trust today)
 1. **Which prices are correct** for Serengeti Escape, Savannah to Shore, Honeymoon and Serengeti Under the Stars? Are prices for 2026 or 2027?
 2. **What is the correct legal entity and bank account?** Why is the account name "Local Safari Guide Promotion Ltd"? Should bank details appear on the website at all?
