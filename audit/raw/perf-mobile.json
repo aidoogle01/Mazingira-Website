@@ -1,0 +1,51 @@
+{
+ "home": {
+  "loadMs": 2010,
+  "lcpMs": 560,
+  "requests": 165,
+  "MB": 26.68,
+  "horizontalOverflow": false
+ },
+ "safari-packages": {
+  "loadMs": 3588,
+  "lcpMs": 2384,
+  "requests": 180,
+  "MB": 68.64,
+  "horizontalOverflow": false
+ },
+ "savannah-to-shore-package": {
+  "loadMs": 3276,
+  "lcpMs": 2164,
+  "requests": 206,
+  "MB": 61.16,
+  "horizontalOverflow": false
+ },
+ "contact": {
+  "loadMs": 3465,
+  "lcpMs": 1880,
+  "requests": 180,
+  "MB": 56.5,
+  "horizontalOverflow": false
+ },
+ "enquire-now-form": {
+  "loadMs": 2253,
+  "lcpMs": 2048,
+  "requests": 194,
+  "MB": 43.39,
+  "horizontalOverflow": false
+ },
+ "who-is-mazingira": {
+  "loadMs": 3023,
+  "lcpMs": 1492,
+  "requests": 175,
+  "MB": 54.74,
+  "horizontalOverflow": false
+ },
+ "the-serengeti": {
+  "loadMs": 3197,
+  "lcpMs": 1616,
+  "requests": 188,
+  "MB": 56.46,
+  "horizontalOverflow": false
+ }
+}

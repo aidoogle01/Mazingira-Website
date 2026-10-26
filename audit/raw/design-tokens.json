@@ -1,0 +1,90 @@
+{
+ "col": {
+  "bg rgb(255, 255, 255)": 13,
+  "bg rgba(255, 255, 255, 0.83)": 1,
+  "bg rgba(255, 255, 255, 0)": 5,
+  "text rgb(0, 0, 0)": 38,
+  "bg rgba(247, 247, 247, 0)": 6,
+  "text rgb(255, 255, 255)": 12,
+  "bg rgb(123, 115, 111)": 3,
+  "bg rgb(180, 187, 172)": 4,
+  "text rgb(55, 59, 77)": 3,
+  "text rgb(177, 189, 165)": 3,
+  "bg rgb(254, 230, 196)": 9,
+  "bg rgba(255, 255, 255, 0.6)": 1,
+  "bg rgba(255, 255, 255, 0.75)": 1,
+  "bg rgb(189, 203, 174)": 2,
+  "bg rgba(255, 97, 97, 0)": 1,
+  "bg rgb(217, 217, 217)": 2,
+  "bg rgb(0, 0, 0)": 2,
+  "text rgb(189, 203, 174)": 1
+ },
+ "font": {
+  "quicksand": 19,
+  "cormorantgaramond-semibold": 9,
+  "\"playfair display\"": 4,
+  "futura-lt-w01-book": 4,
+  "trirong": 1,
+  "raleway": 2,
+  "cormorantgaramond-light": 3,
+  "roboto-thin": 3,
+  "\"eb garamond\"": 1,
+  "georgia": 2,
+  "futura-lt-w01-light": 9
+ },
+ "sizes": {
+  "SPAN 14px 400": 2,
+  "SPAN 18px 400": 6,
+  "SPAN 82px 400": 1,
+  "SPAN 22px 400": 1,
+  "SPAN 23px 400": 1,
+  "SPAN 57px 400": 1,
+  "SPAN 16px 400": 14,
+  "SPAN 46px 400": 1,
+  "SPAN 31px 400": 3,
+  "SPAN 18px 700": 4,
+  "SPAN 17px 400": 3,
+  "SPAN 68px 400": 2,
+  "SPAN 20px 400": 2,
+  "SPAN 13px 400": 2,
+  "LABEL 12px 400": 1,
+  "SPAN 26px 700": 2,
+  "SPAN 26px 400": 1,
+  "SPAN 33px 400": 1,
+  "A 14px 400": 2,
+  "P 14px 400": 5,
+  "P 26px 400": 1,
+  "LABEL 16px 400": 1
+ },
+ "logo": [
+  {
+   "src": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_21,h_21,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+   "alt": "Instagram",
+   "w": 21
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_21,h_21,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "w": 21
+  },
+  {
+   "src": "https://static.wixstatic.com/media/11062b_6e7994bdd94b41178720ff1641a0f323~mv2.png/v1/fill/w_21,h_21,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e7994bdd94b41178720ff1641a0f323~mv2.png",
+   "alt": "TikTok",
+   "w": 21
+  }
+ ],
+ "fontsLoaded": [
+  "cormorantgaramond-semibold 400",
+  "quicksand 700",
+  "quicksand 400",
+  "raleway 400",
+  "cormorantgaramond-light 400",
+  "eb garamond 400",
+  "futura-lt-w01-book 400",
+  "futura-lt-w01-light 400",
+  "playfair display 400",
+  "roboto-thin 700",
+  "roboto-thin 400",
+  "trirong 400"
+ ]
+}

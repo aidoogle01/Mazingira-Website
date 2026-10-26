@@ -1,0 +1,69 @@
+{
+ "trading_names_seen": [
+  "Mazingira Safari",
+  "Mazingira Safaris",
+  "Mazingira Eco Friendly Safari Adventure",
+  "Mazingira Eco-Friendly Safari Adventures (logo)",
+  "Mazingira Eco Friendly Safaris (SafariBookings)"
+ ],
+ "domain": "www.mazingirasafari.com",
+ "emails": {
+  "header_footer": [
+   "info@mazingirasafari.com",
+   "uk.sales@mazingirasafari.com"
+  ],
+  "contact_page_WRONG_DOMAIN": [
+   "info@mazingira.com",
+   "uk.sales@mazingira.com"
+  ]
+ },
+ "phones": [
+  "+255 784 278 205 (main; header tel: link is malformed as \"tel:+ 255784278205\")",
+  "+255 767 278 204 (footer only)"
+ ],
+ "address": {
+  "text": "Mazingira Eco Friendly Safari Adventure, Arusha",
+  "po_box_footer_and_contact": "P.O Box 12544",
+  "po_box_accessibility_statement": "P.O. Box 12345",
+  "street_from_search_snippets_unverified": "Moshi Arusha Road, Arusha"
+ },
+ "social": {
+  "instagram": "https://www.instagram.com/mazingirasafaris",
+  "facebook": "https://www.facebook.com/mazingirasafari",
+  "tiktok": "https://www.tiktok.com/@mazingira_safaris"
+ },
+ "reviews": {
+  "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g297913-d10022127-Reviews-Mazingira_Safari-Arusha_Arusha_Region.html",
+  "tripadvisor_badge": "Travellers' Choice 2020 (header)",
+  "safaribookings": "https://www.safaribookings.com/p1823 (5.0/5, ~81 reviews per search snippet; not crawled)"
+ },
+ "memberships": [
+  "TATO - Tanzania Association of Tour Operators (footer logo + Who is Mazingira page)"
+ ],
+ "claims": [
+  "Founded 2007 (SafariBookings, not on own site)",
+  "Owner: local Tanzanian with 15+ years experience",
+  "All guides native Tanzanians",
+  "Over 60 lodges inspected annually (accommodation page)"
+ ],
+ "payments": {
+  "deposit": "30% to confirm",
+  "second": "40% due 8 weeks before travel",
+  "balance": "30% due 30 days before",
+  "late_booking": "within 40 days: full payment",
+  "methods": [
+   "online card payment portal (not found on site)",
+   "bank transfer (USD)"
+  ],
+  "bank_account_published_on": "/terms-conditions",
+  "bank_account_holder_name": "LOCAL SAFARI GUIDE PROMOTION LTD (differs from trading name; a SafariBookings reviewer reported website bank details not matching emailed ones)"
+ },
+ "cancellation": {
+  ">61 days": "20%",
+  "60-45 days": "50%",
+  "44-31 days": "70%",
+  "<=30 days": "100%"
+ },
+ "chat": "Wix Chat widget (engage.wixapps.net) on every page; mentioned in Booking Process step 1",
+ "copyright_footer": "Mazingira Safari © 2023"
+}
