@@ -1,0 +1,2009 @@
+{
+ "key": "rhinoafrica",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://www.rhinoafrica.com/en",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 1458,
+    "lcpMs": 2008,
+    "perf": {
+     "ttfb": 266,
+     "domContentLoaded": 1307,
+     "perfApiTransferKB": 967,
+     "resources": 114
+    },
+    "cookie": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "data": {
+     "url": "https://www.rhinoafrica.com/en",
+     "title": "Book African Safaris, Tours & Experiences",
+     "docHeight": 6499,
+     "nav": [
+      "Search",
+      "START PLANNING",
+      "DESTINATIONS",
+      "JOURNEYS",
+      "EXPERIENCES",
+      "INSPIRATION",
+      "IMPACT",
+      "STORIES"
+     ],
+     "h1": [
+      {
+       "text": "THE AUTHORITY ON LUXURY AFRICAN TRAVEL",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "sliders": [
+       "carousel-slide",
+       "carousel is-ltr is-effect-slide is-hover",
+       "carousel__viewport"
+      ],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "START PLANNING",
+        5
+       ],
+       [
+        "Why Book with Us?",
+        2
+       ],
+       [
+        "Facebook",
+        2
+       ],
+       [
+        "SPEAK WITH AN EXPERT",
+        2
+       ],
+       [
+        "What are Tailor-made Tours?",
+        1
+       ],
+       [
+        "Sabi Sand Game Reserve",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Why Book with Us?",
+       "What are Tailor-made Tours?",
+       "Facebook",
+       "START PLANNING"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://widget.trustpilot.com/trustboxes/53aa8807dec7e10d38f59f32/index.html?templateId=53aa8807dec7e10d38f59f32&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/539ad0ffdec7e10e686debd7/index.html?templateId=539ad0ffdec7e10e686debd7&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/539ad0ffdec7e10e686debd7/index.html?templateId=539ad0ffdec7e10e686debd7&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/5419b6ffb0d04a076446a9af/index.html?templateId=5419b6ffb0d04a076446a9af&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/5419b6ffb0d04a076446a9af/index.html?templateId=5419b6ffb0d04a076446a9af&businessunitId=4da4e1c80000",
+      "https://www.googletagmanager.com/ns.html?id=GTM-NZ2BCQ",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "calendly": "mentioned-in-html",
+       "trustpilot": "script/iframe",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Call UsZA Number: +27 21 469 2600",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+27 21 469 2600",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@rhinoafrica.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed-to-top",
+        "pos": "fixed",
+        "top": -900,
+        "bottom": 1722,
+        "h": 78,
+        "w": 1200,
+        "text": "English ( USD-$ ) ZA Number: +27 21 469 2600 Search Close"
+       },
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 760,
+        "h": 140,
+        "w": 1440,
+        "text": "Menu Search START PLANNING DESTINATIONS JOURNEYS EXPERIENCES INSPIRATION IMPACT STORIES"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "notification-bar",
+        "pos": "fixed",
+        "top": 865,
+        "bottom": 0,
+        "h": 35,
+        "w": 1440,
+        "text": "Security Reminder: Travel scams are on the rise. Please verify any unexpected Rhino Africa booking m"
+       },
+       {
+        "tag": "div",
+        "id": "CookiebotWidget",
+        "cls": "",
+        "pos": "fixed",
+        "top": 842,
+        "bottom": 10,
+        "h": 48,
+        "w": 48,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "r 12 Days in Botswana, South Africa, & Zimbabwe EXPLORE Starting from $28,775 Per Person Sharing The Kenya Headliner: Mara, Mig",
+      "Mara, Migration & Mombasa Tour 11 Days in Kenya EXPLORE Starting from $21,703 Per Person Sharing East Africa Blend: Gorilla Tre",
+      "& Great Migration 12 Days in Rwanda, & Tanzania EXPLORE Starting from $19,243 Per Person Sharing Luxury Endangered Species Tour",
+      "ecies Tour 5 Days in South Africa, & Antarctica EXPLORE Starting from $25,864 Per Person Sharing South African Wellness Escape ",
+      "African Wellness Escape 12 Days in South Africa EXPLORE Starting from $21,877 Per Person Sharing Coast to Delta: Cape Town to B",
+      "r 12 Days in Botswana, South Africa, & Zimbabwe EXPLORE Starting from $13,837 Per Person Sharing Need more Inspiration? Explore"
+     ],
+     "trust": [
+      {
+       "match": "Trustpilot",
+       "text": "More than 5,000 Trustpilot reviews and a 5.0 rating reflect years of creating African journeys our guests remember for a",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ratings powered by TripAdvisor",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Good Work Foundation",
+       "src": "gwf-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Click Foundation",
+       "src": "the-click-foundation-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Wildlife Act",
+       "src": "wildlife-act-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Challenge4ACause",
+       "src": "c4ac-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Khumbulani Day Care Centre",
+       "src": "khumbulani-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Africa's Most Awarded Safari Company",
+       "src": "wta-2023-winner-shield.Br50ENNs.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "Trip Advisor Logo",
+       "src": "tripadvisor_logo_tagline.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      },
+      {
+       "alt": "SATSA",
+       "src": "satsa-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "ATTA",
+       "src": "ATTA-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "... START PLANNING BESPOKE LUXURY SAFARIS SINCE 2004 Experience Afri"
+     ],
+     "fonts": {
+      "loaded": [
+       "Montserrat",
+       "RhinoAfricaNavigation",
+       "RhinoAfrica",
+       "RhinoAfricaUSPs"
+      ],
+      "h1": "Montserrat, sans-serif",
+      "h1Style": "45px/800 ls=normal tt=uppercase",
+      "h2": "Montserrat, sans-serif",
+      "h2Style": "45px/800 ls=normal tt=uppercase",
+      "body": "Montserrat, sans-serif",
+      "bodyStyle": "13px/300 ls=normal tt=none",
+      "nav": "Montserrat, sans-serif",
+      "button": "Montserrat, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(39, 39, 39) 3568091",
+       "rgb(35, 35, 35) 1386000",
+       "rgb(244, 244, 244) 1165365",
+       "rgb(240, 240, 240) 766170",
+       "rgb(0, 0, 0) 591168",
+       "rgb(224, 227, 230) 305760",
+       "rgb(153, 0, 0) 51994",
+       "rgb(255, 255, 255) 22561"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 152",
+       "rgb(130, 130, 130) 21",
+       "rgb(39, 39, 39) 18",
+       "rgb(153, 0, 0) 4",
+       "rgb(0, 0, 0) 4",
+       "rgb(244, 244, 244) 3"
+      ]
+     },
+     "images": {
+      "count": 6,
+      "alts": [
+       "South Africa’s Great Safari Stronghold",
+       "The finest game viewing destination in Africa",
+       "South Africa’s Mother City",
+       "Safari in One of the Most Iconic Destinations",
+       "Zambia's Smoke That Thunders",
+       "South Africa's Scenic Coastal Drive"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [
+       "3px 12",
+       "10px 6",
+       "8px 2",
+       "16px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5956,
+    "requests": 169,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://www.rhinoafrica.com/en",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 2595,
+    "lcpMs": 1332,
+    "perf": {
+     "ttfb": 203,
+     "domContentLoaded": 988,
+     "perfApiTransferKB": 962,
+     "resources": 94
+    },
+    "cookie": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "data": {
+     "url": "https://www.rhinoafrica.com/en",
+     "title": "Book African Safaris, Tours & Experiences",
+     "docHeight": 5087,
+     "nav": [
+      "DESTINATIONS",
+      "JOURNEYS",
+      "EXPERIENCES",
+      "INSPIRATION",
+      "Impact",
+      "Stories",
+      "OUR TOP DESTINATIONS",
+      "SOUTHERN AFRICA",
+      "EAST AFRICA",
+      "INDIAN OCEAN ISLANDS",
+      "NATIONAL PARKS & RESERVES",
+      "VIEW ALL DESTINATIONS",
+      "Kruger National Park",
+      "Cape Town",
+      "Victoria Falls",
+      "Serengeti National Park",
+      "Okavango Delta",
+      "South Africa",
+      "Botswana",
+      "Namibia",
+      "Mozambique",
+      "Zimbabwe",
+      "Zambia",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Republic of Congo",
+      "Seychelles",
+      "Maldives",
+      "Madagascar",
+      "Mauritius",
+      "La Réunion",
+      "Zanzibar",
+      "Sabi Sand Game Reserve",
+      "Maasai Mara National Reserve",
+      "Mana Pools National Park",
+      "South Luangwa National Park",
+      "ALL AFRICAN NATIONAL PARKS",
+      "TOP LUXURY TOURS",
+      "SOUTHERN AFRICA TOURS",
+      "EAST AFRICA TOURS",
+      "SAFARI & BEACH",
+      "VIEW ALL TOURS",
+      "Southern Africa Safari Tour",
+      "Kenya Bush & Beach Tour",
+      "Gorilla Trekking & Great Migration",
+      "Day-Trip to Antarctica",
+      "South African Wellness Escape",
+      "OUR MOST POPULAR SAFARIS",
+      "COUPLES & ROMANCE",
+      "FAMILY SAFARIS",
+      "WILDLIFE & NATURE",
+      "SPECIAL INTEREST SAFARIS",
+      "VIEW ALL SAFARI EXPERIENCES",
+      "Luxury Safaris in Africa",
+      "Tailor-Made Kruger Safaris",
+      "Botswana Adventures",
+      "Big 5 Safaris",
+      "Great Wildebeest Migration",
+      "Gorilla Trekking",
+      "Fly-in Safaris",
+      "African Safari Honeymoon",
+      "Romantic Safaris",
+      "Wellness Safaris",
+      "LGBTQ+ Travel in Africa",
+      "Babymoon Safaris in Africa",
+      "Child-friendly Safaris",
+      "Malaria-free Safaris",
+      "Lion Safaris",
+      "Elephant Safaris",
+      "Photo Safaris",
+      "Luxury Train Travel",
+      "Horseback Safaris",
+      "Golf",
+      "TRENDING RIGHT NOW",
+      "OUR TOP PARTNERS IN AFRICA",
+      "Our Top Luxury Safari Lodges",
+      "TRAVEL TIPS",
+      "Serengeti",
+      "Londolozi",
+      "Ellerman House",
+      "Wilderness",
+      "&Beyond",
+      "Tswalu Kalahari Reserve",
+      "Singita",
+      "African Bush Camps",
+      "Odzala-Kokoua National Park",
+      "Silvan Safari",
+      "Londolozi Private Granite Suites",
+      "Singita Grumeti",
+      "&Beyond Sossusvlei Desert Lodge",
+      "Duba Plains Camp",
+      "Royal Malewane",
+      "Bisate Lodge",
+      "Jao Camp",
+      "VIEW ALL ACCOMMODATION",
+      "What To Pack For A Safari",
+      "Best time to visit Kruger National Park",
+      "A typical Day on Safari in Kruger",
+      "Best Time To Visit Victoria Falls",
+      "Best Time To Visit Zimbabwe",
+      "Best Time To Visit Zambia",
+      "Best Time To Visit Namibia",
+      "IMPACT",
+      "STORIES",
+      "Who We Are",
+      "About Us",
+      "Meet the Team",
+      "Our Awards & Recognitions",
+      "Client Feedback",
+      "Doing Good",
+      "Sustainable Tourism",
+      "Privacy Policy",
+      "Careers",
+      "BOOK WITH US",
+      "Why Book with Us?",
+      "What are Tailor-made Tours?",
+      "Travel with Confidence",
+      "Fully Refundable Deposit",
+      "Travel Insurance",
+      "Best Price Guarantee",
+      "When to Travel to Africa?",
+      "English ( USD-$ )",
+      "ZA Number: +27 21 469 2600",
+      "Facebook",
+      "LinkedIn",
+      "Instagram",
+      "YouTube"
+     ],
+     "h1": [
+      {
+       "text": "THE AUTHORITY ON LUXURY AFRICAN TRAVEL",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "sliders": [
+       "carousel-slide",
+       "carousel is-ltr is-effect-slide",
+       "carousel__viewport"
+      ],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Back to start",
+        18
+       ],
+       [
+        "START PLANNING",
+        4
+       ],
+       [
+        "Sabi Sand Game Reserve",
+        2
+       ],
+       [
+        "NATIONAL PARKS & RESERVES",
+        1
+       ],
+       [
+        "Maasai Mara National Reserve",
+        1
+       ],
+       [
+        "Tailor-Made Kruger Safaris",
+        1
+       ],
+       [
+        "Tswalu Kalahari Reserve",
+        1
+       ],
+       [
+        "Why should I visit a Private Game Reserve?",
+        1
+       ],
+       [
+        "BOOK WITH US",
+        1
+       ],
+       [
+        "Why Book with Us?",
+        1
+       ],
+       [
+        "What are Tailor-made Tours?",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ],
+       [
+        "SPEAK WITH AN EXPERT",
+        1
+       ],
+       [
+        "CALL US ZA Number: +27 21 469 2600",
+        1
+       ],
+       [
+        "CALL US",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "NATIONAL PARKS & RESERVES",
+       "Back to start",
+       "Sabi Sand Game Reserve",
+       "Maasai Mara National Reserve",
+       "Tailor-Made Kruger Safaris",
+       "Tswalu Kalahari Reserve",
+       "Why should I visit a Private Game Reserve?",
+       "BOOK WITH US",
+       "START PLANNING"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://widget.trustpilot.com/trustboxes/53aa8807dec7e10d38f59f32/index.html?templateId=53aa8807dec7e10d38f59f32&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/539ad0ffdec7e10e686debd7/index.html?templateId=539ad0ffdec7e10e686debd7&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/539ad0ffdec7e10e686debd7/index.html?templateId=539ad0ffdec7e10e686debd7&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/5419b6ffb0d04a076446a9af/index.html?templateId=5419b6ffb0d04a076446a9af&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/5419b6ffb0d04a076446a9af/index.html?templateId=5419b6ffb0d04a076446a9af&businessunitId=4da4e1c80000",
+      "https://www.googletagmanager.com/ns.html?id=GTM-NZ2BCQ",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "calendly": "mentioned-in-html",
+       "trustpilot": "script/iframe",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "CALL US ZA Number: +27 21 469 2600",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 21 469 2600",
+        "where": "footer",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "info@rhinoafrica.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "cookiebanner",
+        "cls": "",
+        "pos": "fixed",
+        "top": 417,
+        "bottom": 0,
+        "h": 249,
+        "w": 391,
+        "text": "Cookie Preferences Necessary (2) Preferences (2) Statistics (12) Marketing (30) Unclassified (9) Our"
+       },
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 585,
+        "h": 81,
+        "w": 390,
+        "text": "DESTINATIONS JOURNEYS EXPERIENCES INSPIRATION IMPACT STORIES"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "notification-bar",
+        "pos": "fixed",
+        "top": 587,
+        "bottom": 0,
+        "h": 79,
+        "w": 390,
+        "text": "Security Reminder: Travel scams are on the rise. Please verify any unexpected Rhino Africa booking m"
+       }
+      ]
+     },
+     "prices": [
+      "r 12 Days in Botswana, South Africa, & Zimbabwe EXPLORE Starting from $28,871 Per Person Sharing The Kenya Headliner: Mara, Mig",
+      "Mara, Migration & Mombasa Tour 11 Days in Kenya EXPLORE Starting from $21,775 Per Person Sharing East Africa Blend: Gorilla Tre",
+      "& Great Migration 12 Days in Rwanda, & Tanzania EXPLORE Starting from $19,308 Per Person Sharing Luxury Endangered Species Tour",
+      "ecies Tour 5 Days in South Africa, & Antarctica EXPLORE Starting from $25,951 Per Person Sharing South African Wellness Escape ",
+      "African Wellness Escape 12 Days in South Africa EXPLORE Starting from $21,950 Per Person Sharing Coast to Delta: Cape Town to B",
+      "r 12 Days in Botswana, South Africa, & Zimbabwe EXPLORE Starting from $13,883 Per Person Sharing Need more Inspiration? Explore"
+     ],
+     "trust": [
+      {
+       "match": "TripAdvisor",
+       "text": "Ratings powered by TripAdvisor",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Good Work Foundation",
+       "src": "gwf-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Click Foundation",
+       "src": "the-click-foundation-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Wildlife Act",
+       "src": "wildlife-act-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Challenge4ACause",
+       "src": "c4ac-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Khumbulani Day Care Centre",
+       "src": "khumbulani-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Wilderness",
+       "src": "wilderness-logo-01-01.svg",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Africa's Most Awarded Safari Company",
+       "src": "wta-2023-winner-shield.Br50ENNs.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Trip Advisor Logo",
+       "src": "tripadvisor_logo_tagline.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      },
+      {
+       "alt": "SATSA",
+       "src": "satsa-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "ATTA",
+       "src": "ATTA-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "... START PLANNING BESPOKE LUXURY SAFARIS SINCE 2004 Experience Afri"
+     ],
+     "fonts": {
+      "loaded": [
+       "Montserrat",
+       "RhinoAfricaNavigation",
+       "RhinoAfrica"
+      ],
+      "h1": "Montserrat, sans-serif",
+      "h1Style": "45px/800 ls=normal tt=uppercase",
+      "h2": "sans-serif",
+      "h2Style": "20px/500 ls=normal tt=none",
+      "body": "Montserrat, sans-serif",
+      "bodyStyle": "20px/600 ls=normal tt=none",
+      "nav": "Montserrat, sans-serif",
+      "button": "Montserrat, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 6007040",
+       "rgb(39, 39, 39) 790001",
+       "rgb(243, 243, 243) 292077",
+       "rgb(244, 244, 244) 284420",
+       "rgb(240, 240, 240) 235743",
+       "rgb(224, 227, 230) 167989",
+       "rgb(153, 0, 0) 32966",
+       "rgb(35, 35, 35) 28275"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 160",
+       "rgb(255, 255, 255) 79",
+       "rgb(39, 39, 39) 47",
+       "rgb(153, 0, 0) 30",
+       "rgb(221, 221, 221) 18",
+       "rgb(130, 130, 130) 4"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "10px 6",
+       "8px 2"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 391,
+     "innerWidth": 391
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4301,
+    "requests": 137,
+    "shotCappedAt": null
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://www.rhinoafrica.com/en/tours/serengeti-ngorongoro-zanzibar/2268",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 1189,
+    "lcpMs": 1232,
+    "perf": {
+     "ttfb": 210,
+     "domContentLoaded": 1070,
+     "perfApiTransferKB": 1225,
+     "resources": 99
+    },
+    "cookie": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "data": {
+     "url": "https://www.rhinoafrica.com/en/tours/serengeti-ngorongoro-zanzibar/2268",
+     "title": "Tanzania Safari and Zanzibar Beach Holiday",
+     "docHeight": 8216,
+     "nav": [
+      "Search",
+      "START PLANNING",
+      "DESTINATIONS",
+      "JOURNEYS",
+      "EXPERIENCES",
+      "INSPIRATION",
+      "IMPACT",
+      "STORIES"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Revealed: Sun, Savannah and Spice",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Why Book with Us?",
+        2
+       ],
+       [
+        "Facebook",
+        2
+       ],
+       [
+        "What are Tailor-made Tours?",
+        1
+       ],
+       [
+        "START PLANNING",
+        1
+       ],
+       [
+        "START PLANNING NOW",
+        1
+       ],
+       [
+        "SPEAK WITH AN EXPERT",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Why Book with Us?",
+       "What are Tailor-made Tours?",
+       "Facebook",
+       "START PLANNING",
+       "START PLANNING NOW"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://widget.trustpilot.com/trustboxes/53aa8807dec7e10d38f59f32/index.html?templateId=53aa8807dec7e10d38f59f32&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/5419b6ffb0d04a076446a9af/index.html?templateId=5419b6ffb0d04a076446a9af&businessunitId=4da4e1c80000",
+      "https://www.googletagmanager.com/ns.html?id=GTM-NZ2BCQ",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "calendly": "mentioned-in-html",
+       "trustpilot": "script/iframe",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Call UsZA Number: +27 21 469 2600",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+27 21 469 2600",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@rhinoafrica.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed-to-top",
+        "pos": "fixed",
+        "top": -900,
+        "bottom": 1722,
+        "h": 78,
+        "w": 1200,
+        "text": "English ( USD-$ ) ZA Number: +27 21 469 2600 Search Close"
+       },
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 760,
+        "h": 140,
+        "w": 1440,
+        "text": "Menu Search START PLANNING DESTINATIONS JOURNEYS EXPERIENCES INSPIRATION IMPACT STORIES"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "notification-bar",
+        "pos": "fixed",
+        "top": 865,
+        "bottom": 0,
+        "h": 35,
+        "w": 1440,
+        "text": "Security Reminder: Travel scams are on the rise. Please verify any unexpected Rhino Africa booking m"
+       },
+       {
+        "tag": "div",
+        "id": "CookiebotWidget",
+        "cls": "",
+        "pos": "fixed",
+        "top": 842,
+        "bottom": 10,
+        "h": 48,
+        "w": 48,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "phy Safaris Big 5 Safari Safari Holidays Ideal duration: 10 days From $8,622 per person Best time to go: Best Good Mixed YOUR ",
+      "k Tanzania 4 Nights: Zanzibar Archipelago Tanzania 10 Nights in total $8,622 per person Like what you see? Let's make it happe"
+     ],
+     "trust": [
+      {
+       "match": "Trustpilot",
+       "text": "More than 5,000 Trustpilot reviews and a 5.0 rating reflect years of creating African journeys our guests remember for a",
+       "where": "bottom"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ratings powered by TripAdvisor",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Good Work Foundation",
+       "src": "gwf-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Click Foundation",
+       "src": "the-click-foundation-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Wildlife Act",
+       "src": "wildlife-act-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Challenge4ACause",
+       "src": "c4ac-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Khumbulani Day Care Centre",
+       "src": "khumbulani-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Africa's Most Awarded Safari Company",
+       "src": "wta-2023-winner-shield.Br50ENNs.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "Trip Advisor Logo",
+       "src": "tripadvisor_logo_tagline.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      },
+      {
+       "alt": "SATSA",
+       "src": "satsa-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "ATTA",
+       "src": "ATTA-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Montserrat",
+       "RhinoAfricaNavigation",
+       "RhinoAfrica",
+       "RhinoAfricaFacilities",
+       "RhinoAfricaUSPs"
+      ],
+      "h1": "Montserrat, sans-serif",
+      "h1Style": "68px/400 ls=normal tt=none",
+      "h2": "Montserrat, sans-serif",
+      "h2Style": "30px/400 ls=normal tt=none",
+      "body": "Montserrat, sans-serif",
+      "bodyStyle": "13px/300 ls=normal tt=none",
+      "nav": "Montserrat, sans-serif",
+      "button": "Montserrat, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(241, 243, 245) 5678618",
+       "rgb(255, 255, 255) 4282464",
+       "rgb(39, 39, 39) 2269775",
+       "rgb(0, 0, 0) 1757488",
+       "rgb(35, 35, 35) 1386000",
+       "rgb(240, 240, 240) 820264",
+       "rgb(153, 0, 0) 85028",
+       "rgb(130, 130, 130) 37363"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 93",
+       "rgb(39, 39, 39) 60",
+       "rgb(130, 130, 130) 45",
+       "rgb(153, 0, 0) 14",
+       "rgb(0, 0, 0) 4"
+      ]
+     },
+     "images": {
+      "count": 39,
+      "alts": [
+       "Zebra peacefully grazing in the beautiful vast fields of Arusha",
+       "Picturesque views of Arusha, Tanzania",
+       "See for yourself what is so iconic about Mount Meru, Tanzania",
+       "The serene valleys and lakes to be found in Tanzania",
+       "Mount Meru covered in mist, Tanzania",
+       "A mother rhino keeping her calf close by in Ngorongoro Crater, Tanzania",
+       "Enjoy a sunset like no other at Ngorongoro crater, Tanzania",
+       "Amazing sights to be seen when at Ngorongoro crater, Tanzania",
+       "Breathtaking views of Ngorongoro crater in all of its glory in Tanzania"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 0px 0px 35",
+       "3px 4",
+       "0px 3px 0px 0px 4",
+       "5px 2"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6081,
+    "requests": 142,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://www.rhinoafrica.com/en/tours/serengeti-ngorongoro-zanzibar/2268",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 1453,
+    "lcpMs": 572,
+    "perf": {
+     "ttfb": 186,
+     "domContentLoaded": 1193,
+     "perfApiTransferKB": 1196,
+     "resources": 85
+    },
+    "cookie": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "data": {
+     "url": "https://www.rhinoafrica.com/en/tours/serengeti-ngorongoro-zanzibar/2268",
+     "title": "Tanzania Safari and Zanzibar Beach Holiday",
+     "docHeight": 7657,
+     "nav": [
+      "DESTINATIONS",
+      "JOURNEYS",
+      "EXPERIENCES",
+      "INSPIRATION",
+      "Impact",
+      "Stories",
+      "OUR TOP DESTINATIONS",
+      "SOUTHERN AFRICA",
+      "EAST AFRICA",
+      "INDIAN OCEAN ISLANDS",
+      "NATIONAL PARKS & RESERVES",
+      "VIEW ALL DESTINATIONS",
+      "Kruger National Park",
+      "Cape Town",
+      "Victoria Falls",
+      "Serengeti National Park",
+      "Okavango Delta",
+      "South Africa",
+      "Botswana",
+      "Namibia",
+      "Mozambique",
+      "Zimbabwe",
+      "Zambia",
+      "Tanzania",
+      "Kenya",
+      "Rwanda",
+      "Republic of Congo",
+      "Seychelles",
+      "Maldives",
+      "Madagascar",
+      "Mauritius",
+      "La Réunion",
+      "Zanzibar",
+      "Sabi Sand Game Reserve",
+      "Maasai Mara National Reserve",
+      "Mana Pools National Park",
+      "South Luangwa National Park",
+      "ALL AFRICAN NATIONAL PARKS",
+      "TOP LUXURY TOURS",
+      "SOUTHERN AFRICA TOURS",
+      "EAST AFRICA TOURS",
+      "SAFARI & BEACH",
+      "VIEW ALL TOURS",
+      "Southern Africa Safari Tour",
+      "Kenya Bush & Beach Tour",
+      "Gorilla Trekking & Great Migration",
+      "Day-Trip to Antarctica",
+      "South African Wellness Escape",
+      "OUR MOST POPULAR SAFARIS",
+      "COUPLES & ROMANCE",
+      "FAMILY SAFARIS",
+      "WILDLIFE & NATURE",
+      "SPECIAL INTEREST SAFARIS",
+      "VIEW ALL SAFARI EXPERIENCES",
+      "Luxury Safaris in Africa",
+      "Tailor-Made Kruger Safaris",
+      "Botswana Adventures",
+      "Big 5 Safaris",
+      "Great Wildebeest Migration",
+      "Gorilla Trekking",
+      "Fly-in Safaris",
+      "African Safari Honeymoon",
+      "Romantic Safaris",
+      "Wellness Safaris",
+      "LGBTQ+ Travel in Africa",
+      "Babymoon Safaris in Africa",
+      "Child-friendly Safaris",
+      "Malaria-free Safaris",
+      "Lion Safaris",
+      "Elephant Safaris",
+      "Photo Safaris",
+      "Luxury Train Travel",
+      "Horseback Safaris",
+      "Golf",
+      "TRENDING RIGHT NOW",
+      "OUR TOP PARTNERS IN AFRICA",
+      "Our Top Luxury Safari Lodges",
+      "TRAVEL TIPS",
+      "Serengeti",
+      "Londolozi",
+      "Ellerman House",
+      "Wilderness",
+      "&Beyond",
+      "Tswalu Kalahari Reserve",
+      "Singita",
+      "African Bush Camps",
+      "Odzala-Kokoua National Park",
+      "Silvan Safari",
+      "Londolozi Private Granite Suites",
+      "Singita Grumeti",
+      "&Beyond Sossusvlei Desert Lodge",
+      "Duba Plains Camp",
+      "Royal Malewane",
+      "Bisate Lodge",
+      "Jao Camp",
+      "VIEW ALL ACCOMMODATION",
+      "What To Pack For A Safari",
+      "Best time to visit Kruger National Park",
+      "A typical Day on Safari in Kruger",
+      "Best Time To Visit Victoria Falls",
+      "Best Time To Visit Zimbabwe",
+      "Best Time To Visit Zambia",
+      "Best Time To Visit Namibia",
+      "IMPACT",
+      "STORIES",
+      "Who We Are",
+      "About Us",
+      "Meet the Team",
+      "Our Awards & Recognitions",
+      "Client Feedback",
+      "Doing Good",
+      "Sustainable Tourism",
+      "Privacy Policy",
+      "Careers",
+      "BOOK WITH US",
+      "Why Book with Us?",
+      "What are Tailor-made Tours?",
+      "Travel with Confidence",
+      "Fully Refundable Deposit",
+      "Travel Insurance",
+      "Best Price Guarantee",
+      "When to Travel to Africa?",
+      "English ( USD-$ )",
+      "ZA Number: +27 21 469 2600",
+      "Facebook",
+      "LinkedIn",
+      "Instagram",
+      "YouTube"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Revealed: Sun, Savannah and Spice",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Back to start",
+        18
+       ],
+       [
+        "NATIONAL PARKS & RESERVES",
+        1
+       ],
+       [
+        "Sabi Sand Game Reserve",
+        1
+       ],
+       [
+        "Maasai Mara National Reserve",
+        1
+       ],
+       [
+        "Tailor-Made Kruger Safaris",
+        1
+       ],
+       [
+        "Tswalu Kalahari Reserve",
+        1
+       ],
+       [
+        "Why should I visit a Private Game Reserve?",
+        1
+       ],
+       [
+        "BOOK WITH US",
+        1
+       ],
+       [
+        "Why Book with Us?",
+        1
+       ],
+       [
+        "What are Tailor-made Tours?",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ],
+       [
+        "START PLANNING NOW",
+        1
+       ],
+       [
+        "CALL US ZA Number: +27 21 469 2600",
+        1
+       ],
+       [
+        "CALL US",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "NATIONAL PARKS & RESERVES",
+       "Back to start",
+       "Sabi Sand Game Reserve",
+       "Maasai Mara National Reserve",
+       "Tailor-Made Kruger Safaris",
+       "Tswalu Kalahari Reserve",
+       "Why should I visit a Private Game Reserve?",
+       "BOOK WITH US",
+       "START PLANNING NOW"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://widget.trustpilot.com/trustboxes/53aa8807dec7e10d38f59f32/index.html?templateId=53aa8807dec7e10d38f59f32&businessunitId=4da4e1c80000",
+      "https://widget.trustpilot.com/trustboxes/5419b6ffb0d04a076446a9af/index.html?templateId=5419b6ffb0d04a076446a9af&businessunitId=4da4e1c80000",
+      "https://www.googletagmanager.com/ns.html?id=GTM-NZ2BCQ",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "calendly": "mentioned-in-html",
+       "trustpilot": "script/iframe",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "CALL US ZA Number: +27 21 469 2600",
+        "where": "bottom",
+        "visible": true
+       },
+       {
+        "text": "+27 21 469 2600",
+        "where": "footer",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "info@rhinoafrica.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "cookiebanner",
+        "cls": "",
+        "pos": "fixed",
+        "top": 415,
+        "bottom": 0,
+        "h": 249,
+        "w": 390,
+        "text": "Cookie Preferences Necessary (2) Preferences (2) Statistics (12) Marketing (30) Unclassified (9) Our"
+       },
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "site-header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 583,
+        "h": 81,
+        "w": 390,
+        "text": "DESTINATIONS JOURNEYS EXPERIENCES INSPIRATION IMPACT STORIES"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "notification-bar",
+        "pos": "fixed",
+        "top": 585,
+        "bottom": 0,
+        "h": 79,
+        "w": 390,
+        "text": "Security Reminder: Travel scams are on the rise. Please verify any unexpected Rhino Africa booking m"
+       }
+      ]
+     },
+     "prices": [
+      "phy Safaris Big 5 Safari Safari Holidays Ideal duration: 10 days From $8,593 per person Best time to go: Best Good Mixed YOUR ",
+      "k Tanzania 4 Nights: Zanzibar Archipelago Tanzania 10 Nights in total $8,593 per person Like what you see? Let's make it happe"
+     ],
+     "trust": [
+      {
+       "match": "TripAdvisor",
+       "text": "Ratings powered by TripAdvisor",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Good Work Foundation",
+       "src": "gwf-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Click Foundation",
+       "src": "the-click-foundation-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Wildlife Act",
+       "src": "wildlife-act-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Challenge4ACause",
+       "src": "c4ac-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Khumbulani Day Care Centre",
+       "src": "khumbulani-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Save the Rhino Trust",
+       "src": "save-the-rhino-trust-logo-01.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Africa's Most Awarded Safari Company",
+       "src": "wta-2023-winner-shield.Br50ENNs.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Trip Advisor Logo",
+       "src": "tripadvisor_logo_tagline.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      },
+      {
+       "alt": "SATSA",
+       "src": "satsa-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "ATTA",
+       "src": "ATTA-logo-01.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Google Preferred Badge",
+       "src": "google_preferred_source_badge_dark_en@2x.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Montserrat",
+       "RhinoAfricaNavigation",
+       "RhinoAfrica"
+      ],
+      "h1": "Montserrat, sans-serif",
+      "h1Style": "40px/400 ls=normal tt=none",
+      "h2": "sans-serif",
+      "h2Style": "20px/500 ls=normal tt=none",
+      "body": "Montserrat, sans-serif",
+      "bodyStyle": "20px/600 ls=normal tt=none",
+      "nav": "Montserrat, sans-serif",
+      "button": "Montserrat, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 7174722",
+       "rgb(241, 243, 245) 1256220",
+       "rgb(243, 243, 243) 290550",
+       "rgb(0, 0, 0) 258960",
+       "rgb(39, 39, 39) 247097",
+       "rgb(240, 240, 240) 240327",
+       "rgb(153, 0, 0) 43258",
+       "rgb(130, 130, 130) 36526"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 163",
+       "rgb(39, 39, 39) 74",
+       "rgb(153, 0, 0) 36",
+       "rgb(130, 130, 130) 28",
+       "rgb(255, 255, 255) 26",
+       "rgb(221, 221, 221) 18"
+      ]
+     },
+     "images": {
+      "count": 39,
+      "alts": [
+       "Zebra peacefully grazing in the beautiful vast fields of Arusha",
+       "Picturesque views of Arusha, Tanzania",
+       "See for yourself what is so iconic about Mount Meru, Tanzania",
+       "The serene valleys and lakes to be found in Tanzania",
+       "Mount Meru covered in mist, Tanzania",
+       "A mother rhino keeping her calf close by in Ngorongoro Crater, Tanzania",
+       "Enjoy a sunset like no other at Ngorongoro crater, Tanzania",
+       "Amazing sights to be seen when at Ngorongoro crater, Tanzania",
+       "Breathtaking views of Ngorongoro crater in all of its glory in Tanzania"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 0px 0px 35",
+       "3px 4",
+       "0px 3px 0px 0px 4"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5040,
+    "requests": 121,
+    "shotCappedAt": null
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://www.rhinoafrica.com/en/contact-us",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 815,
+    "lcpMs": 272,
+    "perf": {
+     "ttfb": 92,
+     "domContentLoaded": 735,
+     "perfApiTransferKB": 1655,
+     "resources": 66
+    },
+    "cookie": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "data": {
+     "url": "https://www.rhinoafrica.com/en/contact-us",
+     "title": "Contact Us - Best price guaranteed",
+     "docHeight": 1193,
+     "nav": [
+      "back to rhinoafrica.com"
+     ],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "enquiries@rhinoafrica.com",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [],
+     "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=GTM-NZ2BCQ",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "trustpilot": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [
+       "enquiries@rhinoafrica.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "CookiebotWidget",
+        "cls": "",
+        "pos": "fixed",
+        "top": 842,
+        "bottom": 10,
+        "h": 48,
+        "w": 48,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Africa's Most Awarded Safari Company",
+       "src": "wta-2023-winner-shield.Br50ENNs.png",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "TrustPilot-logo-black.BhVZMSbm.svg",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Montserrat",
+       "RhinoAfricaNavigation",
+       "RhinoAfrica"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Montserrat, sans-serif",
+      "h2Style": "28px/700 ls=normal tt=none",
+      "body": "Montserrat, Arial, \"Noto Sans\", sans-serif",
+      "bodyStyle": "12px/300 ls=normal tt=none",
+      "nav": "Montserrat, sans-serif",
+      "button": "Montserrat, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 240, 240) 1717920",
+       "rgb(255, 255, 255) 1421133",
+       "rgb(234, 234, 234) 43479",
+       "rgb(0, 182, 122) 3840",
+       "rgb(153, 0, 0) 386"
+      ],
+      "textByCount": [
+       "rgb(39, 39, 39) 14",
+       "rgb(0, 0, 0) 4",
+       "rgb(153, 0, 0) 3",
+       "rgb(255, 255, 255) 2",
+       "rgb(139, 139, 139) 1",
+       "rgb(186, 181, 181) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "10px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2277,
+    "requests": 80,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.rhinoafrica.com/en/contact-us",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 1016,
+    "lcpMs": 428,
+    "perf": {
+     "ttfb": 210,
+     "domContentLoaded": 929,
+     "perfApiTransferKB": 1657,
+     "resources": 70
+    },
+    "cookie": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "data": {
+     "url": "https://www.rhinoafrica.com/en/contact-us",
+     "title": "Contact Us - Best price guaranteed",
+     "docHeight": 664,
+     "nav": [
+      "back to rhinoafrica.com"
+     ],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [],
+      "aboveFold": []
+     },
+     "forms": [],
+     "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=GTM-NZ2BCQ",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "about:blank"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "trustpilot": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [
+       "enquiries@rhinoafrica.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "CookiebotWidget",
+        "cls": "",
+        "pos": "fixed",
+        "top": 606,
+        "bottom": 10,
+        "h": 48,
+        "w": 48,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Africa's Most Awarded Safari Company",
+       "src": "wta-2023-winner-shield.Br50ENNs.png",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot Star",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "TrustPilot-logo-black.BhVZMSbm.svg",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      },
+      {
+       "alt": "TrustPilot score",
+       "src": "svg%3e",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Montserrat",
+       "RhinoAfricaNavigation",
+       "RhinoAfrica"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Montserrat, sans-serif",
+      "h2Style": "20px/700 ls=normal tt=none",
+      "body": null,
+      "bodyStyle": null,
+      "nav": "Montserrat, sans-serif",
+      "button": "Montserrat, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 308573",
+       "rgb(240, 240, 240) 258960",
+       "rgb(0, 0, 0) 258960",
+       "rgb(234, 234, 234) 65630",
+       "rgb(153, 0, 0) 93"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 4",
+       "rgb(39, 39, 39) 2",
+       "rgb(153, 0, 0) 1",
+       "rgb(139, 139, 139) 1",
+       "rgb(186, 181, 181) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2340,
+    "requests": 86,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:31:17.596Z"
+}

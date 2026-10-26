@@ -1,0 +1,15 @@
+{
+ "key": "angama",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://angama.com/",
+    "mode": "desktop",
+    "status": 403,
+    "loadMs": 927,
+    "blocked": "bot check or refusal (HTTP 403, title \"Attention Required! | Cloudflare\")"
+   }
+  }
+ },
+ "captured": "2026-10-26T13:28:59.950Z"
+}

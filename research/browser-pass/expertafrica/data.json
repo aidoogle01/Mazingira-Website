@@ -1,0 +1,3294 @@
+{
+ "key": "expertafrica",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://www.expertafrica.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 2559,
+    "lcpMs": 1748,
+    "perf": {
+     "ttfb": 1006,
+     "domContentLoaded": 1315,
+     "perfApiTransferKB": 1479,
+     "resources": 61
+    },
+    "cookie": "button:ACCEPT ALL",
+    "data": {
+     "url": "https://www.expertafrica.com/",
+     "title": "African Safaris, Tours & Adventures | Expert Africa",
+     "docHeight": 9443,
+     "nav": [
+      "US$",
+      "1-800-242-2434",
+      "INSPIRE ME",
+      "SEARCH",
+      "CONTACT US",
+      "AFRICA",
+      "SAFARI COLLECTIONS",
+      "WILDLIFE",
+      "ABOUT US",
+      "BLOG"
+     ],
+     "h1": [
+      {
+       "text": "Tailor-made African safaris from the experts",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Tailor-made African safaris from the experts",
+        "src": "https://www.expertafrica.com/images/static-content/b3686ce9f0d3469496921ed31fb02db6-1600.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "CONTACT US",
+        1
+       ],
+       [
+        "get in contact",
+        1
+       ],
+       [
+        "40 editions of 8 guidebooks written",
+        1
+       ],
+       [
+        "Contact us",
+        1
+       ],
+       [
+        "Talk to an Expert",
+        1
+       ],
+       [
+        "Call or email us now!",
+        1
+       ],
+       [
+        "The first-timer’s guide to booking a safari",
+        1
+       ],
+       [
+        "See all contact details",
+        1
+       ],
+       [
+        "Make an enquiry",
+        1
+       ],
+       [
+        "7,300 likes on Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACT US"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.expertafrica.com/",
+       "id": "",
+       "cls": "c-siteFooter__newsLetterForm",
+       "y": 9296,
+       "fieldsTotal": 5,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeTitle",
+         "label": "Title",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "First name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Last name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Email Address",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeCountry",
+         "label": "Country",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN UP TO NEWSLETTER"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/",
+       "id": "",
+       "cls": "c-newsletterFormPopup__inner h-form",
+       "y": 448,
+       "fieldsTotal": 5,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Your email address",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletter_popup_title",
+         "label": "Title",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Enter first name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Enter last name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletter_popup_country",
+         "label": "Country",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN-UP",
+        "Sign-up"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 3,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/#",
+       "id": "",
+       "cls": "c-siteSearch__form",
+       "y": -152,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search Expert Africa",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Telephone",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "+44 203 405 6666",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "headerLineContainer",
+        "cls": "c-siteHeader__contactWrapper js-siteHeader__contactWrapper r",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 852,
+        "h": 48,
+        "w": 1440,
+        "text": "US$ TALK TO AN EXPERT 1-800-242-2434 LINES OPEN NOW User menu"
+       },
+       {
+        "tag": "span",
+        "id": "1F206CF3-E954-4FA3-9F21-273FC53CFE20",
+        "cls": "",
+        "pos": "fixed",
+        "top": 3549,
+        "bottom": -2650,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Upholds AITO Quality charter",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "AITO Reviews",
+       "src": "aito-logo-400.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Nominee British Travel Awards 2025",
+       "src": "bta-nominee-2025.png?2025121601",
+       "where": "footer"
+      },
+      {
+       "alt": "Silver Small British Travel Awards 2024 Best Travel Company ",
+       "src": "bta-award-2024.png?2025121601",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "248 Reviews",
+      "263 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Buenos Aires",
+       "Untitled Serif"
+      ],
+      "h1": "\"Untitled Serif\", Georgia, serif",
+      "h1Style": "42px/400 ls=-0.2px tt=none",
+      "h2": "\"Untitled Serif\", Georgia, serif",
+      "h2Style": "42px/400 ls=-0.2px tt=none",
+      "body": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "bodyStyle": "15px/700 ls=1.5px tt=uppercase",
+      "nav": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "button": "\"Buenos Aires\", Helvetica, Arial, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 18053857",
+       "rgb(253, 253, 253) 4558866",
+       "rgb(26, 26, 26) 3573225",
+       "rgb(249, 249, 249) 2956335",
+       "rgb(250, 250, 250) 2399783",
+       "rgb(229, 227, 223) 704060",
+       "rgb(0, 0, 0) 248223",
+       "rgb(220, 215, 210) 46705"
+      ],
+      "textByCount": [
+       "rgb(91, 94, 109) 120",
+       "rgb(34, 24, 35) 120",
+       "rgb(255, 255, 255) 70",
+       "rgb(189, 190, 189) 42",
+       "rgb(129, 115, 145) 33",
+       "rgb(169, 161, 156) 8"
+      ]
+     },
+     "images": {
+      "count": 84,
+      "alts": [
+       "Tailor-made African safaris from the experts",
+       "25 years in travel",
+       "11 charities supported",
+       "Lion",
+       "Leopard",
+       "Cheetah",
+       "Wild dog",
+       "Mountain Gorilla",
+       "Chimpanzee",
+       "Aardvark",
+       "Black Rhino",
+       "Brown Hyena",
+       "Buffalo",
+       "Eland",
+       "Elephant",
+       "Gerenuk",
+       "Giraffe",
+       "Hippo",
+       "Oryx",
+       "Meerkat",
+       "Pangolin",
+       "Roan antelope",
+       "Sable antelope",
+       "Sitatunga",
+       "Spotted Hyena",
+       "Striped Hyena",
+       "White Rhino ",
+       "Wildebeest",
+       "Zebra",
+       "Beach holidays",
+       "Birdwatching safaris",
+       "Cultural Experiences",
+       "Diving & snorkelling holidays",
+       "Family safaris",
+       "Friends and Family Gatherings",
+       "Honeymoons",
+       "Luxury safaris",
+       "Photography safaris",
+       "Private safari camps & lodges",
+       "Private Safari Guides"
+      ]
+     },
+     "slop": {
+      "eyebrows": 94,
+      "eyebrowEx": [
+       "Talk to an expert",
+       "1-800-242-2434",
+       "Lines open now",
+       "Inspire me",
+       "Search",
+       "Contact us"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "Richard Mellor  |  Qin Xie"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 51",
+       "4px 5",
+       "2px 1"
+      ],
+      "animAttrs": 1,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5498,
+    "requests": 158,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://www.expertafrica.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 2124,
+    "lcpMs": 1156,
+    "perf": {
+     "ttfb": 689,
+     "domContentLoaded": 890,
+     "perfApiTransferKB": 1366,
+     "resources": 52
+    },
+    "cookie": "button:ACCEPT ALL",
+    "data": {
+     "url": "https://www.expertafrica.com/",
+     "title": "African Safaris, Tours & Adventures | Expert Africa",
+     "docHeight": 11369,
+     "nav": [
+      "Menu",
+      "Telephone",
+      "INSPIRE ME"
+     ],
+     "h1": [
+      {
+       "text": "Tailor-made African safaris from the experts",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Tailor-made African safaris from the experts",
+        "src": "https://www.expertafrica.com/images/static-content/b3686ce9f0d3469496921ed31fb02db6-1200.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "get in contact",
+        1
+       ],
+       [
+        "40 editions of 8 guidebooks written",
+        1
+       ],
+       [
+        "Contact us",
+        1
+       ],
+       [
+        "Talk to an Expert",
+        1
+       ],
+       [
+        "Call or email us now!",
+        1
+       ],
+       [
+        "The first-timer’s guide to booking a safari",
+        1
+       ],
+       [
+        "See all contact details",
+        1
+       ],
+       [
+        "Make an enquiry",
+        1
+       ],
+       [
+        "7,300 likes on Facebook",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://www.expertafrica.com/",
+       "id": "",
+       "cls": "c-siteFooter__newsLetterForm",
+       "y": 10698,
+       "fieldsTotal": 5,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeTitle",
+         "label": "Title",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "First name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Last name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Email Address",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeCountry",
+         "label": "Country",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN UP TO NEWSLETTER"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/",
+       "id": "",
+       "cls": "c-newsletterFormPopup__inner h-form",
+       "y": 297,
+       "fieldsTotal": 5,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Your email address",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletter_popup_title",
+         "label": "Title",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Enter first name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Enter last name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletter_popup_country",
+         "label": "Country",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN-UP",
+        "Sign-up"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 3,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/#",
+       "id": "",
+       "cls": "c-siteSearch__form",
+       "y": 0,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search Expert Africa",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Telephone",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "+44 203 405 6666",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "c-siteHeaderMobile row justify-content-between align-items-c",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 615,
+        "h": 49,
+        "w": 390,
+        "text": "Menu Telephone"
+       },
+       {
+        "tag": "span",
+        "id": "CA799FE0-96E4-4101-8112-793B1106E0E0",
+        "cls": "",
+        "pos": "fixed",
+        "top": 4007,
+        "bottom": -3344,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in full 6,771 trip reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Upholds AITO Quality charter",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "AITO Reviews",
+       "src": "aito-logo-1200.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Nominee British Travel Awards 2025",
+       "src": "bta-nominee-2025.png?2025121601",
+       "where": "footer"
+      },
+      {
+       "alt": "Silver Small British Travel Awards 2024 Best Travel Company ",
+       "src": "bta-award-2024.png?2025121601",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "248 Reviews",
+      "263 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Buenos Aires",
+       "Untitled Serif"
+      ],
+      "h1": "\"Untitled Serif\", Georgia, serif",
+      "h1Style": "27px/400 ls=-0.2px tt=none",
+      "h2": "\"Untitled Serif\", Georgia, serif",
+      "h2Style": "27px/400 ls=-0.2px tt=none",
+      "body": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "bodyStyle": "16px/300 ls=0.2px tt=none",
+      "nav": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "button": "\"Buenos Aires\", Helvetica, Arial, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 10956403",
+       "rgb(253, 253, 253) 1907271",
+       "rgb(249, 249, 249) 899541",
+       "rgb(26, 26, 26) 749970",
+       "rgb(250, 250, 250) 710001",
+       "rgb(229, 227, 223) 231660",
+       "rgb(0, 0, 0) 134166",
+       "rgb(244, 137, 65) 35700"
+      ],
+      "textByCount": [
+       "rgb(91, 94, 109) 109",
+       "rgb(34, 24, 35) 101",
+       "rgb(255, 255, 255) 66",
+       "rgb(189, 190, 189) 42",
+       "rgb(129, 115, 145) 33",
+       "rgb(169, 161, 156) 8"
+      ]
+     },
+     "images": {
+      "count": 69,
+      "alts": [
+       "Tailor-made African safaris from the experts",
+       "25 years in travel",
+       "11 charities supported",
+       "Lion",
+       "Leopard",
+       "Cheetah",
+       "Wild dog",
+       "Mountain Gorilla",
+       "Chimpanzee",
+       "Aardvark",
+       "Black Rhino",
+       "Brown Hyena",
+       "Buffalo",
+       "Eland",
+       "Elephant",
+       "Gerenuk",
+       "Giraffe",
+       "Hippo",
+       "Oryx",
+       "Meerkat",
+       "Pangolin",
+       "Roan antelope",
+       "Sable antelope",
+       "Sitatunga",
+       "Spotted Hyena",
+       "Striped Hyena",
+       "White Rhino ",
+       "Wildebeest",
+       "Zebra",
+       "Beach holidays",
+       "Birdwatching safaris",
+       "Cultural Experiences",
+       "Diving & snorkelling holidays",
+       "Family safaris",
+       "Friends and Family Gatherings",
+       "Honeymoons",
+       "Luxury safaris",
+       "Photography safaris",
+       "Private safari camps & lodges",
+       "Private Safari Guides"
+      ]
+     },
+     "slop": {
+      "eyebrows": 83,
+      "eyebrowEx": [
+       "Inspire me",
+       "Find inspiring trips",
+       "EXCELLENT",
+       "Visited: Kenya",
+       "Travelled: 9 Oct - 20 Oct 2026",
+       "Overall trip rating: Excellent"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "Richard Mellor  |  Qin Xie"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 2,
+      "radii": [
+       "3px 51",
+       "4px 5",
+       "2px 1"
+      ],
+      "animAttrs": 1,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3701,
+    "requests": 120,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 1982,
+    "lcpMs": 1228,
+    "perf": {
+     "ttfb": 529,
+     "domContentLoaded": 730,
+     "perfApiTransferKB": 2178,
+     "resources": 98
+    },
+    "cookie": "button:ACCEPT ALL",
+    "data": {
+     "url": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+     "title": "Bat-eared Fox Safari: 3 nights in Tanzania | Expert Africa",
+     "docHeight": 11533,
+     "nav": [
+      "US$",
+      "1-800-242-2434",
+      "SEARCH",
+      "CONTACT US",
+      "AFRICA",
+      "SAFARI COLLECTIONS",
+      "WILDLIFE",
+      "ABOUT US",
+      "INSPIRE ME",
+      "BLOG"
+     ],
+     "h1": [
+      {
+       "text": "BAT-EARED FOX FLY-IN SAFARI: SUMMARY",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://www.expertafrica.com/images/itinerary/138d2678f69b4516867b63ff38741818-1600.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE NOW",
+        10
+       ],
+       [
+        "CONTACT US",
+        2
+       ],
+       [
+        "The first-timer’s guide to booking a safari",
+        1
+       ],
+       [
+        "See all contact details",
+        1
+       ],
+       [
+        "Make an enquiry",
+        1
+       ],
+       [
+        "7,300 likes on Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACT US"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+       "id": "",
+       "cls": "c-siteFooter__newsLetterForm",
+       "y": 11386,
+       "fieldsTotal": 5,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeTitle",
+         "label": "Title",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "First name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Last name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Email Address",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeCountry",
+         "label": "Country",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN UP TO NEWSLETTER"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 3,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+       "id": "",
+       "cls": "c-mobileMenu__searchForm--child",
+       "y": 0,
+       "fieldsTotal": 2,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "offCanvas$ctl06",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "offCanvas$ctl07",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari#",
+       "id": "",
+       "cls": "c-siteSearch__form",
+       "y": -152,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search Expert Africa",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Telephone",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "headerContainer",
+        "cls": "c-siteHeader js-siteHeader w-100",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 725,
+        "h": 175,
+        "w": 1440,
+        "text": "Skip to main content US$ TALK TO AN EXPERT 1-800-242-2434 LINES OPEN NOW User menu SEARCH CONTACT US"
+       },
+       {
+        "tag": "span",
+        "id": "14504570-1C31-4B34-8FB7-44F29DD11D0D",
+        "cls": "",
+        "pos": "fixed",
+        "top": 1187,
+        "bottom": -288,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       },
+       {
+        "tag": "span",
+        "id": "B00073E6-432D-433C-9282-C78A4ED5409F",
+        "cls": "",
+        "pos": "fixed",
+        "top": 4064,
+        "bottom": -3165,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "BLOG AFRICA TANZANIA SAFARIS BAT-EARED FOX FLY-IN SAFARI SUMMARY FROM US$2,740-US$3,200, BASED ON TWO TRAVELLERS Bat-eared Fox F",
+      "CA TANZANIA SAFARIS BAT-EARED FOX FLY-IN SAFARI SUMMARY FROM US$2,740-US$3,200, BASED ON TWO TRAVELLERS Bat-eared Fox Fly-in Saf",
+      "es Salaam International Airport > London Heathrow Typical Prices From US$1,740 pp Key species to see on the Bat-eared Fox Fly-in",
+      " in the heart of the Serengeti. Visiting Ngorongoro Crater, Serengeti US$3,690 - US$5,400 per person, based on two travellers SE",
+      "rt of the Serengeti. Visiting Ngorongoro Crater, Serengeti US$3,690 - US$5,400 per person, based on two travellers SEE DETAILS E",
+      "s are available in these two wildlife havens. Visiting Ruaha, Nyerere US$5,050 - US$5,860 per person, based on two travellers SE",
+      "able in these two wildlife havens. Visiting Ruaha, Nyerere US$5,050 - US$5,860 per person, based on two travellers SEE DETAILS E",
+      "ational parks. Visiting Tarangire, Ngorongoro Crater and 1 other area US$5,550 - US$6,420 per person, based on two travellers SE",
+      "ks. Visiting Tarangire, Ngorongoro Crater and 1 other area US$5,550 - US$6,420 per person, based on two travellers SEE DETAILS E",
+      "guests during this comfortable fly-in safari. Visiting Nyerere, Ruaha US$7,020 - US$9,090 per person, based on two travellers SE",
+      "ng this comfortable fly-in safari. Visiting Nyerere, Ruaha US$7,020 - US$9,090 per person, based on two travellers SEE DETAILS E",
+      "so offer a range of varied safari activities. Visiting Nyerere, Ruaha US$7,790 - US$8,180 per person, based on two travellers SE"
+     ],
+     "trust": [
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Upholds AITO Quality charter",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "AITO Reviews",
+       "src": "aito-logo-400.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Nominee British Travel Awards 2025",
+       "src": "bta-nominee-2025.png?2025121601",
+       "where": "footer"
+      },
+      {
+       "alt": "Silver Small British Travel Awards 2024 Best Travel Company ",
+       "src": "bta-award-2024.png?2025121601",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "1 Starts: Dar es Salaam International Airport After collecting you",
+      "248 Reviews",
+      "263 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Buenos Aires",
+       "Untitled Serif"
+      ],
+      "h1": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "h1Style": "15px/700 ls=1.5px tt=uppercase",
+      "h2": "\"Untitled Serif\", Georgia, serif",
+      "h2Style": "42px/400 ls=-0.2px tt=none",
+      "body": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "bodyStyle": "15px/700 ls=1.5px tt=uppercase",
+      "nav": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "button": "\"Buenos Aires\", Helvetica, Arial, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 18876974",
+       "rgb(253, 253, 253) 8924513",
+       "rgb(250, 250, 250) 2180318",
+       "rgb(249, 249, 249) 2144812",
+       "rgb(26, 26, 26) 1717920",
+       "rgb(237, 237, 237) 958354",
+       "rgb(229, 227, 223) 470010",
+       "rgb(216, 216, 216) 337296"
+      ],
+      "textByCount": [
+       "rgb(91, 94, 109) 177",
+       "rgb(34, 24, 35) 84",
+       "rgb(255, 255, 255) 43",
+       "rgb(189, 190, 189) 26",
+       "rgb(169, 161, 156) 13",
+       "rgb(0, 0, 0) 11"
+      ]
+     },
+     "images": {
+      "count": 36,
+      "alts": [
+       "Bat-eared Fox Fly-in Safari: prices",
+       "About image",
+       "Bat-eared Fox Fly-in Safari: flights & prices",
+       "Inspire me",
+       "AITO Reviews",
+       "Facebook Reviews",
+       "Google Reviews",
+       "What is noctourism—and why is it on the rise?",
+       "The first-timer’s guide to booking a safari",
+       "The world’s greatest holidays for children, age by age",
+       "Where is hot in May? 16 sunny destinations to visit in 2025"
+      ]
+     },
+     "slop": {
+      "eyebrows": 87,
+      "eyebrowEx": [
+       "Talk to an expert",
+       "1-800-242-2434",
+       "Lines open now",
+       "Search",
+       "Contact us",
+       "Contact us"
+      ],
+      "dots": 11,
+      "dotEx": [
+       "5 days • 2 locations • 1 country\n\t\t\t\t\t\tKILIMANJARO AIRPORT TO KILIMANJARO AIRPOR",
+       "6 days • 2 locations • 1 country\n\t\t\t\t\t\tDAR ES SALAAM AIRPORT TO DAR ES SALAAM AI",
+       "7 days • 3 locations • 1 country\n\t\t\t\t\t\tKILIMANJARO AIRPORT TO KILIMANJARO AIRPOR",
+       "7 days • 2 locations • 1 country\n\t\t\t\t\t\tDAR ES SALAAM AIRPORT TO DAR ES SALAAM AI"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 10"
+      ],
+      "animAttrs": 3,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4205,
+    "requests": 167,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 2403,
+    "lcpMs": 1516,
+    "perf": {
+     "ttfb": 807,
+     "domContentLoaded": 1180,
+     "perfApiTransferKB": 1676,
+     "resources": 65
+    },
+    "cookie": "button:ACCEPT ALL",
+    "data": {
+     "url": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+     "title": "Bat-eared Fox Safari: 3 nights in Tanzania | Expert Africa",
+     "docHeight": 16625,
+     "nav": [
+      "Menu",
+      "Telephone"
+     ],
+     "h1": [
+      {
+       "text": "BAT-EARED FOX FLY-IN SAFARI: SUMMARY",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://www.expertafrica.com/images/itinerary/138d2678f69b4516867b63ff38741818-1200.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE NOW",
+        10
+       ],
+       [
+        "MAKE AN ENQUIRY",
+        1
+       ],
+       [
+        "The first-timer’s guide to booking a safari",
+        1
+       ],
+       [
+        "See all contact details",
+        1
+       ],
+       [
+        "Make an enquiry",
+        1
+       ],
+       [
+        "7,300 likes on Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "MAKE AN ENQUIRY"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+       "id": "",
+       "cls": "c-siteFooter__newsLetterForm",
+       "y": 15949,
+       "fieldsTotal": 5,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeTitle",
+         "label": "Title",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "First name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Last name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Email Address",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "footer$newsletterSubscribeCountry",
+         "label": "Country",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN UP TO NEWSLETTER"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 3,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari",
+       "id": "",
+       "cls": "c-mobileMenu__searchForm--child",
+       "y": 0,
+       "fieldsTotal": 2,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "offCanvas$ctl06",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "offCanvas$ctl07",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/tanzania/safari/bat-eared-fox-fly-in-safari#",
+       "id": "",
+       "cls": "c-siteSearch__form",
+       "y": 0,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search Expert Africa",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Telephone",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "headerContainer",
+        "cls": "c-siteHeader js-siteHeader w-100",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 600,
+        "h": 64,
+        "w": 390,
+        "text": "Menu Telephone"
+       },
+       {
+        "tag": "span",
+        "id": "A5DDD9D9-7D04-4B3D-9F20-24188F8965B2",
+        "cls": "",
+        "pos": "fixed",
+        "top": 1758,
+        "bottom": -1095,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       },
+       {
+        "tag": "span",
+        "id": "A0B446AA-1CBB-4E15-BBB9-C14767C3720C",
+        "cls": "",
+        "pos": "fixed",
+        "top": 4839,
+        "bottom": -4176,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "y-in Safari Turaco Safari Summary Map Day-by-day Price & details FROM US$2,740-US$3,200, BASED ON TWO TRAVELLERS Bat-eared Fox F",
+      "ri Turaco Safari Summary Map Day-by-day Price & details FROM US$2,740-US$3,200, BASED ON TWO TRAVELLERS Bat-eared Fox Fly-in Saf",
+      "es Salaam International Airport > London Heathrow Typical Prices From US$1,740 pp Key species to see on the Bat-eared Fox Fly-in",
+      " in the heart of the Serengeti. Visiting Ngorongoro Crater, Serengeti US$3,690 - US$5,400 per person, based on two travellers SE",
+      "rt of the Serengeti. Visiting Ngorongoro Crater, Serengeti US$3,690 - US$5,400 per person, based on two travellers SEE DETAILS E",
+      "s are available in these two wildlife havens. Visiting Ruaha, Nyerere US$5,050 - US$5,860 per person, based on two travellers SE",
+      "able in these two wildlife havens. Visiting Ruaha, Nyerere US$5,050 - US$5,860 per person, based on two travellers SEE DETAILS E",
+      "ational parks. Visiting Tarangire, Ngorongoro Crater and 1 other area US$5,550 - US$6,420 per person, based on two travellers SE",
+      "ks. Visiting Tarangire, Ngorongoro Crater and 1 other area US$5,550 - US$6,420 per person, based on two travellers SEE DETAILS E",
+      "guests during this comfortable fly-in safari. Visiting Nyerere, Ruaha US$7,020 - US$9,090 per person, based on two travellers SE",
+      "ng this comfortable fly-in safari. Visiting Nyerere, Ruaha US$7,020 - US$9,090 per person, based on two travellers SEE DETAILS E",
+      "so offer a range of varied safari activities. Visiting Nyerere, Ruaha US$7,790 - US$8,180 per person, based on two travellers SE"
+     ],
+     "trust": [
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in full 6,771 trip reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Upholds AITO Quality charter",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "AITO Reviews",
+       "src": "aito-logo-1200.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Nominee British Travel Awards 2025",
+       "src": "bta-nominee-2025.png?2025121601",
+       "where": "footer"
+      },
+      {
+       "alt": "Silver Small British Travel Awards 2024 Best Travel Company ",
+       "src": "bta-award-2024.png?2025121601",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "1 Starts: Dar es Salaam International Airport After collecting you",
+      "248 Reviews",
+      "263 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Buenos Aires",
+       "Untitled Serif"
+      ],
+      "h1": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "h1Style": "14px/700 ls=1.5px tt=uppercase",
+      "h2": "\"Untitled Serif\", Georgia, serif",
+      "h2Style": "27px/400 ls=-0.2px tt=none",
+      "body": "\"Untitled Serif\", Georgia, serif",
+      "bodyStyle": "32px/400 ls=-0.2px tt=none",
+      "nav": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "button": "\"Buenos Aires\", Helvetica, Arial, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 7119576",
+       "rgb(253, 253, 253) 4118229",
+       "rgb(249, 249, 249) 901101",
+       "rgb(250, 250, 250) 735863",
+       "rgb(237, 237, 237) 503114",
+       "rgb(229, 227, 223) 393079",
+       "rgb(26, 26, 26) 342383",
+       "rgb(244, 137, 65) 171943"
+      ],
+      "textByCount": [
+       "rgb(91, 94, 109) 171",
+       "rgb(34, 24, 35) 67",
+       "rgb(255, 255, 255) 36",
+       "rgb(189, 190, 189) 26",
+       "rgb(169, 161, 156) 13",
+       "rgb(0, 0, 0) 9"
+      ]
+     },
+     "images": {
+      "count": 37,
+      "alts": [
+       "Bat-eared Fox Fly-in Safari: prices",
+       "About image",
+       "Bat-eared Fox Fly-in Safari: flights & prices",
+       "Inspire me",
+       "AITO Reviews",
+       "Facebook Reviews",
+       "Google Reviews",
+       "What is noctourism—and why is it on the rise?",
+       "The first-timer’s guide to booking a safari",
+       "The world’s greatest holidays for children, age by age",
+       "Where is hot in May? 16 sunny destinations to visit in 2025"
+      ]
+     },
+     "slop": {
+      "eyebrows": 67,
+      "eyebrowEx": [
+       "Make an enquiry",
+       "Bat-eared Fox Fly-in Safari: Summary",
+       "Read more",
+       "Go to map view",
+       "Days 1-4",
+       "View full itinerary"
+      ],
+      "dots": 11,
+      "dotEx": [
+       "5 days • 2 locations • 1 country\n\t\t\t\t\t\tKILIMANJARO AIRPORT TO KILIMANJARO AIRPOR",
+       "6 days • 2 locations • 1 country\n\t\t\t\t\t\tDAR ES SALAAM AIRPORT TO DAR ES SALAAM AI",
+       "7 days • 3 locations • 1 country\n\t\t\t\t\t\tKILIMANJARO AIRPORT TO KILIMANJARO AIRPOR",
+       "7 days • 2 locations • 1 country\n\t\t\t\t\t\tDAR ES SALAAM AIRPORT TO DAR ES SALAAM AI"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 10",
+       "8px 1"
+      ],
+      "animAttrs": 3,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4044,
+    "requests": 156,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://www.expertafrica.com/enquiry",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 5235,
+    "lcpMs": 5252,
+    "perf": {
+     "ttfb": 3718,
+     "domContentLoaded": 4445,
+     "perfApiTransferKB": 1673,
+     "resources": 56
+    },
+    "cookie": "button:ACCEPT ALL",
+    "data": {
+     "url": "https://www.expertafrica.com/enquiry",
+     "title": "Submit your enquiry here",
+     "docHeight": 3048,
+     "nav": [
+      "US$",
+      "1-800-242-2434",
+      "SEARCH",
+      "CONTACT US",
+      "AFRICA",
+      "SAFARI COLLECTIONS",
+      "WILDLIFE",
+      "ABOUT US",
+      "INSPIRE ME",
+      "BLOG"
+     ],
+     "h1": [
+      {
+       "text": "Book your tailor made trip",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Book your tailor made trip",
+        "src": "https://www.expertafrica.com/images/static-content/e38c823dd54847fbb63698566f6cae4d-1600.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "CONTACT US",
+        2
+       ],
+       [
+        "CALL US",
+        1
+       ],
+       [
+        "CALL VIA YOUR BROWSER",
+        1
+       ],
+       [
+        "REQUEST A CALL-BACK",
+        1
+       ],
+       [
+        "The first-timer’s guide to booking a safari",
+        1
+       ],
+       [
+        "See all contact details",
+        1
+       ],
+       [
+        "Make an enquiry",
+        1
+       ],
+       [
+        "7,300 likes on Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACT US",
+       "CALL US"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "",
+       "y": 2400,
+       "fieldsTotal": 9,
+       "fieldsVisible": 8,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "accountEmail",
+         "label": "",
+         "placeholder": "email@address.com",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "help",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "who",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "what",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "when",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "where",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "budget",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "other",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Australian Dollars",
+        "British Pounds",
+        "Canadian Dollars",
+        "Euros"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "mt-5",
+       "y": 0,
+       "fieldsTotal": 7,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "title",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "mobilephone",
+         "label": "",
+         "placeholder": "7400 123456",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "homephone",
+         "label": "",
+         "placeholder": "7400 123456",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "workphone",
+         "label": "",
+         "placeholder": "7400 123456",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "accountCountryOfResidence",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "mt-5",
+       "y": 0,
+       "fieldsTotal": 8,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "newAccountTitle",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "mobilephone",
+         "label": "",
+         "placeholder": "201-555-0123",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "homephone",
+         "label": "",
+         "placeholder": "201-555-0123",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "workphone",
+         "label": "",
+         "placeholder": "201-555-0123",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "newAccountCountryOfResidence",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "newsletter",
+         "label": "Tick to receive our newsletter",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "c-siteFooter__newsLetterForm",
+       "y": 2902,
+       "fieldsTotal": 5,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "ctl03$newsletterSubscribeTitle",
+         "label": "Title",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "First name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Last name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Email Address",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "ctl03$newsletterSubscribeCountry",
+         "label": "Country",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN UP TO NEWSLETTER"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 3,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry#",
+       "id": "",
+       "cls": "c-siteSearch__form",
+       "y": -152,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search Expert Africa",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Telephone",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "request a call",
+       "speak to",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "headerContainer",
+        "cls": "c-siteHeader js-siteHeader w-100",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 725,
+        "h": 175,
+        "w": 1440,
+        "text": "Skip to main content US$ TALK TO AN EXPERT 1-800-242-2434 LINES OPEN NOW User menu SEARCH CONTACT US"
+       }
+      ]
+     },
+     "prices": [
+      "our currency? USD Budget How much would you like to spend per person? USD2,000 - 20,000+ per person Any other comments or reques"
+     ],
+     "trust": [
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Upholds AITO Quality charter",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "AITO Reviews",
+       "src": "aito-logo-400.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Nominee British Travel Awards 2025",
+       "src": "bta-nominee-2025.png?2025121601",
+       "where": "footer"
+      },
+      {
+       "alt": "Silver Small British Travel Awards 2024 Best Travel Company ",
+       "src": "bta-award-2024.png?2025121601",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "248 Reviews",
+      "263 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Buenos Aires",
+       "Untitled Serif"
+      ],
+      "h1": "\"Untitled Serif\", Georgia, serif",
+      "h1Style": "77px/400 ls=-0.2px tt=none",
+      "h2": null,
+      "h2Style": null,
+      "body": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "bodyStyle": "15px/700 ls=1.5px tt=uppercase",
+      "nav": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "button": "\"Buenos Aires\", Helvetica, Arial, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 6884363",
+       "rgb(249, 249, 249) 2134530",
+       "rgb(26, 26, 26) 701348",
+       "rgb(244, 137, 65) 48997",
+       "rgb(220, 215, 210) 46705",
+       "rgba(0, 0, 0, 0.05) 4700",
+       "rgb(59, 89, 152) 3465",
+       "rgb(85, 172, 238) 3465"
+      ],
+      "textByCount": [
+       "rgb(91, 94, 109) 54",
+       "rgb(34, 24, 35) 39",
+       "rgb(169, 161, 156) 8",
+       "rgb(244, 137, 65) 7",
+       "rgb(255, 255, 255) 6",
+       "rgb(0, 0, 0) 2"
+      ]
+     },
+     "images": {
+      "count": 8,
+      "alts": [
+       "Book your tailor made trip",
+       "AITO Reviews",
+       "Facebook Reviews",
+       "Google Reviews",
+       "What is noctourism—and why is it on the rise?",
+       "The first-timer’s guide to booking a safari",
+       "The world’s greatest holidays for children, age by age",
+       "Where is hot in May? 16 sunny destinations to visit in 2025"
+      ]
+     },
+     "slop": {
+      "eyebrows": 26,
+      "eyebrowEx": [
+       "Talk to an expert",
+       "1-800-242-2434",
+       "Lines open now",
+       "Search",
+       "Contact us",
+       "Contact us"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "Richard Mellor  |  Qin Xie"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 3"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2524,
+    "requests": 75,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.expertafrica.com/enquiry",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3356,
+    "lcpMs": 3368,
+    "perf": {
+     "ttfb": 1528,
+     "domContentLoaded": 2626,
+     "perfApiTransferKB": 1659,
+     "resources": 51
+    },
+    "cookie": "button:ACCEPT ALL",
+    "data": {
+     "url": "https://www.expertafrica.com/enquiry",
+     "title": "Submit your enquiry here",
+     "docHeight": 3921,
+     "nav": [
+      "Menu",
+      "Telephone"
+     ],
+     "h1": [
+      {
+       "text": "Book your tailor made trip",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Book your tailor made trip",
+        "src": "https://www.expertafrica.com/images/static-content/e38c823dd54847fbb63698566f6cae4d-1200.jpg"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "CALL US",
+        1
+       ],
+       [
+        "CALL VIA YOUR BROWSER",
+        1
+       ],
+       [
+        "REQUEST A CALL-BACK",
+        1
+       ],
+       [
+        "The first-timer’s guide to booking a safari",
+        1
+       ],
+       [
+        "See all contact details",
+        1
+       ],
+       [
+        "Make an enquiry",
+        1
+       ],
+       [
+        "7,300 likes on Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CALL US"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "",
+       "y": 2255,
+       "fieldsTotal": 9,
+       "fieldsVisible": 8,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "accountEmail",
+         "label": "",
+         "placeholder": "email@address.com",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "help",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "who",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "what",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "when",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "where",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "budget",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "other",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Australian Dollars",
+        "British Pounds",
+        "Canadian Dollars",
+        "Euros"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "mt-5",
+       "y": 0,
+       "fieldsTotal": 7,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "title",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "mobilephone",
+         "label": "",
+         "placeholder": "7400 123456",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "homephone",
+         "label": "",
+         "placeholder": "7400 123456",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "workphone",
+         "label": "",
+         "placeholder": "7400 123456",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "accountCountryOfResidence",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "mt-5",
+       "y": 0,
+       "fieldsTotal": 8,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "newAccountTitle",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastname",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "mobilephone",
+         "label": "",
+         "placeholder": "201-555-0123",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "homephone",
+         "label": "",
+         "placeholder": "201-555-0123",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "workphone",
+         "label": "",
+         "placeholder": "201-555-0123",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "newAccountCountryOfResidence",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "newsletter",
+         "label": "Tick to receive our newsletter",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "c-siteFooter__newsLetterForm",
+       "y": 3245,
+       "fieldsTotal": 5,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "ctl03$newsletterSubscribeTitle",
+         "label": "Title",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "First name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Last name",
+         "placeholder": "Last name",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "",
+         "label": "Email address",
+         "placeholder": "Email Address",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "ctl03$newsletterSubscribeCountry",
+         "label": "Country",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SIGN UP TO NEWSLETTER"
+       ]
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 3,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "SEARCH",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://www.expertafrica.com/enquiry#",
+       "id": "",
+       "cls": "c-siteSearch__form",
+       "y": 0,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "",
+         "placeholder": "Search Expert Africa",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "reset",
+         "name": "",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Telephone",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "1-800-242-2434",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "request a call",
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "headerContainer",
+        "cls": "c-siteHeader js-siteHeader w-100",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 600,
+        "h": 64,
+        "w": 390,
+        "text": "Menu Telephone"
+       }
+      ]
+     },
+     "prices": [
+      "our currency? USD Budget How much would you like to spend per person? USD2,000 - 20,000+ per person Any other comments or reques"
+     ],
+     "trust": [
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Our travellers’ opinions 486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in fu",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews 248 Reviews 263 Reviews Reviews of our holidays Our travellers’ comments in full 6,771 trip reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "486 AITO Reviews",
+       "where": "footer"
+      },
+      {
+       "match": "AITO",
+       "text": "Upholds AITO Quality charter",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "AITO Reviews",
+       "src": "aito-logo-1200.png",
+       "where": "footer"
+      },
+      {
+       "alt": "Nominee British Travel Awards 2025",
+       "src": "bta-nominee-2025.png?2025121601",
+       "where": "footer"
+      },
+      {
+       "alt": "Silver Small British Travel Awards 2024 Best Travel Company ",
+       "src": "bta-award-2024.png?2025121601",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "248 Reviews",
+      "263 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Buenos Aires",
+       "Untitled Serif"
+      ],
+      "h1": "\"Untitled Serif\", Georgia, serif",
+      "h1Style": "32px/400 ls=-0.2px tt=none",
+      "h2": null,
+      "h2Style": null,
+      "body": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "bodyStyle": "16px/400 ls=0.2px tt=none",
+      "nav": "\"Buenos Aires\", Helvetica, Arial, sans-serif",
+      "button": "\"Buenos Aires\", Helvetica, Arial, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 2211855",
+       "rgb(249, 249, 249) 928322",
+       "rgb(26, 26, 26) 140400",
+       "rgb(244, 137, 65) 34254",
+       "rgb(220, 215, 210) 21760",
+       "rgba(0, 0, 0, 0.05) 4500",
+       "rgb(59, 89, 152) 3465",
+       "rgb(85, 172, 238) 3465"
+      ],
+      "textByCount": [
+       "rgb(91, 94, 109) 54",
+       "rgb(34, 24, 35) 30",
+       "rgb(169, 161, 156) 8",
+       "rgb(244, 137, 65) 5",
+       "rgb(255, 255, 255) 4"
+      ]
+     },
+     "images": {
+      "count": 8,
+      "alts": [
+       "Book your tailor made trip",
+       "AITO Reviews",
+       "Facebook Reviews",
+       "Google Reviews",
+       "What is noctourism—and why is it on the rise?",
+       "The first-timer’s guide to booking a safari",
+       "The world’s greatest holidays for children, age by age",
+       "Where is hot in May? 16 sunny destinations to visit in 2025"
+      ]
+     },
+     "slop": {
+      "eyebrows": 14,
+      "eyebrowEx": [
+       "Call Us",
+       "Email Us",
+       "Call via your browser",
+       "Request a call-back",
+       "Next step",
+       "James Stewart"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "Richard Mellor  |  Qin Xie"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 3"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2390,
+    "requests": 66,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:29:27.884Z"
+}

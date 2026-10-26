@@ -1,0 +1,1590 @@
+{
+ "key": "naturalselection",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://naturalselection.travel/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 10646,
+    "lcpMs": 6844,
+    "perf": {
+     "ttfb": 4663,
+     "domContentLoaded": 9208,
+     "perfApiTransferKB": 1993,
+     "resources": 132
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://naturalselection.travel/",
+     "title": "Luxury African Safaris - Natural Selection Camps & Lodges",
+     "docHeight": 7107,
+     "nav": [
+      "CAMPS & LODGES",
+      "SPECIAL OFFERS",
+      "ENQUIRE",
+      "MENU"
+     ],
+     "h1": [
+      {
+       "text": "NATURAL SELECTION AFRICAN SAFARIS",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2Vs"
+      ],
+      "sliders": [
+       "has_ae_slider elementor-element elementor-element-ac25cc9 e-con-full e-flex ae-b",
+       "has_ae_slider elementor-element elementor-element-c488d52 e-flex e-con-boxed ae-"
+      ],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "CHECK AVAILABILITY",
+        1
+       ],
+       [
+        "Full Contact Details",
+        1
+       ],
+       [
+        "Plan Your Safari",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE",
+       "CHECK AVAILABILITY"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2VsZWN0aW9uLnRyYXZlbDo0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "intercom": "mentioned-in-html",
+       "hubspotChat": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "grecaptcha-badge",
+        "pos": "fixed",
+        "top": 826,
+        "bottom": 14,
+        "h": 60,
+        "w": 256,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "Namibia South Africa MOKOLWANE PLAINS Southern Okavango Delta 5 Rooms US$ 2,710– US$ 3,995 per night EXPEDITIONS CAMP Northern Ok",
+      "th Africa MOKOLWANE PLAINS Southern Okavango Delta 5 Rooms US$ 2,710– US$ 3,995 per night EXPEDITIONS CAMP Northern Okavango Delt",
+      " US$ 3,995 per night EXPEDITIONS CAMP Northern Okavango Delta 8 Rooms US$ 875 — US$ 1,275 per night NORTH ISLAND OKAVANGO North",
+      " per night EXPEDITIONS CAMP Northern Okavango Delta 8 Rooms US$ 875 — US$ 1,275 per night NORTH ISLAND OKAVANGO Northern Okavango",
+      "1,275 per night NORTH ISLAND OKAVANGO Northern Okavango Delta 7 Rooms US$ 1,545 — US$ 3,545 per night DUKE’S CAMP Northern Okavan",
+      "ght NORTH ISLAND OKAVANGO Northern Okavango Delta 7 Rooms US$ 1,545 — US$ 3,545 per night DUKE’S CAMP Northern Okavango Delta 8 R",
+      "545 — US$ 3,545 per night DUKE’S CAMP Northern Okavango Delta 8 Rooms US$ 1,195 – US$ 2,295 per night DUKE’S EAST Northern Okavan",
+      "545 per night DUKE’S CAMP Northern Okavango Delta 8 Rooms US$ 1,195 – US$ 2,295 per night DUKE’S EAST Northern Okavango Delta 4 R",
+      "195 – US$ 2,295 per night DUKE’S EAST Northern Okavango Delta 4 Rooms US$ 1,195 — US$ 2,295 per night MBAMBA Northern Okavango De",
+      "295 per night DUKE’S EAST Northern Okavango Delta 4 Rooms US$ 1,195 — US$ 2,295 per night MBAMBA Northern Okavango Delta 12 Rooms",
+      "$ 1,195 — US$ 2,295 per night MBAMBA Northern Okavango Delta 12 Rooms US$ 995 - US$1,995 per night TULUDI Khwai Private Reserve",
+      "US$ 2,295 per night MBAMBA Northern Okavango Delta 12 Rooms US$ 995 - US$1,995 per night TULUDI Khwai Private Reserve 7 Rooms US"
+     ],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "683-6835141_financial-times-logo-png.png",
+       "where": "bottom"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "ivyepic",
+       "Cormorant Garamond",
+       "Font Awesome 6 Free",
+       "Font Awesome 7 Pro"
+      ],
+      "h1": "ivyepic, sans-serif",
+      "h1Style": "13px/500 ls=6px tt=uppercase",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "68px/500 ls=normal tt=uppercase",
+      "body": "ivyepic, sans-serif",
+      "bodyStyle": "13px/400 ls=0.5px tt=none",
+      "nav": "ivyepic, sans-serif",
+      "button": "ivyepic, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(239, 239, 239) 13248940",
+       "rgb(255, 255, 255) 7216248",
+       "rgba(255, 255, 255, 0) 3187980",
+       "rgb(242, 241, 235) 2478510",
+       "rgb(228, 226, 217) 1742529",
+       "rgba(255, 255, 255, 0.106) 172800",
+       "rgb(141, 191, 175) 55094",
+       "rgb(172, 127, 72) 15284"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 219",
+       "rgb(172, 127, 72) 58",
+       "rgb(112, 112, 112) 13",
+       "rgb(0, 0, 0) 7",
+       "rgb(141, 191, 175) 4"
+      ]
+     },
+     "images": {
+      "count": 2,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 25,
+      "eyebrowEx": [
+       "Camps & Lodges",
+       "Special Offers",
+       "Enquire",
+       "Menu",
+       "SAFARIS OF CHARACTER",
+       "Explore destinations"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "6 Days | 5 Nights"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7108,
+    "requests": 203,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://naturalselection.travel/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 9729,
+    "lcpMs": 5940,
+    "perf": {
+     "ttfb": 4236,
+     "domContentLoaded": 8076,
+     "perfApiTransferKB": 1690,
+     "resources": 133
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://naturalselection.travel/",
+     "title": "Luxury African Safaris - Natural Selection Camps & Lodges",
+     "docHeight": 8478,
+     "nav": [],
+     "h1": [
+      {
+       "text": "NATURAL SELECTION AFRICAN SAFARIS",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2Vs"
+      ],
+      "sliders": [
+       "has_ae_slider elementor-element elementor-element-ac25cc9 e-con-full e-flex ae-b",
+       "has_ae_slider elementor-element elementor-element-c488d52 e-flex e-con-boxed ae-"
+      ],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://naturalselection.travel/wp-content/uploads/2024/03/Natural-Selection-New-Logo.svg"
+       }
+      ],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "CHECK AVAILABILITY",
+        1
+       ],
+       [
+        "Full Contact Details",
+        1
+       ],
+       [
+        "Plan Your Safari",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [],
+     "iframes": [
+      "about:blank",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2VsZWN0aW9uLnRyYXZlbDo0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "intercom": "mentioned-in-html",
+       "hubspotChat": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "grecaptcha-badge",
+        "pos": "fixed",
+        "top": 590,
+        "bottom": 14,
+        "h": 60,
+        "w": 256,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "Namibia South Africa MOKOLWANE PLAINS Southern Okavango Delta 5 Rooms US$ 2,710– US$ 3,995 per night EXPEDITIONS CAMP Northern Ok",
+      "th Africa MOKOLWANE PLAINS Southern Okavango Delta 5 Rooms US$ 2,710– US$ 3,995 per night EXPEDITIONS CAMP Northern Okavango Delt",
+      " US$ 3,995 per night EXPEDITIONS CAMP Northern Okavango Delta 8 Rooms US$ 875 — US$ 1,275 per night NORTH ISLAND OKAVANGO North",
+      " per night EXPEDITIONS CAMP Northern Okavango Delta 8 Rooms US$ 875 — US$ 1,275 per night NORTH ISLAND OKAVANGO Northern Okavango",
+      "1,275 per night NORTH ISLAND OKAVANGO Northern Okavango Delta 7 Rooms US$ 1,545 — US$ 3,545 per night DUKE’S CAMP Northern Okavan",
+      "ght NORTH ISLAND OKAVANGO Northern Okavango Delta 7 Rooms US$ 1,545 — US$ 3,545 per night DUKE’S CAMP Northern Okavango Delta 8 R",
+      "545 — US$ 3,545 per night DUKE’S CAMP Northern Okavango Delta 8 Rooms US$ 1,195 – US$ 2,295 per night DUKE’S EAST Northern Okavan",
+      "545 per night DUKE’S CAMP Northern Okavango Delta 8 Rooms US$ 1,195 – US$ 2,295 per night DUKE’S EAST Northern Okavango Delta 4 R",
+      "195 – US$ 2,295 per night DUKE’S EAST Northern Okavango Delta 4 Rooms US$ 1,195 — US$ 2,295 per night MBAMBA Northern Okavango De",
+      "295 per night DUKE’S EAST Northern Okavango Delta 4 Rooms US$ 1,195 — US$ 2,295 per night MBAMBA Northern Okavango Delta 12 Rooms",
+      "$ 1,195 — US$ 2,295 per night MBAMBA Northern Okavango Delta 12 Rooms US$ 995 - US$1,995 per night TULUDI Khwai Private Reserve",
+      "US$ 2,295 per night MBAMBA Northern Okavango Delta 12 Rooms US$ 995 - US$1,995 per night TULUDI Khwai Private Reserve 7 Rooms US"
+     ],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "683-6835141_financial-times-logo-png.png",
+       "where": "body"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "ivyepic",
+       "Cormorant Garamond",
+       "Font Awesome 6 Free",
+       "Font Awesome 7 Pro"
+      ],
+      "h1": "ivyepic, sans-serif",
+      "h1Style": "10px/500 ls=6px tt=uppercase",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "38px/500 ls=normal tt=uppercase",
+      "body": "ivyepic, sans-serif",
+      "bodyStyle": "12px/400 ls=0.5px tt=none",
+      "nav": "ivyepic, sans-serif",
+      "button": "ivyepic, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(239, 239, 239) 9230940",
+       "rgb(255, 255, 255) 2181049",
+       "rgba(255, 255, 255, 0) 1148400",
+       "rgb(242, 241, 235) 870401",
+       "rgb(228, 226, 217) 673899",
+       "rgb(141, 191, 175) 35333",
+       "rgba(255, 255, 255, 0.886) 30420",
+       "rgb(172, 127, 72) 10988"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 218",
+       "rgb(172, 127, 72) 55",
+       "rgb(112, 112, 112) 13",
+       "rgb(0, 0, 0) 7",
+       "rgb(141, 191, 175) 4"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 18,
+      "eyebrowEx": [
+       "SAFARIS OF CHARACTER",
+       "Explore destinations",
+       "Explore Our Impact",
+       "Check Availability",
+       "Natural Selection AFRICAN SAFARIS",
+       "More about us"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "6 Days | 5 Nights"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7191,
+    "requests": 207,
+    "shotCappedAt": null
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://naturalselection.travel/camps/jacks-camp-botswana/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 10538,
+    "lcpMs": 8596,
+    "perf": {
+     "ttfb": 3494,
+     "domContentLoaded": 8431,
+     "perfApiTransferKB": 2711,
+     "resources": 171
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://naturalselection.travel/camps/jacks-camp-botswana/",
+     "title": "Jack’s Camp Botswana - Iconic Luxury Safari Camp in Makgadikgadi Pans",
+     "docHeight": 11917,
+     "nav": [
+      "CAMPS & LODGES",
+      "SPECIAL OFFERS",
+      "ENQUIRE",
+      "MENU"
+     ],
+     "h1": [
+      {
+       "text": "JACK’S CAMP",
+       "visible": true
+      },
+      {
+       "text": "Botswana",
+       "visible": false
+      },
+      {
+       "text": "Botswana",
+       "visible": false
+      },
+      {
+       "text": "Jack's Camp",
+       "visible": false
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2Vs"
+      ],
+      "sliders": [
+       "has_ae_slider elementor-element elementor-element-7288f99e e-con-full e-flex ae-"
+      ],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "CHECK AVAILABILITY",
+        1
+       ],
+       [
+        "Full Contact Details",
+        1
+       ],
+       [
+        "Plan Your Safari",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://naturalselection.travel/camps/jacks-camp-botswana/",
+       "id": "",
+       "cls": "searchForm",
+       "y": 4,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "startDate",
+         "label": "Arrival Date",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "chevron_left",
+        "chevron_right"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2VsZWN0aW9uLnRyYXZlbDo0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "intercom": "mentioned-in-html",
+       "hubspotChat": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Call +27 21 001 1574",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@naturalselection.travel"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "has_ae_slider elementor-element elementor-element-a1bed4e st",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 820,
+        "h": 80,
+        "w": 1440,
+        "text": "CAMPS & LODGES SPECIAL OFFERS ENQUIRE MENU"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "grecaptcha-badge",
+        "pos": "fixed",
+        "top": 826,
+        "bottom": 14,
+        "h": 60,
+        "w": 256,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "ure. LOCATION Makgadikgadi Salt Pans NO. OF ROOMS 9 Rooms PRICE RANGE US$ 2,095 — US$ 3,895 per night DATES OPEN Year Round CHECK",
+      "N Makgadikgadi Salt Pans NO. OF ROOMS 9 Rooms PRICE RANGE US$ 2,095 — US$ 3,895 per night DATES OPEN Year Round CHECK AVAILABILIT"
+     ],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "ivyepic",
+       "Cormorant Garamond",
+       "Font Awesome 6 Free",
+       "Font Awesome 7 Pro"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "84px/400 ls=normal tt=uppercase",
+      "h2": "ivyepic, sans-serif",
+      "h2Style": "13px/500 ls=6px tt=uppercase",
+      "body": "ivyepic, sans-serif",
+      "bodyStyle": "13px/400 ls=0.5px tt=none",
+      "nav": "ivyepic, sans-serif",
+      "button": "ivyepic, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 6232028",
+       "rgb(242, 241, 235) 4375125",
+       "rgb(141, 191, 175) 1534846",
+       "rgba(239, 239, 239, 0) 662936",
+       "rgb(228, 226, 217) 142021",
+       "rgb(171, 201, 188) 79844",
+       "rgba(255, 255, 255, 0) 68138",
+       "rgba(51, 51, 51, 0) 9000"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 188",
+       "rgb(228, 226, 217) 71",
+       "rgb(172, 127, 72) 67",
+       "rgb(112, 112, 112) 37",
+       "rgb(141, 191, 175) 10",
+       "rgb(238, 238, 238) 9"
+      ]
+     },
+     "images": {
+      "count": 2,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 122,
+      "eyebrowEx": [
+       "Camps & Lodges",
+       "Special Offers",
+       "Enquire",
+       "Menu",
+       "Camps and Lodges",
+       "Check Availability"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 4,
+      "radii": [],
+      "animAttrs": 4,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 11834,
+    "requests": 240,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://naturalselection.travel/camps/jacks-camp-botswana/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 9403,
+    "lcpMs": 8408,
+    "perf": {
+     "ttfb": 2990,
+     "domContentLoaded": 7846,
+     "perfApiTransferKB": 2599,
+     "resources": 175
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://naturalselection.travel/camps/jacks-camp-botswana/",
+     "title": "Jack’s Camp Botswana - Iconic Luxury Safari Camp in Makgadikgadi Pans",
+     "docHeight": 12503,
+     "nav": [],
+     "h1": [
+      {
+       "text": "JACK’S CAMP",
+       "visible": true
+      },
+      {
+       "text": "Botswana",
+       "visible": false
+      },
+      {
+       "text": "Botswana",
+       "visible": false
+      },
+      {
+       "text": "Jack's Camp",
+       "visible": false
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2Vs"
+      ],
+      "sliders": [
+       "has_ae_slider elementor-element elementor-element-7288f99e e-con-full e-flex ae-"
+      ],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://naturalselection.travel/wp-content/uploads/2024/03/Natural-Selection-New-Logo.svg"
+       }
+      ],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "CHECK AVAILABILITY",
+        1
+       ],
+       [
+        "Full Contact Details",
+        1
+       ],
+       [
+        "Plan Your Safari",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://naturalselection.travel/camps/jacks-camp-botswana/",
+       "id": "",
+       "cls": "searchForm",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "startDate",
+         "label": "Arrival Date",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "chevron_left",
+        "chevron_right"
+       ]
+      }
+     ],
+     "iframes": [
+      "about:blank",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2VsZWN0aW9uLnRyYXZlbDo0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "intercom": "mentioned-in-html",
+       "hubspotChat": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "Call +27 21 001 1574",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@naturalselection.travel"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "grecaptcha-badge",
+        "pos": "fixed",
+        "top": 596,
+        "bottom": 14,
+        "h": 60,
+        "w": 256,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "ure. LOCATION Makgadikgadi Salt Pans NO. OF ROOMS 9 Rooms PRICE RANGE US$ 2,095 — US$ 3,895 per night DATES OPEN Year Round CHECK",
+      "N Makgadikgadi Salt Pans NO. OF ROOMS 9 Rooms PRICE RANGE US$ 2,095 — US$ 3,895 per night DATES OPEN Year Round CHECK AVAILABILIT"
+     ],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "ivyepic",
+       "Cormorant Garamond",
+       "Font Awesome 7 Pro"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "40px/400 ls=normal tt=uppercase",
+      "h2": "ivyepic, sans-serif",
+      "h2Style": "10px/500 ls=6px tt=uppercase",
+      "body": "ivyepic, sans-serif",
+      "bodyStyle": "12px/400 ls=0.5px tt=none",
+      "nav": "ivyepic, sans-serif",
+      "button": "ivyepic, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 1750157",
+       "rgb(242, 241, 235) 1468582",
+       "rgb(141, 191, 175) 398214",
+       "rgba(239, 239, 239, 0) 284455",
+       "rgb(228, 226, 217) 136220",
+       "rgb(171, 201, 188) 88005",
+       "rgba(172, 127, 72, 0) 80520",
+       "rgba(141, 191, 175, 0) 20130"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 166",
+       "rgb(228, 226, 217) 71",
+       "rgb(172, 127, 72) 65",
+       "rgb(112, 112, 112) 33",
+       "rgb(141, 191, 175) 10",
+       "rgb(238, 238, 238) 9"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 113,
+      "eyebrowEx": [
+       "Camps and Lodges",
+       "Check Availability",
+       "Jack’s Camp",
+       "Read More",
+       "Tent Day Beds",
+       "Tent Deck with Pool Views"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 4,
+      "radii": [],
+      "animAttrs": 4,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 393,
+     "innerWidth": 393
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 11821,
+    "requests": 245,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://naturalselection.travel/enquire/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 7337,
+    "lcpMs": 6760,
+    "perf": {
+     "ttfb": 1682,
+     "domContentLoaded": 6032,
+     "perfApiTransferKB": 1820,
+     "resources": 149
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://naturalselection.travel/enquire/?gf_page_2=1",
+     "title": "Enquire About Your African Safari - Natural Selection",
+     "docHeight": 3183,
+     "nav": [
+      "CAMPS & LODGES",
+      "SPECIAL OFFERS",
+      "ENQUIRE",
+      "MENU"
+     ],
+     "h1": [
+      {
+       "text": "ENQUIRE TODAY",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2Vs"
+      ],
+      "sliders": [
+       "has_ae_slider elementor-element elementor-element-63b87a1 e-con-full e-flex ae-b",
+       "has_ae_slider elementor-element elementor-element-70a3763 e-flex e-con-boxed ae-"
+      ],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "CONTACT DETAILS",
+        1
+       ],
+       [
+        "Full Contact Details",
+        1
+       ],
+       [
+        "Plan Your Safari",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://naturalselection.travel/enquire/#gf_2",
+       "id": "gform_2",
+       "cls": "",
+       "y": 1247,
+       "fieldsTotal": 19,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_30",
+         "label": "Instagram",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_25",
+         "label": "CONTACTGROUP",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_1",
+         "label": "First Name*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_3",
+         "label": "Last Name*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "input_4",
+         "label": "Email Address*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "input_5",
+         "label": "Phone Number*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_6",
+         "label": "Country*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.1",
+         "label": "Botswana",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.2",
+         "label": "South Africa",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.3",
+         "label": "Namibia",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.4",
+         "label": "Angola",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_8",
+         "label": "Arrival Date",
+         "placeholder": "yyyy/mm/dd",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_9",
+         "label": "Departure Date",
+         "placeholder": "yyyy/mm/dd",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "input_10",
+         "label": "Number of Adults*",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "input_11",
+         "label": "Number of Children*",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_14",
+         "label": "Budget Per Person*",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "input_16",
+         "label": "Use the space below to share more details about your trip or ask a question",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_28.1",
+         "label": "I’m a travel agent / tour operator enquiring for someone else",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_29.1",
+         "label": "Natural Selection is proud to work with a select network of the top Africa trave",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": true,
+       "nextBtn": true,
+       "submit": [
+        "NEXT STEP",
+        "Previous Step",
+        "Next Step",
+        "Previous Step"
+       ]
+      }
+     ],
+     "iframes": [
+      "about:blank",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2VsZWN0aW9uLnRyYXZlbDo0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "intercom": "mentioned-in-html",
+       "hubspotChat": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "chat with"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "grecaptcha-badge",
+        "pos": "fixed",
+        "top": 826,
+        "bottom": 14,
+        "h": 60,
+        "w": 256,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "ivyepic",
+       "Cormorant Garamond",
+       "Font Awesome 7 Pro"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "80px/400 ls=normal tt=uppercase",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "68px/500 ls=normal tt=uppercase",
+      "body": "ivyepic, sans-serif",
+      "bodyStyle": "14px/400 ls=0.5px tt=none",
+      "nav": "ivyepic, sans-serif",
+      "button": "ivyepic, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 6084270",
+       "rgb(242, 241, 235) 789975",
+       "rgb(245, 245, 245) 135194",
+       "rgb(228, 226, 217) 132480",
+       "rgb(232, 232, 232) 24552",
+       "rgb(171, 201, 188) 15909",
+       "rgb(172, 127, 72) 12101",
+       "rgb(141, 191, 175) 6329"
+      ],
+      "textByCount": [
+       "rgb(172, 127, 72) 46",
+       "rgb(112, 112, 112) 9",
+       "rgb(192, 43, 10) 5",
+       "rgb(255, 255, 255) 4",
+       "rgb(175, 175, 175) 4",
+       "rgb(141, 191, 175) 2"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 14,
+      "eyebrowEx": [
+       "Camps & Lodges",
+       "Special Offers",
+       "Enquire",
+       "Menu",
+       "Feeling inspired?",
+       "Get started"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3115,
+    "requests": 152,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://naturalselection.travel/enquire/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 6971,
+    "lcpMs": 3588,
+    "perf": {
+     "ttfb": 1770,
+     "domContentLoaded": 6095,
+     "perfApiTransferKB": 1737,
+     "resources": 154
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://naturalselection.travel/enquire/?gf_page_2=1",
+     "title": "Enquire About Your African Safari - Natural Selection",
+     "docHeight": 4186,
+     "nav": [],
+     "h1": [
+      {
+       "text": "ENQUIRE TODAY",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2Vs"
+      ],
+      "sliders": [
+       "has_ae_slider elementor-element elementor-element-63b87a1 e-con-full e-flex ae-b",
+       "has_ae_slider elementor-element elementor-element-70a3763 e-flex e-con-boxed ae-"
+      ],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://naturalselection.travel/wp-content/uploads/2024/03/Natural-Selection-New-Logo.svg"
+       }
+      ],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "CONTACT DETAILS",
+        1
+       ],
+       [
+        "Full Contact Details",
+        1
+       ],
+       [
+        "Plan Your Safari",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Booking Terms & Conditions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://naturalselection.travel/enquire/#gf_2",
+       "id": "gform_2",
+       "cls": "",
+       "y": 1140,
+       "fieldsTotal": 19,
+       "fieldsVisible": 5,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_30",
+         "label": "Phone",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_25",
+         "label": "CONTACTGROUP",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_1",
+         "label": "First Name*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_3",
+         "label": "Last Name*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "input_4",
+         "label": "Email Address*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "input_5",
+         "label": "Phone Number*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_6",
+         "label": "Country*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.1",
+         "label": "Botswana",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.2",
+         "label": "South Africa",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.3",
+         "label": "Namibia",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_7.4",
+         "label": "Angola",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_8",
+         "label": "Arrival Date",
+         "placeholder": "yyyy/mm/dd",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "input_9",
+         "label": "Departure Date",
+         "placeholder": "yyyy/mm/dd",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "input_10",
+         "label": "Number of Adults*",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "input_11",
+         "label": "Number of Children*",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "input_14",
+         "label": "Budget Per Person*",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "input_16",
+         "label": "Use the space below to share more details about your trip or ask a question",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_28.1",
+         "label": "I’m a travel agent / tour operator enquiring for someone else",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "input_29.1",
+         "label": "Natural Selection is proud to work with a select network of the top Africa trave",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": true,
+       "nextBtn": true,
+       "submit": [
+        "NEXT STEP",
+        "Previous Step",
+        "Next Step",
+        "Previous Step"
+       ]
+      }
+     ],
+     "iframes": [
+      "about:blank",
+      "about:blank",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LejzDwrAAAAADaZ1Tgq2078Iz_hXHjjj76SJzrH&co=aHR0cHM6Ly9uYXR1cmFsc2VsZWN0aW9uLnRyYXZlbDo0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "intercom": "mentioned-in-html",
+       "hubspotChat": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "chat with"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "grecaptcha-badge",
+        "pos": "fixed",
+        "top": 590,
+        "bottom": 14,
+        "h": 60,
+        "w": 256,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "ivyepic",
+       "Cormorant Garamond",
+       "Font Awesome 7 Pro"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "40px/400 ls=normal tt=uppercase",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "40px/500 ls=normal tt=uppercase",
+      "body": "ivyepic, sans-serif",
+      "bodyStyle": "13px/400 ls=0.5px tt=none",
+      "nav": "ivyepic, sans-serif",
+      "button": "ivyepic, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 2022997",
+       "rgb(242, 241, 235) 435398",
+       "rgb(228, 226, 217) 115160",
+       "rgb(245, 245, 245) 80056",
+       "rgb(171, 201, 188) 17398",
+       "rgb(172, 127, 72) 10585",
+       "rgb(232, 232, 232) 6925",
+       "rgba(223, 217, 191, 0) 4799"
+      ],
+      "textByCount": [
+       "rgb(172, 127, 72) 43",
+       "rgb(112, 112, 112) 9",
+       "rgb(192, 43, 10) 5",
+       "rgb(175, 175, 175) 4",
+       "rgb(255, 255, 255) 3",
+       "rgb(141, 191, 175) 2"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 10,
+      "eyebrowEx": [
+       "Feeling inspired?",
+       "Get started",
+       "Next Step",
+       "Safaris of Character",
+       "Contact Details",
+       "Reservations"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3056,
+    "requests": 155,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:26:42.977Z"
+}
