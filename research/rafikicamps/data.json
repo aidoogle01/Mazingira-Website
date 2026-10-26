@@ -1,0 +1,2916 @@
+{
+ "desktop": {
+  "home": {
+   "perf": {
+    "lcp": {
+     "t": 2376,
+     "el": "H1 Adventure by Day.Luxury by Night.",
+     "size": 75696
+    },
+    "cls": 0,
+    "fcp": 2376,
+    "ttfb": 431,
+    "domContentLoaded": 1354,
+    "load": 1355,
+    "transferKB": 3772,
+    "decodedKB": 4681,
+    "resources": 52
+   },
+   "loadMs": 16364,
+   "requests": 61,
+   "byType": {
+    "document": {
+     "n": 1,
+     "kb": 3
+    },
+    "script": {
+     "n": 29,
+     "kb": 597
+    },
+    "stylesheet": {
+     "n": 2,
+     "kb": 15
+    },
+    "fetch": {
+     "n": 3,
+     "kb": 0
+    },
+    "image": {
+     "n": 22,
+     "kb": 17382
+    },
+    "media": {
+     "n": 4,
+     "kb": 212
+    }
+   },
+   "hosts": {
+    "rafikicamps.com": {
+     "n": 56,
+     "kb": 18025,
+     "types": [
+      "document",
+      "stylesheet",
+      "script",
+      "image",
+      "media"
+     ]
+    },
+    "www.googletagmanager.com": {
+     "n": 1,
+     "kb": 180,
+     "types": [
+      "script"
+     ]
+    },
+    "www.google-analytics.com": {
+     "n": 3,
+     "kb": 0,
+     "types": [
+      "fetch"
+     ]
+    },
+    "fonts.googleapis.com": {
+     "n": 1,
+     "kb": 2,
+     "types": [
+      "stylesheet"
+     ]
+    }
+   },
+   "largest": [
+    "9660KB image https://rafikicamps.com/assets/hippo-veranda-BMAvWWKE.jpg",
+    "2800KB image https://rafikicamps.com/assets/fullsize-render-Ym900brB.jpg",
+    "820KB image https://rafikicamps.com/assets/veranda--zs_WECJ.jpg",
+    "506KB image https://rafikicamps.com/assets/elephants-veranda-ChzOQXyS.jpg",
+    "492KB image https://rafikicamps.com/assets/tent-exterior-DLFL-Jth.jpg",
+    "399KB image https://rafikicamps.com/assets/river-drone-DoFpubZP.jpg",
+    "344KB image https://rafikicamps.com/assets/bedroom-BbbX04d9.jpg",
+    "340KB image https://rafikicamps.com/assets/lounge-CVBcm6yD.jpg",
+    "313KB image https://rafikicamps.com/assets/giraffe-acacia-CrD6CnLG.jpg",
+    "291KB image https://rafikicamps.com/assets/details-4_Ra7Cjg.jpg"
+   ],
+   "failed": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za208zd9247643078xf1&_p=1793024709582&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=53586740.1793024710&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793024709&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2F&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1033",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024709582&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=53586740.1793024710&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=2&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793024709&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2F&dt=&en=scroll&epn.percent_scrolled=90&_et=6&tfd=1401",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://rafikicamps.com/videos/Camp_Banner_Hero_web.mp4",
+     "type": "media",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://rafikicamps.com/videos/RAFIKI_Banner_1080_web.mp4",
+     "type": "media",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024709582&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=53586740.1793024710&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=3&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2F&dl=https%3A%2F%2Frafikicamps.com%2F&dt=Luxury%20Safari%20Tanzania%20%7C%20Serengeti%20Holiday%20%7C%20RAFIKI%20Camp&sid=1793024709&sct=1&seg=1&en=page_view&_ee=1&_et=347&tfd=6404",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    }
+   ],
+   "cookieBanner": null,
+   "scrolledFixed": [
+    {
+     "tag": "OL",
+     "text": "",
+     "rect": [
+      868,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "text": "",
+     "rect": [
+      820,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      900
+     ]
+    },
+    {
+     "tag": "NAV",
+     "text": "THE EXPERIENCE THE CAMP PACKAGES OUTREACH UK ENQUIRE",
+     "rect": [
+      0,
+      97
+     ]
+    }
+   ],
+   "url": "https://rafikicamps.com/",
+   "title": "RAFIKI Luxury Safari + Camps | Central Serengeti, Tanzania",
+   "docH": 8385,
+   "nav": [
+    "THE EXPERIENCE",
+    "THE CAMP",
+    "PACKAGES",
+    "OUTREACH",
+    "UK",
+    "ENQUIRE"
+   ],
+   "navAll": [
+    " → /",
+    "THE EXPERIENCE → /experience",
+    "THE CAMP → /accommodation",
+    "PACKAGES → /packages",
+    "OUTREACH → /outreach",
+    "ENQUIRE → /#inquire"
+   ],
+   "headings": [
+    "H1: Adventure by Day. Luxury by Night.",
+    "H2: Two worlds. One extraordinary stay.",
+    "H3: The Safari",
+    "H3: The Camp",
+    "H3: LOCATION",
+    "H3: ACCOMMODATIONS",
+    "H3: GETTING HERE",
+    "H2: 25 years reading the land.",
+    "H2: Your stay provides clean water to underserved communities.",
+    "H2: Life at RAFIKI",
+    "H2: Everything You Need to Plan Your Visit",
+    "H3: Rates & Inclusions",
+    "H3: How to Get Here",
+    "H3: Safari Packages",
+    "H3: Common Questions",
+    "H2: Take RAFIKI with you",
+    "H2: Every great adventure begins with a conversation."
+   ],
+   "ctas": [
+    {
+     "t": "ENQUIRE",
+     "href": "/#inquire",
+     "y": 26
+    },
+    {
+     "t": "BEGIN YOUR JOURNEY",
+     "href": "#inquire",
+     "y": 580
+    },
+    {
+     "t": "BEGIN ENQUIRY",
+     "href": "/#inquire",
+     "y": 2756
+    },
+    {
+     "t": "Facebook RAFIKI Luxury Camps →",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 4435
+    },
+    {
+     "t": "",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 6254
+    },
+    {
+     "t": "DOWNLOAD BROCHURE PDF · 1.7 MB",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 6457
+    },
+    {
+     "t": "See trade enquiries",
+     "href": "/rates",
+     "y": 6550
+    },
+    {
+     "t": "SEND ENQUIRY",
+     "href": null,
+     "y": 7499
+    },
+    {
+     "t": "Download Brochure",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 8083
+    },
+    {
+     "t": "",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 8047
+    }
+   ],
+   "fixed": [
+    {
+     "tag": "OL",
+     "pos": "fixed",
+     "cls": "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-",
+     "text": "",
+     "rect": [
+      1020,
+      868,
+      420,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "pos": "fixed",
+     "cls": "fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform durat",
+     "text": "",
+     "rect": [
+      1360,
+      820,
+      56,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "pos": "fixed",
+     "cls": "fixed inset-0 z-[60] flex items-center justify-center p-4 bg-foreground/60 transition-opacity duration-200 opacity-100",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ]
+    },
+    {
+     "tag": "NAV",
+     "pos": "fixed",
+     "cls": "fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-transparent",
+     "text": "THE EXPERIENCE THE CAMP PACKAGES OUTREACH UK ENQUIRE",
+     "rect": [
+      0,
+      0,
+      1440,
+      96
+     ]
+    }
+   ],
+   "fonts": [],
+   "typo": {
+    "h1": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "72px",
+     "weight": "400",
+     "ls": "-2.88px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "72px"
+    },
+    "h2": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "48px",
+     "weight": "400",
+     "ls": "-1.92px",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "48px"
+    },
+    "h3": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "30px",
+     "weight": "400",
+     "ls": "-1.2px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "36px"
+    },
+    "p": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "12px",
+     "weight": "400",
+     "ls": "2.4px",
+     "tt": "uppercase",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "16px"
+    },
+    "button": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "24px"
+    },
+    "navlink": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    },
+    "body": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    }
+   },
+   "bg": [
+    "rgb(252, 252, 250) (14147824)",
+    "rgb(24, 28, 23) (2509909)",
+    "rgba(24, 28, 23, 0.03) (2116440)",
+    "rgba(24, 28, 23, 0.6) (1296000)",
+    "rgb(46, 92, 138) (1026720)",
+    "rgba(230, 232, 227, 0.3) (974475)",
+    "rgba(24, 28, 23, 0.1) (464100)",
+    "rgba(24, 28, 23, 0) (102400)",
+    "rgba(24, 28, 23, 0.05) (17664)",
+    "rgba(252, 252, 250, 0.05) (11451)",
+    "rgba(252, 252, 250, 0.2) (7744)",
+    "rgb(37, 211, 102) (3136)"
+   ],
+   "fg": [
+    "rgb(24, 28, 23) (26)",
+    "rgba(252, 252, 250, 0.6) (26)",
+    "rgba(24, 28, 23, 0.4) (15)",
+    "rgba(252, 252, 250, 0.5) (14)",
+    "rgb(112, 120, 109) (10)",
+    "rgba(252, 252, 250, 0.7) (8)",
+    "rgb(252, 252, 250) (7)",
+    "rgba(24, 28, 23, 0.6) (7)",
+    "rgb(251, 191, 36) (5)",
+    "rgb(255, 255, 255) (4)"
+   ],
+   "eyebrows": [
+    "THE RAFIKI JOURNAL",
+    "THE EXPERIENCE",
+    "THE CAMP",
+    "PACKAGES",
+    "OUTREACH",
+    "UK",
+    "CENTRAL SERENGETI · ORANGI RIVER",
+    "THE DUALITY",
+    "BY DAY",
+    "BY NIGHT",
+    "HERITAGE",
+    "YEARS OF GUIDING",
+    "COMMUNITIES SERVED",
+    "STAR HOSPITALITY",
+    "CAMP NOW OPEN",
+    "RAFIKI OUTREACH",
+    "COMMUNITIES REACHED",
+    "LITRES DELIVERED",
+    "FOLLOW ALONG",
+    "IN THEIR OWN WORDS",
+    "CODY",
+    "→",
+    "BEFORE YOU BOOK",
+    "SEE FULL RATES →",
+    "TRAVEL GUIDE →",
+    "VIEW PACKAGES →",
+    "READ THE FAQ →",
+    "THE BROCHURE",
+    "BEGIN YOUR JOURNEY",
+    "*"
+   ],
+   "midDots": [
+    "CENTRAL SERENGETI · ORANGI RIVER",
+    "PDF · 1.7 MB"
+   ],
+   "arrows": [
+    "Instagram @rafikicamps →",
+    "Facebook RAFIKI Luxury Camps →",
+    "TikTok @rafikicamps →",
+    "YouTube @RAFIKILuxuryCamps →",
+    "READ MORE REVIEWS →",
+    "Rates & Inclusions 01 From $985 per person per night, fully all-inclusive — unlimited private game drives, all meals, house drinks, government fees, and Flying Doctors evacuation insurance. No hidden extras. SEE FULL RATES →",
+    "How to Get Here 02 Kilimanjaro Airport → 45-minute charter flight → private game drive transfer to camp. We coordinate your entire journey from arrival to the Serengeti. TRAVEL GUIDE →",
+    "Safari Packages 03 From a single night to a 7-night grand safari. Honeymoon and family packages available. Every package is fully all-inclusive with a private vehicle. VIEW PACKAGES →",
+    "Common Questions 04 Best time to visit, what to pack, how many nights, what's actually included — answered honestly by people who live in the Central Serengeti year-round. READ THE FAQ →"
+   ],
+   "radii": [
+    "9999px (9)"
+   ],
+   "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 (2)",
+    "rgb(255, 255, 255) 0px 0px 0px 0px, rgba(24, 28, 23, 0.1) 0px 0px 0px 1px, rgba( (1)"
+   ],
+   "prices": [
+    "$985 per person per night with no hidden ext",
+    "$985 per person per night, fully all-inclusi"
+   ],
+   "forms": [
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "text",
+       "name": "name",
+       "label": "FULL NAME *",
+       "req": true
+      },
+      {
+       "type": "email",
+       "name": "email",
+       "label": "EMAIL *",
+       "req": true
+      },
+      {
+       "type": "tel",
+       "name": "phone",
+       "label": "PHONE NUMBER",
+       "req": false
+      },
+      {
+       "type": "select-one",
+       "name": "groupSize",
+       "label": "GROUP SIZE *",
+       "req": true
+      },
+      {
+       "type": "date",
+       "name": "arrivalDate",
+       "label": "ARRIVAL DATE",
+       "req": false
+      },
+      {
+       "type": "select-one",
+       "name": "numberOfNights",
+       "label": "NUMBER OF NIGHTS",
+       "req": false
+      },
+      {
+       "type": "select-one",
+       "name": "reasonForTravel",
+       "label": "REASON FOR TRAVEL",
+       "req": false
+      },
+      {
+       "type": "textarea",
+       "name": "message",
+       "label": "TELL US ABOUT YOUR DREAM SAFARI",
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    }
+   ],
+   "iframes": [],
+   "videos": [
+    {
+     "src": "https://rafikicamps.com/videos/Camp_Banner_Hero_web.mp4",
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "poster": "https://rafikicamps.com/videos/poster-hero.jpg",
+     "top": 0
+    },
+    {
+     "src": "https://rafikicamps.com/videos/RAFIKI_Banner_1080_web.mp4",
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "poster": "https://rafikicamps.com/videos/poster-camp.jpg",
+     "top": 1872
+    }
+   ],
+   "imgCount": 11,
+   "imgExt": {
+    "png": 1,
+    "jpg": 9,
+    "svg": 1
+   },
+   "imgHosts": [
+    "rafikicamps.com"
+   ],
+   "hasPicture": 0,
+   "lazy": 6,
+   "trust": [
+    "Expert-guided game drives across Tanzania's Central Serengeti. The Big Five. The Great Migration. 25 years of expertise reading the land.",
+    "Riverfront luxury tents. Private dining under the stars. Every detail curated—so the only thing you need to bring is wonder.",
+    "25 years reading the land.",
+    "25 YEARS OF GUIDING",
+    "YEARS OF GUIDING",
+    "5 STAR HOSPITALITY",
+    "STAR HOSPITALITY",
+    "READ MORE REVIEWS →",
+    "Reviews"
+   ],
+   "jsonld": [
+    "LodgingBusiness",
+    "WebSite"
+   ],
+   "animatedInline": 30,
+   "lang": "en-GB",
+   "metaGen": null
+  },
+  "trip": {
+   "perf": {
+    "lcp": {
+     "t": 1820,
+     "el": "IMG https://rafikicamps.com/assets/safari-vehicles-BB9k-BwW.jpg ",
+     "size": 960000
+    },
+    "cls": 0,
+    "fcp": 1648,
+    "ttfb": 107,
+    "domContentLoaded": 740,
+    "load": 1759,
+    "transferKB": 2277,
+    "decodedKB": 3195,
+    "resources": 42
+   },
+   "loadMs": 2640,
+   "requests": 45,
+   "byType": {
+    "document": {
+     "n": 1,
+     "kb": 4
+    },
+    "script": {
+     "n": 26,
+     "kb": 588
+    },
+    "stylesheet": {
+     "n": 2,
+     "kb": 15
+    },
+    "fetch": {
+     "n": 3,
+     "kb": 0
+    },
+    "image": {
+     "n": 13,
+     "kb": 2108
+    }
+   },
+   "hosts": {
+    "rafikicamps.com": {
+     "n": 40,
+     "kb": 2529,
+     "types": [
+      "document",
+      "stylesheet",
+      "script",
+      "image"
+     ]
+    },
+    "www.googletagmanager.com": {
+     "n": 1,
+     "kb": 180,
+     "types": [
+      "script"
+     ]
+    },
+    "fonts.googleapis.com": {
+     "n": 1,
+     "kb": 2,
+     "types": [
+      "stylesheet"
+     ]
+    },
+    "www.google-analytics.com": {
+     "n": 3,
+     "kb": 0,
+     "types": [
+      "fetch"
+     ]
+    }
+   },
+   "largest": [
+    "492KB image https://rafikicamps.com/assets/tent-exterior-DLFL-Jth.jpg",
+    "340KB image https://rafikicamps.com/assets/lounge-CVBcm6yD.jpg",
+    "286KB script https://rafikicamps.com/assets/index-Cn5mQIV-.js",
+    "235KB image https://rafikicamps.com/assets/elephant-crossing-B-s26vmM.jpg",
+    "180KB script https://www.googletagmanager.com/gtag/js?id=G-DPQPMTRB54",
+    "143KB image https://rafikicamps.com/assets/zebra-pair-0kUQ2BIt.jpg",
+    "141KB image https://rafikicamps.com/assets/hippos-river-B3CS4QnO.jpg",
+    "140KB image https://rafikicamps.com/assets/cheetah-sitting-Ch8k_9tX.jpg",
+    "136KB image https://rafikicamps.com/assets/safari-vehicles-BB9k-BwW.jpg",
+    "123KB image https://rafikicamps.com/videos/poster-hero.jpg"
+   ],
+   "failed": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za208zd9247643078xf1&_p=1793024739999&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=621960587.1793024740&frm=0&ngs=1&pscdl=noapi&rcb=8&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793024740&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fpackages%2F5-night&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=583",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024739999&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=621960587.1793024740&frm=0&ngs=1&pscdl=noapi&rcb=8&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=2&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793024740&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fpackages%2F5-night&dt=&en=scroll&epn.percent_scrolled=90&_et=9&tfd=786",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024739999&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=621960587.1793024740&frm=0&ngs=1&pscdl=noapi&rcb=8&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=3&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fpackages%2F5-night&dl=https%3A%2F%2Frafikicamps.com%2Fpackages%2F5-night&dt=5-Night%20Serengeti%20Safari%20%7C%20Luxury%20Tanzania%20%7C%20RAFIKI%20Camp&sid=1793024740&sct=1&seg=1&en=page_view&_ee=1&_et=178&tfd=5787",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    }
+   ],
+   "cookieBanner": null,
+   "scrolledFixed": [
+    {
+     "tag": "OL",
+     "text": "",
+     "rect": [
+      868,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "text": "",
+     "rect": [
+      820,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      900
+     ]
+    },
+    {
+     "tag": "NAV",
+     "text": "THE EXPERIENCE THE CAMP PACKAGES OUTREACH UK ENQUIRE",
+     "rect": [
+      0,
+      97
+     ]
+    }
+   ],
+   "url": "https://rafikicamps.com/packages/5-night",
+   "title": "5-Night Serengeti Safari | Luxury Tanzania | RAFIKI Camp",
+   "docH": 7801,
+   "nav": [
+    "THE EXPERIENCE",
+    "THE CAMP",
+    "PACKAGES",
+    "OUTREACH",
+    "UK",
+    "ENQUIRE"
+   ],
+   "navAll": [
+    " → /",
+    "THE EXPERIENCE → /experience",
+    "THE CAMP → /accommodation",
+    "PACKAGES → /packages",
+    "OUTREACH → /outreach",
+    "ENQUIRE → /#inquire"
+   ],
+   "headings": [
+    "H1: The Serengeti Experience",
+    "H2: The Serengeti Experience",
+    "H2: Example Itinerary",
+    "H3: Arrival & First Safari",
+    "H3: Dawn Predators & River Wildlife",
+    "H3: Bush Breakfast & Big Five",
+    "H3: Deep Serengeti Exploration",
+    "H3: Final Full Safari Day",
+    "H3: Departure",
+    "H2: Select Your Dates",
+    "H2: Let's Plan Your Safari"
+   ],
+   "ctas": [
+    {
+     "t": "ENQUIRE",
+     "href": "/#inquire",
+     "y": 26
+    },
+    {
+     "t": "ENQUIRE NOW",
+     "href": "/#inquire",
+     "y": 6981
+    },
+    {
+     "t": "Download Brochure",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 7499
+    },
+    {
+     "t": "",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 7463
+    }
+   ],
+   "fixed": [
+    {
+     "tag": "OL",
+     "pos": "fixed",
+     "cls": "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-",
+     "text": "",
+     "rect": [
+      1020,
+      868,
+      420,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "pos": "fixed",
+     "cls": "fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform durat",
+     "text": "",
+     "rect": [
+      1360,
+      820,
+      56,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "pos": "fixed",
+     "cls": "fixed inset-0 z-[60] flex items-center justify-center p-4 bg-foreground/60 transition-opacity duration-200 opacity-100",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ]
+    },
+    {
+     "tag": "NAV",
+     "pos": "fixed",
+     "cls": "fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-transparent",
+     "text": "THE EXPERIENCE THE CAMP PACKAGES OUTREACH UK ENQUIRE",
+     "rect": [
+      0,
+      0,
+      1440,
+      96
+     ]
+    }
+   ],
+   "fonts": [],
+   "typo": {
+    "h1": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "72px",
+     "weight": "400",
+     "ls": "-2.88px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "72px"
+    },
+    "h2": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "36px",
+     "weight": "400",
+     "ls": "-1.44px",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "40px"
+    },
+    "h3": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "24px",
+     "weight": "400",
+     "ls": "-0.96px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "32px"
+    },
+    "p": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "12px",
+     "weight": "400",
+     "ls": "2.4px",
+     "tt": "uppercase",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "16px"
+    },
+    "button": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "24px"
+    },
+    "navlink": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    },
+    "body": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    }
+   },
+   "bg": [
+    "rgb(252, 252, 250) (13409610)",
+    "rgb(24, 28, 23) (6168893)",
+    "rgba(24, 28, 23, 0.6) (1296000)",
+    "rgba(73, 95, 81, 0.05) (87360)",
+    "rgba(52, 211, 153, 0.15) (38205)",
+    "rgba(24, 28, 23, 0.05) (17664)",
+    "rgba(252, 252, 250, 0.05) (11451)",
+    "rgb(73, 95, 81) (3381)",
+    "rgb(37, 211, 102) (3136)",
+    "rgba(252, 252, 250, 0.3) (656)",
+    "rgb(52, 211, 153) (208)",
+    "rgb(251, 191, 36) (208)"
+   ],
+   "fg": [
+    "rgb(24, 28, 23) (83)",
+    "rgba(252, 252, 250, 0.6) (64)",
+    "rgba(24, 28, 23, 0.8) (19)",
+    "rgba(24, 28, 23, 0.4) (17)",
+    "rgb(252, 252, 250) (12)",
+    "rgb(112, 120, 109) (12)",
+    "rgba(24, 28, 23, 0.5) (11)",
+    "rgb(73, 95, 81) (11)",
+    "rgba(24, 28, 23, 0.15) (10)",
+    "rgba(252, 252, 250, 0.4) (9)"
+   ],
+   "eyebrows": [
+    "THE RAFIKI JOURNAL",
+    "THE EXPERIENCE",
+    "THE CAMP",
+    "PACKAGES",
+    "OUTREACH",
+    "UK",
+    "HIGHLIGHTS",
+    "GALLERY",
+    "DAY BY DAY",
+    "WHAT'S INCLUDED",
+    "NOT INCLUDED",
+    "CHECK AVAILABILITY & PRICING",
+    "GUESTS",
+    "2026 SEASONAL RATES",
+    "READY TO BEGIN?",
+    "STAY IN TOUCH",
+    "NAVIGATE",
+    "CONTACT",
+    "FOLLOW"
+   ],
+   "midDots": [
+    "per person · 5 nights · Green Season",
+    "Ages 4–12 · 50% rate",
+    "Under 3 · Free",
+    "Select your check-in date · 5-night stay"
+   ],
+   "arrows": [],
+   "radii": [
+    "9999px (8)",
+    "4px (2)"
+   ],
+   "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 (2)"
+   ],
+   "prices": [
+    "$4,925",
+    "$985",
+    "$1,100",
+    "$1,340"
+   ],
+   "forms": [
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    }
+   ],
+   "iframes": [],
+   "videos": [],
+   "imgCount": 12,
+   "imgExt": {
+    "png": 1,
+    "jpg": 10,
+    "svg": 1
+   },
+   "imgHosts": [
+    "rafikicamps.com"
+   ],
+   "hasPicture": 0,
+   "lazy": 9,
+   "trust": [
+    "Welcome dinner under the stars",
+    "Dinner with a curated wine pairing",
+    "Reviews"
+   ],
+   "jsonld": [
+    "TouristTrip"
+   ],
+   "animatedInline": 43,
+   "lang": "en-GB",
+   "metaGen": null
+  },
+  "book": {
+   "perf": {
+    "lcp": {
+     "t": 1668,
+     "el": "IMG https://rafikicamps.com/assets/veranda--zs_WECJ.jpg ",
+     "size": 777600
+    },
+    "cls": 0,
+    "fcp": 1444,
+    "ttfb": 110,
+    "domContentLoaded": 804,
+    "load": 12595,
+    "transferKB": 1361,
+    "decodedKB": 2373,
+    "resources": 29
+   },
+   "loadMs": 14077,
+   "requests": 30,
+   "byType": {
+    "document": {
+     "n": 1,
+     "kb": 4
+    },
+    "script": {
+     "n": 16,
+     "kb": 1189
+    },
+    "stylesheet": {
+     "n": 4,
+     "kb": 20
+    },
+    "fetch": {
+     "n": 3,
+     "kb": 0
+    },
+    "image": {
+     "n": 4,
+     "kb": 983
+    },
+    "font": {
+     "n": 1,
+     "kb": 48
+    },
+    "xhr": {
+     "n": 1,
+     "kb": 2
+    }
+   },
+   "hosts": {
+    "rafikicamps.com": {
+     "n": 19,
+     "kb": 1378,
+     "types": [
+      "document",
+      "script",
+      "stylesheet",
+      "image"
+     ]
+    },
+    "www.googletagmanager.com": {
+     "n": 1,
+     "kb": 180,
+     "types": [
+      "script"
+     ]
+    },
+    "fonts.googleapis.com": {
+     "n": 3,
+     "kb": 6,
+     "types": [
+      "stylesheet"
+     ]
+    },
+    "www.google-analytics.com": {
+     "n": 3,
+     "kb": 0,
+     "types": [
+      "fetch"
+     ]
+    },
+    "resnova.resrequest.com": {
+     "n": 2,
+     "kb": 632,
+     "types": [
+      "script",
+      "xhr"
+     ]
+    },
+    "js.stripe.com": {
+     "n": 1,
+     "kb": 0,
+     "types": [
+      "script"
+     ]
+    },
+    "fonts.gstatic.com": {
+     "n": 1,
+     "kb": 48,
+     "types": [
+      "font"
+     ]
+    }
+   },
+   "largest": [
+    "820KB image https://rafikicamps.com/assets/veranda--zs_WECJ.jpg",
+    "630KB script https://resnova.resrequest.com/widget/js/app.js",
+    "286KB script https://rafikicamps.com/assets/index-Cn5mQIV-.js",
+    "180KB script https://www.googletagmanager.com/gtag/js?id=G-DPQPMTRB54",
+    "123KB image https://rafikicamps.com/videos/poster-hero.jpg",
+    "48KB font https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "43KB script https://rafikicamps.com/assets/proxy-D_-cnPLs.js",
+    "31KB image https://rafikicamps.com/assets/RLS_C_WHITE-ChR9q0YL.png",
+    "21KB script https://rafikicamps.com/assets/SiteFooter-CaDk-ZhO.js",
+    "13KB stylesheet https://rafikicamps.com/assets/index-BQo3bIE4.css"
+   ],
+   "failed": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1h1v9247643078za208zd9247643078xf1&_p=1793024754281&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1816256186.1793024754&frm=0&ngs=1&pscdl=noapi&rcb=11&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793024754&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fbook&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=712",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1h1v9247643078za200zd9247643078xf1&_p=1793024754281&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=1816256186.1793024754&frm=0&ngs=1&pscdl=noapi&rcb=11&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=2&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793024754&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fbook&dt=&en=scroll&epn.percent_scrolled=90&_et=7&tfd=847",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1h1v9247643078za200zd9247643078xf1&_p=1793024754281&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1816256186.1793024754&frm=0&ngs=1&pscdl=noapi&rcb=11&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-gb&_s=3&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fbook&dl=https%3A%2F%2Frafikicamps.com%2Fbook&dt=Book%20Your%20Stay%20%7C%20Luxury%20Safari%20Serengeti%20%7C%20RAFIKI%20Camp&sid=1793024754&sct=1&seg=1&en=page_view&_ee=1&_et=118&tfd=5852",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://js.stripe.com/v3",
+     "type": "script",
+     "failed": "csp"
+    }
+   ],
+   "cookieBanner": null,
+   "scrolledFixed": [
+    {
+     "tag": "OL",
+     "text": "",
+     "rect": [
+      868,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "text": "",
+     "rect": [
+      820,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      900
+     ]
+    },
+    {
+     "tag": "NAV",
+     "text": "THE EXPERIENCE THE CAMP PACKAGES OUTREACH UK ENQUIRE",
+     "rect": [
+      0,
+      97
+     ]
+    }
+   ],
+   "url": "https://rafikicamps.com/book",
+   "title": "Book Your Stay | Luxury Safari Serengeti | RAFIKI Camp",
+   "docH": 3525,
+   "nav": [
+    "THE EXPERIENCE",
+    "THE CAMP",
+    "PACKAGES",
+    "OUTREACH",
+    "UK",
+    "ENQUIRE"
+   ],
+   "navAll": [
+    " → /",
+    "THE EXPERIENCE → /experience",
+    "THE CAMP → /accommodation",
+    "PACKAGES → /packages",
+    "OUTREACH → /outreach",
+    "ENQUIRE → /#inquire"
+   ],
+   "headings": [
+    "H1: Book Your Stay",
+    "H2: Choose your dates",
+    "H2: Get in touch directly",
+    "H3: Email Us",
+    "H3: Send an Enquiry",
+    "H3: WhatsApp"
+   ],
+   "ctas": [
+    {
+     "t": "ENQUIRE",
+     "href": "/#inquire",
+     "y": 26
+    },
+    {
+     "t": "Send an enquiry",
+     "href": "#enquiry",
+     "y": 1294
+    },
+    {
+     "t": "EMAIL US",
+     "href": "mailto:stay@rafikicamps.com",
+     "y": 2594
+    },
+    {
+     "t": "GO TO FORM",
+     "href": "/#inquire",
+     "y": 2617
+    },
+    {
+     "t": "Download Brochure",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 3223
+    },
+    {
+     "t": "",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 3187
+    }
+   ],
+   "fixed": [
+    {
+     "tag": "OL",
+     "pos": "fixed",
+     "cls": "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-",
+     "text": "",
+     "rect": [
+      1020,
+      868,
+      420,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "pos": "fixed",
+     "cls": "fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform durat",
+     "text": "",
+     "rect": [
+      1360,
+      820,
+      56,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "pos": "fixed",
+     "cls": "fixed inset-0 z-[60] flex items-center justify-center p-4 bg-foreground/60 transition-opacity duration-200 opacity-100",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ]
+    },
+    {
+     "tag": "NAV",
+     "pos": "fixed",
+     "cls": "fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-transparent",
+     "text": "THE EXPERIENCE THE CAMP PACKAGES OUTREACH UK ENQUIRE",
+     "rect": [
+      0,
+      0,
+      1440,
+      96
+     ]
+    }
+   ],
+   "fonts": [
+    "Inter 400 normal",
+    "Inter 500 normal"
+   ],
+   "typo": {
+    "h1": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "72px",
+     "weight": "400",
+     "ls": "-2.88px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "72px"
+    },
+    "h2": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "48px",
+     "weight": "400",
+     "ls": "-1.92px",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "48px"
+    },
+    "h3": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "20px",
+     "weight": "400",
+     "ls": "-0.8px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "28px"
+    },
+    "p": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "12px",
+     "weight": "400",
+     "ls": "2.4px",
+     "tt": "uppercase",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "16px"
+    },
+    "button": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "24px"
+    },
+    "navlink": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    },
+    "body": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    }
+   },
+   "bg": [
+    "rgb(252, 252, 250) (5652954)",
+    "rgb(24, 28, 23) (1941864)",
+    "rgba(24, 28, 23, 0.6) (1296000)",
+    "rgba(230, 232, 227, 0.3) (1040985)",
+    "rgba(24, 28, 23, 0.05) (17664)",
+    "rgba(252, 252, 250, 0.05) (11454)",
+    "rgb(37, 211, 102) (3136)",
+    "rgba(245, 158, 11, 0.7) (144)",
+    "rgba(24, 28, 23, 0.2) (72)",
+    "rgb(255, 255, 255) (2)"
+   ],
+   "fg": [
+    "rgba(252, 252, 250, 0.6) (27)",
+    "rgb(252, 252, 250) (9)",
+    "rgb(24, 28, 23) (8)",
+    "rgba(252, 252, 250, 0.7) (6)",
+    "rgb(251, 191, 36) (5)",
+    "rgba(252, 252, 250, 0.4) (3)",
+    "rgba(24, 28, 23, 0.7) (2)",
+    "rgba(24, 28, 23, 0.4) (2)",
+    "rgba(24, 28, 23, 0.6) (2)",
+    "rgba(251, 191, 36, 0.4) (2)"
+   ],
+   "eyebrows": [
+    "THE RAFIKI JOURNAL",
+    "THE EXPERIENCE",
+    "THE CAMP",
+    "PACKAGES",
+    "OUTREACH",
+    "UK",
+    "RESERVATIONS",
+    "CHECK AVAILABILITY",
+    "IN THEIR OWN WORDS",
+    "MISSY M.",
+    "→",
+    "PREFER A PERSONAL TOUCH?",
+    "STAY IN TOUCH",
+    "NAVIGATE",
+    "CONTACT",
+    "FOLLOW"
+   ],
+   "midDots": [],
+   "arrows": [
+    "READ MORE REVIEWS →"
+   ],
+   "radii": [
+    "9999px (5)"
+   ],
+   "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 (2)"
+   ],
+   "prices": [],
+   "forms": [
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    }
+   ],
+   "iframes": [],
+   "videos": [],
+   "imgCount": 3,
+   "imgExt": {
+    "png": 1,
+    "jpg": 1,
+    "svg": 1
+   },
+   "imgHosts": [
+    "rafikicamps.com"
+   ],
+   "hasPicture": 0,
+   "lazy": 0,
+   "trust": [
+    "READ MORE REVIEWS →",
+    "Reviews"
+   ],
+   "jsonld": [],
+   "animatedInline": 11,
+   "lang": "en-GB",
+   "metaGen": null
+  }
+ },
+ "mobile": {
+  "home": {
+   "perf": {
+    "lcp": {
+     "t": 2052,
+     "el": "H1 Adventure by Day.Luxury by Night.",
+     "size": 19750
+    },
+    "cls": 0,
+    "fcp": 2052,
+    "ttfb": 284,
+    "domContentLoaded": 1093,
+    "load": 1094,
+    "transferKB": 3610,
+    "decodedKB": 4520,
+    "resources": 52
+   },
+   "loadMs": 16099,
+   "requests": 65,
+   "byType": {
+    "document": {
+     "n": 1,
+     "kb": 3
+    },
+    "script": {
+     "n": 29,
+     "kb": 597
+    },
+    "stylesheet": {
+     "n": 2,
+     "kb": 15
+    },
+    "fetch": {
+     "n": 3,
+     "kb": 0
+    },
+    "image": {
+     "n": 25,
+     "kb": 17942
+    },
+    "media": {
+     "n": 5,
+     "kb": 212
+    }
+   },
+   "hosts": {
+    "rafikicamps.com": {
+     "n": 60,
+     "kb": 18585,
+     "types": [
+      "document",
+      "stylesheet",
+      "script",
+      "image",
+      "media"
+     ]
+    },
+    "www.googletagmanager.com": {
+     "n": 1,
+     "kb": 180,
+     "types": [
+      "script"
+     ]
+    },
+    "www.google-analytics.com": {
+     "n": 3,
+     "kb": 0,
+     "types": [
+      "fetch"
+     ]
+    },
+    "fonts.googleapis.com": {
+     "n": 1,
+     "kb": 2,
+     "types": [
+      "stylesheet"
+     ]
+    }
+   },
+   "largest": [
+    "9660KB image https://rafikicamps.com/assets/hippo-veranda-BMAvWWKE.jpg",
+    "2800KB image https://rafikicamps.com/assets/fullsize-render-Ym900brB.jpg",
+    "820KB image https://rafikicamps.com/assets/veranda--zs_WECJ.jpg",
+    "506KB image https://rafikicamps.com/assets/elephants-veranda-ChzOQXyS.jpg",
+    "492KB image https://rafikicamps.com/assets/tent-exterior-DLFL-Jth.jpg",
+    "399KB image https://rafikicamps.com/assets/river-drone-DoFpubZP.jpg",
+    "345KB image https://rafikicamps.com/assets/outdoor-shower-CfBwoYOZ.jpg",
+    "344KB image https://rafikicamps.com/assets/bedroom-BbbX04d9.jpg",
+    "340KB image https://rafikicamps.com/assets/lounge-CVBcm6yD.jpg",
+    "313KB image https://rafikicamps.com/assets/giraffe-acacia-CrD6CnLG.jpg"
+   ],
+   "failed": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za208zd9247643078xf1&_p=1793024777768&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1312770956.1793024778&frm=0&ngs=1&pscdl=noapi&rcb=2&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793024777&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2F&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=863",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024777768&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=1312770956.1793024778&frm=0&ngs=1&pscdl=noapi&rcb=2&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=2&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793024777&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2F&dt=&en=scroll&epn.percent_scrolled=90&_et=7&tfd=1137",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://rafikicamps.com/videos/Camp_Banner_Hero_web.mp4",
+     "type": "media",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://rafikicamps.com/videos/RAFIKI_Banner_1080_web.mp4",
+     "type": "media",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024777768&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1312770956.1793024778&frm=0&ngs=1&pscdl=noapi&rcb=2&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=3&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2F&dl=https%3A%2F%2Frafikicamps.com%2F&dt=Luxury%20Safari%20Tanzania%20%7C%20Serengeti%20Holiday%20%7C%20RAFIKI%20Camp&sid=1793024777&sct=1&seg=1&en=page_view&_ee=1&_et=254&tfd=6140",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://rafikicamps.com/videos/RAFIKI_Banner_1080_web.mp4",
+     "type": "media",
+     "failed": "net::ERR_ABORTED"
+    }
+   ],
+   "cookieBanner": null,
+   "scrolledFixed": [
+    {
+     "tag": "OL",
+     "text": "",
+     "rect": [
+      0,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "text": "",
+     "rect": [
+      584,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      664
+     ]
+    },
+    {
+     "tag": "NAV",
+     "text": "",
+     "rect": [
+      0,
+      97
+     ]
+    }
+   ],
+   "url": "https://rafikicamps.com/",
+   "title": "RAFIKI Luxury Safari + Camps | Central Serengeti, Tanzania",
+   "docH": 10783,
+   "nav": [],
+   "navAll": [
+    " → /",
+    "The Experience → /experience",
+    "The Camp → /accommodation",
+    "Packages → /packages",
+    "Outreach → /outreach",
+    "Enquire → /#inquire"
+   ],
+   "headings": [
+    "H1: Adventure by Day. Luxury by Night.",
+    "H2: Two worlds. One extraordinary stay.",
+    "H3: The Safari",
+    "H3: The Camp",
+    "H3: LOCATION",
+    "H3: ACCOMMODATIONS",
+    "H3: GETTING HERE",
+    "H2: 25 years reading the land.",
+    "H2: Your stay provides clean water to underserved communities.",
+    "H2: Life at RAFIKI",
+    "H2: Everything You Need to Plan Your Visit",
+    "H3: Rates & Inclusions",
+    "H3: How to Get Here",
+    "H3: Safari Packages",
+    "H3: Common Questions",
+    "H2: Take RAFIKI with you",
+    "H2: Every great adventure begins with a conversation."
+   ],
+   "ctas": [
+    {
+     "t": "BEGIN YOUR JOURNEY",
+     "href": "#inquire",
+     "y": 428
+    },
+    {
+     "t": "BEGIN ENQUIRY",
+     "href": "/#inquire",
+     "y": 2811
+    },
+    {
+     "t": "Facebook RAFIKI Luxury Camps →",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 4998
+    },
+    {
+     "t": "",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 7292
+    },
+    {
+     "t": "DOWNLOAD BROCHURE PDF · 1.7 MB",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 7859
+    },
+    {
+     "t": "See trade enquiries",
+     "href": "/rates",
+     "y": 7953
+    },
+    {
+     "t": "SEND ENQUIRY",
+     "href": null,
+     "y": 9130
+    },
+    {
+     "t": "Download Brochure",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 10194
+    },
+    {
+     "t": "",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 10554
+    }
+   ],
+   "fixed": [
+    {
+     "tag": "OL",
+     "pos": "fixed",
+     "cls": "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-",
+     "text": "",
+     "rect": [
+      0,
+      0,
+      390,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "pos": "fixed",
+     "cls": "fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform durat",
+     "text": "",
+     "rect": [
+      310,
+      584,
+      56,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "pos": "fixed",
+     "cls": "fixed inset-0 z-[60] flex items-center justify-center p-4 bg-foreground/60 transition-opacity duration-200 opacity-100",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      0,
+      390,
+      664
+     ]
+    },
+    {
+     "tag": "NAV",
+     "pos": "fixed",
+     "cls": "fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-transparent",
+     "text": "The ExperienceThe CampPackagesOutreachUKEnquire",
+     "rect": [
+      0,
+      0,
+      390,
+      96
+     ]
+    }
+   ],
+   "fonts": [],
+   "typo": {
+    "h1": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "36px",
+     "weight": "400",
+     "ls": "-1.44px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "39.6px"
+    },
+    "h2": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "30px",
+     "weight": "400",
+     "ls": "-1.2px",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "36px"
+    },
+    "h3": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "24px",
+     "weight": "400",
+     "ls": "-0.96px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "32px"
+    },
+    "p": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "12px",
+     "weight": "400",
+     "ls": "2.4px",
+     "tt": "uppercase",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "16px"
+    },
+    "button": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "24px"
+    },
+    "navlink": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    },
+    "body": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    }
+   },
+   "bg": [
+    "rgb(252, 252, 250) (5081857)",
+    "rgb(24, 28, 23) (1109032)",
+    "rgba(24, 28, 23, 0.03) (989333)",
+    "rgb(46, 92, 138) (406673)",
+    "rgba(24, 28, 23, 0.1) (297455)",
+    "rgba(24, 28, 23, 0.6) (258960)",
+    "rgba(230, 232, 227, 0.3) (247016)",
+    "rgba(24, 28, 23, 0) (102400)",
+    "rgba(252, 252, 250, 0.05) (15048)",
+    "rgba(24, 28, 23, 0.05) (14112)",
+    "rgba(252, 252, 250, 0.2) (7744)",
+    "rgb(37, 211, 102) (3136)"
+   ],
+   "fg": [
+    "rgba(252, 252, 250, 0.6) (26)",
+    "rgb(24, 28, 23) (25)",
+    "rgba(24, 28, 23, 0.4) (15)",
+    "rgba(252, 252, 250, 0.5) (14)",
+    "rgb(112, 120, 109) (10)",
+    "rgb(252, 252, 250) (7)",
+    "rgba(24, 28, 23, 0.6) (7)",
+    "rgb(251, 191, 36) (5)",
+    "rgb(255, 255, 255) (4)",
+    "rgba(24, 28, 23, 0.3) (4)"
+   ],
+   "eyebrows": [
+    "THE RAFIKI JOURNAL",
+    "CENTRAL SERENGETI · ORANGI RIVER",
+    "THE DUALITY",
+    "BY DAY",
+    "BY NIGHT",
+    "HERITAGE",
+    "YEARS OF GUIDING",
+    "COMMUNITIES SERVED",
+    "STAR HOSPITALITY",
+    "CAMP NOW OPEN",
+    "RAFIKI OUTREACH",
+    "COMMUNITIES REACHED",
+    "LITRES DELIVERED",
+    "FOLLOW ALONG",
+    "IN THEIR OWN WORDS",
+    "CODY",
+    "→",
+    "BEFORE YOU BOOK",
+    "SEE FULL RATES →",
+    "TRAVEL GUIDE →",
+    "VIEW PACKAGES →",
+    "READ THE FAQ →",
+    "THE BROCHURE",
+    "BEGIN YOUR JOURNEY",
+    "*",
+    "STAY IN TOUCH",
+    "NAVIGATE",
+    "CONTACT"
+   ],
+   "midDots": [
+    "CENTRAL SERENGETI · ORANGI RIVER",
+    "PDF · 1.7 MB"
+   ],
+   "arrows": [
+    "Instagram @rafikicamps →",
+    "Facebook RAFIKI Luxury Camps →",
+    "TikTok @rafikicamps →",
+    "YouTube @RAFIKILuxuryCamps →",
+    "READ MORE REVIEWS →",
+    "Rates & Inclusions 01 From $985 per person per night, fully all-inclusive — unlimited private game drives, all meals, house drinks, government fees, and Flying Doctors evacuation insurance. No hidden extras. SEE FULL RATES →",
+    "How to Get Here 02 Kilimanjaro Airport → 45-minute charter flight → private game drive transfer to camp. We coordinate your entire journey from arrival to the Serengeti. TRAVEL GUIDE →",
+    "Safari Packages 03 From a single night to a 7-night grand safari. Honeymoon and family packages available. Every package is fully all-inclusive with a private vehicle. VIEW PACKAGES →",
+    "Common Questions 04 Best time to visit, what to pack, how many nights, what's actually included — answered honestly by people who live in the Central Serengeti year-round. READ THE FAQ →"
+   ],
+   "radii": [
+    "9999px (9)"
+   ],
+   "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 (2)",
+    "rgb(255, 255, 255) 0px 0px 0px 0px, rgba(24, 28, 23, 0.1) 0px 0px 0px 1px, rgba( (1)"
+   ],
+   "prices": [
+    "$985 per person per night with no hidden ext",
+    "$985 per person per night, fully all-inclusi"
+   ],
+   "forms": [
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "text",
+       "name": "name",
+       "label": "FULL NAME *",
+       "req": true
+      },
+      {
+       "type": "email",
+       "name": "email",
+       "label": "EMAIL *",
+       "req": true
+      },
+      {
+       "type": "tel",
+       "name": "phone",
+       "label": "PHONE NUMBER",
+       "req": false
+      },
+      {
+       "type": "select-one",
+       "name": "groupSize",
+       "label": "GROUP SIZE *",
+       "req": true
+      },
+      {
+       "type": "date",
+       "name": "arrivalDate",
+       "label": "ARRIVAL DATE",
+       "req": false
+      },
+      {
+       "type": "select-one",
+       "name": "numberOfNights",
+       "label": "NUMBER OF NIGHTS",
+       "req": false
+      },
+      {
+       "type": "select-one",
+       "name": "reasonForTravel",
+       "label": "REASON FOR TRAVEL",
+       "req": false
+      },
+      {
+       "type": "textarea",
+       "name": "message",
+       "label": "TELL US ABOUT YOUR DREAM SAFARI",
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    }
+   ],
+   "iframes": [],
+   "videos": [
+    {
+     "src": "https://rafikicamps.com/videos/Camp_Banner_Hero_web.mp4",
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "poster": "https://rafikicamps.com/videos/poster-hero.jpg",
+     "top": 0
+    },
+    {
+     "src": "https://rafikicamps.com/videos/RAFIKI_Banner_1080_web.mp4",
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "poster": "https://rafikicamps.com/videos/poster-camp.jpg",
+     "top": 1799
+    }
+   ],
+   "imgCount": 10,
+   "imgExt": {
+    "png": 1,
+    "jpg": 8,
+    "svg": 1
+   },
+   "imgHosts": [
+    "rafikicamps.com"
+   ],
+   "hasPicture": 0,
+   "lazy": 6,
+   "trust": [
+    "Expert-guided game drives across Tanzania's Central Serengeti. The Big Five. The Great Migration. 25 years of expertise reading the land.",
+    "Riverfront luxury tents. Private dining under the stars. Every detail curated—so the only thing you need to bring is wonder.",
+    "25 years reading the land.",
+    "25 YEARS OF GUIDING",
+    "YEARS OF GUIDING",
+    "5 STAR HOSPITALITY",
+    "STAR HOSPITALITY",
+    "READ MORE REVIEWS →",
+    "Reviews"
+   ],
+   "jsonld": [
+    "LodgingBusiness",
+    "WebSite"
+   ],
+   "animatedInline": 29,
+   "lang": "en-GB",
+   "metaGen": null
+  },
+  "trip": {
+   "perf": {
+    "lcp": {
+     "t": 1660,
+     "el": "IMG https://rafikicamps.com/assets/safari-vehicles-BB9k-BwW.jpg ",
+     "size": 181270
+    },
+    "cls": 0,
+    "fcp": 1596,
+    "ttfb": 103,
+    "domContentLoaded": 856,
+    "load": 1623,
+    "transferKB": 1903,
+    "decodedKB": 2822,
+    "resources": 40
+   },
+   "loadMs": 2701,
+   "requests": 45,
+   "byType": {
+    "document": {
+     "n": 1,
+     "kb": 4
+    },
+    "script": {
+     "n": 26,
+     "kb": 588
+    },
+    "stylesheet": {
+     "n": 2,
+     "kb": 15
+    },
+    "image": {
+     "n": 13,
+     "kb": 2108
+    },
+    "fetch": {
+     "n": 3,
+     "kb": 0
+    }
+   },
+   "hosts": {
+    "rafikicamps.com": {
+     "n": 40,
+     "kb": 2529,
+     "types": [
+      "document",
+      "stylesheet",
+      "script",
+      "image"
+     ]
+    },
+    "www.googletagmanager.com": {
+     "n": 1,
+     "kb": 180,
+     "types": [
+      "script"
+     ]
+    },
+    "www.google-analytics.com": {
+     "n": 3,
+     "kb": 0,
+     "types": [
+      "fetch"
+     ]
+    },
+    "fonts.googleapis.com": {
+     "n": 1,
+     "kb": 2,
+     "types": [
+      "stylesheet"
+     ]
+    }
+   },
+   "largest": [
+    "492KB image https://rafikicamps.com/assets/tent-exterior-DLFL-Jth.jpg",
+    "340KB image https://rafikicamps.com/assets/lounge-CVBcm6yD.jpg",
+    "286KB script https://rafikicamps.com/assets/index-Cn5mQIV-.js",
+    "235KB image https://rafikicamps.com/assets/elephant-crossing-B-s26vmM.jpg",
+    "180KB script https://www.googletagmanager.com/gtag/js?id=G-DPQPMTRB54",
+    "143KB image https://rafikicamps.com/assets/zebra-pair-0kUQ2BIt.jpg",
+    "141KB image https://rafikicamps.com/assets/hippos-river-B3CS4QnO.jpg",
+    "140KB image https://rafikicamps.com/assets/cheetah-sitting-Ch8k_9tX.jpg",
+    "136KB image https://rafikicamps.com/assets/safari-vehicles-BB9k-BwW.jpg",
+    "123KB image https://rafikicamps.com/videos/poster-hero.jpg"
+   ],
+   "failed": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za208zd9247643078xf1&_p=1793024815588&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1366197134.1793024816&frm=0&ngs=1&pscdl=noapi&rcb=7&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793024815&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fpackages%2F5-night&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=685",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024815588&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=1366197134.1793024816&frm=0&ngs=1&pscdl=noapi&rcb=7&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793024815&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fpackages%2F5-night&dt=&en=scroll&epn.percent_scrolled=90&_et=13&tfd=913",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024815588&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1366197134.1793024816&frm=0&ngs=1&pscdl=noapi&rcb=7&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fpackages%2F5-night&dl=https%3A%2F%2Frafikicamps.com%2Fpackages%2F5-night&dt=5-Night%20Serengeti%20Safari%20%7C%20Luxury%20Tanzania%20%7C%20RAFIKI%20Camp&sid=1793024815&sct=1&seg=1&en=page_view&_ee=1&_et=200&tfd=5915",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    }
+   ],
+   "cookieBanner": null,
+   "scrolledFixed": [
+    {
+     "tag": "OL",
+     "text": "",
+     "rect": [
+      0,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "text": "",
+     "rect": [
+      584,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      664
+     ]
+    },
+    {
+     "tag": "NAV",
+     "text": "",
+     "rect": [
+      0,
+      97
+     ]
+    }
+   ],
+   "url": "https://rafikicamps.com/packages/5-night",
+   "title": "5-Night Serengeti Safari | Luxury Tanzania | RAFIKI Camp",
+   "docH": 11026,
+   "nav": [],
+   "navAll": [
+    " → /",
+    "The Experience → /experience",
+    "The Camp → /accommodation",
+    "Packages → /packages",
+    "Outreach → /outreach",
+    "Enquire → /#inquire"
+   ],
+   "headings": [
+    "H1: The Serengeti Experience",
+    "H2: The Serengeti Experience",
+    "H2: Example Itinerary",
+    "H3: Arrival & First Safari",
+    "H3: Dawn Predators & River Wildlife",
+    "H3: Bush Breakfast & Big Five",
+    "H3: Deep Serengeti Exploration",
+    "H3: Final Full Safari Day",
+    "H3: Departure",
+    "H2: Select Your Dates",
+    "H2: Let's Plan Your Safari"
+   ],
+   "ctas": [
+    {
+     "t": "ENQUIRE NOW",
+     "href": "/#inquire",
+     "y": 9363
+    },
+    {
+     "t": "Download Brochure",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 10437
+    },
+    {
+     "t": "",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 10797
+    }
+   ],
+   "fixed": [
+    {
+     "tag": "OL",
+     "pos": "fixed",
+     "cls": "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-",
+     "text": "",
+     "rect": [
+      0,
+      0,
+      390,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "pos": "fixed",
+     "cls": "fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform durat",
+     "text": "",
+     "rect": [
+      310,
+      584,
+      56,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "pos": "fixed",
+     "cls": "fixed inset-0 z-[60] flex items-center justify-center p-4 bg-foreground/60 transition-opacity duration-200 opacity-100",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      0,
+      390,
+      664
+     ]
+    },
+    {
+     "tag": "NAV",
+     "pos": "fixed",
+     "cls": "fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-transparent",
+     "text": "The ExperienceThe CampPackagesOutreachUKEnquire",
+     "rect": [
+      0,
+      0,
+      390,
+      96
+     ]
+    }
+   ],
+   "fonts": [],
+   "typo": {
+    "h1": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "36px",
+     "weight": "400",
+     "ls": "-1.44px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "40px"
+    },
+    "h2": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "30px",
+     "weight": "400",
+     "ls": "-1.2px",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "36px"
+    },
+    "h3": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "20px",
+     "weight": "400",
+     "ls": "-0.8px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "28px"
+    },
+    "p": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "12px",
+     "weight": "400",
+     "ls": "2.4px",
+     "tt": "uppercase",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "16px"
+    },
+    "button": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "24px"
+    },
+    "navlink": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    },
+    "body": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    }
+   },
+   "bg": [
+    "rgb(252, 252, 250) (5515562)",
+    "rgb(24, 28, 23) (2334651)",
+    "rgba(24, 28, 23, 0.6) (258960)",
+    "rgba(52, 211, 153, 0.15) (95040)",
+    "rgba(73, 95, 81, 0.05) (69084)",
+    "rgba(252, 252, 250, 0.05) (15048)",
+    "rgba(24, 28, 23, 0.05) (14112)",
+    "rgb(73, 95, 81) (3381)",
+    "rgb(37, 211, 102) (3136)",
+    "rgba(252, 252, 250, 0.3) (656)",
+    "rgb(251, 191, 36) (195)",
+    "rgb(251, 113, 133) (194)"
+   ],
+   "fg": [
+    "rgb(24, 28, 23) (82)",
+    "rgba(252, 252, 250, 0.6) (64)",
+    "rgba(24, 28, 23, 0.8) (19)",
+    "rgba(24, 28, 23, 0.4) (17)",
+    "rgb(252, 252, 250) (12)",
+    "rgb(112, 120, 109) (12)",
+    "rgba(24, 28, 23, 0.5) (11)",
+    "rgb(73, 95, 81) (11)",
+    "rgba(24, 28, 23, 0.15) (10)",
+    "rgba(252, 252, 250, 0.4) (9)"
+   ],
+   "eyebrows": [
+    "THE RAFIKI JOURNAL",
+    "THE EXPERIENCE",
+    "HIGHLIGHTS",
+    "GALLERY",
+    "DAY BY DAY",
+    "WHAT'S INCLUDED",
+    "NOT INCLUDED",
+    "CHECK AVAILABILITY & PRICING",
+    "GUESTS",
+    "2026 SEASONAL RATES",
+    "READY TO BEGIN?",
+    "STAY IN TOUCH",
+    "NAVIGATE",
+    "CONTACT",
+    "FOLLOW"
+   ],
+   "midDots": [
+    "per person · 5 nights · Green Season",
+    "Ages 4–12 · 50% rate",
+    "Under 3 · Free",
+    "Select your check-in date · 5-night stay"
+   ],
+   "arrows": [],
+   "radii": [
+    "9999px (8)",
+    "4px (2)"
+   ],
+   "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 (2)"
+   ],
+   "prices": [
+    "$4,925",
+    "$985",
+    "$1,100",
+    "$1,340"
+   ],
+   "forms": [
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    }
+   ],
+   "iframes": [],
+   "videos": [],
+   "imgCount": 12,
+   "imgExt": {
+    "png": 1,
+    "jpg": 10,
+    "svg": 1
+   },
+   "imgHosts": [
+    "rafikicamps.com"
+   ],
+   "hasPicture": 0,
+   "lazy": 9,
+   "trust": [
+    "Welcome dinner under the stars",
+    "Dinner with a curated wine pairing",
+    "Reviews"
+   ],
+   "jsonld": [
+    "TouristTrip"
+   ],
+   "animatedInline": 43,
+   "lang": "en-GB",
+   "metaGen": null
+  },
+  "book": {
+   "perf": {
+    "lcp": {
+     "t": 2000,
+     "el": "IMG https://rafikicamps.com/assets/veranda--zs_WECJ.jpg ",
+     "size": 129480
+    },
+    "cls": 0,
+    "fcp": 1784,
+    "ttfb": 459,
+    "domContentLoaded": 1215,
+    "load": 4531,
+    "transferKB": 1361,
+    "decodedKB": 2375,
+    "resources": 29
+   },
+   "loadMs": 6208,
+   "requests": 30,
+   "byType": {
+    "document": {
+     "n": 1,
+     "kb": 4
+    },
+    "script": {
+     "n": 16,
+     "kb": 1189
+    },
+    "stylesheet": {
+     "n": 4,
+     "kb": 19
+    },
+    "image": {
+     "n": 4,
+     "kb": 983
+    },
+    "fetch": {
+     "n": 3,
+     "kb": 0
+    },
+    "font": {
+     "n": 1,
+     "kb": 48
+    },
+    "xhr": {
+     "n": 1,
+     "kb": 2
+    }
+   },
+   "hosts": {
+    "rafikicamps.com": {
+     "n": 19,
+     "kb": 1378,
+     "types": [
+      "document",
+      "stylesheet",
+      "script",
+      "image"
+     ]
+    },
+    "www.googletagmanager.com": {
+     "n": 1,
+     "kb": 180,
+     "types": [
+      "script"
+     ]
+    },
+    "www.google-analytics.com": {
+     "n": 3,
+     "kb": 0,
+     "types": [
+      "fetch"
+     ]
+    },
+    "fonts.googleapis.com": {
+     "n": 3,
+     "kb": 6,
+     "types": [
+      "stylesheet"
+     ]
+    },
+    "resnova.resrequest.com": {
+     "n": 2,
+     "kb": 632,
+     "types": [
+      "script",
+      "xhr"
+     ]
+    },
+    "js.stripe.com": {
+     "n": 1,
+     "kb": 0,
+     "types": [
+      "script"
+     ]
+    },
+    "fonts.gstatic.com": {
+     "n": 1,
+     "kb": 48,
+     "types": [
+      "font"
+     ]
+    }
+   },
+   "largest": [
+    "820KB image https://rafikicamps.com/assets/veranda--zs_WECJ.jpg",
+    "630KB script https://resnova.resrequest.com/widget/js/app.js",
+    "286KB script https://rafikicamps.com/assets/index-Cn5mQIV-.js",
+    "180KB script https://www.googletagmanager.com/gtag/js?id=G-DPQPMTRB54",
+    "123KB image https://rafikicamps.com/videos/poster-hero.jpg",
+    "48KB font https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+    "43KB script https://rafikicamps.com/assets/proxy-D_-cnPLs.js",
+    "31KB image https://rafikicamps.com/assets/RLS_C_WHITE-ChR9q0YL.png",
+    "21KB script https://rafikicamps.com/assets/SiteFooter-CaDk-ZhO.js",
+    "13KB stylesheet https://rafikicamps.com/assets/index-BQo3bIE4.css"
+   ],
+   "failed": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za208zd9247643078xf1&_p=1793024834999&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1219872869.1793024835&frm=0&ngs=1&pscdl=noapi&rcb=13&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793024835&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fbook&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1049",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024834999&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=1219872869.1793024835&frm=0&ngs=1&pscdl=noapi&rcb=13&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=2&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793024835&sct=1&seg=0&dl=https%3A%2F%2Frafikicamps.com%2Fbook&dt=&en=scroll&epn.percent_scrolled=90&_et=11&tfd=1281",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    },
+    {
+     "url": "https://js.stripe.com/v3",
+     "type": "script",
+     "failed": "csp"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-DPQPMTRB54&gtm=45je6al1v9247643078za200zd9247643078xf1&_p=1793024834999&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1219872869.1793024835&frm=0&ngs=1&pscdl=noapi&rcb=13&sr=390x844&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=1&uap=iOS&uapv=15_0&uaw=0&ul=en-gb&_s=3&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fbook&dl=https%3A%2F%2Frafikicamps.com%2Fbook&dt=Book%20Your%20Stay%20%7C%20Luxury%20Safari%20Serengeti%20%7C%20RAFIKI%20Camp&sid=1793024835&sct=1&seg=1&en=page_view&_ee=1&_et=203&tfd=6283",
+     "type": "fetch",
+     "failed": "net::ERR_ABORTED"
+    }
+   ],
+   "cookieBanner": null,
+   "scrolledFixed": [
+    {
+     "tag": "OL",
+     "text": "",
+     "rect": [
+      0,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "text": "",
+     "rect": [
+      584,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      664
+     ]
+    },
+    {
+     "tag": "NAV",
+     "text": "",
+     "rect": [
+      0,
+      97
+     ]
+    }
+   ],
+   "url": "https://rafikicamps.com/book",
+   "title": "Book Your Stay | Luxury Safari Serengeti | RAFIKI Camp",
+   "docH": 4442,
+   "nav": [],
+   "navAll": [
+    " → /",
+    "The Experience → /experience",
+    "The Camp → /accommodation",
+    "Packages → /packages",
+    "Outreach → /outreach",
+    "Enquire → /#inquire"
+   ],
+   "headings": [
+    "H1: Book Your Stay",
+    "H2: Choose your dates",
+    "H2: Get in touch directly",
+    "H3: Email Us",
+    "H3: Send an Enquiry",
+    "H3: WhatsApp"
+   ],
+   "ctas": [
+    {
+     "t": "Send an enquiry",
+     "href": "#enquiry",
+     "y": 1132
+    },
+    {
+     "t": "EMAIL US",
+     "href": "mailto:stay@rafikicamps.com",
+     "y": 2291
+    },
+    {
+     "t": "GO TO FORM",
+     "href": "/#inquire",
+     "y": 2549
+    },
+    {
+     "t": "Download Brochure",
+     "href": "/RAFIKI-Orangi-River-Camp-Brochure.pdf",
+     "y": 3853
+    },
+    {
+     "t": "",
+     "href": "https://www.facebook.com/share/17EVuMS6Rt/?mibextid=wwXIfr",
+     "y": 4213
+    }
+   ],
+   "fixed": [
+    {
+     "tag": "OL",
+     "pos": "fixed",
+     "cls": "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-",
+     "text": "",
+     "rect": [
+      0,
+      0,
+      390,
+      32
+     ]
+    },
+    {
+     "tag": "A",
+     "pos": "fixed",
+     "cls": "fixed bottom-6 right-6 z-50 flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform durat",
+     "text": "",
+     "rect": [
+      310,
+      584,
+      56,
+      56
+     ]
+    },
+    {
+     "tag": "DIV",
+     "pos": "fixed",
+     "cls": "fixed inset-0 z-[60] flex items-center justify-center p-4 bg-foreground/60 transition-opacity duration-200 opacity-100",
+     "text": "THE RAFIKI JOURNAL Stay close to the wild Safari stories, wildlife sightings and first word on avail",
+     "rect": [
+      0,
+      0,
+      390,
+      664
+     ]
+    },
+    {
+     "tag": "NAV",
+     "pos": "fixed",
+     "cls": "fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-transparent",
+     "text": "The ExperienceThe CampPackagesOutreachUKEnquire",
+     "rect": [
+      0,
+      0,
+      390,
+      96
+     ]
+    }
+   ],
+   "fonts": [
+    "Inter 400 normal",
+    "Inter 500 normal"
+   ],
+   "typo": {
+    "h1": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "36px",
+     "weight": "400",
+     "ls": "-1.44px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "40px"
+    },
+    "h2": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "30px",
+     "weight": "400",
+     "ls": "-1.2px",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "36px"
+    },
+    "h3": {
+     "font": "\"EB Garamond\", Georgia, serif",
+     "size": "20px",
+     "weight": "400",
+     "ls": "-0.8px",
+     "tt": "none",
+     "color": "rgb(252, 252, 250)",
+     "lh": "28px"
+    },
+    "p": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "12px",
+     "weight": "400",
+     "ls": "2.4px",
+     "tt": "uppercase",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "16px"
+    },
+    "button": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgba(24, 28, 23, 0.5)",
+     "lh": "24px"
+    },
+    "navlink": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    },
+    "body": {
+     "font": "Inter, system-ui, sans-serif",
+     "size": "16px",
+     "weight": "400",
+     "ls": "normal",
+     "tt": "none",
+     "color": "rgb(24, 28, 23)",
+     "lh": "24px"
+    }
+   },
+   "bg": [
+    "rgb(252, 252, 250) (2049434)",
+    "rgb(24, 28, 23) (990672)",
+    "rgba(230, 232, 227, 0.3) (259886)",
+    "rgba(24, 28, 23, 0.6) (258960)",
+    "rgba(252, 252, 250, 0.05) (15048)",
+    "rgba(24, 28, 23, 0.05) (14112)",
+    "rgb(37, 211, 102) (3136)",
+    "rgba(245, 158, 11, 0.7) (144)",
+    "rgba(24, 28, 23, 0.2) (72)",
+    "rgb(255, 255, 255) (2)"
+   ],
+   "fg": [
+    "rgba(252, 252, 250, 0.6) (27)",
+    "rgb(252, 252, 250) (9)",
+    "rgb(24, 28, 23) (7)",
+    "rgb(251, 191, 36) (5)",
+    "rgba(252, 252, 250, 0.4) (3)",
+    "rgba(24, 28, 23, 0.7) (2)",
+    "rgba(24, 28, 23, 0.4) (2)",
+    "rgba(24, 28, 23, 0.6) (2)",
+    "rgba(251, 191, 36, 0.4) (2)",
+    "rgba(24, 28, 23, 0.5) (1)"
+   ],
+   "eyebrows": [
+    "THE RAFIKI JOURNAL",
+    "RESERVATIONS",
+    "CHECK AVAILABILITY",
+    "IN THEIR OWN WORDS",
+    "VERIFIED GUEST",
+    "→",
+    "PREFER A PERSONAL TOUCH?",
+    "STAY IN TOUCH",
+    "NAVIGATE",
+    "CONTACT",
+    "FOLLOW"
+   ],
+   "midDots": [],
+   "arrows": [
+    "READ MORE REVIEWS →"
+   ],
+   "radii": [
+    "9999px (5)"
+   ],
+   "shadows": [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 (2)"
+   ],
+   "prices": [],
+   "forms": [
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    },
+    {
+     "action": null,
+     "fields": [
+      {
+       "type": "email",
+       "name": "",
+       "label": "Email address",
+       "req": true
+      },
+      {
+       "type": "text",
+       "name": "company",
+       "label": null,
+       "req": false
+      }
+     ]
+    }
+   ],
+   "iframes": [],
+   "videos": [],
+   "imgCount": 3,
+   "imgExt": {
+    "png": 1,
+    "jpg": 1,
+    "svg": 1
+   },
+   "imgHosts": [
+    "rafikicamps.com"
+   ],
+   "hasPicture": 0,
+   "lazy": 0,
+   "trust": [
+    "READ MORE REVIEWS →",
+    "Reviews"
+   ],
+   "jsonld": [],
+   "animatedInline": 11,
+   "lang": "en-GB",
+   "metaGen": null
+  }
+ }
+}
