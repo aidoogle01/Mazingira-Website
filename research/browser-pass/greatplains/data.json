@@ -1,0 +1,1510 @@
+{
+ "key": "greatplains",
+ "captured": "2026-10-26T13:24:14.619Z",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://greatplainsconservation.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 8582,
+    "lcpMs": 4460,
+    "perf": {
+     "ttfb": 1275,
+     "domContentLoaded": 6891,
+     "perfApiTransferKB": 9913,
+     "resources": 63
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://greatplainsconservation.com/",
+     "title": "Luxury African Safaris | Great Plains Conservation",
+     "docHeight": 8629,
+     "nav": [
+      "MENU",
+      "search"
+     ],
+     "h1": [
+      {
+       "text": "Your invitation to join Great Plains Conservation for your personalised safari in Africa.",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [
+       {
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "src": "https://vz-16f5c6f3-e7b.b-cdn.net/3ee58cc6-026e-466e-8e4f-74901c9b80c2/play_720p.mp4"
+       }
+      ],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "General Contact Details",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "General Contact Details"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://greatplainsconservation.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "s",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "whatsapp",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "tel": [
+       {
+        "text": "+27 (0)87 354 6591",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+1 347 305 4201",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+44 203 150 1062",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@greatplainsconservation.com",
+       "info@greatplainsconservation.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "header-outer",
+        "cls": "detached at-top transparent",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 760,
+        "h": 140,
+        "w": 1440,
+        "text": "MENU search"
+       },
+       {
+        "tag": "a",
+        "id": "to-top",
+        "cls": "mobile-disabled",
+        "pos": "fixed",
+        "top": 901,
+        "bottom": -30,
+        "h": 29,
+        "w": 29,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Plus Jakarta Sans",
+       "Poppins",
+       "FontAwesome",
+       "icomoon",
+       "nectarbrands"
+      ],
+      "h1": "Garamond, serif",
+      "h1Style": "35px/500 ls=normal tt=none",
+      "h2": "Garamond, serif",
+      "h2Style": "30px/500 ls=normal tt=none",
+      "body": "\"Plus Jakarta Sans\"",
+      "bodyStyle": "16px/300 ls=normal tt=none",
+      "nav": "\"Plus Jakarta Sans\"",
+      "button": "\"Plus Jakarta Sans\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 237, 232) 24992654",
+       "rgb(46, 40, 40) 4694600",
+       "rgb(255, 255, 255) 600920",
+       "rgb(199, 186, 168) 600795",
+       "rgb(237, 237, 237) 30420",
+       "rgba(255, 255, 255, 0) 14235",
+       "rgba(0, 0, 0, 0.25) 841"
+      ],
+      "textByCount": [
+       "rgb(46, 40, 40) 100",
+       "rgb(199, 186, 168) 80",
+       "rgb(255, 255, 255) 28",
+       "rgb(174, 132, 31) 6",
+       "rgb(0, 128, 0) 1",
+       "rgb(41, 60, 91) 1"
+      ]
+     },
+     "images": {
+      "count": 3,
+      "alts": [
+       "GreatPlainsConservation Brand GoldLeaf",
+       "GreatPlainsConservation Brand GoldLeaf",
+       "GreatPlainsConservation Brand GoldLeaf"
+      ]
+     },
+     "slop": {
+      "eyebrows": 2,
+      "eyebrowEx": [
+       "Begin Your Journey",
+       "Begin Your Journey"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© Great Plains Conservation | Hammer Design"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 8,
+      "radii": [],
+      "animAttrs": 7,
+      "interUsed": false
+     },
+     "overflowX": true,
+     "scrollWidth": 1444,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 10455,
+    "requests": 69,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://greatplainsconservation.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 7597,
+    "lcpMs": 5880,
+    "perf": {
+     "ttfb": 882,
+     "domContentLoaded": 6042,
+     "perfApiTransferKB": 9913,
+     "resources": 64
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://greatplainsconservation.com/",
+     "title": "Luxury African Safaris | Great Plains Conservation",
+     "docHeight": 7920,
+     "nav": [
+      "search",
+      "MENU"
+     ],
+     "h1": [
+      {
+       "text": "Your invitation to join Great Plains Conservation for your personalised safari in Africa.",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [
+       {
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "src": "https://vz-16f5c6f3-e7b.b-cdn.net/3ee58cc6-026e-466e-8e4f-74901c9b80c2/play_720p.mp4"
+       }
+      ],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "General Contact Details",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://greatplainsconservation.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "s",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "",
+        "where": "bottom",
+        "visible": true
+       },
+       {
+        "text": "whatsapp",
+        "where": "body",
+        "visible": false
+       }
+      ],
+      "tel": [
+       {
+        "text": "+27 (0)87 354 6591",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+1 347 305 4201",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+44 203 150 1062",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@greatplainsconservation.com",
+       "info@greatplainsconservation.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "header-outer",
+        "cls": "detached at-top transparent",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 580,
+        "h": 84,
+        "w": 390,
+        "text": "search MENU"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Plus Jakarta Sans",
+       "Poppins",
+       "FontAwesome",
+       "icomoon",
+       "nectarbrands"
+      ],
+      "h1": "Garamond, serif",
+      "h1Style": "23px/500 ls=normal tt=none",
+      "h2": "Garamond, serif",
+      "h2Style": "23px/500 ls=normal tt=none",
+      "body": "\"Plus Jakarta Sans\"",
+      "bodyStyle": "16px/300 ls=normal tt=none",
+      "nav": "\"Plus Jakarta Sans\"",
+      "button": "\"Plus Jakarta Sans\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 237, 232) 6378484",
+       "rgb(46, 40, 40) 1152376",
+       "rgb(199, 186, 168) 561080",
+       "rgb(255, 255, 255) 259085",
+       "rgb(237, 237, 237) 30420",
+       "rgba(255, 255, 255, 0) 14235"
+      ],
+      "textByCount": [
+       "rgb(46, 40, 40) 100",
+       "rgb(199, 186, 168) 80",
+       "rgb(255, 255, 255) 52",
+       "rgb(174, 132, 31) 6",
+       "rgb(0, 128, 0) 1",
+       "rgb(41, 60, 91) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 2,
+      "eyebrowEx": [
+       "Begin Your Journey",
+       "Begin Your Journey"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© Great Plains Conservation | Hammer Design"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 7,
+      "radii": [],
+      "animAttrs": 1,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 10458,
+    "requests": 71,
+    "shotCappedAt": null
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://greatplainsconservation.com/mara-plains-camp-luxury-kenya-safari/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 15823,
+    "lcpMs": 5016,
+    "perf": {
+     "ttfb": 2363,
+     "domContentLoaded": 10712,
+     "perfApiTransferKB": 47135,
+     "resources": 85
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://greatplainsconservation.com/mara-plains-luxury-safari-camp-in-kenya/",
+     "title": "Mara Plains Camp | Luxury Safari Camp in Kenya for Big Cat Safaris",
+     "docHeight": 8710,
+     "nav": [
+      "MENU",
+      "search"
+     ],
+     "h1": [
+      {
+       "text": "Mara Plains Camp Welcomes You",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [
+       {
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "src": "https://vz-16f5c6f3-e7b.b-cdn.net/8a47d11e-e2fd-4fbc-85e5-8012c4b145f4/play_720p.mp4"
+       }
+      ],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "General Contact Details",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "General Contact Details"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://greatplainsconservation.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "s",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://greatplainsconservation.com/treweler-map/zarafa-camp/?twer-index=1&twer-map-id=1974&twer-height=650px&twer-type=default&twer-scrollz"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "whatsapp",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "tel": [
+       {
+        "text": "+27 (0)87 354 6591",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+1 347 305 4201",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+44 203 150 1062",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@greatplainsconservation.com",
+       "info@greatplainsconservation.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "header-outer",
+        "cls": "detached at-top transparent",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 760,
+        "h": 140,
+        "w": 1440,
+        "text": "MENU search"
+       },
+       {
+        "tag": "a",
+        "id": "to-top",
+        "cls": "mobile-disabled",
+        "pos": "fixed",
+        "top": 901,
+        "bottom": -30,
+        "h": 29,
+        "w": 29,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "system, make Mara Plains Camp a modern-day safari retreat. RATES From $1,745 per person sharing per night MORE DETAILS The abo"
+     ],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Plus Jakarta Sans",
+       "Poppins",
+       "FontAwesome",
+       "icomoon",
+       "nectarbrands"
+      ],
+      "h1": "Garamond, serif",
+      "h1Style": "45px/500 ls=normal tt=none",
+      "h2": "Garamond, serif",
+      "h2Style": "30px/500 ls=normal tt=none",
+      "body": "\"Plus Jakarta Sans\"",
+      "bodyStyle": "16px/300 ls=normal tt=none",
+      "nav": "\"Plus Jakarta Sans\"",
+      "button": "\"Plus Jakarta Sans\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 237, 232) 23265685",
+       "rgb(46, 40, 40) 6484737",
+       "rgb(199, 186, 168) 1126693",
+       "rgb(255, 255, 255) 600795",
+       "rgb(237, 237, 237) 30420",
+       "rgba(255, 255, 255, 0) 14235",
+       "rgba(0, 0, 0, 0.25) 841"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 90",
+       "rgb(46, 40, 40) 82",
+       "rgb(199, 186, 168) 65",
+       "rgb(240, 237, 232) 28",
+       "rgb(174, 132, 31) 6",
+       "rgb(0, 128, 0) 1"
+      ]
+     },
+     "images": {
+      "count": 6,
+      "alts": [
+       "GreatPlainsConservation Brand GoldLeaf",
+       "GreatPlainsConservation Brand GoldLeaf",
+       "GreatPlainsConservation Brand GoldLeaf",
+       "Great Plains Botswana Experience elephants crossing channel",
+       "great plains tembo plains sundonwers in zambezi",
+       "great plains ol donyo lodge elephant sunken hide"
+      ]
+     },
+     "slop": {
+      "eyebrows": 7,
+      "eyebrowEx": [
+       "Read More",
+       "Read More",
+       "More Details",
+       "Read More",
+       "Begin Your Journey",
+       "Begin Your Journey"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© Great Plains Conservation | Hammer Design"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 3,
+      "radii": [],
+      "animAttrs": 12,
+      "interUsed": false
+     },
+     "overflowX": true,
+     "scrollWidth": 1444,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 57801,
+    "requests": 160,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://greatplainsconservation.com/mara-plains-camp-luxury-kenya-safari/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 13811,
+    "lcpMs": 4732,
+    "perf": {
+     "ttfb": 1614,
+     "domContentLoaded": 7557,
+     "perfApiTransferKB": 47227,
+     "resources": 86
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://greatplainsconservation.com/mara-plains-luxury-safari-camp-in-kenya/",
+     "title": "Mara Plains Camp | Luxury Safari Camp in Kenya for Big Cat Safaris",
+     "docHeight": 9294,
+     "nav": [
+      "search",
+      "MENU"
+     ],
+     "h1": [
+      {
+       "text": "Mara Plains Camp Welcomes You",
+       "visible": false
+      }
+     ],
+     "hero": {
+      "videos": [
+       {
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "src": "https://vz-16f5c6f3-e7b.b-cdn.net/8a47d11e-e2fd-4fbc-85e5-8012c4b145f4/play_720p.mp4"
+       }
+      ],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "General Contact Details",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://greatplainsconservation.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "s",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://greatplainsconservation.com/treweler-map/zarafa-camp/?twer-index=1&twer-map-id=1974&twer-height=650px&twer-type=default&twer-scrollz"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "",
+        "where": "bottom",
+        "visible": true
+       },
+       {
+        "text": "whatsapp",
+        "where": "body",
+        "visible": false
+       }
+      ],
+      "tel": [
+       {
+        "text": "+27 (0)87 354 6591",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+1 347 305 4201",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+44 203 150 1062",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@greatplainsconservation.com",
+       "info@greatplainsconservation.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "header-outer",
+        "cls": "detached at-top transparent",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 580,
+        "h": 84,
+        "w": 390,
+        "text": "search MENU"
+       }
+      ]
+     },
+     "prices": [
+      "system, make Mara Plains Camp a modern-day safari retreat. RATES From $1,745 per person sharing per night MORE DETAILS The abo"
+     ],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Plus Jakarta Sans",
+       "Poppins",
+       "FontAwesome",
+       "icomoon",
+       "nectarbrands"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Garamond, serif",
+      "h2Style": "30px/500 ls=normal tt=none",
+      "body": "\"Plus Jakarta Sans\"",
+      "bodyStyle": "16px/300 ls=normal tt=none",
+      "nav": "\"Plus Jakarta Sans\"",
+      "button": "\"Plus Jakarta Sans\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 237, 232) 6112614",
+       "rgb(46, 40, 40) 2452182",
+       "rgb(199, 186, 168) 741614",
+       "rgb(255, 255, 255) 258960",
+       "rgb(237, 237, 237) 30420",
+       "rgba(255, 255, 255, 0) 14235"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 90",
+       "rgb(46, 40, 40) 82",
+       "rgb(199, 186, 168) 65",
+       "rgb(240, 237, 232) 28",
+       "rgb(174, 132, 31) 6",
+       "rgb(0, 128, 0) 1"
+      ]
+     },
+     "images": {
+      "count": 3,
+      "alts": [
+       "Great Plains Botswana Experience elephants crossing channel",
+       "great plains tembo plains sundonwers in zambezi",
+       "great plains ol donyo lodge elephant sunken hide"
+      ]
+     },
+     "slop": {
+      "eyebrows": 7,
+      "eyebrowEx": [
+       "Read More",
+       "Read More",
+       "More Details",
+       "Read More",
+       "Begin Your Journey",
+       "Begin Your Journey"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© Great Plains Conservation | Hammer Design"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 3,
+      "radii": [],
+      "animAttrs": 1,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 57784,
+    "requests": 160,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://greatplainsconservation.com/begin-your-safari/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 8116,
+    "lcpMs": 5352,
+    "perf": {
+     "ttfb": 1563,
+     "domContentLoaded": 8106,
+     "perfApiTransferKB": 3484,
+     "resources": 63
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://greatplainsconservation.com/begin-your-safari/",
+     "title": "Begin Your Safari with Great Plains Conservation",
+     "docHeight": 3764,
+     "nav": [
+      "MENU",
+      "search"
+     ],
+     "h1": [
+      {
+       "text": "Begin Your Journey",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "General Contact Details",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "General Contact Details"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://greatplainsconservation.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "s",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://form.jotform.com/250292259351557?isIframeEmbed=1&parentURL=https%3A%2F%2Fgreatplainsconservation.com%2Fbegin-your-safari%2F"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "whatsapp",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "tel": [
+       {
+        "text": "+27 (0)87 354 6591",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+1 347 305 4201",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+44 203 150 1062",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@greatplainsconservation.com",
+       "info@greatplainsconservation.com"
+      ],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "header-outer",
+        "cls": "detached at-top transparent",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 760,
+        "h": 140,
+        "w": 1440,
+        "text": "MENU search"
+       },
+       {
+        "tag": "a",
+        "id": "to-top",
+        "cls": "mobile-disabled",
+        "pos": "fixed",
+        "top": 901,
+        "bottom": -30,
+        "h": 29,
+        "w": 29,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Plus Jakarta Sans",
+       "Poppins",
+       "FontAwesome",
+       "icomoon",
+       "nectarbrands"
+      ],
+      "h1": "Garamond, serif",
+      "h1Style": "60px/500 ls=normal tt=none",
+      "h2": null,
+      "h2Style": null,
+      "body": "\"Plus Jakarta Sans\"",
+      "bodyStyle": "16px/300 ls=normal tt=none",
+      "nav": "\"Plus Jakarta Sans\"",
+      "button": "\"Plus Jakarta Sans\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 237, 232) 20805798",
+       "rgb(46, 40, 40) 1110804",
+       "rgb(255, 255, 255) 600795",
+       "rgb(199, 186, 168) 600795",
+       "rgb(237, 237, 237) 30420",
+       "rgba(255, 255, 255, 0) 14235",
+       "rgba(0, 0, 0, 0.25) 841"
+      ],
+      "textByCount": [
+       "rgb(46, 40, 40) 71",
+       "rgb(199, 186, 168) 65",
+       "rgb(255, 255, 255) 34",
+       "rgb(174, 132, 31) 6",
+       "rgb(0, 128, 0) 1",
+       "rgb(41, 60, 91) 1"
+      ]
+     },
+     "images": {
+      "count": 3,
+      "alts": [
+       "GreatPlainsConservation Brand GoldLeaf",
+       "GreatPlainsConservation Brand GoldLeaf",
+       "GreatPlainsConservation Brand GoldLeaf"
+      ]
+     },
+     "slop": {
+      "eyebrows": 2,
+      "eyebrowEx": [
+       "Begin Your Journey",
+       "Begin Your Journey"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© Great Plains Conservation | Hammer Design"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 6,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5155,
+    "requests": 171,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://greatplainsconservation.com/begin-your-safari/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 7805,
+    "lcpMs": 4372,
+    "perf": {
+     "ttfb": 1639,
+     "domContentLoaded": 7802,
+     "perfApiTransferKB": 3485,
+     "resources": 63
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://greatplainsconservation.com/begin-your-safari/",
+     "title": "Begin Your Safari with Great Plains Conservation",
+     "docHeight": 6094,
+     "nav": [
+      "search",
+      "MENU"
+     ],
+     "h1": [
+      {
+       "text": "Begin Your Journey",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "General Contact Details",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://greatplainsconservation.com/",
+       "id": "",
+       "cls": "",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "s",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://form.jotform.com/250292259351557?isIframeEmbed=1&parentURL=https%3A%2F%2Fgreatplainsconservation.com%2Fbegin-your-safari%2F"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "",
+        "where": "bottom",
+        "visible": true
+       },
+       {
+        "text": "whatsapp",
+        "where": "body",
+        "visible": false
+       }
+      ],
+      "tel": [
+       {
+        "text": "+27 (0)87 354 6591",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+1 347 305 4201",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "+44 203 150 1062",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "mail": [
+       "reservations@greatplainsconservation.com",
+       "info@greatplainsconservation.com"
+      ],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "header-outer",
+        "cls": "detached at-top transparent",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 580,
+        "h": 84,
+        "w": 390,
+        "text": "search MENU"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Plus Jakarta Sans",
+       "Poppins",
+       "FontAwesome",
+       "icomoon",
+       "nectarbrands"
+      ],
+      "h1": "Garamond, serif",
+      "h1Style": "40px/500 ls=normal tt=none",
+      "h2": null,
+      "h2Style": null,
+      "body": "\"Plus Jakarta Sans\"",
+      "bodyStyle": "16px/300 ls=normal tt=none",
+      "nav": "\"Plus Jakarta Sans\"",
+      "button": "\"Plus Jakarta Sans\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(240, 237, 232) 5925925",
+       "rgb(199, 186, 168) 561080",
+       "rgb(46, 40, 40) 485770",
+       "rgb(255, 255, 255) 258960",
+       "rgb(237, 237, 237) 30420",
+       "rgba(255, 255, 255, 0) 14235"
+      ],
+      "textByCount": [
+       "rgb(46, 40, 40) 71",
+       "rgb(199, 186, 168) 65",
+       "rgb(255, 255, 255) 34",
+       "rgb(174, 132, 31) 6",
+       "rgb(0, 128, 0) 1",
+       "rgb(41, 60, 91) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 2,
+      "eyebrowEx": [
+       "Begin Your Journey",
+       "Begin Your Journey"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© Great Plains Conservation | Hammer Design"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 4,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5070,
+    "requests": 130,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "framesForms": {
+  "https://greatplainsconservation.com/begin-your-safari/": [
+   {
+    "frame": "https://form.jotform.com/250292259351557?isIframeEmbed=1&parentURL=https%3A%2F%2Fgreatplainsconservation.com%2Fbegin-your-safari%2F",
+    "pagesOrSections": 1,
+    "fields": [
+     {
+      "type": "text",
+      "name": "q4_firstName",
+      "label": "First Name*",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "text",
+      "name": "q15_lastName",
+      "label": "Last Name*",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "email",
+      "name": "q5_email",
+      "label": "Email*",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "select-one",
+      "name": "q44_countryOf",
+      "label": "Country of Residence*",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "text",
+      "name": "q49_phoneNumber",
+      "label": "Phone Number*",
+      "placeholder": "(###) ###-####",
+      "visible": true
+     },
+     {
+      "type": "tel",
+      "name": "q50_startDate[day]",
+      "label": "Day",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "tel",
+      "name": "q50_startDate[month]",
+      "label": "Month",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "tel",
+      "name": "q50_startDate[year]",
+      "label": "Year",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "text",
+      "name": "",
+      "label": "",
+      "placeholder": "dd/mm/yyyy",
+      "visible": true
+     },
+     {
+      "type": "tel",
+      "name": "q53_endDate[day]",
+      "label": "Day",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "tel",
+      "name": "q53_endDate[month]",
+      "label": "Month",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "tel",
+      "name": "q53_endDate[year]",
+      "label": "Year",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "text",
+      "name": "",
+      "label": "",
+      "placeholder": "dd/mm/yyyy",
+      "visible": true
+     },
+     {
+      "type": "checkbox",
+      "name": "q36_whichKenya[]",
+      "label": "Mara Plains Camp",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "checkbox",
+      "name": "q34_whichBotswana[]",
+      "label": "Selinda Camp",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "checkbox",
+      "name": "q35_whichCamps35[]",
+      "label": "Tembo Plains Camp",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "text",
+      "name": "q11_numberOf",
+      "label": "Number of travellers",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "textarea",
+      "name": "q13_anyAdditional",
+      "label": "Any additional information you would like us to know about?",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "select-one",
+      "name": "q55_whereDid",
+      "label": "Where did you hear about us?",
+      "placeholder": "",
+      "visible": true
+     },
+     {
+      "type": "text",
+      "name": "q56_pleaseSpecify",
+      "label": "Please specify where you heard about us",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "textarea",
+      "name": "g-recaptcha-response",
+      "label": "Please verify that you are human*",
+      "placeholder": "",
+      "visible": false
+     },
+     {
+      "type": "text",
+      "name": "website",
+      "label": "",
+      "placeholder": "",
+      "visible": false
+     }
+    ]
+   },
+   {
+    "frame": "https://widgets.jotform.io/bootstrap-switch/?qid=58&isOpenedInPortal=undefined&isOpenedInAgent=undefined&align=Left&ref=https%3A%2F%2Fform.j",
+    "pagesOrSections": 0,
+    "fields": [
+     {
+      "type": "checkbox",
+      "name": "",
+      "label": "",
+      "placeholder": "",
+      "visible": false
+     }
+    ]
+   },
+   {
+    "frame": "https://widgets.jotform.io/bootstrap-switch/?qid=29&isOpenedInPortal=undefined&isOpenedInAgent=undefined&align=Left&ref=https%3A%2F%2Fform.j",
+    "pagesOrSections": 0,
+    "fields": [
+     {
+      "type": "checkbox",
+      "name": "",
+      "label": "",
+      "placeholder": "",
+      "visible": false
+     }
+    ]
+   },
+   {
+    "frame": "https://widgets.jotform.io/bootstrap-switch/?qid=57&isOpenedInPortal=undefined&isOpenedInAgent=undefined&align=Left&ref=https%3A%2F%2Fform.j",
+    "pagesOrSections": 0,
+    "fields": [
+     {
+      "type": "checkbox",
+      "name": "",
+      "label": "",
+      "placeholder": "",
+      "visible": false
+     }
+    ]
+   }
+  ]
+ }
+}

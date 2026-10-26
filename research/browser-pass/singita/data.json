@@ -1,0 +1,2029 @@
+{
+ "key": "singita",
+ "captured": "2026-10-26T13:15:47.641Z",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://singita.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 7114,
+    "lcpMs": 2780,
+    "perf": {
+     "ttfb": 2115,
+     "domContentLoaded": 2769,
+     "perfApiTransferKB": 1515,
+     "resources": 74
+    },
+    "cookie": "button:ALLOW ALL COOKIES",
+    "data": {
+     "url": "https://singita.com/",
+     "title": "Luxury African Safari Lodges & Wildlife Reserves",
+     "docHeight": 12794,
+     "nav": [
+      "Our Collection",
+      "Plan your trip",
+      " Search",
+      "Menu "
+     ],
+     "h1": [
+      {
+       "text": "Place of Miracles",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [
+       {
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "src": "https://player.vimeo.com/progressive_redirect/playback/1219579204/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&signature=2a133a3485f8a6fc55"
+       }
+      ],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://singita.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F4lcGG6CrnmL8fke3hKMhdu%2F4b9842f137a0c1eee68cebb796c03126%2Ft"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "View all contact information ›",
+        2
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        " Trade Login & Rates Request",
+        1
+       ],
+       [
+        "Contact Us",
+        1
+       ],
+       [
+        "Check availability",
+        1
+       ],
+       [
+        "Singita Books",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       " Trade Login & Rates Request",
+       "View all contact information ›"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://singita.com/",
+       "id": "",
+       "cls": "flex flex-col gap-8",
+       "y": 11064,
+       "fieldsTotal": 6,
+       "fieldsVisible": 6,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "Sign up to receive newsletters and blog posts from Singita.",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {},
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "fixed inset-x-0 top-0 z-50 bg-transparent transition-colors ",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 816,
+        "h": 84,
+        "w": 1440,
+        "text": "Our Collection Plan your trip  Search Menu "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed inset-x-0 bottom-0 z-40 transition-transform duration-",
+        "pos": "fixed",
+        "top": 900,
+        "bottom": -80,
+        "h": 80,
+        "w": 1440,
+        "text": "REGIONS All Regions LODGES All Lodges DATES 2026-10-26 → 2026-10-31 GUESTS 2 Guests Check availabili"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed bottom-16 right-4 z-[60] hidden max-h-[calc(100vh-12re",
+        "pos": "fixed",
+        "top": 480,
+        "bottom": 128,
+        "h": 292,
+        "w": 440,
+        "text": " Singita Magazine Volume 7 | Renewal Renewal isn't only about new life; it's about second chances. "
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "morion",
+       "Singita2020"
+      ],
+      "h1": "morion, Cormorant, Georgia, serif",
+      "h1Style": "100px/400 ls=normal tt=none",
+      "h2": "morion, Cormorant, Georgia, serif",
+      "h2Style": "40px/200 ls=normal tt=none",
+      "body": "morion, Cormorant, Georgia, serif",
+      "bodyStyle": "14px/400 ls=normal tt=none",
+      "nav": "europa, \"DM Sans\", system-ui, sans-serif",
+      "button": "europa, \"DM Sans\", system-ui, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(244, 241, 236) 11330280",
+       "rgb(241, 237, 230) 4568747",
+       "rgb(203, 146, 117) 2260453",
+       "rgb(224, 222, 217) 1404990",
+       "rgb(31, 31, 31) 1296000",
+       "oklab(0.239291 0.0000108778 0.00000478327 / 0.2) 740167",
+       "rgb(255, 255, 255) 259394"
+      ],
+      "textByCount": [
+       "rgb(72, 72, 72) 107",
+       "rgb(255, 255, 255) 55",
+       "rgb(31, 31, 31) 32",
+       "rgb(110, 110, 110) 17",
+       "rgb(203, 146, 117) 9"
+      ]
+     },
+     "images": {
+      "count": 29,
+      "alts": [
+       "Sights and Sounds of Singita",
+       "Sleeping in a hammock at Singita Explore",
+       "Pod Mahogany Tray",
+       "Golden Monkey at SVNP",
+       "community conservation",
+       "Gardener holding produce",
+       "Lebombo Lodge Exterior River View Outdoor Sleeping",
+       "PV grid ebony",
+       "Castleton Main Bedroom",
+       "Boulders Lodge River Suite",
+       "Sweni lodge living room",
+       "Kataza House exterior",
+       "PV grid lebombo",
+       "home grid malilangwehouse",
+       "homepage grid sasakwa",
+       "Faru Faru Deck",
+       "Serengeti House Deck View",
+       "Outdoor Explore",
+       "home grid kataza",
+       "Singita Okavango Delta Palm Trees with grass in foreground",
+       "Sasakwa outdoor pool area"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "Singita Magazine Volume 7 | Renewal"
+      ],
+      "arrows": 3,
+      "arrowEx": [
+       "›",
+       "→",
+       "›"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 11002,
+    "requests": 179,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://singita.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 1208,
+    "lcpMs": 576,
+    "perf": {
+     "ttfb": 309,
+     "domContentLoaded": 561,
+     "perfApiTransferKB": 1239,
+     "resources": 86
+    },
+    "cookie": "button:ALLOW ALL COOKIES",
+    "data": {
+     "url": "https://singita.com/",
+     "title": "Luxury African Safari Lodges & Wildlife Reserves",
+     "docHeight": 21274,
+     "nav": [
+      "Plan your trip",
+      "",
+      ""
+     ],
+     "h1": [
+      {
+       "text": "Place of Miracles",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://singita.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F4lcGG6CrnmL8fke3hKMhdu%2F4b9842f137a0c1eee68cebb796c03126%2Ft"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Plan your trip",
+        2
+       ],
+       [
+        "View all contact information ›",
+        2
+       ],
+       [
+        " Trade Login & Rates Request",
+        1
+       ],
+       [
+        "Contact Us",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       " Trade Login & Rates Request",
+       "View all contact information ›"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://singita.com/",
+       "id": "",
+       "cls": "flex flex-col gap-8",
+       "y": 19439,
+       "fieldsTotal": 6,
+       "fieldsVisible": 6,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "Sign up to receive newsletters and blog posts from Singita.",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {},
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "fixed inset-x-0 top-0 z-50 bg-transparent transition-colors ",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 580,
+        "h": 84,
+        "w": 390,
+        "text": "Plan your trip  "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed inset-x-0 bottom-0 z-40 transition-transform duration-",
+        "pos": "fixed",
+        "top": 664,
+        "bottom": -90,
+        "h": 90,
+        "w": 390,
+        "text": "Place of Miracles Plan your trip"
+       },
+       {
+        "tag": "button",
+        "id": "",
+        "cls": "fixed bottom-16 right-4 z-[60] flex size-6 items-center just",
+        "pos": "fixed",
+        "top": 488,
+        "bottom": 128,
+        "h": 48,
+        "w": 48,
+        "text": " "
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "morion",
+       "Singita2020"
+      ],
+      "h1": "morion, Cormorant, Georgia, serif",
+      "h1Style": "50px/400 ls=normal tt=none",
+      "h2": "morion, Cormorant, Georgia, serif",
+      "h2Style": "32px/200 ls=normal tt=none",
+      "body": "morion, Cormorant, Georgia, serif",
+      "bodyStyle": "14px/400 ls=normal tt=none",
+      "nav": "europa, \"DM Sans\", system-ui, sans-serif",
+      "button": "europa, \"DM Sans\", system-ui, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(244, 241, 236) 3788168",
+       "rgb(241, 237, 230) 3449704",
+       "rgb(203, 146, 117) 524216",
+       "rgb(31, 31, 31) 258960",
+       "rgb(224, 222, 217) 204750",
+       "oklab(0.239291 0.0000108778 0.00000478327 / 0.2) 61752",
+       "rgb(255, 255, 255) 53132"
+      ],
+      "textByCount": [
+       "rgb(72, 72, 72) 62",
+       "rgb(255, 255, 255) 53",
+       "rgb(31, 31, 31) 35",
+       "rgb(203, 146, 117) 9",
+       "rgb(110, 110, 110) 9"
+      ]
+     },
+     "images": {
+      "count": 29,
+      "alts": [
+       "Sights and Sounds of Singita",
+       "Sleeping in a hammock at Singita Explore",
+       "Pod Mahogany Tray",
+       "Golden Monkey at SVNP",
+       "community conservation",
+       "Gardener holding produce",
+       "Lebombo Lodge Exterior River View Outdoor Sleeping",
+       "PV grid ebony",
+       "Castleton Main Bedroom",
+       "Boulders Lodge River Suite",
+       "Sweni lodge living room",
+       "Kataza House exterior",
+       "PV grid lebombo",
+       "home grid malilangwehouse",
+       "homepage grid sasakwa",
+       "Faru Faru Deck",
+       "Serengeti House Deck View",
+       "Outdoor Explore",
+       "home grid kataza",
+       "Singita Okavango Delta Palm Trees with grass in foreground",
+       "Sasakwa outdoor pool area"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 6,
+      "arrowEx": [
+       "›",
+       "›",
+       "›",
+       "›"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7884,
+    "requests": 232,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://singita.com/lodge/singita-sasakwa/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 3799,
+    "lcpMs": 404,
+    "perf": {
+     "ttfb": 155,
+     "domContentLoaded": 329,
+     "perfApiTransferKB": 1797,
+     "resources": 84
+    },
+    "cookie": "button:ALLOW ALL COOKIES",
+    "data": {
+     "url": "https://singita.com/lodge/singita-sasakwa/",
+     "title": "Sasakwa Luxury Safari Lodge | Grumeti | Singita",
+     "docHeight": 12691,
+     "nav": [
+      "Our Collection",
+      "Plan your trip",
+      " Search",
+      "Menu "
+     ],
+     "h1": [
+      {
+       "text": "Sasakwa Lodge",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://singita.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F7d6i60fQlobe6cTbU3uLbu%2Ff64e344fb9003ae5486e09889008d634%2FS"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "View all contact information ›",
+        2
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        " Trade Login & Rates Request",
+        1
+       ],
+       [
+        "Contact Us",
+        1
+       ],
+       [
+        "  Contact Info ",
+        1
+       ],
+       [
+        "Siteplan",
+        1
+       ],
+       [
+        "Singita Grumeti Reserve",
+        1
+       ],
+       [
+        "Check availability",
+        1
+       ],
+       [
+        "Singita Books",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       " Trade Login & Rates Request",
+       "View all contact information ›"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://singita.com/lodge/singita-sasakwa/",
+       "id": "",
+       "cls": "flex flex-col gap-8",
+       "y": 10961,
+       "fieldsTotal": 6,
+       "fieldsVisible": 6,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "Sign up to receive newsletters and blog posts from Singita.",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {},
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "fixed inset-x-0 top-0 z-50 bg-transparent transition-colors ",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 816,
+        "h": 84,
+        "w": 1440,
+        "text": "Our Collection Plan your trip  Search Menu "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed inset-x-0 bottom-0 z-40 border-t border-border-subtle ",
+        "pos": "fixed",
+        "top": 900,
+        "bottom": -113,
+        "h": 113,
+        "w": 1440,
+        "text": "Sasakwa Grumeti, Tanzania Lodge menu  Check availability"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "SGR WILDLIFE Wildebeest November 2022 Ross Couper 1",
+       "src": "?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F6aB",
+       "where": "body"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "morion",
+       "Singita2020"
+      ],
+      "h1": "morion, Cormorant, Georgia, serif",
+      "h1Style": "100px/400 ls=normal tt=none",
+      "h2": "morion, Cormorant, Georgia, serif",
+      "h2Style": "40px/200 ls=normal tt=none",
+      "body": "morion, Cormorant, Georgia, serif",
+      "bodyStyle": "14px/400 ls=normal tt=none",
+      "nav": "europa, \"DM Sans\", system-ui, sans-serif",
+      "button": "europa, \"DM Sans\", system-ui, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(224, 222, 217) 17305901",
+       "rgb(244, 241, 236) 14310315",
+       "rgb(241, 237, 230) 1320888",
+       "rgb(203, 146, 117) 1296000",
+       "rgb(31, 31, 31) 1296000",
+       "rgb(146, 95, 82) 992775",
+       "rgb(255, 255, 255) 387946"
+      ],
+      "textByCount": [
+       "rgb(72, 72, 72) 123",
+       "rgb(255, 255, 255) 51",
+       "rgb(31, 31, 31) 30",
+       "rgb(146, 95, 82) 27",
+       "rgb(110, 110, 110) 6",
+       "oklab(0.999994 0.0000455677 0.0000200868 / 0.8) 2"
+      ]
+     },
+     "images": {
+      "count": 48,
+      "alts": [
+       "Sasakwa outdoor pool area",
+       "Sasakwa main suite bedroom",
+       "Singita Sasakwa Lodge Bedroom",
+       "Sasakwa pool view",
+       "Sasakwa bedroom ",
+       "Sasakwa Lodge Main Lounge Area Osse Sinare",
+       "Singita Sasakwa Lodge Suite Swimming Pool",
+       "Singita Sasakwa Lodge Outdoor Dining",
+       "SGR FOOD Lunch African Dish November 2022 Ross Couper 1",
+       "SGR WILDLIFE Wildebeest November 2022 Ross Couper 1",
+       "SGR WILDLIFE Vulture November 2022 Ross Couper 1 (1)",
+       "SGR WILDLIFE Lion November 2022 Ross Couper 8 (1)",
+       "SGR WILDLIFE Elephant November 2022 Ross Couper 16",
+       "Sasakwa Activities Pool",
+       "WELLNESS Treatments Ross Couper 15-min",
+       "Sasakwa Activities Fitness Centre",
+       "Serengeti House Activities Community Visits",
+       "SGR ACTIVITIES Hot Air Balloon Mike Sutherland",
+       "Tennis Court",
+       "Great Migration ",
+       "Sasakwa Lodge, One-bedroom cottage view from the outside in",
+       "Hillside Suite, Sasakwa Lodge, Bedroom and deck",
+       "Hillside Suite, Sasakwa Lodge, Bed",
+       "Hillside Suite, Sasakwa Lodge, Bathroom",
+       "Hillside Suite, Sasakwa Lodge, Bathroom",
+       "Hillside-Suite-Singita-Sasakwa-Lodge-Food",
+       "Singita Sasakwa - food and wine2",
+       "Singita Sasakwa - food and wine16",
+       "Singita Sasakwa Lodge Breakfast",
+       "Singita Sasakwa Lodge Kitchen",
+       "Singita Sasakwa Lodge Pork Belly Dish",
+       "Wine Experience",
+       "Serengeti House Deck View",
+       "Outdoor Explore"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "Singita Magazine Volume 7 | Renewal"
+      ],
+      "arrows": 3,
+      "arrowEx": [
+       "›",
+       "›",
+       "Find out more →"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6238,
+    "requests": 183,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://singita.com/lodge/singita-sasakwa/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3309,
+    "lcpMs": 408,
+    "perf": {
+     "ttfb": 149,
+     "domContentLoaded": 338,
+     "perfApiTransferKB": 1522,
+     "resources": 98
+    },
+    "cookie": "button:ALLOW ALL COOKIES",
+    "data": {
+     "url": "https://singita.com/lodge/singita-sasakwa/",
+     "title": "Sasakwa Luxury Safari Lodge | Grumeti | Singita",
+     "docHeight": 17152,
+     "nav": [
+      "Plan your trip",
+      "",
+      ""
+     ],
+     "h1": [
+      {
+       "text": "Sasakwa Lodge",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://singita.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F7d6i60fQlobe6cTbU3uLbu%2Ff64e344fb9003ae5486e09889008d634%2FS"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "View all contact information ›",
+        2
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        " Trade Login & Rates Request",
+        1
+       ],
+       [
+        "Contact Us",
+        1
+       ],
+       [
+        "  Contact Info ",
+        1
+       ],
+       [
+        "Siteplan",
+        1
+       ],
+       [
+        "Singita Grumeti Reserve",
+        1
+       ],
+       [
+        "Check availability",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       " Trade Login & Rates Request",
+       "View all contact information ›"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://singita.com/lodge/singita-sasakwa/",
+       "id": "",
+       "cls": "flex flex-col gap-8",
+       "y": 15317,
+       "fieldsTotal": 6,
+       "fieldsVisible": 6,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "Sign up to receive newsletters and blog posts from Singita.",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {},
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "fixed inset-x-0 top-0 z-50 bg-transparent transition-colors ",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 580,
+        "h": 84,
+        "w": 390,
+        "text": "Plan your trip  "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed inset-x-0 bottom-0 z-40 border-t border-border-subtle ",
+        "pos": "fixed",
+        "top": 664,
+        "bottom": -97,
+        "h": 97,
+        "w": 390,
+        "text": "Lodge menu  Check availability"
+       },
+       {
+        "tag": "button",
+        "id": "",
+        "cls": "fixed bottom-16 right-4 z-[60] flex size-6 items-center just",
+        "pos": "fixed",
+        "top": 488,
+        "bottom": 128,
+        "h": 48,
+        "w": 48,
+        "text": " "
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "SGR WILDLIFE Wildebeest November 2022 Ross Couper 1",
+       "src": "?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F6aB",
+       "where": "body"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "morion",
+       "Singita2020"
+      ],
+      "h1": "morion, Cormorant, Georgia, serif",
+      "h1Style": "50px/400 ls=normal tt=none",
+      "h2": "morion, Cormorant, Georgia, serif",
+      "h2Style": "32px/200 ls=normal tt=none",
+      "body": "morion, Cormorant, Georgia, serif",
+      "bodyStyle": "14px/400 ls=normal tt=none",
+      "nav": "europa, \"DM Sans\", system-ui, sans-serif",
+      "button": "europa, \"DM Sans\", system-ui, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(244, 241, 236) 5564764",
+       "rgb(224, 222, 217) 2006975",
+       "rgb(241, 237, 230) 1035013",
+       "rgb(146, 95, 82) 301289",
+       "rgb(203, 146, 117) 258960",
+       "rgb(31, 31, 31) 258960",
+       "rgb(255, 255, 255) 51534"
+      ],
+      "textByCount": [
+       "rgb(72, 72, 72) 79",
+       "rgb(255, 255, 255) 48",
+       "rgb(31, 31, 31) 31",
+       "rgb(146, 95, 82) 26",
+       "rgb(110, 110, 110) 3",
+       "oklab(0.999994 0.0000455677 0.0000200868 / 0.8) 2"
+      ]
+     },
+     "images": {
+      "count": 34,
+      "alts": [
+       "Sasakwa outdoor pool area",
+       "Sasakwa main suite bedroom",
+       "Singita Sasakwa Lodge Bedroom",
+       "Sasakwa pool view",
+       "Sasakwa bedroom ",
+       "Sasakwa Lodge Main Lounge Area Osse Sinare",
+       "Singita Sasakwa Lodge Suite Swimming Pool",
+       "Singita Sasakwa Lodge Outdoor Dining",
+       "SGR FOOD Lunch African Dish November 2022 Ross Couper 1",
+       "SGR WILDLIFE Wildebeest November 2022 Ross Couper 1",
+       "SGR WILDLIFE Vulture November 2022 Ross Couper 1 (1)",
+       "SGR WILDLIFE Lion November 2022 Ross Couper 8 (1)",
+       "SGR WILDLIFE Elephant November 2022 Ross Couper 16",
+       "Great Migration ",
+       "Sasakwa Lodge, One-bedroom cottage view from the outside in",
+       "Hillside Suite, Sasakwa Lodge, Bedroom and deck",
+       "Hillside Suite, Sasakwa Lodge, Bed",
+       "Hillside Suite, Sasakwa Lodge, Bathroom",
+       "Hillside Suite, Sasakwa Lodge, Bathroom",
+       "Hillside-Suite-Singita-Sasakwa-Lodge-Food",
+       "Singita Sasakwa - food and wine2",
+       "Singita Sasakwa - food and wine16",
+       "Singita Sasakwa Lodge Breakfast",
+       "Singita Sasakwa Lodge Kitchen",
+       "Singita Sasakwa Lodge Pork Belly Dish",
+       "Wine Experience",
+       "Serengeti House Deck View",
+       "Outdoor Explore"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 6,
+      "arrowEx": [
+       "›",
+       "›",
+       "›",
+       "›"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7323,
+    "requests": 233,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://singita.com/contact/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 3936,
+    "lcpMs": 3284,
+    "perf": {
+     "ttfb": 3035,
+     "domContentLoaded": 3272,
+     "perfApiTransferKB": 1109,
+     "resources": 66
+    },
+    "cookie": "button:ALLOW ALL COOKIES",
+    "data": {
+     "url": "https://singita.com/contact/",
+     "title": "Contact | Singita",
+     "docHeight": 5850,
+     "nav": [
+      "Our Collection",
+      "Plan your trip",
+      " Search",
+      "Menu "
+     ],
+     "h1": [
+      {
+       "text": "Contact",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Contact hero",
+        "src": "https://singita.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F2jNwrdNymkD90ou7RQqwNC%2F9bda08507de5ace775a4c9f5290e6e69%2FC"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "View all contact information ›",
+        2
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        " Trade Login & Rates Request",
+        1
+       ],
+       [
+        "enquiries@singita.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "Singita Books",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       " Trade Login & Rates Request",
+       "View all contact information ›"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://singita.com/contact/",
+       "id": "",
+       "cls": "flex flex-col gap-4",
+       "y": 2322,
+       "fieldsTotal": 14,
+       "fieldsVisible": 13,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "title",
+         "label": "Title * Select Mr. Ms. Mrs. Dr. Prof. Other",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "emailConfirmation",
+         "label": "Confirm Email Address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "Country of Residence * Select Afghanistan Åland Islands Albania Algeria American",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "",
+         "label": "Phone number * ",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "travelPartnerSelect",
+         "label": "I am a * Select Travel agent Guest Journalist Donor Supplier Other",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "contactMethod",
+         "label": "Email",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "message",
+         "label": "Message",
+         "placeholder": "Type here...",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "visit",
+         "label": "Have you travelled to Singita previously?",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "newsletter",
+         "label": "Sign up to receive news from Singita",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "consent",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "",
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://singita.com/contact/",
+       "id": "",
+       "cls": "flex flex-col gap-8",
+       "y": 4120,
+       "fieldsTotal": 6,
+       "fieldsVisible": 6,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "Sign up to receive newsletters and blog posts from Singita.",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {},
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "+27 (0)21 683 3424",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+230 489 2784",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 (0)21 683 3424",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 (0)13 735 9800",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 (0)13 735 1500",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "enquiries@singita.com",
+       "reservations@singita.com",
+       "lea.s@singita.com",
+       "sarah.f@singita.com",
+       "kristy.a@singita.com",
+       "jessie.t@singita.com",
+       "kailin.k@singita.com",
+       "Rachel.M@Singita.com",
+       "mariana.s@singita.com",
+       "fernanda.d@singita.com",
+       "carolina@mktcollection.com",
+       "christine.c@singita.com",
+       "sharon.p@singita.com",
+       "melissa.s@singita.com",
+       "esona.m@singita.com",
+       "Marcelo.N@singita.com",
+       "traveller@singita.com",
+       "pr@singita.com",
+       "Gabriele@imagine-team.com",
+       "singita@perowneinternational.com",
+       "Anton.N@singita.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "fixed inset-x-0 top-0 z-50 bg-transparent transition-colors ",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 816,
+        "h": 84,
+        "w": 1440,
+        "text": "Our Collection Plan your trip  Search Menu "
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "fixed bottom-16 right-4 z-[60] hidden max-h-[calc(100vh-12re",
+        "pos": "fixed",
+        "top": 480,
+        "bottom": 128,
+        "h": 292,
+        "w": 440,
+        "text": " Singita Magazine Volume 7 | Renewal Renewal isn't only about new life; it's about second chances. "
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "morion",
+       "Singita2020"
+      ],
+      "h1": "morion, Cormorant, Georgia, serif",
+      "h1Style": "100px/400 ls=normal tt=none",
+      "h2": "morion, Cormorant, Georgia, serif",
+      "h2Style": "40px/200 ls=normal tt=none",
+      "body": "europa, \"DM Sans\", system-ui, sans-serif",
+      "bodyStyle": "18px/300 ls=normal tt=none",
+      "nav": "europa, \"DM Sans\", system-ui, sans-serif",
+      "button": "europa, \"DM Sans\", system-ui, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(244, 241, 236) 7564974",
+       "rgb(203, 146, 117) 1313285",
+       "rgb(31, 31, 31) 1296000",
+       "rgb(241, 237, 230) 972000",
+       "rgb(255, 255, 255) 496270"
+      ],
+      "textByCount": [
+       "rgb(72, 72, 72) 152",
+       "rgb(203, 146, 117) 59",
+       "rgb(31, 31, 31) 45",
+       "rgb(255, 255, 255) 43",
+       "rgb(110, 110, 110) 15"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": [
+       "Contact hero"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "Singita Magazine Volume 7 | Renewal"
+      ],
+      "arrows": 2,
+      "arrowEx": [
+       "›",
+       "›"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2535,
+    "requests": 103,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://singita.com/contact/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3982,
+    "lcpMs": 3032,
+    "perf": {
+     "ttfb": 2795,
+     "domContentLoaded": 3021,
+     "perfApiTransferKB": 1086,
+     "resources": 87
+    },
+    "cookie": "button:ALLOW ALL COOKIES",
+    "data": {
+     "url": "https://singita.com/contact/",
+     "title": "Contact | Singita",
+     "docHeight": 5863,
+     "nav": [
+      "Plan your trip",
+      "",
+      ""
+     ],
+     "h1": [
+      {
+       "text": "Contact",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Contact hero",
+        "src": "https://singita.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwds1hqrprqxb%2F2jNwrdNymkD90ou7RQqwNC%2F9bda08507de5ace775a4c9f5290e6e69%2FC"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "View all contact information ›",
+        2
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        " Trade Login & Rates Request",
+        1
+       ],
+       [
+        "enquiries@singita.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       " Trade Login & Rates Request",
+       "View all contact information ›"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://singita.com/contact/",
+       "id": "",
+       "cls": "flex flex-col gap-4",
+       "y": 2124,
+       "fieldsTotal": 14,
+       "fieldsVisible": 13,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "title",
+         "label": "Title * Select Mr. Ms. Mrs. Dr. Prof. Other",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "emailConfirmation",
+         "label": "Confirm Email Address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "Country of Residence * Select Afghanistan Åland Islands Albania Algeria American",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "",
+         "label": "Phone number * ",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "travelPartnerSelect",
+         "label": "I am a * Select Travel agent Guest Journalist Donor Supplier Other",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "contactMethod",
+         "label": "Email",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "message",
+         "label": "Message",
+         "placeholder": "Type here...",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "visit",
+         "label": "Have you travelled to Singita previously?",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "newsletter",
+         "label": "Sign up to receive news from Singita",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "consent",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "",
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://singita.com/contact/",
+       "id": "",
+       "cls": "flex flex-col gap-8",
+       "y": 4028,
+       "fieldsTotal": 6,
+       "fieldsVisible": 6,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "a_password",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "firstName",
+         "label": "First name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "lastName",
+         "label": "Last name *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "Email address *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "Sign up to receive newsletters and blog posts from Singita.",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "",
+         "label": "I consent to my submitted data being collected and stored *",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {},
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "+27 (0)21 683 3424",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+230 489 2784",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 (0)21 683 3424",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 (0)13 735 9800",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+27 (0)13 735 1500",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "enquiries@singita.com",
+       "reservations@singita.com",
+       "lea.s@singita.com",
+       "sarah.f@singita.com",
+       "kristy.a@singita.com",
+       "jessie.t@singita.com",
+       "kailin.k@singita.com",
+       "Rachel.M@Singita.com",
+       "mariana.s@singita.com",
+       "fernanda.d@singita.com",
+       "carolina@mktcollection.com",
+       "christine.c@singita.com",
+       "sharon.p@singita.com",
+       "melissa.s@singita.com",
+       "esona.m@singita.com",
+       "Marcelo.N@singita.com",
+       "traveller@singita.com",
+       "pr@singita.com",
+       "Gabriele@imagine-team.com",
+       "singita@perowneinternational.com",
+       "Anton.N@singita.com"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "fixed inset-x-0 top-0 z-50 bg-transparent transition-colors ",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 580,
+        "h": 84,
+        "w": 390,
+        "text": "Plan your trip  "
+       },
+       {
+        "tag": "button",
+        "id": "",
+        "cls": "fixed bottom-16 right-4 z-[60] flex size-6 items-center just",
+        "pos": "fixed",
+        "top": 488,
+        "bottom": 128,
+        "h": 48,
+        "w": 48,
+        "text": " "
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "morion",
+       "Singita2020"
+      ],
+      "h1": "morion, Cormorant, Georgia, serif",
+      "h1Style": "50px/400 ls=normal tt=none",
+      "h2": "morion, Cormorant, Georgia, serif",
+      "h2Style": "32px/200 ls=normal tt=none",
+      "body": "europa, \"DM Sans\", system-ui, sans-serif",
+      "bodyStyle": "18px/300 ls=normal tt=none",
+      "nav": "europa, \"DM Sans\", system-ui, sans-serif",
+      "button": "europa, \"DM Sans\", system-ui, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(244, 241, 236) 1953512",
+       "rgb(241, 237, 230) 431340",
+       "rgb(203, 146, 117) 273237",
+       "rgb(31, 31, 31) 258960",
+       "rgb(255, 255, 255) 186012"
+      ],
+      "textByCount": [
+       "rgb(72, 72, 72) 110",
+       "rgb(203, 146, 117) 59",
+       "rgb(31, 31, 31) 48",
+       "rgb(255, 255, 255) 40",
+       "rgb(110, 110, 110) 14"
+      ]
+     },
+     "images": {
+      "count": 1,
+      "alts": [
+       "Contact hero"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 6,
+      "arrowEx": [
+       "›",
+       "›",
+       "›",
+       "›"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2562,
+    "requests": 141,
+    "shotCappedAt": null
+   }
+  }
+ }
+}

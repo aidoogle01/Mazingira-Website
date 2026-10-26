@@ -1,0 +1,1923 @@
+{
+ "key": "wilderness",
+ "captured": "2026-10-26T13:18:11.961Z",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://www.wildernessdestinations.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 13594,
+    "lcpMs": 5656,
+    "perf": {
+     "ttfb": 710,
+     "domContentLoaded": 3046,
+     "perfApiTransferKB": 3830,
+     "resources": 159
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/",
+     "title": "Wilderness | Award-Winning Luxury Safaris",
+     "docHeight": 900,
+     "nav": [
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "BOTSWANA",
+      "KENYA",
+      "NAMIBIA",
+      "RWANDA",
+      "SOUTH AFRICA",
+      "TANZANIA",
+      "ZAMBIA",
+      "ZIMBABWE",
+      "Mombo Okavango Delta, Botswana",
+      "Mara Masai Mara, Kenya",
+      "Usawa Serengeti Serengeti, Tanzania",
+      "Little Kulala Sossusvlei, Namibia",
+      "Linkwasha Hwange, Zimbabwe",
+      "BISATE LODGE",
+      "MOMBO CAMP",
+      "WILDERNESS MARA",
+      "MAGASHI PENINSULA",
+      "USAWA CAMP",
+      "LITTLE KULALA",
+      "LINKWASHA CAMP",
+      "Linyanti",
+      "Okavango Delta",
+      "The Mababe Depression",
+      "Masai Mara",
+      "Damaraland",
+      "Etosha National Park",
+      "Kunene",
+      "Sossusvlei",
+      "Akagera National Park",
+      "Volcanoes National Park",
+      "Cape Peninsula",
+      "Culture & food",
+      "The Cape Winelands",
+      "Serengeti",
+      "Kafue National Park",
+      "Mosi-oa-Tunya",
+      "Hwange",
+      "Mana Pools",
+      "Gorilla Trekking",
+      "Game Drives",
+      "Guided Quad Biking",
+      "Rhino Tracking",
+      "Helicopter Safari",
+      "Star Beds",
+      "Night Game Drives",
+      "Boat Safari",
+      "The Sanctuary at Mombo",
+      "The Sanctuary at Bisate",
+      "Guided Walking Safaris",
+      "Desert E-biking",
+      "Local Culture",
+      "Conservation Experience",
+      "Tailor-made Journeys",
+      "Family Journeys",
+      "Group Journeys",
+      "Solo Journeys",
+      "Couples Journeys",
+      "Journeys for Seniors",
+      "Private Journeys",
+      "Journey Planning",
+      "Our Services",
+      "Stories of Change",
+      "Educate",
+      "Empower",
+      "Protect",
+      "Our awards",
+      "Our story",
+      "Our partnerships",
+      "The Wilderness Family",
+      "Wilderness24",
+      "Meet our Safari Specialists",
+      "Press room"
+     ],
+     "h1": [
+      {
+       "text": "WILDERNESS",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "Tailor-made Journeys",
+        1
+       ],
+       [
+        "Journey Planning",
+        1
+       ],
+       [
+        "PLAN YOUR SAFARI",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE NOW",
+       "Tailor-made Journeys",
+       "Journey Planning"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/",
+       "id": "",
+       "cls": "",
+       "y": 12250,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "calendly": "mentioned-in-html",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "talk to"
+      ],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler Wilderness Bisate Reserve - Best New Hotels in the World",
+       "where": "bottom"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler",
+       "where": "bottom"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure Wilderness Bisate Reserve - Best New Luxury Hotels",
+       "where": "bottom"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure",
+       "where": "bottom"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Read more reviews on Trustpilot",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "mens-journal-travel-awards-2025.png?rmode=crop&width=288&hei",
+       "where": "bottom"
+      },
+      {
+       "alt": "",
+       "src": "world-travel-awards-2025.png?rmode=crop&width=288&height=162",
+       "where": "bottom"
+      },
+      {
+       "alt": "",
+       "src": "town-country-awards-2025.png?rmode=crop&width=288&height=162",
+       "where": "bottom"
+      },
+      {
+       "alt": "Trustpilot logo",
+       "src": "trustpilot_brandmark_gr-blk_rgb-576x144-xl.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "",
+       "src": "0?ti=187033900&tm=gtm002&Ver=2&mid=79c3dd42-f177-4c5e-85b6-d",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [
+      "134 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Regular",
+       "Atyp Display Medium",
+       "Athelas",
+       "Atyp Display"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "72px/400 ls=28.8px tt=uppercase",
+      "h2": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h2Style": "56px/400 ls=normal tt=none",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "\"Atyp Display\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "button": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(34, 31, 32) 5649181",
+       "rgb(182, 162, 143) 5574720",
+       "rgb(255, 255, 255) 5431825",
+       "rgb(18, 52, 56) 3292208",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(82, 94, 106) 1296000",
+       "rgba(0, 0, 0, 0.2) 1296000",
+       "rgb(0, 0, 0) 954144"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 108",
+       "rgb(238, 235, 229) 63",
+       "rgb(0, 0, 0) 43",
+       "rgb(182, 162, 143) 42",
+       "rgba(255, 255, 255, 0.75) 32",
+       "rgba(0, 0, 0, 0.75) 10"
+      ]
+     },
+     "images": {
+      "count": 36,
+      "alts": [
+       "Home",
+       "Cheetah in open savannah landscape on African safari",
+       "Cheetah resting in tree in Serengeti Tanzania safari",
+       "Luxury Botswana safari landscape in the Okavango Delta with floodplains and abun",
+       "Busanga Plains floodplains landscape male lion walking bast puku in Zambia safar",
+       "Walking on the dunes at Wilderness Serra Cafema ",
+       "Buffalo herd at sunset in Zimbabwe wilderness safari",
+       "Giraffes walking elegantly across the iconic Kenyan landscape",
+       "Guided hiking experience in Cape Town wilderness landscape",
+       "Lions walking in African wilderness during safari experience",
+       "Guests trekking free-roaming black rhino at Wilderness Desert Rhino Camp in Nami",
+       "Guests trekking free-roaming black rhino at Wilderness Desert Rhino Camp in Nami",
+       "Wilderness Experiences Mokoro Okavango Delta",
+       "Wilderness Experiences Mokoro Okavango Delta",
+       "Iconic African safari destinations across Botswana's Okavango Delta and beyond",
+       "Elephant walking through the open plains of Mana Pools in Zimbabwe",
+       "Expert safari guide leading walking safari and wildlife experience in Africa",
+       "Luxury safari camp architecture blending into wilderness landscape Bisate Lodge ",
+       "Immerse yourselve in African culture by getting to know the local staff at Wilde",
+       "Guests walking to a Wilderness Air flight in the bush in Africa",
+       "Conservation and community impact in African safari destinations",
+       "Tree planting conservation initiative in African wilderness",
+       "Community upliftment project supported by safari tourism",
+       "The male lion is the king of the Wilderness"
+      ]
+     },
+     "slop": {
+      "eyebrows": 97,
+      "eyebrowEx": [
+       "Enquire Now",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 4,
+      "gradients": 2,
+      "radii": [
+       "9999px 9"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 22053,
+    "requests": 248,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.wildernessdestinations.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3825,
+    "lcpMs": 3204,
+    "perf": {
+     "ttfb": 297,
+     "domContentLoaded": 2146,
+     "perfApiTransferKB": 1535,
+     "resources": 86
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/",
+     "title": "Wilderness | Award-Winning Luxury Safaris",
+     "docHeight": 15812,
+     "nav": [
+      "ENQUIRE",
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "Search"
+     ],
+     "h1": [
+      {
+       "text": "WILDERNESS",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe"
+      ],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Male lion walking through grassland in African safari landscape",
+        "src": "https://www.wildernessdestinations.com/media/timhcgzu/hero-image-lion.jpg?rmode=crop&rxy=0.4974921630094044%2C0.42798226776429615&width=764&height=460"
+       },
+       {
+        "alt": "Male lion walking through grassland in African safari landscape",
+        "src": "https://www.wildernessdestinations.com/media/timhcgzu/hero-image-lion.jpg?rmode=crop&rxy=0.4974921630094044%2C0.42798226776429615&width=764&height=460"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "PLAN YOUR SAFARI",
+        1
+       ],
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/",
+       "id": "",
+       "cls": "",
+       "y": 14350,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "calendly": "mentioned-in-html",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "nav",
+        "id": "",
+        "cls": "z-40 w-full transition-all duration-500 fixed block md:hidde",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 572,
+        "h": 92,
+        "w": 390,
+        "text": "ENQUIRE DESTINATIONS CAMPS REGIONS EXPERIENCES JOURNEYS EXCLUSIVE OFFERS IMPACT JOURNAL ABOUT WILDER"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler Wilderness Bisate Reserve - Best New Hotels in the World",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler",
+       "where": "body"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure Wilderness Bisate Reserve - Best New Luxury Hotels",
+       "where": "body"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure",
+       "where": "body"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Read more reviews on Trustpilot",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Trustpilot logo",
+       "src": "trustpilot_brandmark_gr-blk_rgb-576x144-xl.png",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "0?ti=187033900&tm=gtm002&Ver=2&mid=c53c8720-be32-4aeb-9219-4",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [
+      ". STAR BEDS Botswana, Namibia, Zimbabwe, Rwanda Luxury guided walk",
+      "134 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Regular",
+       "Atyp Display Medium",
+       "Athelas"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "32px/400 ls=12.8px tt=uppercase",
+      "h2": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h2Style": "48px/400 ls=normal tt=none",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "button": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 3406130",
+       "rgb(18, 52, 56) 2622815",
+       "rgb(34, 31, 32) 1781520",
+       "rgb(182, 162, 143) 631020",
+       "rgba(0, 0, 0, 0.2) 531792",
+       "rgb(238, 235, 229) 276900",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(82, 94, 106) 258960"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 104",
+       "rgb(0, 0, 0) 36",
+       "rgba(255, 255, 255, 0.75) 27",
+       "rgb(238, 235, 229) 14",
+       "rgba(0, 0, 0, 0.75) 10",
+       "rgba(255, 255, 255, 0.5) 6"
+      ]
+     },
+     "images": {
+      "count": 37,
+      "alts": [
+       "Male lion walking through grassland in African safari landscape",
+       "Male lion walking through grassland in African safari landscape",
+       "Cheetah in open savannah landscape on African safari",
+       "Luxury Botswana safari landscape in the Okavango Delta with floodplains and abun",
+       "Busanga Plains floodplains landscape male lion walking bast puku in Zambia safar",
+       "Walking on the dunes at Wilderness Serra Cafema ",
+       "Buffalo herd at sunset in Zimbabwe wilderness safari",
+       "Giraffes walking elegantly across the iconic Kenyan landscape",
+       "Guided hiking experience in Cape Town wilderness landscape",
+       "Cheetah resting in tree in Serengeti Tanzania safari",
+       "Lions walking in African wilderness during safari experience",
+       "Guests trekking free-roaming black rhino at Wilderness Desert Rhino Camp in Nami",
+       "Wilderness Experiences Mokoro Okavango Delta",
+       "Explore the desert from the skies in a hot air balloon",
+       "Wilderness Experiences Star Bed",
+       "Photographer taking amazing close-up eye-level photos of elephants at a waterhol",
+       "Iconic African safari destinations across Botswana's Okavango Delta and beyond",
+       "Elephant walking through the open plains of Mana Pools in Zimbabwe",
+       "Expert safari guide leading walking safari and wildlife experience in Africa",
+       "Luxury safari camp architecture blending into wilderness landscape Bisate Lodge ",
+       "Immerse yourselve in African culture by getting to know the local staff at Wilde",
+       "Guests walking to a Wilderness Air flight in the bush in Africa",
+       "Conservation and community impact in African safari destinations",
+       "Tree planting conservation initiative in African wilderness",
+       "The male lion is the king of the Wilderness"
+      ]
+     },
+     "slop": {
+      "eyebrows": 52,
+      "eyebrowEx": [
+       "Enquire",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 2,
+      "radii": [
+       "9999px 7"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4630,
+    "requests": 198,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://www.wildernessdestinations.com/africa/tanzania/serengeti-national-park/usawa-camp",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 3288,
+    "lcpMs": 2980,
+    "perf": {
+     "ttfb": 146,
+     "domContentLoaded": 2829,
+     "perfApiTransferKB": 4392,
+     "resources": 142
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/africa/tanzania/serengeti-national-park/usawa-camp",
+     "title": "Wilderness Usawa | Luxury Mobile Tented Camp, Tanzania | Wilderness",
+     "docHeight": 900,
+     "nav": [
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "BOTSWANA",
+      "KENYA",
+      "NAMIBIA",
+      "RWANDA",
+      "SOUTH AFRICA",
+      "TANZANIA",
+      "ZAMBIA",
+      "ZIMBABWE",
+      "Mombo Okavango Delta, Botswana",
+      "Mara Masai Mara, Kenya",
+      "Usawa Serengeti Serengeti, Tanzania",
+      "Little Kulala Sossusvlei, Namibia",
+      "Linkwasha Hwange, Zimbabwe",
+      "BISATE LODGE",
+      "MOMBO CAMP",
+      "WILDERNESS MARA",
+      "MAGASHI PENINSULA",
+      "USAWA CAMP",
+      "LITTLE KULALA",
+      "LINKWASHA CAMP",
+      "Linyanti",
+      "Okavango Delta",
+      "The Mababe Depression",
+      "Masai Mara",
+      "Damaraland",
+      "Etosha National Park",
+      "Kunene",
+      "Sossusvlei",
+      "Akagera National Park",
+      "Volcanoes National Park",
+      "Cape Peninsula",
+      "Culture & food",
+      "The Cape Winelands",
+      "Serengeti",
+      "Kafue National Park",
+      "Mosi-oa-Tunya",
+      "Hwange",
+      "Mana Pools",
+      "Gorilla Trekking",
+      "Game Drives",
+      "Guided Quad Biking",
+      "Rhino Tracking",
+      "Helicopter Safari",
+      "Star Beds",
+      "Night Game Drives",
+      "Boat Safari",
+      "The Sanctuary at Mombo",
+      "The Sanctuary at Bisate",
+      "Guided Walking Safaris",
+      "Desert E-biking",
+      "Local Culture",
+      "Conservation Experience",
+      "Tailor-made Journeys",
+      "Family Journeys",
+      "Group Journeys",
+      "Solo Journeys",
+      "Couples Journeys",
+      "Journeys for Seniors",
+      "Private Journeys",
+      "Journey Planning",
+      "Our Services",
+      "Stories of Change",
+      "Educate",
+      "Empower",
+      "Protect",
+      "Our awards",
+      "Our story",
+      "Our partnerships",
+      "The Wilderness Family",
+      "Wilderness24",
+      "Meet our Safari Specialists",
+      "Press room"
+     ],
+     "h1": [
+      {
+       "text": "Usawa Serengeti",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://www.wildernessdestinations.com/media/mskj2i4q/great-migration-usawa-camp-serengeti.jpg?rmode=crop&height=809&format=webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "Tailor-made Journeys",
+        1
+       ],
+       [
+        "Journey Planning",
+        1
+       ],
+       [
+        "TALK TO YOUR TRAVEL DESIGNER FOR MORE INFORMATION",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE NOW",
+       "Tailor-made Journeys",
+       "Journey Planning"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/africa/tanzania/serengeti-national-park/usawa-camp",
+       "id": "",
+       "cls": "",
+       "y": 23891,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/3eaf4b9963a1ab5fa87b7b4dd04b7087/iframe",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "calendly": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "talk to"
+      ],
+      "fixed": []
+     },
+     "prices": [
+      "er person per night) Travel dates Rates 1 June 2026 – 31 October 2026 USD 1,540 1 November 2026 – 15 December 2026 USD 1,045 16 D",
+      "e 2026 – 31 October 2026 USD 1,540 1 November 2026 – 15 December 2026 USD 1,045 16 December 2026 – 28 February 2027 USD 1,540 1 M",
+      "2026 – 15 December 2026 USD 1,045 16 December 2026 – 28 February 2027 USD 1,540 1 March 2027– 31 May 2027 USD 998 1 June 2027 – 3",
+      " December 2026 – 28 February 2027 USD 1,540 1 March 2027– 31 May 2027 USD 998 1 June 2027 – 31 October 2027 USD 1,617 1 Novembe",
+      "1,540 1 March 2027– 31 May 2027 USD 998 1 June 2027 – 31 October 2027 USD 1,617 1 November 2027 – 15 December 2027 USD 1,097 16 D",
+      "e 2027 – 31 October 2027 USD 1,617 1 November 2027 – 15 December 2027 USD 1,097 16 December 2027 – 28 February 2028 USD 1,617 TAL",
+      "2027 – 15 December 2027 USD 1,097 16 December 2027 – 28 February 2028 USD 1,617 TALK TO YOUR TRAVEL DESIGNER FOR MORE INFORMATION",
+      "with classic Serengeti views in every direction. STANDARD SEASON From USD 950 per person/night PREMIUM SEASON From USD1,540 per",
+      "on. STANDARD SEASON From USD 950 per person/night PREMIUM SEASON From USD1,540 per person/night Purpose By working with the auth",
+      "i, including the dramatic Mara River crossings. 9 nights 5 camps From USD 14,815 per person EXPLORE JOURNEY HONEYMOON Tanzania: Sa",
+      "-night trip provides the best of bush & beach. 10 nights 4 camps From USD 16,600 per person EXPLORE JOURNEY FAMILY Tanzania: Walk ",
+      "erent parts of the park by vehicle and on foot. 7 nights 3 camps From USD 8,546 per person EXPLORE JOURNEY EXPERIENCES Usawa Sere"
+     ],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveller",
+       "where": "bottom"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure Wilderness Usawa - Best New Hotels in the World",
+       "where": "bottom"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Condé Nast Traveller Readers' Choice Awards 2026",
+       "src": "",
+       "where": "bottom"
+      }
+     ],
+     "ratingText": [
+      ". Star gazing Marvel at the dark night sky over the savannah"
+     ],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Regular",
+       "Atyp Display Medium",
+       "Athelas",
+       "Atyp Display"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "72px/400 ls=normal tt=none",
+      "h2": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h2Style": "56px/400 ls=normal tt=none",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "\"Atyp Display\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "button": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 21502781",
+       "rgb(34, 31, 32) 5868061",
+       "rgb(238, 235, 229) 4303731",
+       "rgb(18, 52, 56) 2743040",
+       "rgb(182, 162, 143) 2494080",
+       "rgba(0, 0, 0, 0.2) 2289600",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(82, 94, 106) 1166400"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 131",
+       "rgb(0, 0, 0) 81",
+       "rgb(182, 162, 143) 59",
+       "rgb(238, 235, 229) 59",
+       "rgba(0, 0, 0, 0.75) 48",
+       "rgba(255, 255, 255, 0.75) 29"
+      ]
+     },
+     "images": {
+      "count": 63,
+      "alts": [
+       "Home",
+       "Wildebeest Migration across riverine Serengeti",
+       "Cheetah hunting the plains of the Serengeti",
+       "Wildebeest + Zebra migrate the Serengeti Wilderness Usawa",
+       "Wilderness Game Drive vehicle Tanzania",
+       "Zebras crossing the river great migration Wilderness Serengeti",
+       "Wilderness Guides planning game drive in Tanzania",
+       "Wilderness Usawa mobile tented safari",
+       "Wilderness Usawa Serengeti accommodates 12 guests in six en-suite safari tents",
+       "Wilderness Usawa mobile tented safari",
+       "Wilderness Usawa Mobile Tent interior",
+       "Wilderness Usawa mobile tented safari",
+       "Wilderness Usawa lunch setup in Tanzania",
+       "Wilderness Food Journey healthy menu",
+       "Wilderness Cuisine sustainable food",
+       "Wilderness Cuisine Food Journey picnic",
+       "Wilderness Cuisine Coffee Set Up Food Journey",
+       "Lion cubs sitting on a rock in the Namylumba Hills, Tanzania",
+       "Serengeti Southern Corridor Great Migration with large wildebeest herd",
+       "Herd of wildebeest at sunrise in the Western Corridor of the Serengeti.",
+       "Zebra grazing in grass in the Lamai Area of the Serengeti, Tanzania",
+       "Wilderness Usawa Tannzania The Great Wildebeest Migration",
+       "Wilderness Tanzania Wildlife Wildebeest",
+       "Zebra migrate in thousands across the Serengeti",
+       "Lion relaxing in the sun Wildereness Serengeti ",
+       "Tanzania Thompson Gazelle Wilderness Usawa Serengeti",
+       "Wilderness Usawa Tannzania The Great Wildebeest Migration",
+       "Open Vehicle Safari Activity Wildereness Game Drive",
+       "Wilderness Tanzania activities guided walking",
+       "Wilderness Recommended Reading Discover Africa’s stories",
+       "Zebras crossing the river great migration Wilderness Serengeti",
+       "Wilderness Experiences Private Safari Remote Areas",
+       "Wilderness Experiences Private Safari Remote Areas",
+       "Condé Nast Traveller Readers' Choice Awards 2026",
+       "Wilderness Mara Guest tents allow for perfect sunset viewing in the calm of the ",
+       "An aerial view of Wilderness Magashi Peninsula on the banks of the lake in Akage",
+       "Wilderness Chikwenya guest tent with elephant in front",
+       "Elephants grazing outside Wilderness Hoanib Skeleton Coast",
+       "Wilderness Little Kulala at sunrise",
+       "Wilderness Magashi Rwanda Accommodation Guest Room Interior"
+      ]
+     },
+     "slop": {
+      "eyebrows": 107,
+      "eyebrowEx": [
+       "Enquire Now",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 14,
+      "gradients": 1,
+      "radii": [
+       "9999px 9",
+       "8px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7692,
+    "requests": 243,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.wildernessdestinations.com/africa/tanzania/serengeti-national-park/usawa-camp",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3921,
+    "lcpMs": 2220,
+    "perf": {
+     "ttfb": 285,
+     "domContentLoaded": 2799,
+     "perfApiTransferKB": 3508,
+     "resources": 110
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/africa/tanzania/serengeti-national-park/usawa-camp",
+     "title": "Wilderness Usawa | Luxury Mobile Tented Camp, Tanzania | Wilderness",
+     "docHeight": 23495,
+     "nav": [
+      "ENQUIRE",
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "Search"
+     ],
+     "h1": [
+      {
+       "text": "Usawa Serengeti",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "",
+        "src": "https://www.wildernessdestinations.com/media/mskj2i4q/great-migration-usawa-camp-serengeti.jpg?rmode=crop&width=809&height=1385&format=webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "TALK TO YOUR TRAVEL DESIGNER FOR MORE INFORMATION",
+        1
+       ],
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/africa/tanzania/serengeti-national-park/usawa-camp",
+       "id": "",
+       "cls": "",
+       "y": 22033,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/3eaf4b9963a1ab5fa87b7b4dd04b7087/iframe",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "calendly": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "nav",
+        "id": "",
+        "cls": "z-40 w-full transition-all duration-500 fixed block md:hidde",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 572,
+        "h": 92,
+        "w": 390,
+        "text": "ENQUIRE DESTINATIONS CAMPS REGIONS EXPERIENCES JOURNEYS EXCLUSIVE OFFERS IMPACT JOURNAL ABOUT WILDER"
+       }
+      ]
+     },
+     "prices": [
+      "er person per night) Travel dates Rates 1 June 2026 – 31 October 2026 USD 1,540 1 November 2026 – 15 December 2026 USD 1,045 16 D",
+      "e 2026 – 31 October 2026 USD 1,540 1 November 2026 – 15 December 2026 USD 1,045 16 December 2026 – 28 February 2027 USD 1,540 1 M",
+      "2026 – 15 December 2026 USD 1,045 16 December 2026 – 28 February 2027 USD 1,540 1 March 2027– 31 May 2027 USD 998 1 June 2027 – 3",
+      " December 2026 – 28 February 2027 USD 1,540 1 March 2027– 31 May 2027 USD 998 1 June 2027 – 31 October 2027 USD 1,617 1 Novembe",
+      "1,540 1 March 2027– 31 May 2027 USD 998 1 June 2027 – 31 October 2027 USD 1,617 1 November 2027 – 15 December 2027 USD 1,097 16 D",
+      "e 2027 – 31 October 2027 USD 1,617 1 November 2027 – 15 December 2027 USD 1,097 16 December 2027 – 28 February 2028 USD 1,617 TAL",
+      "2027 – 15 December 2027 USD 1,097 16 December 2027 – 28 February 2028 USD 1,617 TALK TO YOUR TRAVEL DESIGNER FOR MORE INFORMATION",
+      "with classic Serengeti views in every direction. STANDARD SEASON From USD 950 per person/night PREMIUM SEASON From USD1,540 per",
+      "on. STANDARD SEASON From USD 950 per person/night PREMIUM SEASON From USD1,540 per person/night PURPOSE Purpose By working with ",
+      "AFARI PACKAGES FAMILY Northern Tanzania Circuit 9 nights 5 camps From USD 14815 per person EXPLORE JOURNEY HONEYMOON Tanzania: Sa",
+      "RE JOURNEY HONEYMOON Tanzania: Safari to Coast 10 nights 4 camps From USD 16600 per person EXPLORE JOURNEY FAMILY Tanzania: Walk ",
+      " JOURNEY FAMILY Tanzania: Walk in the Serengeti 7 nights 3 camps From USD 8546 per person EXPLORE JOURNEY EXPERIENCES Usawa Sere"
+     ],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveller",
+       "where": "body"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure Wilderness Usawa - Best New Hotels in the World",
+       "where": "body"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Condé Nast Traveller Readers' Choice Awards 2026",
+       "src": "cond%C3%A9-nast-traveller-readers-choice-awards-2026.png?rmo",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      ". Star gazing Marvel at the dark night sky over the savannah",
+      ". STARGAZING Botswana, Namibia, Tanzania, Zimbabwe Birding Birding"
+     ],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Regular",
+       "Atyp Display Medium",
+       "Athelas"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "56px/400 ls=normal tt=none",
+      "h2": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h2Style": "48px/400 ls=normal tt=none",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "button": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 8047716",
+       "rgb(34, 31, 32) 1755390",
+       "rgb(18, 52, 56) 1600737",
+       "rgb(238, 235, 229) 1556351",
+       "rgb(0, 0, 0) 1166801",
+       "rgba(0, 0, 0, 0.2) 723140",
+       "rgb(182, 162, 143) 541881",
+       "rgb(247, 247, 242) 345078"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 120",
+       "rgb(0, 0, 0) 82",
+       "rgba(0, 0, 0, 0.75) 45",
+       "rgba(255, 255, 255, 0.75) 19",
+       "rgb(182, 162, 143) 17",
+       "rgb(238, 235, 229) 12"
+      ]
+     },
+     "images": {
+      "count": 59,
+      "alts": [
+       "Wildebeest Migration across riverine Serengeti",
+       "Wilderness Guides planning game drive in Tanzania",
+       "Cheetah hunting the plains of the Serengeti",
+       "Wildebeest + Zebra migrate the Serengeti Wilderness Usawa",
+       "Wilderness Game Drive vehicle Tanzania",
+       "Zebras crossing the river great migration Wilderness Serengeti",
+       "Wilderness Usawa mobile tented safari",
+       "Wilderness Usawa mobile tented safari",
+       "Wilderness Usawa Serengeti accommodates 12 guests in six en-suite safari tents",
+       "Wilderness Usawa mobile tented safari",
+       "Wilderness Usawa Mobile Tent interior",
+       "Wilderness Cuisine Coffee Set Up Food Journey",
+       "Wilderness Usawa lunch setup in Tanzania",
+       "Wilderness Food Journey healthy menu",
+       "Wilderness Cuisine sustainable food",
+       "Wilderness Cuisine Food Journey picnic",
+       "Lion cubs sitting on a rock in the Namylumba Hills, Tanzania",
+       "Serengeti Southern Corridor Great Migration with large wildebeest herd",
+       "Herd of wildebeest at sunrise in the Western Corridor of the Serengeti.",
+       "Zebra grazing in grass in the Lamai Area of the Serengeti, Tanzania",
+       "Wilderness Usawa Tannzania The Great Wildebeest Migration",
+       "Wilderness Tanzania Wildlife Wildebeest",
+       "Zebra migrate in thousands across the Serengeti",
+       "Lion relaxing in the sun Wildereness Serengeti ",
+       "Tanzania Thompson Gazelle Wilderness Usawa Serengeti",
+       "Wilderness Usawa Tannzania The Great Wildebeest Migration",
+       "Open Vehicle Safari Activity Wildereness Game Drive",
+       "Wilderness Tanzania activities guided walking",
+       "Wilderness Recommended Reading Discover Africa’s stories",
+       "Zebras crossing the river great migration Wilderness Serengeti",
+       "Wilderness Experiences Private Safari Remote Areas",
+       "African fish eagle at sunset",
+       "Condé Nast Traveller Readers' Choice Awards 2026",
+       "Wilderness Mara Guest tents allow for perfect sunset viewing in the calm of the ",
+       "An aerial view of Wilderness Magashi Peninsula on the banks of the lake in Akage",
+       "Wilderness Chikwenya guest tent with elephant in front",
+       "Elephants grazing outside Wilderness Hoanib Skeleton Coast",
+       "Wilderness Little Kulala at sunrise",
+       "Wilderness Magashi Rwanda Accommodation Guest Room Interior",
+       "Group of 15 Wilderness safari guides on a training trip in Tanzania"
+      ]
+     },
+     "slop": {
+      "eyebrows": 60,
+      "eyebrowEx": [
+       "Enquire",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "9999px 5",
+       "8px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6815,
+    "requests": 219,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://www.wildernessdestinations.com/contact",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 2792,
+    "lcpMs": 788,
+    "perf": {
+     "ttfb": 160,
+     "domContentLoaded": 1978,
+     "perfApiTransferKB": 2031,
+     "resources": 94
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/contact",
+     "title": "Contact Us | Safari Contact Details | Wilderness",
+     "docHeight": 900,
+     "nav": [
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "BOTSWANA",
+      "KENYA",
+      "NAMIBIA",
+      "RWANDA",
+      "SOUTH AFRICA",
+      "TANZANIA",
+      "ZAMBIA",
+      "ZIMBABWE",
+      "Mombo Okavango Delta, Botswana",
+      "Mara Masai Mara, Kenya",
+      "Usawa Serengeti Serengeti, Tanzania",
+      "Little Kulala Sossusvlei, Namibia",
+      "Linkwasha Hwange, Zimbabwe",
+      "BISATE LODGE",
+      "MOMBO CAMP",
+      "WILDERNESS MARA",
+      "MAGASHI PENINSULA",
+      "USAWA CAMP",
+      "LITTLE KULALA",
+      "LINKWASHA CAMP",
+      "Linyanti",
+      "Okavango Delta",
+      "The Mababe Depression",
+      "Masai Mara",
+      "Damaraland",
+      "Etosha National Park",
+      "Kunene",
+      "Sossusvlei",
+      "Akagera National Park",
+      "Volcanoes National Park",
+      "Cape Peninsula",
+      "Culture & food",
+      "The Cape Winelands",
+      "Serengeti",
+      "Kafue National Park",
+      "Mosi-oa-Tunya",
+      "Hwange",
+      "Mana Pools",
+      "Gorilla Trekking",
+      "Game Drives",
+      "Guided Quad Biking",
+      "Rhino Tracking",
+      "Helicopter Safari",
+      "Star Beds",
+      "Night Game Drives",
+      "Boat Safari",
+      "The Sanctuary at Mombo",
+      "The Sanctuary at Bisate",
+      "Guided Walking Safaris",
+      "Desert E-biking",
+      "Local Culture",
+      "Conservation Experience",
+      "Tailor-made Journeys",
+      "Family Journeys",
+      "Group Journeys",
+      "Solo Journeys",
+      "Couples Journeys",
+      "Journeys for Seniors",
+      "Private Journeys",
+      "Journey Planning",
+      "Our Services",
+      "Stories of Change",
+      "Educate",
+      "Empower",
+      "Protect",
+      "Our awards",
+      "Our story",
+      "Our partnerships",
+      "The Wilderness Family",
+      "Wilderness24",
+      "Meet our Safari Specialists",
+      "Press room"
+     ],
+     "h1": [
+      {
+       "text": "Contact",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact",
+        2
+       ],
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "Tailor-made Journeys",
+        1
+       ],
+       [
+        "Journey Planning",
+        1
+       ],
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE NOW",
+       "Tailor-made Journeys",
+       "Journey Planning",
+       "ENQUIRE",
+       "Contact"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/contact",
+       "id": "",
+       "cls": "",
+       "y": 6173,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+27 31 308 4664",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "enquiry@wildernessdestinations.com",
+       "information@whistleblowing.co.za"
+      ],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Medium",
+       "Athelas",
+       "Atyp Display"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "72px/400 ls=normal tt=none",
+      "h2": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "h2Style": "14px/500 ls=5.6px tt=uppercase",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "\"Atyp Display\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "button": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(34, 31, 32) 4783680",
+       "rgb(255, 255, 255) 1718929",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(0, 0, 0) 709104",
+       "rgb(238, 235, 229) 687888",
+       "rgba(0, 0, 0, 0.4) 132480",
+       "rgba(0, 0, 0, 0.1) 125280",
+       "rgb(18, 52, 56) 32768"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 67",
+       "rgb(238, 235, 229) 59",
+       "rgb(182, 162, 143) 43",
+       "rgb(0, 0, 0) 13",
+       "rgba(255, 255, 255, 0.5) 5"
+      ]
+     },
+     "images": {
+      "count": 9,
+      "alts": [
+       "Home",
+       "The male lion is the king of the Wilderness"
+      ]
+     },
+     "slop": {
+      "eyebrows": 56,
+      "eyebrowEx": [
+       "Enquire Now",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 1,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4088,
+    "requests": 156,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.wildernessdestinations.com/contact",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 2264,
+    "lcpMs": 868,
+    "perf": {
+     "ttfb": 368,
+     "domContentLoaded": 1724,
+     "perfApiTransferKB": 1324,
+     "resources": 63
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/contact",
+     "title": "Contact Us | Safari Contact Details | Wilderness",
+     "docHeight": 7547,
+     "nav": [
+      "ENQUIRE",
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "Search"
+     ],
+     "h1": [
+      {
+       "text": "Contact",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        2
+       ],
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/contact",
+       "id": "",
+       "cls": "",
+       "y": 6085,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+27 31 308 4664",
+        "where": "above-fold",
+        "visible": false
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "enquiry@wildernessdestinations.com",
+       "information@whistleblowing.co.za"
+      ],
+      "phrases": [
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "nav",
+        "id": "",
+        "cls": "z-40 w-full transition-all duration-500 fixed block md:hidde",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 572,
+        "h": 92,
+        "w": 390,
+        "text": "ENQUIRE DESTINATIONS CAMPS REGIONS EXPERIENCES JOURNEYS EXCLUSIVE OFFERS IMPACT JOURNAL ABOUT WILDER"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Medium",
+       "Athelas"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "56px/400 ls=normal tt=none",
+      "h2": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "h2Style": "14px/500 ls=5.6px tt=uppercase",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "button": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(34, 31, 32) 1932060",
+       "rgb(255, 255, 255) 752390",
+       "rgb(0, 0, 0) 712860",
+       "rgb(238, 235, 229) 276900",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgba(0, 0, 0, 0.1) 82080",
+       "rgba(0, 0, 0, 0.4) 35880",
+       "rgb(255, 110, 0) 18065"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 50",
+       "rgb(0, 0, 0) 14",
+       "rgb(238, 235, 229) 12",
+       "rgba(255, 255, 255, 0.5) 5",
+       "rgb(182, 162, 143) 2"
+      ]
+     },
+     "images": {
+      "count": 7,
+      "alts": [
+       "The male lion is the king of the Wilderness"
+      ]
+     },
+     "slop": {
+      "eyebrows": 19,
+      "eyebrowEx": [
+       "Enquire",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3548,
+    "requests": 145,
+    "shotCappedAt": null
+   }
+  }
+ }
+}
