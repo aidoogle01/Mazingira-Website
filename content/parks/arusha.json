@@ -1,0 +1,92 @@
+{
+  "id": "arusha",
+  "title": "Arusha National Park",
+  "old_title": "Arusha National Park",
+  "summary": null,
+  "body": "Explore Arusha National Park\nArusha National Park is a delightful and compact park situated in northeastern Tanzania, close to the city of Arusha with stunning views of Mount Kilimanjaro. This park captivates visitors with its picturesque variety of flora and fauna, alongside a remarkable array of landscapes. Featuring everything from lakes, waterfalls, and swamps to volcanic mountains and lush tropical rainforests, it creates the perfect habitat for diverse wildlife. The wetlands and forests are havens for numerous exquisite bird species, such as the silvery-cheeked hornbill and vibrant pink flamingos. Uniquely, this park is one of the few places in northern Tanzania where the black-and-white colobus monkey is regularly seen, making it a special destination for wildlife enthusiasts.\n\nMount Meru\nLocated within Arusha National Park, Mount Meru stands as Tanzania’s second-highest peak, reaching an impressive height of 4,566 meters (14,990 feet). This dormant volcano offers a rigorous yet rewarding climb. The summit provides breathtaking panoramic views across the park’s savannah, the towering Mount Kilimanjaro, and the scenic Momella Lakes. Opting for a day hike on Mount Meru can provide a refreshing alternative to the traditional safari, giving climbers a unique perspective of the area’s natural beauty. We also organize expeditions to reach the peak...\nCanoeing and Walking Safaris in Arusha National Park\nArusha National Park is not only known for its diverse landscapes but also for engaging safari activities such as canoeing and guided walking safaris with an armed ranger. The Momella Lakes, located in the northeast part of the park, offer expansive vistas and are a haven for hippos and a diverse array of bird species. The open landscapes around these lakes are also frequented by numerous bucks and buffaloes. Experiencing these animals up close on a canoe or walking safari provides a unique, intimate wildlife viewing opportunity that contrasts sharply with the typical safari vehicle experience, making for a truly unforgettable safari adventure.",
+  "facts_intro": "Arusha National Park is a jewel of Tanzania, known for its diverse landscapes and rich wildlife. Unlike the vast savannas of the Serengeti, Arusha National Park offers a blend of lush forests, alpine meadows, and tranquil lakes, making it a must-visit for those eager to experience a different side of Africa’s natural beauty.",
+  "wildlife": [
+    {
+      "name": "Giraffes",
+      "note": "Graceful and majestic, giraffes are a common sight, roaming freely among the acacias."
+    },
+    {
+      "name": "Colobus Monkeys",
+      "note": "Known for their striking black and white fur, these arboreal primates thrive in the park."
+    },
+    {
+      "name": "Flamingos",
+      "note": "The Momella Lakes provide a pink splash of color with their resident flamingo populations."
+    },
+    {
+      "name": "Buffaloes",
+      "note": "These sturdy animals are often seen grazing in the park's grasslands."
+    },
+    {
+      "name": "Zebras",
+      "note": "Herds of zebras can be found meandering through the park, adding to the scenic beauty."
+    },
+    {
+      "name": "Waterbucks",
+      "note": "Frequently spotted near water sources."
+    },
+    {
+      "name": "Leopards",
+      "note": "While more elusive, leopards inhabit the denser regions of the park, providing thrilling glimpses for lucky visitors."
+    }
+  ],
+  "noteworthy": [
+    {
+      "name": "Diverse Ecosystems",
+      "note": "From the dense montane rainforest of the Ngurdoto Crater to the open savannas and alkaline lakes, the park boasts a variety of habitats."
+    },
+    {
+      "name": "Mount Meru",
+      "note": "This majestic volcano within the park offers challenging treks and spectacular views, rising dramatically above the surrounding landscape."
+    },
+    {
+      "name": "Crater Lakes",
+      "note": "The park features several crater lakes, which attract a wide array of birdlife and offer picturesque vistas."
+    },
+    {
+      "name": "Waterfalls",
+      "note": "Streams and waterfalls cascade through the forested areas, creating serene spots for wildlife and nature photography."
+    },
+    {
+      "name": "Wildlife Viewing",
+      "note": "Although smaller in size, Arusha National Park provides intimate wildlife viewing and walking safaris, allowing visitors to experience close encounters with nature."
+    }
+  ],
+  "travel_times": [],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_8e4d9fa3eb3f4471a8b7b1d20591d6bd~mv2.png",
+      "alt": "Black and White Colobus Monkeys in Arusha National Park, a family resting in the trees away from predators"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_cd75e00e945a493687005ee6464df983~mv2.jpg",
+      "alt": "Colobus Monkey"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_b67f3ecf3b4644328703d0d74674d57c~mv2.jpg",
+      "alt": "Buffalo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_567fbefbf230468fa066d053f63ca023~mv2.jpg",
+      "alt": "Baboon"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1d703aa0458843bcb4010e4ac6fab61e~mv2.png",
+      "alt": "note pad"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/arusha-national-park"
+}

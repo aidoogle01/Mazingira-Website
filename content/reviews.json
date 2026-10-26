@@ -1,0 +1,43 @@
+{
+  "aggregate": [
+    {
+      "source": "TripAdvisor",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g297913-d10022127-Reviews-Mazingira_Safari-Arusha_Arusha_Region.html",
+      "rating": null,
+      "count": null
+    },
+    {
+      "source": "SafariBookings",
+      "url": "https://www.safaribookings.com/p1823",
+      "rating": 5.0,
+      "count": 81,
+      "checked": "search snippet 2026-10-26, verify"
+    }
+  ],
+  "featured": [
+    {
+      "name": "Victor H",
+      "title": null,
+      "text": "Incredible Tanzania trip thanks to Mazingira, the team was very flexible and empathetic regarding alternate starting times. options for lodges and enlarging our stay in Tanzania. I would definitely recommend Mazingira for and unforgettable Tanzania experience in Tanzania !!",
+      "source": null,
+      "trip": null,
+      "date": null
+    },
+    {
+      "name": "Phoenix S",
+      "title": "LIFE CHANGING",
+      "text": "Our tour guides were amazing and knew so much about the land and the animals. They were able to find any animal we wanted to see and more ! The safari it's self was an experience of a life time.",
+      "source": null,
+      "trip": null,
+      "date": null
+    },
+    {
+      "name": "Carly A",
+      "title": "Definitely the king of African safari's",
+      "text": "Our safari guides were top notch! We enjoyed their knowledge of the land and the animals and of course, some of their humor. We felt safe and really had the best time. Our catered lunches were delicious. We fell in love with this land and culture. a giant thank you to Jacob, his family and his employees.",
+      "source": null,
+      "trip": null,
+      "date": null
+    }
+  ]
+}

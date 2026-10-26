@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "page.schema.json",
+  "title": "Page",
+  "description": "An editorial / info page. content/pages/.",
+  "type": "object",
+  "required": [
+    "id",
+    "section",
+    "title",
+    "body"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "section": {
+      "enum": [
+        "plan",
+        "wildlife",
+        "kilimanjaro",
+        "about",
+        "legal"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string",
+      "description": "Markdown"
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/image"
+      }
+    },
+    "source": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "image": {
+      "type": "object",
+      "required": [
+        "src",
+        "alt"
+      ],
+      "properties": {
+        "src": {
+          "type": "string",
+          "format": "uri"
+        },
+        "alt": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "serengeti",
+  "title": "Serengeti National Park",
+  "old_title": "Serengeti National Park",
+  "summary": null,
+  "body": "Explore the iconic Serengeti National Park\nRenowned as the epitome of wildlife viewing on the African continent. Home to the highest density of wildlife and the awe-inspiring Great Migration of countless wildebeest, the Serengeti stands as a premier destination for nature lovers and adventure seekers alike. Derived from the Maasai word for 'endless plains,' the Serengeti truly stretches into the horizon, covering nearly 15,000 square kilometers (approximately 6,000 square miles) of vast landscapes. It ranks as Tanzania's second-largest national park, offering visitors spectacular scenes reminiscent of the world’s most captivating nature documentaries. Discover our range of safari packages and experience the magic of the Serengeti firsthand.\n\nExperience the Great Migration in Serengeti National Park\nWitness the breathtaking Great Migration, the crown jewel of Serengeti National Park, featuring over a million wildebeest along with zebras and gazelles. This mesmerizing spectacle, where massive herds traverse 1,000 kilometers across the Serengeti plains, is a sight to behold. These herds, stretching up to 40 kilometers in length, brave the perilous journey through river crossings teeming with giant crocodiles and swift currents. Recognized as one of the Seven Natural Wonders of the World, the Great Migration offers an unparalleled wildlife experience, making it a top highlight for many travelers. The migration's timing varies annually, influenced by the rainfall patterns, but our skilled Mazingira Specialist guides can provide reliable forecasts to enhance your visit.\nDiscover More Wildlife in Serengeti National Park\nBeyond the iconic wildebeest migration, Serengeti National Park is a sanctuary of unmatched biodiversity and natural beauty. The park is teeming with wildlife, hosting over 4,000 lions, 1,000 leopards, 225 cheetahs, and 3,500 hyenas, thriving amidst the abundant prey like wildebeest, zebras, gazelles, and buffaloes. As one of the premier locations to encounter the Big Five—rhinos, buffalos, elephants, lions, and leopards—the Serengeti offers sightings of nearly all celebrated African wildlife, including rare species such as the pangolin, East African oryx, rhino, and wild dog.\nThe park's diverse landscapes range from sweeping savannahs dotted with acacia trees to expansive grasslands, rugged mountains, serene lakes, and lush swamps. Each area presents its own unique environment and atmosphere, contributing to the park's designation as a UNESCO World Heritage Site.",
+  "facts_intro": "Serengeti National Park stands as Africa's premier wildlife sanctuary, famed for its vast game populations and the spectacular annual migration of over a million wildebeest.",
+  "wildlife": [
+    {
+      "name": "Lions",
+      "note": "Known for their majesty and strength."
+    },
+    {
+      "name": "Cheetahs",
+      "note": "These swift predators offer thrilling sightings."
+    },
+    {
+      "name": "Leopards",
+      "note": "Elusive and powerful,."
+    },
+    {
+      "name": "Wildebeest",
+      "note": "With a population exceeding one million, they are the stars of the famed migration."
+    },
+    {
+      "name": "Zebras",
+      "note": "Over 200,000 stripe landscapes."
+    },
+    {
+      "name": "Gazelles",
+      "note": "More than 300,000 grace the plains."
+    },
+    {
+      "name": "Rhinos",
+      "note": "A rare but treasured sighting."
+    },
+    {
+      "name": "Elephants",
+      "note": "These gentle giants roam the expansive park."
+    },
+    {
+      "name": "Crocodiles",
+      "note": "Often seen during river crossings."
+    },
+    {
+      "name": "Hippos",
+      "note": "The Retina Hippo Pool alone is home to about 200 hippos."
+    }
+  ],
+  "noteworthy": [
+    {
+      "name": "Endless Plains",
+      "note": "The park features vast expanses of open grassland dotted with iconic acacia trees, often referred to as \"Lion King\" trees due to their cinematic fame."
+    },
+    {
+      "name": "Calving Season",
+      "note": "Each February, the park becomes a nursery with around 8,000 wildebeest calves born daily, offering a unique spectacle."
+    },
+    {
+      "name": "Simba Kopjes",
+      "note": "These granite outcroppings are favored resting spots for lions, providing them with a vantage point over the plains."
+    },
+    {
+      "name": "Seronera River",
+      "note": "This vital water source draws a rich variety of wildlife, making it a hotspot for game viewing."
+    },
+    {
+      "name": "Grumeti and Mara Rivers",
+      "note": "Known for heart-stopping wildebeest crossings, these rivers are key locations during the migration."
+    },
+    {
+      "name": "Lobo Valley",
+      "note": "Offers stunning vistas and is an excellent place to view elephants and big cats in their natural environment."
+    }
+  ],
+  "travel_times": [
+    "Arusha to Serengeti: 5 hours’ drive.",
+    "Ngorongoro to Serengeti: 2 hours’ drive.",
+    "Lake Manyara to Serengeti: 3,5 hours’ drive.",
+    "Tarangire to Serengeti: 4 hours’ drive.",
+    "Flight Arusha to Serengeti: 1 hour (about €238,- per person, one way)."
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ee949975fc484f908598eb9777eab804~mv2.jpg",
+      "alt": "An image of Mazingira Safaris truck about to start a Serengeti National Park Adventure, next to the official entrance sign"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_09efe556ed1f4007879f2f72af93a3f4~mv2.jpg",
+      "alt": "The Lion King"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_7b131d1002ea4b23a3df825d61def4ad~mv2.png",
+      "alt": "The Great Migration"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ea602e113cdc4996894faf2f806fc058~mv2.jpg",
+      "alt": "Zebra Cuddles"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1d703aa0458843bcb4010e4ac6fab61e~mv2.png",
+      "alt": "Note Pad"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/the-serengeti"
+}

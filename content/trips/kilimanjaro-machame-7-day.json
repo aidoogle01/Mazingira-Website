@@ -1,0 +1,194 @@
+{
+  "id": "kilimanjaro-machame-7-day",
+  "status": "published",
+  "title": "7-Day Kilimanjaro Expedition: Machame Route Adventure",
+  "style": "kilimanjaro",
+  "summary": null,
+  "description": "The Machame route on Kilimanjaro, also known as the Whiskey route, is a seven-day camping adventure offering excellent acclimatisation and an impressive range of scenery. Around 35% of climbers choose this path for its unique journey, starting at the equator and ending in the Arctic-like summit zone. Along the way, you'll traverse diverse landscapes, including lush grasslands, tropical rainforests, alpine meadows, moorlands, high deserts, and finally, the icy terrain near the peak. Each day offers a distinct ecosystem, providing a new and thrilling experience.\nThe route begins on the southwest side of the mountain and circles around to the southeast, allowing climbers to spend three consecutive nights at the same altitude, significantly enhancing acclimatisation. This thoughtful design contributes to an impressive summit success rate of about 85%, making the Machame route a favourite among adventurers seeking to conquer Africa's highest peak.",
+  "duration_days": 7,
+  "best_time": {
+    "text": "Jan- March (Less crowded) Jun - Oct",
+    "months": [
+      "jan",
+      "mar",
+      "jun",
+      "oct"
+    ]
+  },
+  "locations": [
+    "Machame",
+    "Kilimanjaro Route"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 2450,
+    "basis": null,
+    "tiers": [],
+    "note": null,
+    "confirmed": true,
+    "conflicting_prices_on_old_site": null
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arusha - Machame Gate",
+      "description": "Day One of your journey begins after breakfast when your guide will collect you from your previous night's accommodation or Kilimanjaro Airport. From there, you'll drive to the Mount Kilimanjaro National Park gate, passing through the picturesque Machame village on the mountain's lower slopes.\nAfter completing the necessary registration formalities, you'll start your ascent through the lush rainforest. The trail can be muddy and slippery, so be prepared as you navigate the terrain. By late afternoon, you'll reach Machame Camp, where you'll enjoy a well-earned rest, a hearty dinner, and your first overnight stay on Kilimanjaro.",
+      "meal_plan": "Breakfast, lunch and Dinner",
+      "accommodation": "Machame Camp",
+      "altitude": "3000m",
+      "accommodation_note": "campsite is set in a small clearing in the forest, you will see a central ranger station and a number of brick toilets and long drop latrines. The air is quite humid"
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Machame Gate, Journey to Shira Camp",
+      "description": "Leaving behind the rainforest glades, you’ll ascend along a steep ridge, emerging onto the heather-covered moorland. As you gain altitude, notice how the lush vegetation gives way to a more rugged, yet striking, terrain. Keep an eye out for giant groundsels and lobelias, unique flora that thrive in the high-altitude environment.\nThe trail will pass fascinating geological features like ancient lava tubes and glacial valleys, remnants of Kilimanjaro’s volcanic past. Keep your binoculars handy to spot endemic bird species such as the malachite sunbird or the alpine chat. As you approach Shira Camp, take in the awe-inspiring views of Kibo Peak, beautifully dusted with snow. After a well-earned rest and a nourishing dinner, you'll settle down for the night under the stars at Shira Camp.",
+      "meal_plan": "Breakfast, lunch and Dinner",
+      "accommodation": "Shira Camp",
+      "altitude": "3850m",
+      "accommodation_note": "Shira Camp sits on the expansive Shira plateau, a volcanic spill-off. It's open, often windy, and colder, Featuring dust and fragile plant life among the rocks. The camp is spacious, with brick toilets, latrines, and ranger huts. Its stunning views of the summit massif are particularly mesmerizing at dawn and dusk. If there's a full moon, it's worth waking up to see it rising behind the summit,"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Shira Camp journey to Lava Tower and Barranco Camp",
+      "description": "Start your day with a hearty breakfast at camp before continuing the ascent through the alpine desert toward Kibo Peak, where the western glaciers come into clear view. Pause for lunch at a picnic area before moving on to Barranco Camp. The Barranco Valley is one of the most picturesque areas along this trail, making this long hike an ideal acclimatisation day. Enjoy a well-deserved rest with an early dinner and overnight stay at camp.",
+      "meal_plan": "Breakfast, lunch and Dinner",
+      "accommodation": "Barranco Camp",
+      "altitude": "3900m",
+      "accommodation_note": "Perched at the head of a steep valley leading down to the Umbwe route and onward to Moshi, the camp sits beneath the dramatic cliffs of the summit massif. Here, you'll witness hanging glacier remnants and Kibo often cloaked in snow, while the valley below reveals the lights of Moshi. The campsite is equipped with brick toilets and latrines and a ranger's hut. It is full of plant life, particularly the towering giant groundsels."
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Barranco Camp Journey to Karanga Camp",
+      "description": "Start the day by descending into a ravine at the base of the Great Barranco Wall. Climb this steep, non-technical cliff, which makes for a shorter hike ideal for acclimatization. You'll reach the next camp by late afternoon. The sunset here is stunning, offering breathtaking views of the southern glacier valleys and ice fields towering above. Enjoy a restful evening with an early dinner and an overnight stay at camp.\nYou'll have the chance to see giant groundsels and lobelias dotting the landscape, and perhaps spot rock hyraxes scurrying among the rocks. The views of towering ice fields and the valleys below provide a dramatic backdrop as you settle in for a night at camp.",
+      "meal_plan": "Breakfast, lunch and Dinner",
+      "accommodation": "Karanga Camp",
+      "altitude": "4000m",
+      "accommodation_note": "This camp is quite open and positioned on a slope, so ensure your tent is set up on level ground. The summit massif is visible with a clear view of the route to the top, and you can also see the lights of Moshi below. The camp is equipped with brick toilets, pit latrines, a ranger hut. Expect it to be windy and chilly, with fast-moving clouds. Water can be scarce here, as porters have to trek forty minutes down the trail to a stream. While many climbers skip Karanga to reach Barafu in one day, it's worth the stop for better acclimatisation."
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Karanga Camp, Journey to Barafu Camp",
+      "description": "After a satisfying breakfast, you'll depart your camp and head toward Barafu Camp, the base for your summit ascent. En route, you'll pass a junction linking with the Mweka Trail before continuing through rugged terrain to reach Barafu Hut. From this vantage point, you'll be treated to breathtaking views of both Mawenzi and Kibo peaks. An early dinner is arranged to ensure ample rest in preparation for your thrilling midnight summit attempt.\nWhile at Barafu Camp, you'll likely witness stunning panoramic views of the glaciated Mawenzi and Kibo peaks, framed by the rugged alpine desert. As darkness falls, gaze up to marvel at the countless stars blanketing the night sky",
+      "meal_plan": "Breakfast, lunch and Dinner",
+      "accommodation": "Barafu Camp",
+      "altitude": "4600m",
+      "accommodation_note": "Swahili word for \"ice,\" this final camp sits at an elevation of 4,600 meters. While it no longer has permanent snow, it's still cold, rocky, and exposed. Altitude is noticeable here, and snow and wind are common. The campsites are tucked among the rocks along the ridge. Facilities include brick toilets and latrines, but water is scarce, requiring porters to make the trek downhill to the nearest stream. Rangers have robust stretchers with single wheels for quick evacuations, and there's a helipad nearby."
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Uhuru Peak, Journey to Mweka Camp",
+      "description": "You will wake up in the middle of the night for some snacks and hot tea or coffee, preparing to embark on the ascent guided by the light of your headlamp. By early morning, you'll reach Stella Point at the crater rim, where you'll pause briefly before continuing to Uhuru Peak. At Uhuru Peak, take in the breathtaking views and capture memorable photos at the summit before beginning your descent back to Barafu Camp for a short rest. Later, you'll continue down to Mweka Camp for your overnight stay.\nAlong the way, you'll experience the stunning sunrise over Africa, the glaciers glistening in the early morning light, and the expansive views of the plains far below. The descent will provide a unique perspective of the alpine desert zone and the transition back to lush, lower-altitude landscapes",
+      "meal_plan": "Breakfast, lunch and Dinner",
+      "accommodation": "Mweka Camp",
+      "altitude": "3000m",
+      "accommodation_note": "Mweka Camp is strategically located on Mount Kilimanjaro's Mweka Route, serving as a primary descent campsite for climbers who have reached the summit via various routes. Situated at an altitude of approximately 3,100 meters (10,170 feet), it provides a much-needed resting point after the exhausting summit attempt"
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Mweka Camp to Mweka Gate",
+      "description": "On the final day, after breakfast, you'll begin your trek down through the dense rainforest to the Mweka gate. Once there, you'll complete the final check-out formalities with the National Park. This is a great time for a heartfelt farewell with your crew before being transferred to your hotel. Here, you'll have a chance to freshen up with a shower and celebrate your achievement with well-deserved certificates.\nAs you celebrate your accomplishment, why not consider extending your adventure with a 3-day safari before heading home. Explore the breathtaking landscapes and incredible wildlife of Tanzania's national parks. We can arrange this on a per-person basis, giving you a chance to add an unforgettable safari experience to your journey.",
+      "accommodation": null,
+      "meal_plan": "Breakfast, lunch",
+      "altitude": "1800m",
+      "accommodation_note": "Accommodation can be organised here for an extra cost, Accommodation can also be arranged for your arrival before you start your Kilimanjaro adventure"
+    }
+  ],
+  "includes": [
+    "",
+    "Accommodations at mountain (Tents)",
+    "",
+    "Professional and experienced mountain guides",
+    "",
+    "All Park fees",
+    "",
+    "Rescue fees",
+    "",
+    "All meals while on the Mountain",
+    "",
+    "Guides, Porters, cook salaries and park fees",
+    "",
+    "Quality Mess tents with table and chairs",
+    "",
+    "Large portions of fresh, healthy nutritious food",
+    "",
+    "Purified drinking water",
+    "",
+    "Airport transfers",
+    "",
+    "Emergency Oxygen",
+    "",
+    "Sleeping mattress",
+    "",
+    "Portable toilets",
+    "",
+    "First aid kit"
+  ],
+  "excludes": [
+    "",
+    "Tanzania Visa",
+    "",
+    "Gratuity (tips and gifts to porters, guides and chef(s))",
+    "",
+    "Personal Expenses (e.g. laundry, telephone, beverages, etc.",
+    "",
+    "Sleeping bags (available for $35 per person throughout safari)",
+    "",
+    "Walking sticks (2 pairs – available for $10)",
+    "",
+    "Travel insurances",
+    "",
+    "Flights"
+  ],
+  "add_ons": [],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/nsplsh_04a745ba543447feab7b2dccc0b6b814~mv2.jpg",
+      "alt": "Image by Crispin Jones"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Kilimanjaro Adventure"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f4a51ae96128479b902633dddc95cb98~mv2.jpg",
+      "alt": "Machame Route Kilimanjaro Map"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_446d4ddcd70a4ce4af8d401e586486b1~mv2.png",
+      "alt": "Kilimanjaro National Park Machame Gate Sign Picture"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_c7542f65018e481c9a81f7d898ecf58f~mv2.png",
+      "alt": "Kilimanjaro National Park Shira Camp Sign"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ca29fe0e45fb43769e220b83cc05795e~mv2.png",
+      "alt": "Kilimanjaro National Park Shira Camp Tents next to kilimanjaro mountain"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ea2e978b592c4edd91abdcde3fd367cd~mv2.png",
+      "alt": "Kilimanjaro National Park Barranco Camp Sign"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/kilimanjaro-packages"
+}

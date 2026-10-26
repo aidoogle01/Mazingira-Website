@@ -1,0 +1,348 @@
+{
+  "note": "Old site claims 60+ inspected lodges; these are the ones named on it. Area/description filled where the accommodation page had them.",
+  "raw_accommodation_page_blocks": [
+    "# Accommodation",
+    "Welcome to your gateway to an unforgettable safari adventure in Tanzania. Our carefully curated accommodation page features an extensive selection of over 60 lodges, camps, and hotels, ranging from cozy budget options to opulent luxury retreats located across the stunning landscapes of Tanzania. Each property has been meticulously inspected by our sales team through an annual independent hotel check, ensuring that we consistently offer the highest quality accommodations paired with exceptional service. Whether you're seeking a tranquil escape in the bush or a lavish suite with panoramic views, you'll find the perfect base for your explorations right here. Browse through our list below and click on the links to discover more about each accommodation and what they have to offer for your perfect safari experience. Please note that this is just a small section of what is on offer. Our sales team will work with you to find the best accommodation for you; this list is just a small sample of some of our top picks.",
+    "## Nanyukie Lodge\nLemala Authentic Camps",
+    "Lemala Nanyukie is located a 60-minute drive east of the Seronera Airstrip in the park’s central region, and is superbly located with outstanding views across these fascinating ‘endless plains’. The lodge itself sits on a grassy savanna dotted with rocky kopjes and shaded by ancient giant acacia trees.",
+    "Eastern Serengeti Tanzania",
+    "## Ngorongoro Lodge Meliá Collection",
+    "The Ngorongoro Conservation Area is home to an ecosystem that is unlike any other in Tanzania. Designed with the utmost respect for the environment, this lodge allows you to sleep accompanied by the sounds of nature, wake up admiring the Ngorongoro Crater, and enjoy a truly extraordinary safari experience.",
+    "Ngorongoro Conservation Area",
+    "## Escarpment Luxury Lodge Manyara",
+    "Perched high on the rim of the Great Rift Valley Escarpment Luxury Lodge is a serene haven overlooking the wonderful Lake Manyara below. It is only 25 km from the iconic Ngorongoro Crater National Park and a 90-minute drive to Tarangire National Park",
+    "Lake Manyara",
+    "## Gran Meliá Arusha",
+    "Experience the essence of Arusha with Gran Meliá. An oasis within Arusha set out on 18 acres of beautiful landscaped coffee and tea plantations. Pure tranquility with spectacular views of Mount Meru. Gran Melia Arusha offers a unique experience combining the most exciting once-in-a-lifetime safari destination with state-of-the-art conference facilities.",
+    "Arusha Mount Meru View",
+    "## Kubu Kubu\nTented Lodge",
+    "Kubu Kubu Tented Lodge. The Lodge camp is located in Central Serengeti on the slopes of a hill with fantastic views and it is the ideal starting point to visit the great plains at any time of the year. The camp consists of 25 luxury tents with en-suite bathroom. Each tent is a built on a wooden platform. The main house caters with a terrace, restaurant, lounge and swimming pool.",
+    "Serengeti National Park",
+    "## Ngorongoro Serena Safari Lodge",
+    "Nestled high above the plains into the Crater’s jagged rim, cloaked in river stone and indigenous vines, Ngorongoro Serena Safari Lodge is barely visible to the naked eye. Framed by arched stone passages and timbered decks, its torch-lit walls are adorned with stylized cave paintings. At the stone heart of the lodge burns a glowing fire, which is kept constantly alight. Rooms are looped around the Crater rim. Each has its own rock-enclosed balcony, and all enjoy completely uninterrupted views of the volcanic amphitheatre far below",
+    "Ngorongoro Crater Rim",
+    "## Anantya Serengeti",
+    "Explore the luxurious Anantya Serengeti, a newly built camp nestled in the iconic Serengeti landscape. This upscale destination offers a serene garden, a welcoming bar, and an outdoor fireplace, all under full-day security. Additional amenities include sightseeing tours, a picnic area, and exclusive sundowner spots. Located 35 km from Seronera with airport shuttle service available, Anantya Serengeti offers an unparalleled safari experience",
+    "Serengeti",
+    "## Farm of Dreams Lodge",
+    "Farm of Dream Lodge is home to eight villages with 48 Double Rooms and Superior Rooms built in one of the best spots in the heart of this infamous town of Karatu. The lodge is surrounded by Nature’s bounty; the beautiful flower-lined paths offer an experience with nature, birds singing from Jacaranda trees and flowers that grow to startling sizes and beauty",
+    "Karatu (Close to Ngorongoro)",
+    "## Nyota Luxury Camps",
+    "The Serengeti fits well into most people’s dream of an African safari, with its abundant wildlife, vast golden plains, iconic acacia trees and kopjes. Nyota Luxury Tented Camp is nestled in the heart of the Serengeti and we are blessed to have the Orangi river meandering along our camp’s borders. Nyota (rhyme it with water) means ‘stars’ in Swahili.",
+    "Seronera Serengeti"
+  ],
+  "lodges": [
+    {
+      "name": "African Safari Lake Natron",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "winged-wonders-birding"
+      ]
+    },
+    {
+      "name": "Ang'ata Ngorongoro Camp",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "wildlife-photography-safari",
+        "winged-wonders-birding"
+      ]
+    },
+    {
+      "name": "Arusha Coffee Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "honeymoon-safari-and-zanzibar"
+      ]
+    },
+    {
+      "name": "Bougainevellia Safari Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "wildlife-photography-safari"
+      ]
+    },
+    {
+      "name": "Escarpement Luxury Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "honeymoon-safari-and-zanzibar",
+        "winged-wonders-birding"
+      ]
+    },
+    {
+      "name": "Escarpment Luxury Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "great-migration-river-crossing"
+      ]
+    },
+    {
+      "name": "Essque Zalu",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "savannah-to-shore"
+      ]
+    },
+    {
+      "name": "Figs Camping Site",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-under-the-stars"
+      ]
+    },
+    {
+      "name": "Figs Camping Site The camping area is situated in a nice garden with a swimming pool, where you can cool down after a wonderful safari.There are separate toilets and showers for the campers. The lodge also provides an outdoor kitchen.",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-under-the-stars"
+      ]
+    },
+    {
+      "name": "Four Seasons Safari Lodge Serengeti",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "honeymoon-safari-and-zanzibar"
+      ]
+    },
+    {
+      "name": "Gran Meliá Arusha",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "family-wilderness-adventure",
+        "honeymoon-safari-and-zanzibar"
+      ]
+    },
+    {
+      "name": "Kubu Kubu Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "great-migration-river-crossing"
+      ]
+    },
+    {
+      "name": "Kubu Kubu Tented Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "savannah-to-shore"
+      ]
+    },
+    {
+      "name": "Lake Duluti Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "savannah-to-shore"
+      ]
+    },
+    {
+      "name": "Lake Manyara Serena Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "family-wilderness-adventure"
+      ]
+    },
+    {
+      "name": "Lake Manyara, Kilimamoja Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-romantic-escape"
+      ]
+    },
+    {
+      "name": "Lake Masek Ndutu",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "wildlife-photography-safari"
+      ]
+    },
+    {
+      "name": "Lions Paw Camp",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "great-migration-river-crossing"
+      ]
+    },
+    {
+      "name": "Lions Paw Ngorongoro Camp",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "savannah-to-shore"
+      ]
+    },
+    {
+      "name": "Mama Wilsen House",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-under-the-stars"
+      ]
+    },
+    {
+      "name": "Mara Under Canvas",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "great-migration-river-crossing"
+      ]
+    },
+    {
+      "name": "Maramboi Tented Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "savannah-to-shore"
+      ]
+    },
+    {
+      "name": "Melia Ngorongoro Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-romantic-escape"
+      ]
+    },
+    {
+      "name": "Melia Serengeti Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-romantic-escape"
+      ]
+    },
+    {
+      "name": "Meliá Zanzibar",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "honeymoon-safari-and-zanzibar"
+      ]
+    },
+    {
+      "name": "Mount Meru Hotel",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "wildlife-photography-safari"
+      ]
+    },
+    {
+      "name": "Ngaresero Mountain Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "great-migration-river-crossing",
+        "serengeti-romantic-escape",
+        "winged-wonders-birding"
+      ]
+    },
+    {
+      "name": "Ngorongoro Lodge member of Meliá Collection",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "honeymoon-safari-and-zanzibar"
+      ]
+    },
+    {
+      "name": "Ngorongoro Serena Safari Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "family-wilderness-adventure"
+      ]
+    },
+    {
+      "name": "Nyani Campsite One of the most frequented public campsites in the Seronera area, located a few kilometres east of the tourist information centre. Although most of the campsites in the area are similar, it is one of few that are on level ground and well sheltered from winds, meaning less cold nights.",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-under-the-stars"
+      ]
+    },
+    {
+      "name": "Serengeti Katikati Camp",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "wildlife-photography-safari",
+        "winged-wonders-birding"
+      ]
+    },
+    {
+      "name": "Serengeti Serena Safari Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "family-wilderness-adventure"
+      ]
+    },
+    {
+      "name": "Simba A Campsites Ngorongoro",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "serengeti-under-the-stars"
+      ]
+    },
+    {
+      "name": "Tarangire Sopa Lodge",
+      "area": null,
+      "description": null,
+      "url": null,
+      "used_in": [
+        "wildlife-photography-safari"
+      ]
+    }
+  ]
+}

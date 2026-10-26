@@ -1,0 +1,190 @@
+{
+  "id": "honeymoon-safari-and-zanzibar",
+  "status": "published",
+  "title": "A Romantic Honeymoon Safari and Zanzibar Retreat",
+  "style": "honeymoon",
+  "summary": "Embark on an enchanting 12-day honeymoon that combines a luxury safari across Tanzania's famed parks with a serene beach retreat in the exotic Zanzibar, creating the perfect blend of adventure and relaxation for newlyweds.",
+  "description": "Embark on a captivating 12-day honeymoon journey through the unparalleled landscapes of Tanzania. Immerse yourself in thrilling safaris across the country's most iconic national parks, where you’ll encounter Africa's famed wildlife. Afterward, indulge in the serene beauty of Zanzibar's pristine beaches. This journey offers an exquisite blend of romance, adventure, and relaxation, creating memories to cherish for a lifetime.",
+  "duration_days": 12,
+  "best_time": {
+    "text": "Jun- Sept",
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Serengeti",
+    "Ngorongoro Crater",
+    "Zanzibar"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 8650,
+    "basis": "price based on 2 people sharing",
+    "tiers": [],
+    "note": null,
+    "confirmed": false,
+    "conflicting_prices_on_old_site": {
+      "packages_listing": 8600
+    }
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Arrive in Arusha and meet your representative and driver guide at the airport. Transfer to the luxurious Gran Meliá for a relaxing evening, enjoying views of Mount Meru and Mount Kilimanjaro, if weather permits. Optional activities like Lake Duluti canoeing, yoga classes, and city tours are available (additional cost).",
+      "meal_plan": "Bed & Breakfast",
+      "accommodation": "5* Gran Meliá Arusha",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit."
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Tarangire National Park",
+      "description": "After a well deserved breakfast, your safari begins at Tarangire National Park, famed for its vast herds of elephants and distinctive baobab trees. Explore the diverse landscapes, home to giraffes, hippos, big cats, and more. In the afternoon you guide will transport you to Escarpment Luxury Lodge, where honeymoon surprises await.",
+      "accommodation": "Escarpement Luxury Lodge",
+      "destination_note": "Tarangire National Park Famous for its large elephant herds",
+      "meal_plan": "Breakfast, lunch, Dinner"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Serengeti via Ngorongoro Highlands",
+      "description": "As you traverse the Ngorongoro Highlands, take the opportunity to visit a traditional Maasai Boma, gaining complimentary insights into the rich Maasai culture. From there, your safari continues into the Serengeti National Park, reaching the central Seronera region. This area, nourished by the Seronera River, stands as one of the park's most biodiverse wildlife habitats, providing a constant water source for its vibrant ecosystem. It remains a premier wildlife viewing location throughout the year, where you can encounter elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffalo, and baboons, even after the wildebeest migration. End your day with dinner and an overnight stay at the Four Seasons Luxury Lodge.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Four Seasons Safari Lodge Serengeti",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife"
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Serengeti Balloon Safari",
+      "description": "Rise early for an unforgettable balloon safari, where you'll be picked up from your lodge at 5:00 a.m. and gently lifted into the sky by 6:00 a.m. to witness the wildlife of the Serengeti from above. Soar gracefully over the plains, marveling at the animals below before landing to celebrate with a sumptuous breakfast and champagne. Your guide will then meet you for a comprehensive game drive through the heart of the Serengeti, a world-renowned wildlife sanctuary rich in biodiversity. Spot the \"Big Five\" — elephants, lions, buffalo, leopards, and black rhinos — and over 500 bird species, including vultures, owls, bustards, cranes, and secretary birds.",
+      "accommodation": "Four Seasons Safari Lodge Serengeti",
+      "destination_note": "Serengeti National Park Including Romantic Balloon Safari",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Serengeti to Ngorongoro Highlands",
+      "description": "After enjoying a delectable breakfast, embark on another exhilarating game drive through the Serengeti, exploring its rich landscapes and diverse wildlife. As the day progresses, journey towards the Ngorongoro Conservation Area, where you'll be greeted by breathtaking views at the crater’s rim. Here, catch your first glimpse of the shimmering streams, open grasslands, and countless animals that await you the following day.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Ngorongoro Lodge member of Meliá Collection",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife"
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "After a delightful breakfast, descend into the famed Ngorongoro Crater for a captivating game drive. Formed approximately 2.5 million years ago by the dramatic collapse of a massive volcano, the crater is now a vast, unbroken caldera teeming with wildlife. Its unique ecosystem supports over 25,000 resident animals. Visit Lake Magadi, a distinctive, shallow alkaline lake nestled in the southwestern corner, where flocks of flamingos, hippos, and other water birds thrive. Search for the \"Big Five\" in this pristine environment before returning to Arusha for an overnight stay, carrying memories of a truly romantic and exciting day.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Arusha Coffee Lodge",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park."
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Arusha - Fly to Zanzibar",
+      "description": "Begin your day with a leisurely breakfast at your accommodation, followed by a transfer to Arusha Airport for your flight to Zanzibar. Upon arrival at Zanzibar Airport, you will be escorted to your hotel. The remainder of the day is yours to enjoy at the beach at your leisure.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "5* Meliá Zanzibar",
+      "destination_note": "Zanzibar is a Tanzanian archipelago off the coast of East Africa"
+    },
+    {
+      "days": [
+        8,
+        11
+      ],
+      "title": "Zanzibar",
+      "description": "Zanzibar is renowned for its world-class beaches, offering ample opportunities to relax, swim, sunbathe, and stroll along the pristine shores. Take in the island’s vibrant atmosphere and immerse yourself in its diverse cultural heritage, particularly in Stone Town, where African, Arab, Indian, and European influences intertwine. Wander through historic landmarks like the former slave market, the Anglican cathedral, and the House of Wonders, and savor the blend of history and architectural beauty.\nThe island is also famous for its spice plantations, where you can discover the rich flavors and medicinal uses of cloves, cinnamon, nutmeg, vanilla, cardamom, tamarind, and other aromatic spices. Dive into local markets to taste the freshest seafood and connect with the island's culinary traditions. For those seeking more adventure, optional excursions include a tour of Prison Island, Nakupenda Sandbank, Mnemba Island for dolphin sightings and snorkeling, Jozani Forest, and the Safari Blue experience (additional charges apply based on the activity).",
+      "accommodation": "5* Meliá Zanzibar",
+      "destination_note": "Zanzibar, Why not visit the historic Prison Island, a small island inhabited by giant tortoises.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        12
+      ],
+      "title": "Zanzibar Departure Day",
+      "description": "Zanzibar is known for its world-class beaches. Today, take the opportunity to relax, swim, sunbathe, or stroll along the coastline before your transfer to the airport for your journey home. This will conclude your memorable wildlife and beach safari with Mazingira. You can choose to fly directly from Zanzibar or via Dar es Salaam.\n(Please note that opting to depart from Dar es Salaam will incur additional transportation costs, either by boat or flight, from Zanzibar.)",
+      "meal_plan": "Breakfast",
+      "accommodation": "No Accommodation flight home.",
+      "destination_note": "Zanzibar last half day before heading home."
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Ngorongoro Crater Fee, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari",
+    "Accommodation in Zanzibar",
+    "Local flight from Arusha Airport – Zanzibar",
+    "Zanzibar airport transfers",
+    "Maasai Boma visit (Complimentary)",
+    "Balloon Safari in Serengeti",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides",
+    "Activities in Zanzibar"
+  ],
+  "add_ons": [
+    "sunset-picnic"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/fa46fcd5c2db4ff6bf8bf28fcd74065e.jpg",
+      "alt": "Zebra Couple"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_663dd53df6384788a08a1d081c890652~mv2.png",
+      "alt": "Map of Tanzania, showcasing a safari route for a honeymoon safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_008c4d5ae011492f972e3449747d9b78~mv2.jpg",
+      "alt": "Gran Melia Hotel Arusha, Pool area surrounded by beautiful green gardens and a Kilimanjaro view"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "Arusha City View from balcony, you can see the city with a backdrop of Kilimanjaro and lovely blue skies"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_3ed794210aeb47ee83764ed0c1906b3c~mv2.jpg",
+      "alt": "Escarpement Luxury Lodge, Lake Manyara views from your room, a double room with roll top bath, a luxury accommodation"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_03be9bc36b4b40b8acc53784cc8b24e3~mv2.jpg",
+      "alt": "A herd of elephants a large family including babies, heading to the watering hole in the dry season on Tarangire National Park Tanzania"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/packages/honeymoon-package"
+}

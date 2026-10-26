@@ -1,0 +1,62 @@
+{
+  "name": "Mazingira Safari",
+  "legal_name": null,
+  "tagline": "Eco-Friendly Safari Adventures",
+  "meaning": "'Mazingira' means 'environment' in Swahili.",
+  "founded": 2007,
+  "base": "Arusha, Tanzania",
+  "contact": {
+    "email": "info@mazingirasafari.com",
+    "email_uk_sales": "uk.sales@mazingirasafari.com",
+    "phone": "+255784278205",
+    "phone_alt": "+255767278204",
+    "whatsapp": null,
+    "address": {
+      "line1": "Mazingira Eco Friendly Safari Adventure",
+      "locality": "Arusha",
+      "po_box": "12544",
+      "country": "Tanzania",
+      "street": null
+    }
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/mazingirasafaris",
+    "facebook": "https://www.facebook.com/mazingirasafari",
+    "tiktok": "https://www.tiktok.com/@mazingira_safaris"
+  },
+  "memberships": [
+    "TATO (Tanzania Association of Tour Operators)"
+  ],
+  "badges": [
+    {
+      "name": "TripAdvisor Travellers' Choice",
+      "year": 2020
+    }
+  ],
+  "booking_terms": {
+    "deposit_pct": 30,
+    "second_payment_pct": 40,
+    "second_payment_due": "8 weeks before travel",
+    "balance_pct": 30,
+    "balance_due": "30 days before travel",
+    "full_payment_if_within_days": 40,
+    "cancellation": [
+      {
+        "days_before": "61+",
+        "fee_pct": 20
+      },
+      {
+        "days_before": "45-60",
+        "fee_pct": 50
+      },
+      {
+        "days_before": "31-44",
+        "fee_pct": 70
+      },
+      {
+        "days_before": "0-30",
+        "fee_pct": 100
+      }
+    ]
+  }
+}

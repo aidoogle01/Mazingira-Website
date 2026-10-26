@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "site.schema.json",
+  "title": "Site settings",
+  "description": "Business details used site-wide (header, footer, contact, structured data).",
+  "type": "object",
+  "required": [
+    "name",
+    "contact",
+    "social",
+    "booking_terms"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "legal_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tagline": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "meaning": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "founded": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "base": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "contact": {
+      "type": "object",
+      "required": [
+        "email",
+        "phone"
+      ],
+      "properties": {
+        "email": {
+          "type": "string",
+          "pattern": "@mazingirasafari\\.com$"
+        },
+        "email_uk_sales": {
+          "type": "string",
+          "pattern": "@mazingirasafari\\.com$"
+        },
+        "phone": {
+          "type": "string",
+          "pattern": "^\\+\\d{9,15}$"
+        },
+        "phone_alt": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^\\+\\d{9,15}$"
+        },
+        "whatsapp": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^\\+\\d{9,15}$"
+        },
+        "address": {
+          "type": "object"
+        }
+      }
+    },
+    "social": {
+      "type": "object"
+    },
+    "memberships": {
+      "type": "array"
+    },
+    "badges": {
+      "type": "array"
+    },
+    "booking_terms": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

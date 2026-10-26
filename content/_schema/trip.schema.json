@@ -1,0 +1,281 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trip.schema.json",
+  "title": "Trip",
+  "description": "A bookable safari or climb. One file per trip in content/trips/.",
+  "type": "object",
+  "required": [
+    "id",
+    "status",
+    "title",
+    "style",
+    "duration_days",
+    "price",
+    "itinerary",
+    "includes",
+    "excludes"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "status": {
+      "enum": [
+        "published",
+        "hidden",
+        "draft"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "style": {
+      "enum": [
+        "safari",
+        "safari-and-beach",
+        "honeymoon",
+        "family",
+        "camping",
+        "migration",
+        "special-interest",
+        "kilimanjaro"
+      ]
+    },
+    "summary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "1\u20132 sentence card text"
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Markdown"
+    },
+    "duration_days": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "best_time": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "months": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "jan",
+              "feb",
+              "mar",
+              "apr",
+              "may",
+              "jun",
+              "jul",
+              "aug",
+              "sep",
+              "oct",
+              "nov",
+              "dec"
+            ]
+          }
+        }
+      }
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "start": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "price": {
+      "type": "object",
+      "required": [
+        "currency",
+        "per",
+        "from",
+        "confirmed"
+      ],
+      "properties": {
+        "currency": {
+          "const": "USD"
+        },
+        "per": {
+          "const": "person"
+        },
+        "from": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "basis": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "tiers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "group_size",
+              "usd_per_person"
+            ],
+            "properties": {
+              "group_size": {
+                "type": "string"
+              },
+              "usd_per_person": {
+                "type": "integer"
+              }
+            }
+          }
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "confirmed": {
+          "type": "boolean",
+          "description": "false until the client confirms the price"
+        },
+        "conflicting_prices_on_old_site": {
+          "type": [
+            "object",
+            "null"
+          ]
+        }
+      }
+    },
+    "itinerary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "days",
+          "title",
+          "description"
+        ],
+        "properties": {
+          "days": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "description": "Markdown"
+          },
+          "meal_plan": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "accommodation": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "accommodation_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "destination_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "altitude": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "includes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "excludes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "add_ons": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "experience id"
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/image"
+      }
+    },
+    "source": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "image": {
+      "type": "object",
+      "required": [
+        "src",
+        "alt"
+      ],
+      "properties": {
+        "src": {
+          "type": "string",
+          "format": "uri"
+        },
+        "alt": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

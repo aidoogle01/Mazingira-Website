@@ -1,0 +1,32 @@
+{
+  "id": "wild-wonders-serengeti-tarangire-ruaha",
+  "status": "hidden",
+  "title": "Wild Wonders: A Safari Across Serengeti, Tarangire, and Ruaha",
+  "style": "safari",
+  "summary": "Embark on a thrilling 10-day safari across Tanzania, exploring the Serengeti, Tarangire, and Ruaha National Park. Experience diverse ecosystems, encounter the Big Five, and enjoy breathtaking landscapes with expert guides on this unforgettable adventure.",
+  "description": null,
+  "duration_days": 10,
+  "best_time": null,
+  "locations": [
+    "Serengeti",
+    "Tarangire",
+    "Ruaha"
+  ],
+  "start": null,
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 7500,
+    "basis": null,
+    "tiers": [],
+    "note": null,
+    "confirmed": false,
+    "conflicting_prices_on_old_site": null
+  },
+  "itinerary": [],
+  "includes": [],
+  "excludes": [],
+  "add_ons": [],
+  "images": [],
+  "source": "https://mazingirasafariuk.my.canva.site/maintenance"
+}

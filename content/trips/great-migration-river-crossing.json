@@ -1,0 +1,173 @@
+{
+  "id": "great-migration-river-crossing",
+  "status": "published",
+  "title": "7-Day Great Migration River Crossing Adventure",
+  "style": "migration",
+  "summary": "Embark on a thrilling safari! Witness the Great Migration and explore the Ngorongoro Crater, home to the famed Big 5. Enjoy luxury accommodations from July to October. Experience wildlife like never before!",
+  "description": "Embark on a remarkable seven-day safari in Tanzania, designed to immerse you in the breathtaking spectacle of the Great Migration. This journey covers Tarangire National Park, Central Serengeti, Northern Serengeti, and the iconic Ngorongoro Crater, offering unrivaled opportunities to witness nature's most awe-inspiring event. Each year, millions of wildebeest, zebras, and gazelles migrate across these vast plains, risking rivers and predators in their relentless quest for greener pastures. Alongside this natural marvel, explore the lush landscapes of Tarangire, the rich wildlife diversity of Serengeti’s central and northern regions, and the extraordinary Ngorongoro Crater. This expertly curated safari promises an unforgettable experience, where dramatic wildlife encounters and Tanzania's scenic beauty create a once-in-a-lifetime adventure.",
+  "duration_days": 7,
+  "best_time": {
+    "text": "Jul - Early Oct",
+    "months": [
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Tarangire",
+    "Serengeti",
+    "Ngorongoro Crater"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 3799,
+    "basis": "prices based on 6 people sharing",
+    "tiers": [
+      {
+        "group_size": "6+",
+        "usd_per_person": 3799
+      },
+      {
+        "group_size": "4",
+        "usd_per_person": 3999
+      },
+      {
+        "group_size": "2",
+        "usd_per_person": 4549
+      }
+    ],
+    "note": "Prices can vary between seasons",
+    "confirmed": true,
+    "conflicting_prices_on_old_site": null
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Upon landing at the airport, you'll be warmly welcomed by our representative and driven to your accommodation in Arusha, about an hour away. Your knowledgeable safari guide is a true expert on Tanzania, ready to share insights on the nation's vibrant culture, spectacular national parks, and diverse wildlife. Don't hesitate to ask questions along the way. If you arrive early, consider adding one of the following exciting activities: canoeing on Lake Duluti or Momela, exploring a local coffee plantation, taking a village or town tour, or another adventure of your choosing (for an additional fee). Settle in and prepare for an extraordinary safari experience that starts tomorrow.",
+      "meal_plan": "Bed & Breakfast",
+      "accommodation": "Ngaresero Mountain Lodge",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit."
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Tarangire National Park",
+      "description": "Your personal driver-guide will pick you up from your Arusha lodge and guide you toward Tarangire National Park. As you pass through the Maasai plains dotted with acacia trees, you'll witness the Maasai herding cattle, riding bicycles, or guiding donkeys along the roadside. Tarangire is renowned as an elephant playground, home to large herds and countless other creatures like lions, zebras, wildebeest, buffalo, and warthogs, all visible from your open-roof safari vehicle. Look up into the trees, and you may catch sight of lions stalking their prey or leopards lounging above. During the dry season, the park comes alive as wildlife and birds flock to the Tarangire River, their lifeline. Return to camp for a delightful dinner and a restful overnight stay, dreaming of the adventures still to come.",
+      "meal_plan": "Breakfast, lunch, Dinner",
+      "accommodation": "Escarpment Luxury Lodge",
+      "destination_note": "Tarangire National Park Famous for its large elephant herds"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Central Serengeti National Park",
+      "description": "After breakfast, set off for the iconic Serengeti National Park. The word \"Serengeti\" is derived from the Maasai term \"Siringet,\" meaning \"the endless plain,\" which perfectly describes the vast landscapes that await. The Central Serengeti is a wildlife paradise, offering year-round game viewing with a remarkable diversity of species. You'll encounter elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffaloes, and baboons, all residing in the area even after the dramatic herds of wildebeest and zebras have moved on.\nAfter an exhilarating day of exploration, return to your lodge for a delicious dinner and a restful overnight stay, savoring the day's thrilling encounters with Tanzania's untamed wilderness.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Kubu Kubu Lodge",
+      "destination_note": "Central Serengeti The endless plain, a diverse wildlife paradise"
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Serengeti National Park",
+      "description": "Rise before dawn, ready to explore the Serengeti at its most captivating. The bush never sleeps, and early morning is when the wildlife action is at its peak. Predators rarely hunt in the heat, making the cool morning hours the best time to witness thrilling pursuits. Seronera, a year-round game viewing area, hosts a remarkable diversity of resident wildlife, including elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffaloes, and baboons. Despite the great migration moving on, you'll still find lions, leopards, and cheetahs during your day of exploration. After lunch, journey northwards for an unforgettable opportunity to witness the legendary Great Migration firsthand.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Mara Under Canvas",
+      "destination_note": "Serengeti National Park Famous for being the location of the Great Wildlife Migration"
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Northern Serengeti",
+      "description": "After breakfast, set out to fully embrace the magic of the Mara River. Explore both the northern and southern banks, anticipating the adrenaline-pumping moment of a wildebeest crossing. From July to October, the northern Serengeti plains are filled with massive herds, and you may witness thousands of wildebeest braving the river in search of greener pastures. This annual migration of over two million wildebeest, zebras, and gazelles across Northern Tanzania and Kenya is a breathtaking spectacle.\nSavor the remarkable views of the southern Maasai Mara plains to the north and the brilliant sunset to the west. After a day of unforgettable wildlife encounters, relax over dinner before retiring for the night at your accommodation.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Mara Under Canvas",
+      "destination_note": "Northern Serengeti Is a World Heritage Site teeming with wildlife Spot the Great Migration from July-Oct"
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Northern Serengeti - Ngorongoro Conservancy",
+      "description": "After breakfast, set off on another exhilarating game drive through the northern Serengeti, where the Mara River flows. Here, you might witness hippos basking in the sun or submerged in the cool waters alongside massive crocodiles, both of whom call this river home. This region is alive with diverse wildlife—elephants, giraffes, and topi antelopes, while prides of lions and solitary leopards are often seen stalking prey across the rugged terrain.\nAfter soaking up the northern Serengeti's wildlife spectacle, head toward the Ngorongoro Conservation Area.\nUpon arriving at the crater's rim, you'll glimpse the marvels awaiting tomorrow: glistening streams, sweeping grasslands, and countless animals. For an unforgettable experience, consider adding an early morning balloon safari or a visit to Olduvai Gorge and its museum (optional activities with extra charges). Unwind in the evening over dinner at your accommodation, savoring the excitement for the adventures ahead.",
+      "accommodation": "Lions Paw Camp",
+      "destination_note": "Serengeti National Park Is a World Heritage Site teeming with wildlife Spot the hippo's in the cool pools of the Seregenti\n\nOptional Activity\n\nBalloon Safari\nOptional add on, experience the Serengeti from the early morning sky.",
+      "meal_plan": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "After breakfast, descend to the floor of the renowned Ngorongoro Crater for a day of game viewing. The crater formed about 2.5 million years ago when a massive volcano collapsed inward, leaving the vast, intact caldera that we see today. This unique ecosystem is home to over 25,000 resident animals.\nVisit Lake Magadi, a shallow alkaline lake in the southwestern corner, which attracts a large population of flamingos, hippos, and other waterbirds. The Big Five can also be spotted in the crater, adding to the day's excitement.\nAfter an unforgettable day exploring this natural wonder, return to Arusha before heading to the airport for your departure or an extension to Zanzibar.",
+      "accommodation": "No Accommodation Last Day",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
+      "meal_plan": "Breakfast, Lunch"
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safaris",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides"
+  ],
+  "add_ons": [
+    "balloon-safari"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_58e933a56a0e4c628e21e3d64eae539e~mv2.png",
+      "alt": "Herd of wildebeests during the Great Migration in Tanzania's Serengeti National Park, moving across the golden plains at sunrise. Experience one of nature's most spectacular events with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Great Migration Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_bf72e85c62eb4290ae09c083e7126d40~mv2.jpg",
+      "alt": "Map of Tanzania highlighting the 7-day Great Migration Safari route, including Serengeti, Ngorongoro, Lake Manyara, and Mount Kilimanjaro. Explore Tanzania's iconic destinations with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1206f291077b4ba08540c9935d72c940~mv2.jpg",
+      "alt": "Charming exterior of Ngaresero Mountain Lodge, surrounded by lush greenery and palm trees in Tanzania. Enjoy serene accommodations and stunning mountain views with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "A panoramic view of Arusha city, Tanzania, with a mix of modern buildings and smaller structures. In the background, the imposing Mount Meru rises under a partly cloudy sky. The city is bustling with activity, showcasing a vibrant urban landscape surrounded by natural beauty"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_3ed794210aeb47ee83764ed0c1906b3c~mv2.jpg",
+      "alt": "Elegant interior of a suite at Escarpment Luxury Lodge, featuring a cozy bed with mosquito netting, wooden decor, and a private balcony with scenic views. Experience ultimate comfort and luxury with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_03be9bc36b4b40b8acc53784cc8b24e3~mv2.jpg",
+      "alt": "A herd of elephants, including adults and juveniles, gathered near a waterhole in Tarangire National Park, Tanzania. The elephants are seen drinking water and interacting with each other. The background features dry terrain, trees, and additional elephants further away, highlighting the park's natural habitat"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/great-migration-package"
+}

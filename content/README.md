@@ -1,0 +1,47 @@
+# Content model
+
+The single source of truth for the new Mazingira website. It's **platform-neutral**: plain JSON files with Markdown text fields. Any site generator or CMS can read it (Astro, Next.js, WordPress import, a headless CMS), so the platform decision can wait.
+
+Everything here is **generated** from the old site by `tools/build_content.py` and then **validated** by `tools/validate_content.py`. Re-run both after changing the builder:
+
+```bash
+python3 tools/build_content.py && python3 tools/validate_content.py
+```
+
+## Layout
+
+| Path | Schema | What it is |
+|---|---|---|
+| `site.json` | `site` | Business details: name, contact, socials, memberships, booking and cancellation terms. Used in the header, footer, contact page and structured data. |
+| `trips/*.json` | `trip` | 10 trips (9 published, 1 hidden). Each has its **full day-by-day itinerary**, with title, description, lodge, meal plan, destination note and (Kilimanjaro) altitude, plus price tiers, inclusions, exclusions and add-ons. |
+| `parks/*.json` | `park` | 7 destinations: body text, a wildlife list, noteworthy facts and travel times. |
+| `experiences/*.json` | `experience` | 6 add-ons (balloon, night drive, walking, Maasai village, sunset picnic, tented camping). Trips link to these through `add_ons`. |
+| `pages/*.json` | `page` | 15 information pages, grouped by `section`: plan, wildlife, kilimanjaro, about, legal. Includes the 2 blog posts we're keeping as guides. |
+| `team/*.json` | `team-member` | 14 people, with the **bios recovered from the old site's pop-ups**. Photos still needed. |
+| `faqs.json` | — | 11 questions and answers |
+| `reviews.json` | — | Review profile links (TripAdvisor, SafariBookings) and the 3 featured testimonials |
+| `lodges.json` | — | Every lodge named in an itinerary, with the trips that use it |
+| `shared/standard-inclusions.json` | — | The inclusion lines most trips share, so wording stays consistent |
+| `_schema/` | | JSON Schemas (draft 2020-12) |
+| `_review/corrections.md` | | **Every edit made to the old site's text** (typos, factual fixes, removed bank details) |
+| `_review/needs-client.md` | | **Checklist of items only Mazingira can confirm** (prices, legal name, WhatsApp, day titles…) |
+
+## Conventions
+- **IDs** are lowercase-hyphenated and match the filename. They'll become the URL slugs.
+- **Text fields** (`description`, `body`) are Markdown.
+- **Prices** are in USD per person. `price.confirmed: false` means the old site showed conflicting prices and the client hasn't confirmed the right one yet. `conflicting_prices_on_old_site` records what else was shown.
+- **Itinerary `days`** is `[n]` for a single day or `[from, to]` for a range (e.g. `[8, 11]` for Zanzibar). Days are numbered from the old site's tab labels, because several tab *headings* on the old site were wrong.
+- **Images** point at the original-resolution files on Wix's server (`static.wixstatic.com`). Before launch: confirm Mazingira owns each photo, download them and host them ourselves.
+- **`status: hidden`** trips stay in the data but aren't shown. Currently that's the Ruaha trip, until the client confirms it.
+- **`source`** records the old page each file came from. We'll use it for the redirect map.
+- Customer reviews are never edited, even for typos.
+
+## Validation rules (beyond the schemas)
+- Each `id` matches its filename
+- Published trips have an itinerary, and it ends on `duration_days`
+- `price.from` equals the cheapest price tier
+- Trip `add_ons` refer to existing experiences
+- Contact emails must be on `@mazingirasafari.com` (this catches the old Contact page bug)
+
+## Where the data came from
+Wix keeps each page's full content as JSON at `https://<site>/sites/<pageJsonFileName>.json.z`, including text hidden in tabs and pop-ups, which a browser capture misses. We saved those files to `audit/raw/wix-pages/`, and `tools/wix_page_text.py` turns them into ordered Markdown. See `audit/workflow-notes.md`.

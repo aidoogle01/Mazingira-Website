@@ -1,0 +1,173 @@
+{
+  "id": "wildlife-photography-safari",
+  "status": "published",
+  "title": "Wildlife Photography Safari, Capture Every Moment",
+  "style": "special-interest",
+  "summary": "Join our 8-day Tanzania photo safari, featuring prime wildlife photography in Tarangire, Serengeti, and Ngorongoro. Capture stunning African wildlife and landscapes with our professional guides. Enjoy park-side accommodations for the perfect shot!",
+  "description": "Embark on an 8-day Tanzania Wildlife Photography Safari under our \"Capture Every Moment\" series, designed specifically for photography enthusiasts. Journey through the renowned parks of Tarangire, Serengeti, and Ngorongoro, where Africa's iconic wildlife and breathtaking landscapes await your lens. With the guidance of professional photography guides, you'll have the opportunity to capture stunning images of majestic animals in their natural habitats and dramatic panoramas that define this rich region. Our carefully selected park-side accommodations ensure you are perfectly positioned to take advantage of the golden hours of dawn and dusk. Whether you’re a seasoned photographer or a passionate beginner, this safari promises to enhance your portfolio with spectacular shots and unforgettable experiences.",
+  "duration_days": 8,
+  "best_time": {
+    "text": "Year Round (We will discuss with you for your photography goals)",
+    "months": []
+  },
+  "locations": [
+    "Arusha",
+    "Tarangire",
+    "Serengeti",
+    "Ngorongoro Crater"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 3150,
+    "basis": "prices based on 6 people sharing",
+    "tiers": [
+      {
+        "group_size": "6+",
+        "usd_per_person": 3150
+      },
+      {
+        "group_size": "4",
+        "usd_per_person": 3380
+      },
+      {
+        "group_size": "2",
+        "usd_per_person": 3999
+      }
+    ],
+    "note": "Prices can vary between seasons",
+    "confirmed": true,
+    "conflicting_prices_on_old_site": null
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Upon arrival at the airport, you'll be welcomed by our professional representative and experienced driver-guide, who will escort you to your accommodation in Arusha. This day is for relaxation and preparation before your photography safari begins. If the weather permits, enjoy your first photo opportunities with views of Mount Meru and Mount Kilimanjaro.\nConsider optional activities in Arusha to enhance your experience. Options include canoeing on Lake Duluti, city tours, yoga classes, coffee tours, walking tours, and horseback riding, each providing unique photographic opportunities (additional charges apply). This relaxed day ensures you’re ready to capture the incredible sights ahead.",
+      "meal_plan": "Bed & Breakfast",
+      "accommodation": "Mount Meru Hotel",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit."
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Tarangire National Park",
+      "description": "Your day begins early at 7:30 am when your driver-guide picks you up from your hotel, setting out towards Tarangire National Park. Famous for its high density of elephants and iconic baobab trees, Tarangire offers unparalleled wildlife viewing opportunities, especially during the dry season. You'll enjoy a picnic lunch in the heart of the park.\nSpend the day on a game drive exploring the diverse habitats that come alive around the Tarangire River, the park's lifeline during the dry months. This river draws thousands of animals, making it an excellent spot for photographers aiming to capture elephants, giraffes, lions, antelopes, zebras, and more in their natural environment. You'll also have the chance to see wildebeest, gazelles, cheetahs, leopards, and the elusive kudu, oryx, and gerenuk.",
+      "meal_plan": "Breakfast, lunch, Dinner",
+      "accommodation": "Tarangire Sopa Lodge",
+      "destination_note": "Tarangire National Park Famous for its large elephant herds"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Lake Manayara National Park",
+      "description": "Start early with a morning game drive, an optimal time to see animals actively grazing on the Savannah plains. Enjoy this lively and picturesque scene before heading to Lake Manyara National Park. Known for its tree-climbing lions and the flocks of flamingos along the lakeshore, Lake Manyara offers unique wildlife viewing opportunities in a stunning setting.\nDespite its modest size of 205 square miles, Lake Manyara is celebrated for its breathtaking beauty and lush acacia forest filled with giant fig and mahogany trees, home to troops of baboons and blue monkeys. The park’s namesake lake, a shallow alkaline body of water, expands and contracts with the seasons and supports thousands of flamingos during the rainy periods.\nBesides its famous lions and flamingos, the park also hosts giraffes, elephants, impalas, and hippos. For those interested in capturing the more elusive nocturnal wildlife, a night game drive in Lake Manyara is highly recommended, providing a rare opportunity to photograph these secretive creatures in their natural habitat.",
+      "accommodation": "Bougainevellia Safari Lodge",
+      "destination_note": "Lake Manyara National Park well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos\n\nOptional Activity\n\nNight Time Game Drive\nGet the chance to see some of the most amazing Nocturnal Animals on this unique experience.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Ndutu Southern Serengeti Plains",
+      "description": "Start your day with breakfast before heading to Ndutu, nestled between the northern Ngorongoro Conservation Area and the southern plains of the Serengeti. Known for its year-round wildlife, including elephants, giraffes, big cats, and more, Ndutu offers a unique safari experience.\nThe area is celebrated for its nutrient-rich short grass plains, essential during the calving season from December to March when thousands of newborns bring the landscape to life. Ndutu's diverse habitats—from marshlands and acacia woodlands to soda lakes and expansive plains—support a vibrant mix of wildlife and are ideal for bird watching.\nUnique to Ndutu, off-road driving is permitted, allowing photographers unparalleled opportunities to capture wildlife up close in their natural settings. Whether you’re observing migratory patterns or the intimate moments of wildlife, Ndutu is a photographer’s haven.",
+      "accommodation": "Lake Masek Ndutu",
+      "destination_note": "Ndutu Southern Serengeti - Offers Unique off road photography oportunities",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        5,
+        6
+      ],
+      "title": "Serengeti National Park",
+      "description": "Dedicate these days to exploring Serengeti National Park, renowned for its vast populations of lions and leopards. Keep an eye out for the Serengeti \"Kopjes\"—massive boulders of granite that provide shelter to a wide variety of flora and fauna amidst the expansive grasslands.\nSpend your time in the central region known as Seronera, often called \"the big cat capital of Africa.\" This area is one of the richest wildlife habitats in the park, centered around the Seronera River, a crucial water source for the region's animals. Seronera offers year-round game viewing opportunities and boasts a great diversity of resident wildlife. Here, you're likely to see elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffaloes, and baboons, which remain in the area even outside the spectacular wildebeest migration season.\nFor an unforgettable aerial perspective, consider adding an early morning balloon safari. Floating above the Serengeti at dawn, you'll capture breathtaking photos of the wildlife and landscapes from an entirely unique vantage point.",
+      "accommodation": "Serengeti Katikati Camp",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "Start your morning with a hearty breakfast before setting out on another memorable game drive in the Serengeti. Relish the rich tapestry of wildlife and scenery before making your way to the Ngorongoro Conservation Area. This unique conservation initiative balances the needs of local wildlife with those of the Maasai people, who graze their livestock alongside indigenous animals.\nUpon arriving at the rim of Ngorongoro Crater, you'll get a preview of tomorrow's adventure with views of glistening streams, vast open grasslands, and a plethora of wildlife that populates this natural amphitheater. Optionally, you could enrich your day with a visit to Olduvai Gorge and its museum to delve deeper into the region's fascinating prehistoric significance (note: extra charges apply for this activity).\nConclude your day with some leisure time and a delicious dinner at your accommodation, resting up for the upcoming exploration of the crater.",
+      "accommodation": "Ang'ata Ngorongoro Camp",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        8
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "Begin your final day with breakfast before descending into the Ngorongoro Crater, a UNESCO World Heritage site renowned for its prehistoric formation and thriving ecosystem. This natural amphitheater is home to over 25,000 animals, making it one of the best spots in Africa to view the \"Big Five\" (rhino, elephant, buffalo, lion, and leopard) in their natural habitat.\nAs you explore the vast grasslands and acacia forests of the crater floor, keep an eye out for the endangered black rhinos, a rare and special sighting as they graze in the open plains. The crater is also known for its significant hippo population, which can be seen enjoying the cool waters of the area's water bodies. Other wildlife includes wildebeest, zebras, gazelles, and an impressive array of over 500 bird species.\nAfter a day filled with unforgettable wildlife encounters, you will leave the crater and return to Arusha. From there, you will be transferred to the airport for your departure home or an optional extension to Zanzibar, carrying memories of a lifetime from the heart of Tanzania.",
+      "accommodation": "No Accommodation last day of safari",
+      "destination_note": "Ngorongoro Crater",
+      "meal_plan": "Breakfast and Lunch"
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Ngorongoro Crater Fee, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides",
+    "Activities Balloon Safari, Maasai Village"
+  ],
+  "add_ons": [
+    "balloon-safari",
+    "maasai-village",
+    "night-game-drive"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_32426bc63fd74416b2b134d7ef4eeac7~mv2.jpg",
+      "alt": "Leopard gracefully walking along a tree branch in Tanzania's Serengeti National Park. Experience close encounters with wildlife and stunning natural beauty with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Wildlife photography safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_90b16301ef5242ca807b87bf1359b794~mv2.jpg",
+      "alt": "Map of Tanzania highlighting the 'Wildlife Photography Safari' route, featuring key destinations such as Serengeti, Ngorongoro, Lake Manyara, and Mount Kilimanjaro. Capture Tanzania's iconic wildlife and landscapes with Mazingira Safari."
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_d9037fe38fbe407ab09bb1ad73c8ae13~mv2.png",
+      "alt": "Exterior view of Mount Meru Hotel in Arusha, Tanzania, featuring modern architecture and well-maintained gardens. Enjoy luxury accommodations and excellent amenities with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "Arusha City View from balcony, you can see the city with a backdrop of Kilimanjaro and lovely blue skies"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ff92f164596b4c6693c5dc7f4c9a95fc~mv2.png",
+      "alt": "Aerial view of the pool area at Tarangire Sopa Lodge in Tanzania, surrounded by lush greenery. Experience comfort and relaxation in the heart of nature with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_03be9bc36b4b40b8acc53784cc8b24e3~mv2.jpg",
+      "alt": "A herd of elephants a large family including babies, heading to the watering hole in the dry season on Tarangire National Park Tanzania"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/wildlife-photography-package"
+}

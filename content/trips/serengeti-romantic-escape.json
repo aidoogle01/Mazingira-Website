@@ -1,0 +1,149 @@
+{
+  "id": "serengeti-romantic-escape",
+  "status": "published",
+  "title": "Serengeti Escape A Romantic Adventure",
+  "style": "honeymoon",
+  "summary": "Embark on a breathtaking five-day romantic safari with the \"Serengeti Escape: A Romantic Adventure.\" Designed for couples, this trip combines luxury, wildlife, and cultural experiences in Tanzania’s stunning landscapes.",
+  "description": "Embark on a 5-day Serengeti Romantic Escape Safari, crafted to immerse you in the beauty of Tanzania's most iconic landscapes. This journey combines the adventure of exploring Lake Manyara, Central Serengeti, Northern Serengeti, and the Ngorongoro Crater, with the luxury of your private safari vehicle. Each day unfolds new discoveries, from the vibrant wildlife of the Serengeti plains to the lush greenery of Lake Manyara and the breathtaking Ngorongoro Crater. Whether it's the thrill of witnessing the Great Migration or the tranquil moments shared under a starlit sky, this intimate safari is designed to create unforgettable memories for two.",
+  "duration_days": 5,
+  "best_time": {
+    "text": "Jun- Sept",
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Lake Manyara",
+    "Serengeti",
+    "Ngorongoro Crater"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 4099,
+    "basis": "price based on 2 people sharing",
+    "tiers": [],
+    "note": null,
+    "confirmed": false,
+    "conflicting_prices_on_old_site": {
+      "home_card": 3950,
+      "packages_listing": 4090
+    }
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Upon arrival, you'll be greeted at the airport by your warm and knowledgeable Mazingira Safari private guide, who will whisk you away to your charming lodge in Arusha. Unwind at your lodge by basking in the lush tropical forest and vibrant gardens, swimming in the inviting 30-meter pool, or taking a romantic nature walk to discover the indigenous flora and fauna. Spot Sykes and Colobus monkeys or listen to the symphony of birdsong surrounding you. To further elevate your experience, consider a serene boat ride or try your hand at croquet while savoring a refreshing sundowner. As the sun sets, delight in a romantic dinner under the forest canopy, basking in the magic of the African night. This tranquil day prepares you for the thrilling adventures ahead on your romantic safari.",
+      "accommodation": "Ngaresero Mountain Lodge",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit.",
+      "meal_plan": "Breakfast, Lunch and Dinner"
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Lake Manyara",
+      "description": "After breakfast around 8:00 a.m., your safari guide will pick you up from the lodge and head to Lake Manyara National Park, a scenic two-hour drive away. This park, though compact at 205 square miles, boasts lush acacia forests, giant figs, mahogany trees, and thriving populations of baboons and blue monkeys. It's also a haven for giraffes, elephants, impalas, buffaloes, and hippos, offering unforgettable photo opportunities with giraffes and buffaloes framed by the shimmering lake. After a day of wildlife exploration, you'll immerse yourself in Maasai culture with a visit to a traditional boma, gaining insight into their unique way of life. As evening falls, unwind with a candlelit bubble bath, sparkling wine, and a cheese platter before indulging in a romantic dinner meticulously set up at your hotel—a perfect end to a remarkable day.",
+      "meal_plan": "Breakfast, lunch, Dinner",
+      "accommodation": "Lake Manyara, Kilimamoja Lodge",
+      "destination_note": "Lake Manyara National Park well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Serengeti National Park",
+      "description": "Embark on a game drive to Serengeti National Park, a journey of about 305 km that will take approximately three hours. Feel the warm welcome of Serengeti's iconic endless plains, where wildlife roams in unmatched abundance. You'll spend the day in the central Seronera area, a wildlife-rich habitat sustained by the Seronera River, which attracts a wide variety of resident species. Here, you can observe elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffaloes, and baboons, who thrive in this region even after the famous wildebeest migration has moved on. After a thrilling day of game viewing, retreat to the luxurious Lodge for a romantic dinner and an overnight stay.",
+      "accommodation": "Melia Serengeti Lodge",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Serengeti National Park - Ngorongoro Conservancy",
+      "description": "Enjoy breakfast at your lodge before continuing your game drive in Serengeti National Park. Your expert safari guide will lead you to the best wildlife spotting locations, including a visit to the hippo pool, where you can watch these massive creatures lounge in the cool water alongside crocodiles. The diverse landscape offers unparalleled game viewing opportunities to observe giraffes, zebras, wildebeests, lions, and with luck, leopards and cheetahs. The park is also home to a vibrant bird population, including secretary birds and flightless ostriches. For a unique perspective, consider a breathtaking balloon safari to witness the sweeping plains and wildlife from the skies.\nAfter an exhilarating day, you'll head to the Ngorongoro Conservation Area for an overnight stay, ready for the next adventure.",
+      "accommodation": "Melia Ngorongoro Lodge",
+      "destination_note": "Serengeti National Park Why not add a Romantic Balloon Safari",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "Get up early for your breakfast, later you will sit back at your safety and comfort private safari vehicle and enjoy the journey on the Great Rift Valley through crater forest to your destination of the striking Ngorongoro crater. The crater is the most visited destination and one of the Africa’s Seven Natural wonders. It is the home to the highest concentration of wildlife in Africa, full of elephants, lions, buffaloes, hippos and even the rare black rhino. In additional to the game, Ngorongoro also offers an adds bucket list to activities including traditional Maasai village, Laetoli footprints, the oldest known footprints of early humans approximately 3.5 years old.\nLater you will drive back to Arusha and being transferred to the airport for your departure back home or an extension to Zanzibar.",
+      "accommodation": "No Accommodation End of tour",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Ngorongoro Crater Fee, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari",
+    "Maasai Boma visit (Complimentary",
+    "A Romantic Dinner at Ngaresero lodge",
+    "A Romantic Dinner at Lake Manyara Kilimamoja",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides",
+    "Balloon Safari $600pp"
+  ],
+  "add_ons": [
+    "balloon-safari",
+    "sunset-picnic"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_45d4443fa0cc41bb8c8d6e51736a109e~mv2.jpg",
+      "alt": "A male and female lion cuddling in the trees in the Serengeti"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Serengeti romantic adventure safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_22452c333dee45a8aea62f453b1db91c~mv2.jpg",
+      "alt": "5day romantic safari Tanzania map"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1206f291077b4ba08540c9935d72c940~mv2.jpg",
+      "alt": "Ngaresero Mountain Lodge, a beautiful accomodation in Arusha, stable themed building surrounded by green grasslands"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "A beautiful balcony view of the Arusha city, with a backdrop of the famous Kilimanjaro, and the blue skies."
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_5d80ca396dd94caba727e2182d927c38~mv2.png",
+      "alt": "Lake Manyara Kilimamoja lodge, in the beautiful Lake Manyara region, with a sunset backdrop over the mountains"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_8aef87c83f7a43b68948af414e15bcb7~mv2.jpg",
+      "alt": "A tree climbing lioness in Lake Manyara, looking straight at the photographer with beautiful blue eyes, the lion is resting in the shade of the tree branches"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/serengeti-escape-romance-package"
+}

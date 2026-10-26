@@ -1,0 +1,21 @@
+{
+  "id": "accessibility",
+  "section": "legal",
+  "title": "Accessibility Statement for Mazingira Safari",
+  "body": "### Accessibility Statement for Mazingira Safari\n\n#### Commitment to Accessibility\nAt Mazingira Safari, we are committed to providing an accessible website experience for all our users, regardless of their physical abilities or limitations. We strive to ensure that our website complies with the highest standards of accessibility and usability, adhering to both UK and Tanzanian legal requirements.\n#### Legal Requirements\nOur accessibility efforts are guided by the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA, which are recognized globally as the benchmark for web accessibility. We aim to meet or exceed these guidelines to ensure that our website is accessible to as many people as possible. This includes compliance with the Equality Act 2010 in the UK and relevant accessibility regulations in Tanzania.\n#### Measures to Support Accessibility\n\nTo ensure our website is accessible, we have implemented the following measures:\n- Alternative Text for Images: All images on our website include descriptive alt text to assist users who rely on screen readers.\n- Keyboard Navigation: Our website is fully navigable using a keyboard to accommodate users with mobility impairments.\n- Contrast and Readability: We use high-contrast text and background combinations to improve readability for users with visual impairments.\n- Responsive Design: Our website is designed to be fully responsive, providing an optimal viewing experience on a variety of devices, including mobile phones and tablets.\n- Regular Audits: We conduct regular accessibility audits to identify and address any potential issues. Feedback from users is highly valued and helps us continuously improve our website's accessibility.\n#### Assistance and Feedback\nIf you encounter any accessibility barriers on our website or have suggestions for improvement, please contact us. We are committed to making our website as accessible as possible and will do our best to address any issues promptly.\n- Email: info@mazingirasafari.com\n- Phone: +255 784278205 (Tanzania)\n- Mail: Mazingira Safari, P.O. Box 12544, Arusha, Tanzania\n#### Continuous Improvement\nWe are dedicated to continuous improvement and regularly update our accessibility practices to ensure we meet current guidelines and best practices. We work with accessibility experts and incorporate user feedback to enhance the user experience for everyone.\n#### Legal Compliance\nThis accessibility statement was prepared to comply with the legal requirements in the UK and Tanzania. We regularly review our compliance to ensure we meet the necessary standards and regulations.\nThank you for visiting Mazingira Safari. We are committed to making our website accessible to all users and appreciate your support in our efforts to provide an inclusive online experience",
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/16f9d351f1b748ce975fecd30cb103ac.jpg",
+      "alt": "Enjoying the Woods"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/accessibility-statement"
+}

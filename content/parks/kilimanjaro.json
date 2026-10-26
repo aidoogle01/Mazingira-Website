@@ -1,0 +1,104 @@
+{
+  "id": "kilimanjaro",
+  "title": "Kilimanjaro National Park",
+  "old_title": "Kilimanjaro National Park",
+  "summary": null,
+  "body": "Explore the majestic Mount Kilimanjaro National Park\nRenowned as a premier destination for mountain climbers and adventure enthusiasts, Mount Kilimanjaro National Park offers the unique experience of ascending the highest peak in Africa. This iconic mountain is home to diverse ecosystems, ranging from lush rainforests to alpine deserts, each hosting a variety of wildlife and breathtaking landscapes. The mountain's towering presence is visible from miles away, encapsulating approximately 1,688 square kilometers (about 652 square miles). As Tanzania's most famous national park for climbing, Kilimanjaro attracts thousands of climbers annually who come to challenge themselves and experience the profound beauty of its summit vistas. Explore our range of climbing packages and experience the thrill of reaching the roof of Africa on Mount Kilimanjaro.\n\nExperiencing Kilimanjaro National Park\nOffering a variety of unique activities centered around the mountain itself. Climbing Kilimanjaro is the most famous of these, providing adventurers with several routes to choose from, each offering different views and challenges. For those who prefer a less strenuous visit, short walks and day hikes in the lower altitudes still offer beautiful views and encounters with wildlife. The park also organizes cultural tours that allow visitors to engage with local Chagga communities, learning about their rich heritage and traditional ways of life. For the keen photographers and nature lovers, the park's diverse habitats and panoramic vistas provide endless opportunities for capturing stunning landscapes and the detailed intricacies of nature’s artistry.\nIn Kilimanjaro National Park\nYou can discover a breathtakingly diverse array of ecosystems as you ascend the slopes of the highest mountain in Africa. Starting from lush rainforests filled with towering trees and vocal wildlife, such as colobus monkeys and tropical birds, the scenery shifts as you climb higher. The forests give way to heath and moorland where giant lobelias and groundsel trees stand silhouetted against the sky, and higher still, the landscape transforms into a stark, otherworldly alpine desert before finally reaching the icy summit. Along the way, you might catch sight of rare animals like the Kilimanjaro tree hyrax and elusive leopards, making each zone not only a physical challenge but also a unique window into Africa’s natural beauty.",
+  "facts_intro": "Mount Kilimanjaro National Park stands as a beacon for climbers and adventurers from around the world, celebrated not only for its majestic summit but also for its unique ecological system. The park is home to Mount Kilimanjaro, the highest mountain in Africa, which offers climbers several routes to its snowy peak, each varying in difficulty and scenic beauty.",
+  "wildlife": [
+    {
+      "name": "Colobus Monkeys",
+      "note": "Known for their striking black and white fur and long tails."
+    },
+    {
+      "name": "Blue Monkeys",
+      "note": "Often seen in the montane forest."
+    },
+    {
+      "name": "Bushbabies",
+      "note": "Nocturnal and elusive, adding a sense of mystery to night treks."
+    },
+    {
+      "name": "Elephants",
+      "note": "Occasionally sighted at lower elevations in the park."
+    },
+    {
+      "name": "Buffaloes",
+      "note": "Known to roam the moorland areas."
+    },
+    {
+      "name": "Leopards",
+      "note": "Rare but captivating when spotted."
+    },
+    {
+      "name": "Various bird species",
+      "note": "Including the Kilimanjaro white-eye, unique to the region."
+    }
+  ],
+  "noteworthy": [
+    {
+      "name": "Varied Ecosystems",
+      "note": "The park spans five main ecological zones from tropical rainforest to alpine desert, each offering distinct flora and fauna."
+    },
+    {
+      "name": "Glacial Features",
+      "note": "Despite its equatorial location, the mountain’s peaks are capped with snow and ice, with dramatic glaciers that are sadly receding."
+    },
+    {
+      "name": "Uhuru Peak",
+      "note": "The highest point on the mountain, providing breathtaking views and a profound sense of accomplishment for those who reach it."
+    },
+    {
+      "name": "Shira Plateau",
+      "note": "An expansive and elevated plateau, offering easier walks and stunning panoramas."
+    },
+    {
+      "name": "Mandara and Horombo Huts",
+      "note": "Provide lodging for climbers along the Marangu Route, enhancing accessibility to various parts of the mountain."
+    },
+    {
+      "name": "Lava Tower",
+      "note": "A famous volcanic rock formation that tests climbers' acclimation to altitude."
+    },
+    {
+      "name": "Unique Climbing Experience",
+      "note": "The opportunity to walk through several climate zones, from tropical to arctic, within a few days makes climbing Kilimanjaro a truly unique adventure."
+    }
+  ],
+  "travel_times": [
+    "Arusha to Kilimanjaro: Approximately 1.5 hours' drive.",
+    "Moshi to Kilimanjaro: Just 45 minutes' drive, as it's the closest major town to the park.",
+    "Dar es Salaam to Kilimanjaro: A long drive of about 8 hours, or a quick flight to Kilimanjaro International Airport taking about 1 hour"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6f0f8573c0d84ee588c79815c251aea3~mv2.png",
+      "alt": "A beautiful landscape picture of The Arusha National park and elephant wandering with a backdrop of Kilimanjaro"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_01896ceb0f084ae88671b9887b4677f7~mv2.png",
+      "alt": "Blue Monkey"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_958f463b8dc74730aafb5ab67a35cde2~mv2.png",
+      "alt": "White Necked Raven"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_b2c0f1cf24524722a1001120fd53ac97~mv2.png",
+      "alt": "Giraffe"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1d703aa0458843bcb4010e4ac6fab61e~mv2.png",
+      "alt": "Note pad paper"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/kilimanjaro-national-park"
+}

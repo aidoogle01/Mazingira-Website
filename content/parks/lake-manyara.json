@@ -1,0 +1,93 @@
+{
+  "id": "lake-manyara",
+  "title": "Lake Manyara National Park",
+  "old_title": "Lake Manyara",
+  "summary": null,
+  "body": "Exploring Lake Manyara National Park\nNestled between Tarangire National Park and the Ngorongoro Crater, Lake Manyara National Park is a picturesque gem located along the 400-meter-deep Great Rift Valley. This park offers a diverse array of landscapes, each attracting a unique mix of wildlife and providing visitors with a comprehensive safari experience.\n\nDiverse Landscapes and Wildlife of Lake Manyara National Park\nLake Manyara National Park is renowned for its varied ecosystems. Visitors can explore the shimmering lake that gives the park its name, wander through a dense rainforest teeming with hundreds of monkeys and vibrant bird species, and observe elephants in their natural habitat within the woodlands. Another highlight is the famous Manyara hippo pool, where numerous hippos can be seen lounging and bathing from early morning until late evening.\nThis park's strategic location and the variety of its landscapes make it a unique stop for anyone looking to experience the full spectrum of East African wildlife and natural beauty in one place. Whether you're a bird watcher, wildlife enthusiast, or simply a nature lover, Lake Manyara National Park offers a serene and enriching environment to connect with nature.\n\nNight Time Game Drives\nExperience the thrill of nighttime game drives in Lake Manyara National Park, where the wilderness comes alive under the cover of darkness. As the sun sets over the park, embark on a unique safari adventure that allows you to witness nocturnal wildlife in their natural habitat. The sounds of the African night, from the distant call of lions to the soft rustle of bush babies in the treetops, create a mesmerizing soundtrack to this unforgettable journey.",
+  "facts_intro": "Lake Manyara National Park, perfectly situated between Tarangire National Park and the Ngorongoro Crater, is a standout wildlife refuge famed for its rich biodiversity and stunning landscapes along the Great Rift Valley. This park is a prime destination for those eager to experience the serene beauty and varied ecosystems of Africa.",
+  "wildlife": [
+    {
+      "name": "Elephants",
+      "note": "Frequently spotted in the woodlands, these majestic creatures are a highlight for visitors."
+    },
+    {
+      "name": "Monkeys",
+      "note": "The park's dense rainforests are alive with numerous species of monkeys, offering endless entertainment."
+    },
+    {
+      "name": "Birds",
+      "note": "A paradise for birdwatchers, the park hosts hundreds of bird species in its lush habitats."
+    },
+    {
+      "name": "Hippos",
+      "note": "Visitors can enjoy watching hippos at the renowned Manyara hippo pool, active from dawn till dusk."
+    },
+    {
+      "name": "Crocodiles",
+      "note": "Often seen along the water’s edge, adding an element of excitement to the lake shores."
+    }
+  ],
+  "noteworthy": [
+    {
+      "name": "Varied Landscapes",
+      "note": "From its alkaline lake to dense rainforest and expansive woodlands, the park boasts a variety of environments that support a diverse range of wildlife."
+    },
+    {
+      "name": "Birdlife Haven",
+      "note": "Known for its incredible birdwatching opportunities, the park is home to flocks of flamingos, pelicans, and many other species."
+    },
+    {
+      "name": "Forest Canopy",
+      "note": "The forested areas are lush with tall trees and provide a canopy that shelters an array of wildlife, including the park's famous tree-climbing lions."
+    },
+    {
+      "name": "Great Rift Valley",
+      "note": "The park's location along the 400-meter-deep rift valley offers breathtaking vistas and geological interest."
+    },
+    {
+      "name": "Manyara Hippo Pool",
+      "note": "This spot is especially popular as it allows for close-up views of hippos in their natural setting."
+    }
+  ],
+  "travel_times": [
+    "Arusha to Lake Manyara: 2 hours’ drive.",
+    "Ngorongoro to Lake Manyara: 1.5 hours’ drive.",
+    "Serengeti to Lake Manyara : 3,5 hours’ drive.",
+    "Tarangire to Lake Manyara: 2hour 50mins drive."
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_e9b7940ae324472a9cb3ba7e683293f1~mv2.png",
+      "alt": "Hippo's bathing in the lakes of Lake Manyara National Park, pictures a yawning hippo surround by others and many bird species"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_5e6ebcd09fd74a1a9e35244decd1744e~mv2.jpg",
+      "alt": "A Tower of Giraffe"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_d993d2c17ce74ecaa98d54d19a431090~mv2.jpg",
+      "alt": "Male Lion on Night Time Game Drive"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_81f4805b767c4f5cb66e74c9f483e108~mv2.jpg",
+      "alt": "Elephants Bathing"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_16d55d0420b74c20a3df7294cfc67c63~mv2.png",
+      "alt": "Serval spotted on a night time game drive, lit up by our truck light looking straight at the camera in the long grasses"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1d703aa0458843bcb4010e4ac6fab61e~mv2.png",
+      "alt": "note pad"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/lake-manyara"
+}

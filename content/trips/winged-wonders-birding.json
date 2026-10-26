@@ -1,0 +1,175 @@
+{
+  "id": "winged-wonders-birding",
+  "status": "published",
+  "title": "Winged Wonders: 7 Days Tanzanian Birdwatching",
+  "style": "special-interest",
+  "summary": "Embark on a 7-day birdwatching adventure across Tanzania's vibrant ecosystems. From Arusha's lush landscapes to the vast Serengeti, discover a rich tapestry of avian life, perfect for both novice birders and seasoned ornithologists seeking the ultimate birding expedition.",
+  "description": "Welcome to an extraordinary seven-day birdwatching safari through the heart of Tanzania, a journey that promises to captivate the senses and enrich your soul. From the lush, verdant landscapes of Arusha National Park to the shimmering waters of Lake Manyara and the surreal salt flats of Lake Natron, each destination offers a unique tapestry of vibrant avian life. Marvel at the boundless beauty of the Serengeti, where vast plains teem with wildlife, and descend into the Ngorongoro Crater, a breathtaking amphitheater that cradles one of the world's richest ecosystems. This trip is a haven for birdwatchers and wildlife enthusiasts alike, promising unrivaled encounters with Tanzania's diverse and magnificent fauna amidst its most iconic landscapes. So, grab your binoculars, ready your camera, and embark on this unforgettable adventure into the wild.",
+  "duration_days": 7,
+  "best_time": {
+    "text": "Nov- Apr",
+    "months": [
+      "nov",
+      "dec",
+      "jan",
+      "feb",
+      "mar",
+      "apr"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Lake Manyara",
+    "Lake Natron",
+    "Serengeti",
+    "Ngorongoro Crater"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 2800,
+    "basis": "price based on 6 people sharing",
+    "tiers": [
+      {
+        "group_size": "6+",
+        "usd_per_person": 2800
+      },
+      {
+        "group_size": "4",
+        "usd_per_person": 3099
+      },
+      {
+        "group_size": "2",
+        "usd_per_person": 3699
+      }
+    ],
+    "note": "Prices can vary between seasons",
+    "confirmed": true,
+    "conflicting_prices_on_old_site": null
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Your adventure begins the moment you land at the airport, where you'll be greeted with a warm smile by your Mazingira Safari private guide, a seasoned expert in all things Tanzania—from the breathtaking national parks to its rich cultural tapestry. You'll then be whisked away to your charming Arusha accommodation. If you arrive early, you'll have the opportunity to explore the lodge's surroundings, immersing yourself in the tranquility of a nature walk or embarking on your first birdwatching excursion. Let the diverse melodies of local birdlife welcome you as you savor the anticipation of the days to come.",
+      "meal_plan": "Bed & Breakfast, Dinner",
+      "accommodation": "Ngaresero Mountain Lodge",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit."
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Arusha National Park",
+      "description": "Following an early breakfast, embark on a scenic drive to the avian paradise of Arusha National Park, a sanctuary for bird enthusiasts year-round. Here, you'll experience a thrilling combination of game drives and guided walks, accompanied by an armed ranger. From November to April, the skies come alive as migratory birds flock to breed in this captivating landscape, traveling from as far as North Africa and Europe. The park, and especially the tranquil Momela Lakes, is a haven for over 400 bird species, offering unforgettable opportunities to spot waterfowl like little grebes, spur-winged geese, and the majestic secretary bird. Marvel at raptors like eagles and woodpeckers, while also encountering some of Africa's iconic wildlife, including elephants, buffalo, giraffes, and elusive wildebeests. Immerse yourself in the park's vibrant ecosystem, where every turn reveals another natural marvel.",
+      "accommodation": "Ngaresero Mountain Lodge",
+      "destination_note": "Arusha National Park The national park is inhabited by over 400 different migrant and resident bird species",
+      "meal_plan": "Dinner Bed & Breakfast"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Lake Manyara National Park",
+      "description": "AAfter breakfast, journey to the verdant landscapes of Lake Manyara National Park, a haven for birdwatchers. While the park offers exceptional bird photography and observation year-round, November to April is especially magical as it marks the arrival of migratory species from Europe and northern Africa. More than 400 bird species have been recorded here, and when water levels are ideal, thousands of flamingos blanket the lake in a mesmerizing pink hue, flocking to feed and breed. Spot distinctive species like the black heron, common little bee-eater, African grey hornbill, African fish eagle, and the striking yellow-billed stork. As you explore this ornithological paradise, you'll also encounter some of Tanzania's iconic wildlife, making it a day filled with wondrous discoveries both in the skies and on the ground.",
+      "accommodation": "Escarpement Luxury Lodge",
+      "destination_note": "Lake Manyara National Park Most of the birds are residents or natives. Although this is the whole year of birding destinations",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Lake Natron",
+      "description": "Begin your day with a hearty breakfast before heading to Lake Natron, a thrilling destination for adventurers and a sanctuary for flamingos. While many creatures find the lake's saline environment inhospitable, the flamingos flourish here, feeding on its abundant algae. In September and October, thousands of these elegant birds gather to breed, creating a breathtaking spectacle. Alongside the flamingos, you'll also witness an array of fascinating bird species, including marabou storks, ostriches, kori bustards, secretary birds, and vultures. Prepare to be amazed by this avian haven, where nature’s raw beauty and resilience are on full display.",
+      "accommodation": "African Safari Lake Natron",
+      "destination_note": "Lake Natron A salt or alkaline lake located in north Ngorongoro District of Arusha Region in Tanzania at the border with Kenya",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Serengeti National Park",
+      "description": "After breakfast, set out on a game drive to Serengeti National Park, where the boundless plains and teeming wildlife offer an unrivaled experience. The park's diverse landscape, from woodlands to riverine forests and grasslands, provides exceptional birdwatching opportunities. With over 500 recorded species, the Serengeti is a birdwatcher's paradise. Spot the iconic kori bustard, African fish eagle, and ostrich, among many others. Even non-birders will find delight in the vibrant avian life here. Accompanied by your expert guide, you'll also have the chance to witness the legendary Big Five, along with cheetahs, zebras, wildebeest, gazelles, and countless other creatures that make the Serengeti a wildlife wonderland.",
+      "accommodation": "Serengeti Katikati Camp",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Serengeti National Park",
+      "description": "Spend another thrilling day in Serengeti National Park, chasing the elusive \"Serengeti Specials\"—birds endemic to this region and found nowhere else in the world. Among these rare species are the grey-throated spurfowl, Schalow's wheatear, red-throated tit, rufous-tailed weaver, grey-crested helmet shrike, and Schalow's turaco. You might also spot the secretary bird, African fish eagle, Fischer's lovebird, and numerous vulture species. Keep an eye out for the lilac-breasted roller, its vibrant plumage lighting up the trees alongside the road. After a day of unparalleled birdwatching, continue to the Ngorongoro Highlands for an overnight stay, ready for the next chapter of your journey.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Ang'ata Ngorongoro Camp",
+      "destination_note": "Serengeti National Park Birding in Serengeti National Park is one of the major activities that most travelers enjoy while on their safari on the endless plains."
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "BeRise early for breakfast before setting off on a journey through the Great Rift Valley's crater forests to reach the magnificent Ngorongoro Crater. As one of Africa’s Seven Natural Wonders and the continent's most visited destination, the crater is home to the densest concentration of wildlife in Africa, including elephants, lions, buffaloes, hippos, and the elusive black rhino. While the crater hosts the iconic Big Five, it's also a paradise for bird enthusiasts, boasting over 500 species. From a distance, admire flocks of pink flamingos gracing Lake Magadi, while ducks, herons, storks, and waders can be spotted up close. The grasslands reveal ostriches, kori bustards, grey crowned cranes, secretary birds, and rosy-throated longclaws, while the forests harbor Schalow's turaco, white-eyed slaty flycatchers, and an array of sunbirds. After this final day of exploration, return to Arusha for a transfer to the airport, concluding your unforgettable safari",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.\n\nNo Accommodation flight home.",
+      "meal_plan": "Breakfast",
+      "accommodation": null
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari",
+    "Game drives",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides"
+  ],
+  "add_ons": [],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1734d799fe9545218a7980feb327ef51~mv2.jpg",
+      "alt": "Winged wonders one of many bird species in Tanzania"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Mazingira Safari Winged Wonders Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_2f77448595ba43b697ed56efbf29165f~mv2.jpg",
+      "alt": "Bird watching safari map of route in Tanzania"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1206f291077b4ba08540c9935d72c940~mv2.jpg",
+      "alt": "Ngaresero Mountain Lodge Arusha, the stable style main building, surrounded by lush green landscapes and a Kilimanjaro view"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "A view from a balcony or Arusha city, with a back drop of the famous Kilimanjaro and bright blue skies"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_0b3a5d3b353f4137a7bcf9ecd0d45588~mv2.png",
+      "alt": "A sighting of a hornbill, a tropical bird found in Africa, perched on a tree in the Arusha National Park, Tanzania."
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_3ed794210aeb47ee83764ed0c1906b3c~mv2.jpg",
+      "alt": "A Double room at the Escarpment Lodge, Lake Manyara, this beautiful designed room showcases a balcony overlooking Lake Manyara, with a beautiful roll top bath"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/winged-wonders-package"
+}

@@ -34,6 +34,8 @@ Stages 0–5 can run automatically. Stage 6 is the **review gate**: a person (yo
 | 10 | Uncompressed body sizes (about 50 MB) looked alarming. Compressed transfer was about 4 MB. | Report the compressed transfer size from `PerformanceResourceTiming.transferSize`. Label measurements as taken from the server, not real-user data. |
 | 11 | Third-party content (TripAdvisor and SafariBookings reviews, lodge sites) holds a lot of the trust signals. | Also capture the client's **review profiles** (rating, count, recent reviews), with permission. |
 | 12 | A trust issue (published bank details under a different company name) only came to light by connecting the T&Cs page with an outside review. | Include a **sensitive information scan** (bank details, personal phone numbers, internal documents) and list the results in the questions for the client, rather than publishing them widely. |
+| 14 | Clicking through itinerary tabs in a browser stayed unreliable after three attempts. Then we found that **Wix publishes every page's full content as JSON** on the client's own domain (`/sites/<pageJsonFileName>.json.z`; the file names are listed in each page's HTML). That gave every itinerary day, plus team bios hidden in pop-ups, with no clicking at all. | **Check for builder data first, before scraping the rendered page.** Wix: page JSON. WordPress: the REST API (`/wp-json/wp/v2/pages`). Squarespace: `?format=json`. Shopify: `/products.json`. Use the rendered capture only for layout, images and screenshots. `tools/wix_page_text.py` is the Wix version. |
+| 15 | Building the content model surfaced more errors than the audit did: day headings that don't match their tabs, places an itinerary visits but the trip doesn't list, a duplicated Day 7 title. | Keep consistency checks in the **builder** (`flag()`), and write them to a `needs-client.md` checklist. Every check found real issues here. |
 | 13 | About 57 pages took about 10 minutes with 4 parallel browser tabs. | Fine at this scale. Cap concurrency and throttle requests so the client's site isn't overloaded, and respect `robots.txt` crawl delays. |
 
 ## Reusable outputs from this run
@@ -44,6 +46,7 @@ Stages 0–5 can run automatically. Stage 6 is the **review gate**: a person (yo
 - The `content/*.json` structure is the first version of a **client content schema** (trips, business, team, FAQs, reviews, blog, pages) that the build stage can consume.
 
 ## To build next (for the skill)
+0. Platform data extractors (lesson 14). Wix is done (`tools/wix_page_text.py`, `tools/build_content.py`).
 1. The preflight script and per-platform allowlists (lessons 1–5)
 2. The consistency checker (lesson 8)
 3. A desktop vs mobile comparison (lesson 7)

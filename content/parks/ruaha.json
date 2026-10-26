@@ -1,0 +1,106 @@
+{
+  "id": "ruaha",
+  "title": "Ruaha National Park",
+  "old_title": "Ruaha National Park",
+  "summary": null,
+  "body": "Explore the unique Ruaha Park\nRuaha National Park is celebrated as a premier wildlife sanctuary in Africa. Known for its rich biodiversity and large populations of elephants, Ruaha offers an unparalleled opportunity for close encounters with nature. Unlike the vast Serengeti, Ruaha boasts rugged landscapes and a more remote, less-traveled experience, making it a favorite for those seeking solitude and pristine wilderness. Spanning over 20,000 square kilometers (approximately 7,700 square miles), it is Tanzania's largest national park, providing a sanctuary for a diverse array of wildlife. Visitors can explore the park through our various safari packages and experience the untouched beauty of Ruaha for themselves.\n\nDiscover More in Ruaha National Park\nIn Ruaha National Park, you can discover a world where the wild thrives in its most undisturbed form. This expansive park, marked by rugged landscapes and the winding Great Ruaha River, serves as a refuge for some of Africa’s most iconic wildlife. Roaming its vast terrain, you’ll find one of the largest populations of elephants in East Africa, alongside a variety of predators including lions, leopards, and elusive cheetahs. The park’s birdlife is particularly rich, with over 570 recorded species, making it a paradise for birdwatchers. As you traverse through diverse habitats ranging from savannah to riverine forests, you're also likely to encounter majestic baobab trees, each with its own centuries-old story.\nExperience the wonders in Ruaha National Park\nThe experience of visiting Ruaha National Park is unlike any other, offering activities that cater to both adventure seekers and those looking to immerse themselves in nature’s quiet. Guided walking safaris are a highlight, allowing you to experience the African bush from the ground, guided by expert rangers who can provide insights into the subtle ecosystems and animal behaviors. For a different perspective, embark on a game drive which can be customized for morning, afternoon, or full-day excursions, maximizing your chances of witnessing a variety of wildlife interactions. Additionally, Ruaha’s relative remoteness ensures that visitors can enjoy these experiences without the crowds found in more frequented parks, providing a more intimate connection with the natural world.",
+  "facts_intro": "Ruaha National Park is renowned as one of the best places in Africa to experience the wilderness in its raw form, highlighted by its significant elephant population and diverse ecosystems.",
+  "wildlife": [
+    {
+      "name": "Elephants",
+      "note": "Home to one of the largest populations of elephants in East Africa."
+    },
+    {
+      "name": "Lions",
+      "note": "Famed for their large prides and dominance in the park."
+    },
+    {
+      "name": "Leopards",
+      "note": "Skilled predators that are both elusive and mesmerizing."
+    },
+    {
+      "name": "Cheetahs",
+      "note": "Known for their incredible speed and hunting prowess."
+    },
+    {
+      "name": "Kudus",
+      "note": "Notable for their majestic horns and elegance."
+    },
+    {
+      "name": "Giraffes",
+      "note": "Towering figures that gracefully navigate the park’s landscapes."
+    },
+    {
+      "name": "Wild Dogs",
+      "note": "Rare and thrilling sightings of these highly social and effective hunters."
+    },
+    {
+      "name": "Crocodiles and Hippos",
+      "note": "Commonly found along the Great Ruaha River, providing spectacular sightings."
+    }
+  ],
+  "noteworthy": [
+    {
+      "name": "Rugged Terrain",
+      "note": "The park is characterised by its raw, semi-arid bush country, interspersed with baobab trees and the Great Ruaha River."
+    },
+    {
+      "name": "Birdwatching Paradise",
+      "note": "With over 570 bird species, it's a haven for bird enthusiasts."
+    },
+    {
+      "name": "Baobab and Acacia Trees",
+      "note": "These iconic trees dot the landscape, providing food and shelter to a multitude of species."
+    },
+    {
+      "name": "Seasonal Rivers and Waterholes",
+      "note": "These are focal points for wildlife, especially during the dry season when animals gather in large numbers."
+    },
+    {
+      "name": "Remote Wilderness",
+      "note": "Offers a more secluded safari experience compared to more frequented parks, allowing for intimate wildlife encounters."
+    },
+    {
+      "name": "Mwagusi Sand River",
+      "note": "An ephemeral river providing dramatic wildlife viewing opportunities as animals congregate around this crucial water."
+    }
+  ],
+  "travel_times": [
+    "Dar es Salaam to Ruaha: Approximately 10 hours' drive.",
+    "Dodoma to Ruaha: About 6 hours' drive.",
+    "Iringa to Ruaha: Roughly 2 hours' drive.",
+    "Mbeya to Ruaha: Around 8 hours’ drive.",
+    "Flight from Dar es Salaam to Ruaha: 1.5 hours (cost varies, typically around €300 per person, one way)."
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_e4ed2541b32c429483efa7c29ffb079f~mv2.jpg",
+      "alt": "A young male lion relaxing in the bushes in Ruaha National Park, the Lion is looking directly at our camera with big open eyes"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_bdd88d1c74c241e7a4b3faae88e61994~mv2.png",
+      "alt": "Young Lions"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ed6c561f6e6442d69bf7e4d746da8f31~mv2.png",
+      "alt": "Elephant"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_06b8daf181474c76af1f099631b310e0~mv2.png",
+      "alt": "Large Male Buffalo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1d703aa0458843bcb4010e4ac6fab61e~mv2.png",
+      "alt": "note pad"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/ruaha-national-park"
+}

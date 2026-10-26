@@ -1,0 +1,165 @@
+{
+  "id": "family-wilderness-adventure",
+  "status": "published",
+  "title": "Family Wilderness Adventure 7-Day Safari",
+  "style": "family",
+  "summary": "Embark on a 7-day family safari in Tanzania, exploring Arusha's lush landscapes, the iconic Serengeti, and tranquil Tarangire National Park. Tailored for families, this journey offers thrilling wildlife encounters, cultural experiences, and unforgettable adventures suitable for all ages.",
+  "description": "Embark on an unforgettable seven-day family safari through Tanzania, crafted to captivate adventurers of all ages. From the towering baobabs of Tarangire to the shimmering waters of Lake Manyara, the journey weaves through Tanzania's most enchanting landscapes, creating memories that will last a lifetime. Witness the boundless plains of the Serengeti, teeming with incredible wildlife, and marvel at the Ngorongoro Crater, a natural wonder and cradle of diversity. This expertly curated itinerary ensures thrilling wildlife encounters, enriching cultural experiences, and the perfect blend of adventure and relaxation for the whole family. Whether you're watching elephants stroll by at sunset or spotting the Big Five with wide-eyed excitement, this safari promises a magical journey into Africa’s natural splendor.",
+  "duration_days": 7,
+  "best_time": {
+    "text": "Jun- Aug",
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Tarangire",
+    "Lake manyara",
+    "Serengeti",
+    "Ngorongoro Crater"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 3300,
+    "basis": "prices based on 6 people sharing",
+    "tiers": [
+      {
+        "group_size": "6+",
+        "usd_per_person": 3300
+      },
+      {
+        "group_size": "4",
+        "usd_per_person": 3500
+      },
+      {
+        "group_size": "3",
+        "usd_per_person": 3800
+      }
+    ],
+    "note": "Prices can vary between seasons",
+    "confirmed": true,
+    "conflicting_prices_on_old_site": null
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Your adventure begins at the airport, where you'll be greeted with a warm smile by your Mazingira Safari private guide. An expert on all things Tanzania, he will lead you to your first lodge in Arusha, setting the tone for your family-friendly safari. Spend the day relaxing and soaking in the atmosphere, as you anticipate the thrilling days ahead. If you arrive early and want to jump right into the excitement, consider one of the optional activities available in Arusha for an extra fee:\n- Explore the vibrant city on a guided tour\n- Saddle up for an exhilarating horse ride\n- Stretch into relaxation with yoga classes\n- Immerse yourself in local culture with a cultural tour\n- Canoe or hike around serene Lake Duluti\n- Indulge in a flavorful coffee tour\n- Set out on a day trip to Arusha National Park\nNo matter your choice, the journey begins here, promising unforgettable experiences for your entire family.",
+      "meal_plan": "Bed & Breakfast",
+      "accommodation": "5* Gran Meliá Arusha",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit."
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Tarangire National Park",
+      "description": "After a delightful breakfast, your safari guide will pick you up around 8:00 a.m. and whisk you away to Tarangire National Park, a two-hour drive from Arusha. Named after the Tarangire River that winds through it, this lush sanctuary becomes the region's sole water source during the dry season. Amid dense vegetation and towering baobabs, you'll find massive herds of elephants—sometimes up to 300—gathered near the riverbanks, drinking or wallowing in cooling mud baths.\nTarangire's vast landscape is a haven for wildlife enthusiasts, offering glimpses of graceful giraffes, hippos, baboons, and big cats. Unique to the park are its tree-climbing lions and elusive rock pythons, adding extra layers of intrigue to this picturesque wilderness. As you explore its grasslands, swamps, and floodplains, marvel at the park's spectacular diversity and the magical moments unfolding before your eyes.",
+      "meal_plan": "Breakfast, lunch, Dinner",
+      "accommodation": "Lake Manyara Serena Lodge",
+      "destination_note": "Tarangire National Park Famous for its large elephant herds"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Lake Manyara & Maasai Boma Visit",
+      "description": "After breakfast, embark on an early journey across the Great Rift Valley to Lake Manyara National Park. Though compact at 205 square miles, this park offers an array of stunning landscapes. Marvel at the lush acacia forests, giant fig trees, and mahogany canopies that shelter playful baboons and blue monkeys. As you explore, you'll encounter giraffes, elephants, impalas, and herds of buffaloes, while the lake itself is home to large numbers of hippos.\nThe game drives offer incredible photo opportunities, capturing giraffes and buffaloes set against the shimmering lake. After lunch, immerse yourself in the vibrant Maasai culture with a visit to a traditional Maasai boma. Learn about their marriage customs, culinary practices, and familial roles, and gain insights into their traditional medicine and fire-making techniques. End the visit with a lively Maasai dance before retiring to your lodge for a relaxed evening, dinner, and overnight stay.",
+      "accommodation": "Lake Manyara Serena Lodge",
+      "destination_note": "Lake Manyara National Park well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        4,
+        5
+      ],
+      "title": "Serengeti National Park with Optional Balloon Safari",
+      "description": "Embark on an unforgettable journey to Serengeti National Park, where the \"endless plains\" (Siringet in Maasai) stretch before you, teeming with unparalleled wildlife. Over these two days, explore the central Serengeti, where year-round game viewing reveals a diverse tapestry of animals. Elephant, giraffe, impala, waterbuck, hippo, reedbuck, buffalo, and baboon are permanent residents of these lands, even after the great herds of wildebeest and zebra have moved on.\nAfter exhilarating game drives, return to your lodge for dinner and overnight relaxation, reflecting on the day's thrilling encounters. For a unique perspective, consider adding a balloon safari to your adventure, soaring above the plains at sunrise and witnessing herds of wildlife from the skies. This awe-inspiring experience will offer a fresh and mesmerising view of the Serengeti’s vast beauty.",
+      "accommodation": "Serengeti Serena Safari Lodge",
+      "destination_note": "Serengeti National Park Famous for being the location of the Great Wildlife Migration Optional ExtraBalloon Safari",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Serengeti - Ngorongoro Conservancy",
+      "description": "Start your day with a hearty breakfast at your lodge before setting out for another exciting game drive in Serengeti National Park. Your experienced safari guide will carefully select the prime spots for wildlife viewing, ensuring the best sightings. Spend time by the hippo pool, where these mighty creatures laze contentedly in the cool water, often sharing their space with crocodiles.\nAfter soaking in the unique sights and sounds of this vibrant ecosystem, make your way to the Ngorongoro Conservation Area for an overnight stay. Here, you'll rest amid breathtaking landscapes, eager for more thrilling encounters with nature's wonders on your final day.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Ngorongoro Serena Safari Lodge",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife Spot the hippo's in the cool pools of the Seregenti"
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "Rise early for breakfast, then settle into your private safari vehicle for a scenic journey through the Great Rift Valley and crater forest, culminating at the breathtaking Ngorongoro Crater. As one of Africa's Seven Natural Wonders and its most-visited destination, the crater is home to an unmatched concentration of wildlife, including elephants, lions, buffaloes, hippos, and the elusive black rhino. Beyond game viewing, Ngorongoro offers fascinating cultural and historical experiences, from traditional Maasai villages to the ancient Laetoli footprints, the oldest known traces of early humans dating back 3.5 million years.\nAfter a day filled with incredible wildlife sightings and historical exploration, return to Arusha for your airport transfer, heading back home or onward to Zanzibar for a well-deserved tropical extension.",
+      "accommodation": "No Accommodation Last Day",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
+      "meal_plan": "Breakfast Lunch"
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari;s",
+    "Maasai Boma visit (Complimentary)",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides"
+  ],
+  "add_ons": [
+    "maasai-village"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_149d2e5ca3834f06bde02813d4d54c8c~mv2.png",
+      "alt": "Two adult lionesses and four lion cubs walking together on a dirt road in Serengeti National Park, Tanzania. The lionesses lead the way while the cubs follow closely, all moving in the same direction. The road is flanked by green grass, indicating a lush environmen"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Mazingira Family Safari Package"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_21720c3d381b4d8699b34c25f1aa227e~mv2.jpg",
+      "alt": "A map of Tanzania highlighting key locations for a family safari. Marked areas include Serengeti National Park, Ngorongoro Crater, Lake Manyara, Tarangire National Park, Arusha, Mount Kilimanjaro, and the cities of Dodoma and Dar es Salaam. The map also shows the general locations of Lake Eyasi, Lake Natron, and other national parks like Mkomazi and Saadani."
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_008c4d5ae011492f972e3449747d9b78~mv2.jpg",
+      "alt": "The exterior of Gran Meliá Arusha hotel, featuring a lush garden with tall palm trees and an outdoor swimming pool. The pool area has several red lounge chairs and is surrounded by greenery. The modern hotel building stands in the background with large windows and balconies"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "A panoramic view of Arusha city, Tanzania, with a mix of modern buildings and smaller structures. In the background, the imposing Mount Meru rises under a partly cloudy sky. The city is bustling with activity, showcasing a vibrant urban landscape surrounded by natural beauty"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_c478d54ea1a34cce8becdf3e535c3704~mv2.png",
+      "alt": "The swimming pool area at Lake Manyara Serena Lodge, Tanzania, featuring a clear blue pool surrounded by lush greenery and tall trees. There are several lounge chairs with green and orange cushions around the pool. A thatched-roof structure is visible to the left, and steps lead up to additional lodge buildings nestled in the foliage."
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_03be9bc36b4b40b8acc53784cc8b24e3~mv2.jpg",
+      "alt": "A herd of elephants, including adults and juveniles, gathered near a waterhole in Tarangire National Park, Tanzania. The elephants are seen drinking water and interacting with each other. The background features dry terrain, trees, and additional elephants further away, highlighting the park's natural habitat"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/family-safari-package"
+}

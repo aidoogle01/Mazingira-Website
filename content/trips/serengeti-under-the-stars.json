@@ -1,0 +1,169 @@
+{
+  "id": "serengeti-under-the-stars",
+  "status": "published",
+  "title": "Serengeti Under The Stars",
+  "style": "camping",
+  "summary": "This itinerary provides an immersive connection with nature. Lower budget camping offers a sustainable and authentic way to experience the wilderness, making safaris more accessible while fostering a deeper appreciation for wildlife conservation.",
+  "description": "\"Serengeti Under the Stars\" safari, starting in Arusha and spanning the vast Serengeti, Ngorongoro Crater, and Lake Manyara. This journey offers a unique way to connect with nature—camping directly under the African sky, surrounded by the sounds of the wilderness each night. Our budget-friendly camping excursions provide an authentic and sustainable safari experience, making the majestic landscapes and rich wildlife of Tanzania accessible and memorable. Dive deep into the heart of the savannah, where every starlit night is an adventure and every dawn brings new wonders.",
+  "duration_days": 7,
+  "best_time": {
+    "text": "Jun- Sept",
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Serengeti",
+    "Ngorongoro Crater",
+    "Ndutu",
+    "Lake Manyara"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 2199,
+    "basis": "## * price based on 6 adults sharing",
+    "tiers": [
+      {
+        "group_size": "6+",
+        "usd_per_person": 2199
+      },
+      {
+        "group_size": "4",
+        "usd_per_person": 2490
+      },
+      {
+        "group_size": "2",
+        "usd_per_person": 2999
+      }
+    ],
+    "note": "Prices can vary between seasons",
+    "confirmed": false,
+    "conflicting_prices_on_old_site": {
+      "home_card_mobile": 2800
+    }
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Upon your arrival at the airport, you will be warmly welcomed by our representative and an experienced driver-guide, who will escort you to your accommodation in Arusha. This first day is designed for relaxation and acclimation, preparing you for the thrilling adventure ahead. If the weather is favorable, you'll be greeted by stunning views of Mount Meru and the majestic, often cloud-shrouded Mount Kilimanjaro.\nWhile settling in, consider enhancing your stay with optional activities available in Arusha. Explore the serene Lake Duluti by canoe, discover local culture and sites on a city tour, unwind with a yoga class, delve into the aromatic world of a coffee tour, embark on scenic walking tours, or experience the landscape on horseback. Please note that an additional charge applies for these activities",
+      "accommodation": "Mama Wilsen House",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit.",
+      "meal_plan": "Bed & Breakfast"
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Tarangire National Park",
+      "description": "After breakfast, your personal driver-guide will collect you from your lodge in Arusha and you'll embark on the journey to Tarangire National Park. As you travel across the scenic Maasai plains, dotted with acacia trees, you’ll witness Maasai tribespeople walking along the roadside, riding bicycles, driving donkeys, and herding cattle—a vibrant glimpse into their daily lives.\nKnown as the \"elephant playground,\" Tarangire is famous for its large herds of elephants. From the comfort of your open-roof safari vehicle, prepare to be amazed by the diverse wildlife this park offers, including lions, zebras, warthogs, wildebeests, and buffaloes. Keep an eye on the trees where you might spot lions on the hunt or leopards lounging in the branches above.\nDuring the dry season, the park becomes a bustling hub of activity as animals and birds gather around the Tarangire River, the park’s permanent water source, making it an excellent time for wildlife viewing.",
+      "accommodation": "Figs Camping Site The camping area is situated in a nice garden with a swimming pool, where you can cool down after a wonderful safari.There are separate toilets and showers for the campers. The lodge also provides an outdoor kitchen.",
+      "destination_note": "Tarangire National Park Famous for its large elephant herds",
+      "meal_plan": "Breakfast, lunch, Dinner"
+    },
+    {
+      "days": [
+        3,
+        4
+      ],
+      "title": "Serengeti National Park",
+      "description": "The next two days are fully devoted to exploring the vast expanse of Serengeti National Park, a name derived from the Maasai word \"Siringet,\" meaning \"the endless plain.\" These days in the Serengeti promise unparalleled wildlife viewing opportunities, especially in the Central Serengeti, which is a hotbed for animal activity throughout the year.\nIn this heart of the Serengeti, you'll encounter a wide array of wildlife including elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffaloes, and baboons. These species thrive here year-round, well after the dramatic migration of blue wildebeest and zebras has passed through. The Serengeti is particularly famous for its high concentration of lions and leopards, making it a premier destination for big cat enthusiasts\n.\nKeep an eye out for the iconic Serengeti “Kopjes” – these striking granite boulders stand out against the grassy plains and serve as essential shelters for diverse flora and fauna. Each day, after immersing yourself in game drives and experiencing the wild beauty of the Serengeti, you will return to your camp to relax, dine, and rest under the stars, gearing up for another day of adventure in one of Africa’s most spectacular settings.",
+      "accommodation": "Nyani Campsite One of the most frequented public campsites in the Seronera area, located a few kilometres east of the tourist information centre. Although most of the campsites in the area are similar, it is one of few that are on level ground and well sheltered from winds, meaning less cold nights.",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Ndutu Southern Serengeti Plains",
+      "description": "Start your day with a hearty breakfast before embarking on a full-day game drive in the Ndutu area. This region is known for its diverse ecosystems, including swamps, woodlands, and savannahs. With some luck, you may witness vast herds of wildebeest, zebra, and antelope stretching across the horizon. The hauntingly beautiful sound of wildebeest mooing adds to the day's unique experience.\nFebruary is a particularly special time in Ndutu, as many wildebeest give birth in a synchronized birthing event. The sparse grass offers little cover, making the newborns vulnerable to predators such as cheetahs, lions, hyenas, and leopards. Remarkably, wildebeest calves are able to run within minutes of birth, and by three days old, they are usually strong enough to keep up with the herd, adding a dramatic element to your safari adventure.",
+      "accommodation": "Simba A Campsites Ngorongoro",
+      "destination_note": "Southern Plains Serengeti National Park is a World Heritage Site teeming with wildlife",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "After breakfast, set off towards the Ngorongoro Crater, a UNESCO World Heritage site and one of the most spectacular natural wonders in the world. Formed millions of years ago, the crater is home to over 25,000 animals, making it a high-density game viewing location.\nAs you explore the crater floor, you'll have the opportunity to see almost every species of East African savannah animal. The vast grasslands and acacia forests provide the perfect backdrop for spotting the \"Big Five\" (rhino, elephant, buffalo, lion, and leopard). Other residents include wildebeest, zebras, gazelles, and over 500 bird species. Keep an eye out for the endangered black rhino, a rare sight that may grace your visit if you’re fortunate.",
+      "accommodation": "Figs Camping Site",
+      "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        7
+      ],
+      "title": "Lake Manyara National Park",
+      "description": "At 8:30 AM, depart from your accommodation and head to Lake Manyara National Park, bringing along a picnic lunch for a full day of exploration. As you enter the park, you're welcomed by lush forests of Acacia and Mahogany trees, setting the scene for the day's adventure.\nSpend the day immersed in a game drive that continues into the evening, breaking only for your picnic lunch. Keep an eye out for buffaloes, giraffes, impalas, baboons, and blue monkeys. One of Lake Manyara's highlights is its tree-climbing lions, although spotting them requires a bit of luck. In the right season, the lake's shoreline may turn pink with millions of flamingos—a breathtaking sight.\nThe day concludes with a drive back to Arusha, marking the end of your enriching 7-day safari experience with Mazingira Safari.",
+      "accommodation": "No Accommodation End of Safari Tour",
+      "destination_note": "Lake Manyara National Park, well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Ngorongoro Crater Fee, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides",
+    "Balloon Safari / Maasai Village Visit"
+  ],
+  "add_ons": [
+    "balloon-safari",
+    "maasai-village"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_899ce4093c854f90a599e92bc811b728~mv2.jpg",
+      "alt": "Scenic view of a camp in the Serengeti at sunset, with acacia trees silhouetted against a colorful sky. Experience the beauty and tranquility of Tanzania's Serengeti National Park with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_094ac7448b9a4eab8bc6f845c8c19c49~mv2.jpg",
+      "alt": "Map of Tanzania highlighting the 'Serengeti Under the Stars' safari route, featuring key destinations such as Serengeti, Ngorongoro, Lake Manyara, and Mount Kilimanjaro. Explore Tanzania's iconic wildlife and landscapes with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_e177c1fd807f44b3a2da693b8ab5b430~mv2.png",
+      "alt": "Exterior view of Mama Wilsen's House accommodation in Tanzania, featuring a cozy patio with outdoor seating and umbrella. Enjoy comfortable and homely stays with Mazingira Safari."
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "Arusha City View from balcony, you can see the city with a backdrop of Kilimanjaro and lovely blue skies"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_03be9bc36b4b40b8acc53784cc8b24e3~mv2.jpg",
+      "alt": "A herd of elephants a large family including babies, heading to the watering hole in the dry season on Tarangire National Park Tanzania"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_80490421eab74890bbecdb2188e789a4~mv2.png",
+      "alt": "Colorful tents set up at Figs Camping Site in Tanzania, surrounded by lush greenery and trees. Enjoy an adventurous and nature-filled stay with Mazingira Safari."
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/serengeti-under-the-stars"
+}

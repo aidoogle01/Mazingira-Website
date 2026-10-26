@@ -1,0 +1,193 @@
+{
+  "id": "savannah-to-shore",
+  "status": "published",
+  "title": "Luxury Savannah to Shore 9 Day Adventure",
+  "style": "safari-and-beach",
+  "summary": "From Savannah to Shore : A 9-Day Tanzanian safari and Zanzibar Retreat. Enjoy a wonderful safari adventure, visiting the breathtaking Serengeti, Ngorongoro Crater and Tarangire National Park. Then sit back and unwind on the luxury beaches of Zanzibar, with golden sands and crystal blue waters.",
+  "description": "Embark on an unforgettable nine-day journey from the expansive savannahs of Tanzania to the pristine shores of Zanzibar. This 'Savannah to Shore Safari' offers a comprehensive exploration of some of Tanzania's most iconic landscapes, including the wildlife-rich Tarangire, the vast Serengeti plains, and the majestic Ngorongoro Crater. Experience the thrill of game drives in search of the Big Five and witness breathtaking natural wonders along the way. After your adventurous safari, unwind on the idyllic beaches of Zanzibar, where white sands and turquoise waters provide a serene finale to your all-encompassing safari and beach escape. This trip promises the perfect blend of adventure and relaxation, making it an ideal choice for those looking to immerse themselves in Africa’s raw beauty and tranquil beach life.",
+  "duration_days": 9,
+  "best_time": {
+    "text": "Jun- Sept",
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ]
+  },
+  "locations": [
+    "Arusha",
+    "Tarangire",
+    "Serengeti",
+    "Ngorongoro Crater",
+    "Zanzibar"
+  ],
+  "start": "Flight into Kilimanjaro",
+  "price": {
+    "currency": "USD",
+    "per": "person",
+    "from": 5699,
+    "basis": "price based on 6 people sharing",
+    "tiers": [
+      {
+        "group_size": "6+",
+        "usd_per_person": 5699
+      },
+      {
+        "group_size": "4",
+        "usd_per_person": 5849
+      },
+      {
+        "group_size": "2",
+        "usd_per_person": 6399
+      }
+    ],
+    "note": "Prices can vary between seasons",
+    "confirmed": false,
+    "conflicting_prices_on_old_site": {
+      "home_card": 5495
+    }
+  },
+  "itinerary": [
+    {
+      "days": [
+        1
+      ],
+      "title": "Arrival in Arusha",
+      "description": "Upon arrival after your long flight, you will be warmly greeted at the airport by our friendly representative alongside an experienced driver-guide. They will introduce you to the stunning landscapes and vibrant culture of Tanzania as they escort you to your accommodation in Arusha. Here, you can unwind and prepare for the exciting adventures ahead. If the weather is clear, your welcome will be made even more spectacular with breathtaking views of Mount Meru and the elusive Mount Kilimanjaro, often referred to as the \"shy girl\" due to its often cloud-covered peak. This serene start sets the tone for your thrilling nine-day journey from savannah to shore.",
+      "meal_plan": "Bed & Breakfast",
+      "accommodation": "Lake Duluti Lodge",
+      "destination_note": "Arusha is known as the safari capital of Tanzania's Northern Safari Circuit."
+    },
+    {
+      "days": [
+        2
+      ],
+      "title": "Tarangire National Park",
+      "description": "The adventure begins! After an early breakfast at your lodge, set off for Tarangire National Park, renowned for having one of the world's largest concentrations of elephants and a rich diversity of breeding bird species. As you enter the park, be captivated by the majestic and ancient baobab trees that dot the landscape. Named after the Tarangire River that flows through it, the park draws a myriad of animals to its waters. Today, you'll have the opportunity to observe vast herds of elephants, along with giraffes, lions, antelopes, and zebras. You may also spot wildebeest, gazelles, cheetahs, leopards, and the more elusive kudu, oryx, and gerenuk. After a fulfilling day of wildlife viewing, you will head to your next accommodation for a well-deserved rest.",
+      "accommodation": "Maramboi Tented Lodge",
+      "destination_note": "Tarangire National Park Famous for its large elephant herds",
+      "meal_plan": "Breakfast, lunch, Dinner"
+    },
+    {
+      "days": [
+        3
+      ],
+      "title": "Ngorongoro Crater",
+      "description": "After breakfast, continue your safari with a drive toward the Ngorongoro Crater, a natural wonder of the world. Formed about 2.5 million years ago, Ngorongoro is the result of a massive volcanic eruption that caused the collapse of a large volcano, creating the expansive and unbroken caldera we see today. This site is unique for its cohabitation of humans and wildlife, a phenomenon your experienced driver-guide will elaborate on during your visit.\nInside the crater, the abundant water supports a thriving population of over 25,000 large animals, including elephants, lions, leopards, hyenas, jackals, hippos, waterbucks, and baboons. With some luck, you may also catch a glimpse of the rare black rhino. After a day filled with exploration and incredible wildlife sightings, you will ascend from the crater and head to your next accommodation for the night.",
+      "accommodation": "Lions Paw Ngorongoro Camp",
+      "destination_note": "Ngorongoro Crater\nThe world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        4
+      ],
+      "title": "Serengeti National Park",
+      "description": "Rise early for breakfast at your accommodation before departing with a packed lunch for Serengeti National Park, renowned for its expansive, open grasslands that provide excellent wildlife viewing opportunities. The park's climate and vegetation have remained largely untouched for millions of years, creating a pristine environment for numerous species.\nSerengeti is celebrated not only for its diverse wildlife but also for the annual Great Migration. This spectacular event sees vast numbers of wildebeest, along with zebra and antelope, following a perennial journey in search of fresh pastures, dictated by the annual rainfall patterns.\nAfter a comprehensive game drive exploring this iconic park, you will proceed to your accommodation for dinner and an overnight stay, reflecting on the day's adventures under the African sky.",
+      "accommodation": "Kubu Kubu Tented Lodge",
+      "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        5
+      ],
+      "title": "Serengeti National Park",
+      "description": "An early morning game drive in Serengeti National Park is highly recommended today. For an extraordinary start, opt for a hot air balloon ride (additional charges apply). You'll be picked up from your lodge at 5:00 AM, with the balloon taking flight around 6:00 AM. From this unique vantage point, you'll witness the wildlife below as dawn breaks over the vast Serengeti. Upon landing, celebrate with a sumptuous breakfast accompanied by Champagne.\nFollowing this memorable experience, your driver will pick you up to continue exploring Central Serengeti. Known as the heart of the park, this area is teeming with wildlife and is particularly rich in the habitats of the Big Five: elephants, lions, buffaloes, leopards, and the elusive black rhinos. Bird enthusiasts will also be delighted with the opportunity to spot over 500 bird species, including vultures, owls, bustards, cranes, and the impressive secretary birds. Dedicate your day to immersing yourself in one of the world's most renowned wildlife sanctuaries.",
+      "accommodation": "Kubu Kubu Tented Lodge",
+      "destination_note": "Serengeti National Park Why not take the the sky in a balloon safari in the clouds.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        6
+      ],
+      "title": "Serengeti National Park - Fly to Zanzibar",
+      "description": "Start your day with breakfast at your lodge before embarking on a final game drive en route to the Seronera airstrip. From there, you'll catch a flight to the enchanting island of Zanzibar. Upon arrival at Zanzibar Airport, you will be transferred to your hotel. The remainder of the day is yours to enjoy at leisure. Relax on the pristine beaches, soak up the sun, and unwind by the serene waters of the Indian Ocean, marking a perfect transition from the adventurous savannahs to the soothing shores.",
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation": "Essque Zalu",
+      "destination_note": "Zanzibar is a tropical paradise off Tanzania's coast, known for its rich history, vibrant culture, pristine beaches, and lush spice plantations a perfect blend of relaxation and exploration."
+    },
+    {
+      "days": [
+        7,
+        8
+      ],
+      "title": "Zanzibar",
+      "description": "Spend two full days on the idyllic shores of Zanzibar, home to some of the world's most stunning beaches. Enjoy time relaxing, swimming, sunbathing, and beachcombing in this tropical paradise. Zanzibar is also a hub of vibrant activities, offering a rich tapestry of history in Stone Town, where diverse cultures blend seamlessly.\nExplore significant sites like the former slave market, the Anglican cathedral, and the House of Wonders. Delve into the island's famous spice farms to learn about and taste spices like cloves, cinnamon, nutmeg, and vanilla, discovering their culinary and medicinal uses. Engage in local market visits, savor exquisite seafood, or consider additional excursions such as a Prison Island tour, snorkeling at Mnemba Atoll, or a Safari Blue adventure (additional charges apply for excursions).",
+      "accommodation": "Essque Zalu",
+      "destination_note": "Zanzibar, Why not visit the historic Prison Island, a small island inhabited by giant tortoises.",
+      "meal_plan": "Breakfast Lunch and Dinner"
+    },
+    {
+      "days": [
+        9
+      ],
+      "title": "Zanzibar Departure Day",
+      "description": "Savor your final day in Zanzibar, renowned for its spectacular beaches. Relax, swim, sunbathe, or take a leisurely walk along the shore, soaking in the last moments of paradise. Later, you will be transferred to the airport for your flight back home, concluding your unforgettable safari and beach experience with Mazingira.\nYou may choose to depart directly from Zanzibar or opt for a flight from Dar es Salaam—note that the latter option involves additional costs for either boat or flight transfer from Zanzibar to Dar es Salaam.",
+      "accommodation": "No Accommodation flight home.",
+      "destination_note": "Zanzibar last half day before heading home.",
+      "meal_plan": "Breakfast"
+    }
+  ],
+  "includes": [
+    "English speaking professional guide",
+    "Meals and accommodation as specified in the itinerary",
+    "Private transportation by 4x4 vehicle equipped with open roof",
+    "Airport Transfers",
+    "Park Entry Fees, VAT inclusive",
+    "Ngorongoro Crater Fee, VAT inclusive",
+    "Unlimited (pure) drinking water throughout the safari",
+    "Accommodation in Zanzibar",
+    "Local flight from Serena Airstrip – Zanzibar",
+    "Zanzibar airport transfers",
+    "Flying doctor"
+  ],
+  "excludes": [
+    "Airfares and related costs such as personal travel insurance, visas, and vaccinations",
+    "Cost of any client-requested itinerary modifications while the safari is in progress",
+    "Any expenses of a personal nature such as extra beverages, laundry, etc.",
+    "Gratuity for your safari guides",
+    "Activities in Zanzibar"
+  ],
+  "add_ons": [
+    "balloon-safari",
+    "maasai-village"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_16abc60515394fb98cd7358bf7317c27~mv2.jpg",
+      "alt": "Traditional wooden dhow boats sailing on the turquoise waters along the pristine white sandy beaches of Zanzibar, Tanzania. Discover the idyllic coastal paradise with Mazingira Safari"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_f2ef952a32ff4cd8beeb67dd7110b6b9~mv2.jpg",
+      "alt": "Zanzibar beaches with a beautiful fishing boat floating on the sea"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aa9225fe36a54054a4857d7eb296dd05~mv2.jpeg",
+      "alt": "Map of Tanzania showing a safari route with mazingira safaris"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_ca90f5b462f943d38f9f70749d4b352c~mv2.png",
+      "alt": "Lake Duluti Lodge, Arusha Tanzania, Guest Double Bedroom"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_70aeaf1c244e4628a71870cfec70c4cf~mv2.png",
+      "alt": "A Beautiful view over Arusha Tanzania with Kilimanjaro in the background"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6284084af38649ed96ab067096fcf75f~mv2.png",
+      "alt": "Maramboi Tented Lodge, Tanzania Safari Lodge outdoor wooden cabin area and swimming pool"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_03be9bc36b4b40b8acc53784cc8b24e3~mv2.jpg",
+      "alt": "A Heard of elephants at the watering hold in Tarangire National Park"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/savannah-to-shore-package"
+}

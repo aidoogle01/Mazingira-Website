@@ -1,0 +1,97 @@
+{
+  "id": "tarangire",
+  "title": "Tarangire National Park",
+  "old_title": "Tarangire National Park",
+  "summary": null,
+  "body": "Explore the iconic Tarangire National Park\nTarangire National Park is renowned for its iconic Baobab trees, which tower over the landscape with their massive trunks and distinctive silhouettes. This park is particularly celebrated for hosting the world's highest density of elephants. Visitors can often spot herds of up to 300 elephants congregating around the Tarangire River, the park's vital lifeline. During the dry season, this river becomes a hub of activity as wildlife gathers to drink, bathe, and escape the sweltering heat. Remarkably, towards the end of the dry season, elephants can be observed digging into the parched riverbed to access underground streams, or seeking out Baobab trees to quench their thirst.\n\n### ELEPHANT PARADISE\n\nApart from elephants, Tarangire is a paradise for bird lovers. From parrots, hornbills, lovebirds and lilac breasted rollers to Kori bustards, eagles and vultures. The swamps in Tarangire National Park have one of the largest number of breeding bird species in the world. In the area around these swamps you can also see lions, leopards, cheetahs and even tree-climbing pythons.\n### AUTHENTIC ATMOSPHERE OF TARANGIRE\n\nTarangire is one less known parks in Tanzania, but it still has an authentic safari atmosphere. The hilly landscape scattered with huge Baobab trees against the blue sky is breathtaking.\n\n### TRAVEL TIME TO TARANGIRE\n- Arusha to Tarangire National Park: 2,5 hours’ drive\n- Tarangire to Lake Manyara National Park: 1 hour drive.\n- Tarangire to Ngorongoro Conservation Area: 2 hours’ drive.\n- Tarangire to Serengeti National Park: 4 hours drive.",
+  "facts_intro": "Tarangire National Park is a standout wildlife destination in Tanzania, renowned for its large elephant herds and the majestic baobab trees that dot its expansive landscape. This park offers the opportunity to witness diverse wildlife in their natural habitat.",
+  "wildlife": [
+    {
+      "name": "Elephants",
+      "note": "Famous for its large elephant population, Tarangire offers exceptional opportunities to observe these majestic animals in the wild."
+    },
+    {
+      "name": "Baobab Trees",
+      "note": "The iconic baobab trees are not only a striking feature of the landscape but also play a critical role in the local ecosystem."
+    },
+    {
+      "name": "Zebras and Wildebeest",
+      "note": "These animals are commonly seen wandering the park."
+    },
+    {
+      "name": "Lions",
+      "note": "These predators are frequently spotted lounging under shade or hunting across the savannah."
+    },
+    {
+      "name": "Giraffes",
+      "note": "The park's tall acacia and baobab trees provide the perfect feeding grounds for giraffes,."
+    },
+    {
+      "name": "Buffaloes",
+      "note": "Often found in large herds, buffaloes are a significant part of the park's wildlife diversity."
+    },
+    {
+      "name": "Bird Species",
+      "note": "With over 300 bird species, Tarangire is a bird watcher's paradise."
+    }
+  ],
+  "noteworthy": [
+    {
+      "name": "Tarangire River",
+      "note": "This vital water source attracts a wide range of wildlife, making it a hotspot for game viewing, especially in the dry season."
+    },
+    {
+      "name": "Migration Patterns",
+      "note": "Tarangire witnesses its own migration of wildebeest and zebras, which is quite spectacular."
+    },
+    {
+      "name": "Diverse Landscapes",
+      "note": "The park features a mix of granitic ridges, river valleys, and swamps."
+    },
+    {
+      "name": "Dry Season Concentration",
+      "note": "Tarangire is known for the dramatic concentration of wildlife during the dry season."
+    },
+    {
+      "name": "Ancient Baobab Trees",
+      "note": "Some of the baobabs in Tarangire are centuries old and serve as natural reservoirs, storing water in their trunks during the rainy season."
+    }
+  ],
+  "travel_times": [
+    "Arusha to Tarangire National Park: 2,5 hours’ drive",
+    "Tarangire to Lake Manyara National Park: 1 hour drive.",
+    "Tarangire to Ngorongoro Conservation Area: 2 hours’ drive.",
+    "Tarangire to Serengeti National Park: 4 hours drive."
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_6179c700dc0548c7a31bccc08e19cf79~mv2.png",
+      "alt": "Mazingira Safaris Eco Friendly Safari Logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_417d1a7215ea420ca14a97f295a49d75~mv2.jpg",
+      "alt": "Watering Hole during the dry season in Tarangire National Park, elephants drinking and giraffe, zebra, impala and many bird species gather to drink the fresh water"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_d1a13c9e92484d98b32404ed49fb8433~mv2.jpg",
+      "alt": "Elephants in Tarangire"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_7f4ff8517c524ae081890d16d0624e48~mv2.jpg",
+      "alt": "Giraffe"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_8c86f215e00c44c19e77e550cf6d5940~mv2.jpg",
+      "alt": "Zebra and Foal"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_1d703aa0458843bcb4010e4ac6fab61e~mv2.png",
+      "alt": "note pad"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ac0ef_aea9d2521071435aaa49274427b17209~mv2.jpeg",
+      "alt": "Tato Logo"
+    }
+  ],
+  "source": "https://www.mazingirasafari.com/tarangire-national-park"
+}
