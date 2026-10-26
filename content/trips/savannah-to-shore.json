@@ -126,9 +126,10 @@
       ],
       "title": "Zanzibar Departure Day",
       "description": "Savor your final day in Zanzibar, renowned for its spectacular beaches. Relax, swim, sunbathe, or take a leisurely walk along the shore, soaking in the last moments of paradise. Later, you will be transferred to the airport for your flight back home, concluding your unforgettable safari and beach experience with Mazingira.\nYou may choose to depart directly from Zanzibar or opt for a flight from Dar es Salaam—note that the latter option involves additional costs for either boat or flight transfer from Zanzibar to Dar es Salaam.",
-      "accommodation": "No Accommodation flight home.",
+      "accommodation": null,
       "destination_note": "Zanzibar last half day before heading home.",
-      "meal_plan": "Breakfast"
+      "meal_plan": "Breakfast",
+      "accommodation_note": "flight home."
     }
   ],
   "includes": [
@@ -189,5 +190,12 @@
       "alt": "A Heard of elephants at the watering hold in Tarangire National Park"
     }
   ],
-  "source": "https://www.mazingirasafari.com/savannah-to-shore-package"
+  "source": "https://www.mazingirasafari.com/savannah-to-shore-package",
+  "route": [
+    "arusha",
+    "tarangire",
+    "ngorongoro",
+    "serengeti",
+    "fly:zanzibar"
+  ]
 }

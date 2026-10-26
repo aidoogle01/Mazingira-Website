@@ -171,5 +171,12 @@
       "alt": "A Double room at the Escarpment Lodge, Lake Manyara, this beautiful designed room showcases a balcony overlooking Lake Manyara, with a beautiful roll top bath"
     }
   ],
-  "source": "https://www.mazingirasafari.com/winged-wonders-package"
+  "source": "https://www.mazingirasafari.com/winged-wonders-package",
+  "route": [
+    "arusha",
+    "lake-manyara",
+    "lake-natron",
+    "serengeti",
+    "ngorongoro"
+  ]
 }

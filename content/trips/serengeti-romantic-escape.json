@@ -82,9 +82,10 @@
       ],
       "title": "Ngorongoro Crater",
       "description": "Get up early for your breakfast, later you will sit back at your safety and comfort private safari vehicle and enjoy the journey on the Great Rift Valley through crater forest to your destination of the striking Ngorongoro crater. The crater is the most visited destination and one of the Africa’s Seven Natural wonders. It is the home to the highest concentration of wildlife in Africa, full of elephants, lions, buffaloes, hippos and even the rare black rhino. In additional to the game, Ngorongoro also offers an adds bucket list to activities including traditional Maasai village, Laetoli footprints, the oldest known footprints of early humans approximately 3.5 years old.\nLater you will drive back to Arusha and being transferred to the airport for your departure back home or an extension to Zanzibar.",
-      "accommodation": "No Accommodation End of tour",
+      "accommodation": null,
       "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
-      "meal_plan": "Breakfast Lunch and Dinner"
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation_note": "End of tour"
     }
   ],
   "includes": [
@@ -145,5 +146,11 @@
       "alt": "A tree climbing lioness in Lake Manyara, looking straight at the photographer with beautiful blue eyes, the lion is resting in the shade of the tree branches"
     }
   ],
-  "source": "https://www.mazingirasafari.com/serengeti-escape-romance-package"
+  "source": "https://www.mazingirasafari.com/serengeti-escape-romance-package",
+  "route": [
+    "arusha",
+    "lake-manyara",
+    "serengeti",
+    "ngorongoro"
+  ]
 }

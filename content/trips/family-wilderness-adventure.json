@@ -103,9 +103,10 @@
       ],
       "title": "Ngorongoro Crater",
       "description": "Rise early for breakfast, then settle into your private safari vehicle for a scenic journey through the Great Rift Valley and crater forest, culminating at the breathtaking Ngorongoro Crater. As one of Africa's Seven Natural Wonders and its most-visited destination, the crater is home to an unmatched concentration of wildlife, including elephants, lions, buffaloes, hippos, and the elusive black rhino. Beyond game viewing, Ngorongoro offers fascinating cultural and historical experiences, from traditional Maasai villages to the ancient Laetoli footprints, the oldest known traces of early humans dating back 3.5 million years.\nAfter a day filled with incredible wildlife sightings and historical exploration, return to Arusha for your airport transfer, heading back home or onward to Zanzibar for a well-deserved tropical extension.",
-      "accommodation": "No Accommodation Last Day",
+      "accommodation": null,
       "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
-      "meal_plan": "Breakfast Lunch"
+      "meal_plan": "Breakfast Lunch",
+      "accommodation_note": "Last Day"
     }
   ],
   "includes": [
@@ -161,5 +162,12 @@
       "alt": "A herd of elephants, including adults and juveniles, gathered near a waterhole in Tarangire National Park, Tanzania. The elephants are seen drinking water and interacting with each other. The background features dry terrain, trees, and additional elephants further away, highlighting the park's natural habitat"
     }
   ],
-  "source": "https://www.mazingirasafari.com/family-safari-package"
+  "source": "https://www.mazingirasafari.com/family-safari-package",
+  "route": [
+    "arusha",
+    "tarangire",
+    "lake-manyara",
+    "serengeti",
+    "ngorongoro"
+  ]
 }

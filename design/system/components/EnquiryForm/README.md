@@ -1,8 +1,7 @@
 # EnquiryForm
 
-The single enquiry form, replacing the old site's three. It sits in the `sand` band at the bottom of trip pages and on its own page.
+The single enquiry form. It sits in the `dust` band at the bottom of trip pages and on its own page, and it names the person who will reply.
 
-- Fields: trip (pre-selected from the page the visitor came from, with a "help me choose" option), name, email, when, travellers, budget band and a free-text message. Nothing else is required; no postal address.
-- Send submissions to `site.json` `contact.email`, plus `email_uk_sales` for UK enquiries.
-- Always offer WhatsApp beside the submit button.
-- Labels sit above the fields and every field has a `<label>`. Error messages say what to fix: "Enter an email address so we can reply".
+- Fields: trip (pre-selected from the page, plus "help me choose"), name, email, travel month (not exact dates), travellers, budget band with "Not sure yet", and a message. No postal address, no phone requirement.
+- Send to `site.json` `contact.email` (and `email_uk_sales` for UK enquiries) and log the source page.
+- Always offer WhatsApp beside the submit button. Put **ProcessSteps** directly below the form so people know what happens next.

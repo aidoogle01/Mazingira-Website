@@ -1,76 +1,89 @@
-Mazingira Safari is a Tanzanian-owned safari operator in Arusha, founded in 2007. *Mazingira* is Swahili for "environment". The site's job is to earn the trust of a careful, mostly UK-based traveller spending $2,000–$9,000 a head, and turn that trust into an enquiry. It doesn't take bookings online. Everything here serves that: real photographs, plain prices, Tanzanian voices, and one obvious way to get in touch.
+Mazingira Safari is a Tanzanian-owned safari company in Arusha, founded in 2007. *Mazingira* is Swahili for "environment". The website has one job: earn the trust of a careful, mostly UK-based traveller spending $2,000–$9,000 a head, and turn it into an enquiry that a named person answers quickly. Mazingira doesn't take bookings online.
+
+The research behind this system (`reports/Safari website benchmarks and AI design.md` in the website repo) found that the best safari companies sell **people, prices and proof**, not mood. They show named guides and planners, publish prices, and point to proof anyone can check. This system is built around those three things, and around one recognisable signature: **the route map**.
 
 ## Voice and content
 
-- **Write as Mazingira: "we" are the Arusha team, "you" are the traveller.** Name people where possible: "Jacob will meet you at Kilimanjaro Airport", not "a representative will greet you".
-- **British English** (most guests are from the UK): *colour, organise, travellers, programme*. Ages, durations and distances use numerals: "6 years and over", "a 2-hour drive", "4,600m".
-- **Sentence case** for headings, buttons and navigation: "Plan your trip", "Enquire about this trip". The old site's ALL CAPS headings are gone; the `eyebrow` style is the only uppercase text.
-- **Be specific.** Use the trip's real lodges, drive times and months: "Day 4 · Kubu Kubu Tented Lodge · Breakfast, lunch and dinner". Avoid "breathtaking", "unforgettable", "once-in-a-lifetime" and "embark"; the old copy leaned on them in every paragraph.
-- **Prices** are shown as `$5,699` with "per person" beneath in `small`, and always say what they're based on: "based on 6 people sharing". Never show a price that differs from the trip page.
-- **Days** are written "Day 3" or "Days 8–11" (en dash). Months as "Jun–Sep".
-- **Swahili** words are welcome when they're explained: "*Karibu* (welcome) to Arusha".
-- **No emoji**, no exclamation marks in headings.
+- **Write as Mazingira: "we" are the Arusha team, "you" are the traveller.** Name people: "Johari will reply", "Goodluck will guide you", not "a representative".
+- **British English** (most guests are from the UK): *colour, organise, travellers*. Numerals for ages, durations and distances: "6 years and over", "a 2-hour drive", "3,850m".
+- **Sentence case** everywhere: headings, buttons, labels. There is no all-caps text in this system.
+- **Write facts as sentences or labelled lists, never as strings joined by dots.** Write "Nine days, best June to September", not "9 DAYS · JUN–SEP". On trip days, use a small "Stay / Meals" list.
+- **Be specific; it is also what sells.** Name the lodge, the drive time, the month, the guide. Don't use "breathtaking", "unforgettable", "once-in-a-lifetime", "embark", "immerse yourself" or "dream safari"; the old copy used them in nearly every paragraph.
+- **Prices:** "From $5,699 per person", with its basis ("6 sharing"), and the same figure everywhere, always taken from the trip's data. Next to it, say that the trip is a starting point that can be changed.
+- **Days:** "Day 3", "Days 7–8" (en dash). Months in words in running text ("June to September").
+- **Swahili** is welcome when explained: "*Karibu* (welcome) to Arusha".
+- **Claims need proof.** Don't call trips "eco-friendly" in body copy until the impact page and a certification (Travelife is the realistic one) exist. The logo's strapline stays because it is the logo.
+- **Hero line (draft to agree with Jacob):** "Tanzania, guided by Tanzanians." It is true, specific, and something no international agent can say.
+- No emoji, no exclamation marks in headings, no arrows in links.
 
 ## Colour
 
-Earthy and calm: the logo's sage, the old site's warm sand, and a deep forest green that does the work.
+Taken from Mazingira's own world: the logo's sage, the olive of its spare-wheel covers, and the dry-grass khaki of the tracks and the guides' uniforms.
 
-- Page background is `surface`. Cards, forms and the itinerary sit on `surface-raised`.
-- Running text and headings are `ink`; secondary lines (meal plans, captions, "per person") are `ink-muted`.
-- **`forest` is the action colour**: the primary button, links, prices, the active itinerary day. Use it with `on-forest` for text on a forest fill.
-- **`sage` is the brand colour, not a text colour.** Use it for the logo, timeline dots and rules, and decorative blocks. Text on a sage fill uses `on-sage`.
-- Use **one** `sand` band per page, for the moment of invitation (the enquiry block or "Plan your trip"). Use `sage-soft` for quieter bands and hover or selected fills.
-- `taupe` is a quiet secondary (outline buttons, footer). `line` is for hairlines only.
+- The page background is `surface`; cards, forms and panels sit on `surface-raised`.
+- Running text and headings are `ink`. Labels, meal plans, captions and "per person" are `ink-muted`.
+- **`forest` is the action colour**: primary buttons, links, prices, and the route line on the map. It is darkened from the olive of the branded spare-wheel covers. Use `on-forest` for text on a forest fill.
+- **`sage` is the brand colour, never text.** Use it for the logo, the best months in the MonthStrip, step rules and decorative blocks. Text on a sage fill uses `on-sage`.
+- **`dust`** is the dry-grass khaki. Use one band per page, for the invitation: the enquiry block.
+- Use `sage-soft` for quiet bands and empty month cells. `line` is for hairlines and the map's skipped places.
 - `whatsapp` and `on-whatsapp` are only for the WhatsApp button.
-- The focus ring is a 2px solid `focus` outline with a 2px offset, on every interactive element.
-- Both themes are defined. Every text pair above passes WCAG AA (4.5:1) in light and dark.
+- Focus ring: 2px solid `focus`, 2px offset, on every interactive element.
+- Light and dark themes are both defined. Every text pair passes WCAG AA (at least 4.5:1) in both.
 
 ## Typography
 
-Two families, carried over from the old site (which loaded twelve):
+- **Cormorant Garamond** (`display`), weight 600, for headings, day numbers and guide names: `display-xl` (Home hero only), `display-l` (page and trip titles), `heading` (sections), `title` (card and day titles). Carried over from the old site. Headings use `text-wrap: balance`.
+- **Alegreya Sans** (`sans`), weight 400 (500 for labels and buttons), for everything else: `lead`, `body`, `small`, `label`, `price`, `button`. It replaces the old site's Quicksand, a rounded geometric face that read as informal next to Cormorant. Alegreya Sans is a humanist sans with calligraphic roots, so it sits naturally with the serif. *This is a deliberate change to test with Mazingira; Quicksand is the fallback if they prefer continuity.*
+- Running text at most 38rem wide (about 65–70 characters).
+- Prices use lining, tabular numerals.
+- Both families load from Google Fonts.
 
-- **Cormorant Garamond** (`display`) for headings: `display-xl` (home hero only), `display-l` (page titles), `heading` (sections), `title` (cards, itinerary days, names). Weight 600. Headings use `text-wrap: balance`.
-- **Quicksand** (`sans`) for everything else: `lead`, `body`, `small`, `eyebrow`, `price`, `button`. Body text is weight **500**; Quicksand at 400 is too thin for long reading.
-- Keep running text to 65–70 characters per line (`max-width: 38rem` for `body`).
-- Prices use `price` with `font-variant-numeric: tabular-nums`.
-- Both families load from Google Fonts: `Cormorant Garamond` 500 and 600, and `Quicksand` 400 to 700.
+## Shape, layout and motion
 
-## Layout and spacing
+- **Corners are small**: `radius-md` (4px) is the largest, used on buttons, panels and the form. Photos are square-cornered. `radius-pill` is only for the WhatsApp button. The old soft, rounded card look is gone.
+- **Separate with hairlines and space, not boxes.** Trip lists, facts, itinerary days and park facts sit between `line` rules. Only the enquiry form and the payment panel are filled or outlined.
+- **Home presents trips editorially** with **TripRow** (big photo, big title, a few specific sentences, alternating sides). The card grid (**TripCard**) is only for the full Safaris index.
+- Content width is at most 1200px, with gutters of `space-4` on mobile and `space-6` above 720px. Sections are spaced `space-12` (mobile) to `space-16` (desktop).
+- **One shadow** (`shadow-float`), on the floating WhatsApp button.
+- **One motion moment:** the RouteMap draws its route once, leg by leg, when it scrolls into view. Nothing else fades, slides or lifts on hover; hover underlines. Respect `prefers-reduced-motion`.
 
-- Content width is 1200px at most, with a gutter of `space-4` on mobile and `space-6` above 720px.
-- Sections are separated by `space-12` (mobile) or `space-16` (desktop) of padding, not by rules.
-- Lay out cards in a grid with `space-6` gaps: 3 columns at 1024px and up, 2 at 640px, 1 below.
-- Corners: `radius-lg` for trip cards and photos, `radius-md` for buttons, `radius-sm` for fields and badges, `radius-pill` only for WhatsApp and review badges.
-- The only shadow is `shadow-card`: a trip card on hover, and the floating WhatsApp button. Everything else separates with `line` or a surface change.
-- Mobile first. On phones, the WhatsApp button floats bottom-right on every page except the enquiry form.
+## The signature: route maps
+
+Every trip page has a **RouteMap**: a quiet drawing of northern Tanzania from real coordinates, with the trip's route in `forest` and the places it skips as faint dots, with Zanzibar shown as a dotted flight off the edge. Safari buyers think in routes, so it is useful as well as distinctive, and it is drawn from Mazingira's own itineraries rather than from a template. Use it on trip pages beside the itinerary, small on TripRows, and on park pages (with the park as the only stop). Don't decorate it.
 
 ## Photography
 
-- **Use only Mazingira's own photographs** (the *Photos* asset group, and images on the old site whose file IDs begin `1ac0ef_`). Several old-site images, including the leopard-video hero, the hippos and the Maasai-on-the-beach photo, are **Wix stock** (`11062b_`). Don't reuse those.
-- Prefer real moments from their own trips (the branded vehicle, camp dinners, guides) over generic wildlife portraits. The vehicle photo is the single strongest proof that this is a real local operator.
-- Photos are full-bleed or `radius-lg`, never framed with borders. No filters, no colour overlays except a bottom-up `ink` gradient where text sits on a photo (at least 4.5:1 under the text).
-- Every image needs alt text describing what's in it: "Mazingira Land Cruiser on a dirt track in Tarangire".
-- Lodge photos belong to the lodges. Link to them; don't copy them.
+- **Lead with Mazingira's people and vehicles.** The team photo (the whole team on top of their branded Land Cruisers) is the Home hero. Jacob beside the branded spare-wheel cover belongs on the About and founder pages. These photos are the strongest proof on the site that this is a real Tanzanian company.
+- **Use only Mazingira's own photographs** (the *Photos* and *Team* asset groups, and old-site images whose IDs start `1ac0ef_`). Several old-site images are **Wix stock** (`11062b_`), including the old leopard-video hero, the hippos and the Maasai-on-the-beach photo; don't reuse them. **Never use AI-generated images** of wildlife, places or people.
+- Photos are full-bleed or square-cornered, never framed, filtered or tinted. Where text sits on a photo, add a bottom-up `ink` gradient strong enough for 4.5:1 under the text.
+- Every image has alt text describing what is in it: "Goodluck Nathan on the roof of a Mazingira Land Cruiser".
+- Lodge photos belong to the lodges: link to them, don't copy them.
 
 ## Iconography
 
-The old site had no icon system, only social-media PNGs. This system uses **text labels instead of icons**: "WhatsApp us", "Call +255 784 278 205", "Instagram". If icons are added later, use a single outline set at 1.5px stroke in `ink`, and never draw third-party logos (WhatsApp, TripAdvisor) by hand; use their official badge files.
+None. The system uses words: "WhatsApp Johari", "Call +255 784 278 205", "Instagram". If icons are ever needed, use one outline set at 1.5px in `ink`, and never redraw third-party logos (WhatsApp, Tripadvisor); use their official badges.
 
 ## Components
 
-All components are plain HTML and CSS: class names prefixed `mz-`, styles in `components/bundle.css`, values from tokens only. Each component's README lists the content it needs. Map component content to the content model in the `mazingira-website` repo (`content/trips/*.json` and so on).
+Plain HTML and CSS with `mz-` class names (`components/bundle.css`), plus two small helpers in `components/bundle.js` (`Mazingira.routeMap`, `Mazingira.monthStrip`). Each component's README lists the content it needs from the website repo's content model (`content/trips/*.json` and so on).
 
 | Component | Use it for |
 |---|---|
-| Button | Enquire (primary), secondary actions (outline), WhatsApp |
-| TripCard | Trip listings on Home and Safaris |
-| FactStrip | The facts at the top of a trip page |
-| ItineraryDay | Day-by-day timeline (all days visible, never tabs) |
-| PriceTiers | Price by group size on a trip page |
-| ReviewScore | TripAdvisor and SafariBookings ratings next to calls to action |
-| EnquiryForm | The one enquiry form, pre-filled with the trip |
-| ParkFacts | Wildlife and travel-time panel on park pages |
+| Button | Enquire (primary), secondary (outline), WhatsApp (named person) |
+| TripRow | Trips on Home, editorially |
+| TripCard | The full Safaris index grid |
+| FactStrip | Length, best time, start and places, at the top of a trip page |
+| RouteMap | The signature: every trip's route, drawn |
+| MonthStrip | Best months at a glance |
+| ItineraryDay | The day-by-day plan, every day visible |
+| PriceTiers | Price per person by group size |
+| ReviewScore | Independent ratings with counts, near every call to action |
+| GuideProfile | Guides, the founder and planners: the people behind the trips |
+| PaymentSafety | "How to pay us safely" |
+| EnquiryForm | The one enquiry form, pre-filled, with WhatsApp |
+| ProcessSteps | What happens after you enquire |
+| ParkFacts | Wildlife and travel times on park pages |
 
 ## Logo
 
-Use `mazingira-logo.png` (Logos group): the sage wordmark with the acacia tree, and the strapline "Eco-friendly safari adventures". Place it on `surface` or `surface-raised` only, at least 120px wide, with clear space equal to the height of the "M" on all sides. Don't recolour or redraw it. A vector (SVG) version is still to come from Mazingira; replace the PNG when it arrives.
+`mazingira-logo.png` (Logos group): the sage wordmark with the acacia, and the strapline "Eco-friendly safari adventures". Use it on `surface` or `surface-raised`, at least 120px wide, with clear space equal to the height of the "M" on every side. Don't recolour or redraw it. A vector (SVG) version is still to come from Mazingira.

@@ -112,9 +112,10 @@
       ],
       "title": "Ngorongoro Crater",
       "description": "After breakfast, descend to the floor of the renowned Ngorongoro Crater for a day of game viewing. The crater formed about 2.5 million years ago when a massive volcano collapsed inward, leaving the vast, intact caldera that we see today. This unique ecosystem is home to over 25,000 resident animals.\nVisit Lake Magadi, a shallow alkaline lake in the southwestern corner, which attracts a large population of flamingos, hippos, and other waterbirds. The Big Five can also be spotted in the crater, adding to the day's excitement.\nAfter an unforgettable day exploring this natural wonder, return to Arusha before heading to the airport for your departure or an extension to Zanzibar.",
-      "accommodation": "No Accommodation Last Day",
+      "accommodation": null,
       "destination_note": "Ngorongoro Crater The world's biggest intact volcanic caldera, the Ngorongoro Crater, is located in Tanzania-Ngorongoro near Serengeti national park.",
-      "meal_plan": "Breakfast, Lunch"
+      "meal_plan": "Breakfast, Lunch",
+      "accommodation_note": "Last Day"
     }
   ],
   "includes": [
@@ -169,5 +170,12 @@
       "alt": "A herd of elephants, including adults and juveniles, gathered near a waterhole in Tarangire National Park, Tanzania. The elephants are seen drinking water and interacting with each other. The background features dry terrain, trees, and additional elephants further away, highlighting the park's natural habitat"
     }
   ],
-  "source": "https://www.mazingirasafari.com/great-migration-package"
+  "source": "https://www.mazingirasafari.com/great-migration-package",
+  "route": [
+    "arusha",
+    "tarangire",
+    "serengeti",
+    "north-serengeti",
+    "ngorongoro"
+  ]
 }

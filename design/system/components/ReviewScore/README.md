@@ -1,7 +1,7 @@
 # ReviewScore
 
-The rating badges that sit beside calls to action: under the home hero, next to the price on trip pages, and above the enquiry form.
+Independent ratings, set near every call to action: under the Home hero, beside a trip's price and above the enquiry form. Each links to the profile.
 
-- Provide, from `content/reviews.json` `aggregate[]`: `rating`, `count`, `source` and `url`. Each badge links to the review profile.
-- Only show a rating that came from the source. The TripAdvisor figures are still placeholders, so check `content/_review/placeholders.md` before launch.
-- Write the source name in text. Don't redraw the TripAdvisor owl; use TripAdvisor's official badge if a graphic is needed.
+- Provide, from `content/reviews.json` `aggregate[]`: `rating`, `count`, `source`, `url`. Show the count; a bare "5.0" is trusted less than "5.0 from 81 reviews".
+- Only show figures taken from the source. The Tripadvisor figures are placeholders until checked (`content/_review/placeholders.md`).
+- No stars or owl logos drawn by hand.

@@ -33,6 +33,7 @@ python3 tools/build_content.py && python3 tools/build_routes.py && python3 tools
 - **IDs** are lowercase-hyphenated and match the filename. They'll become the URL slugs.
 - **Text fields** (`description`, `body`) are Markdown.
 - **Prices** are in USD per person. `price.confirmed: false` means the old site showed conflicting prices and the client hasn't confirmed the right one yet. `conflicting_prices_on_old_site` records what else was shown.
+- **`route`** (trips) lists the route-map stops in order, using the place keys from the design system's `Mazingira.PLACES`; `fly:` marks a flight (e.g. `fly:zanzibar`). It is derived from the day titles by the builder and is `null` for Kilimanjaro climbs.
 - **Itinerary `days`** is `[n]` for a single day or `[from, to]` for a range (e.g. `[8, 11]` for Zanzibar). Days are numbered from the old site's tab labels, because several tab *headings* on the old site were wrong.
 - **Images** point at the original-resolution files on Wix's server (`static.wixstatic.com`). Before launch: confirm Mazingira owns each photo, download them and host them ourselves.
 - **`status: hidden`** trips stay in the data but aren't shown. Currently that's the Ruaha trip, until the client confirms it.

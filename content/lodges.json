@@ -107,15 +107,6 @@
       ]
     },
     {
-      "name": "Figs Camping Site The camping area is situated in a nice garden with a swimming pool, where you can cool down after a wonderful safari.There are separate toilets and showers for the campers. The lodge also provides an outdoor kitchen.",
-      "area": null,
-      "description": null,
-      "url": null,
-      "used_in": [
-        "serengeti-under-the-stars"
-      ]
-    },
-    {
       "name": "Four Seasons Safari Lodge Serengeti",
       "area": null,
       "description": null,
@@ -299,7 +290,7 @@
       ]
     },
     {
-      "name": "Nyani Campsite One of the most frequented public campsites in the Seronera area, located a few kilometres east of the tourist information centre. Although most of the campsites in the area are similar, it is one of few that are on level ground and well sheltered from winds, meaning less cold nights.",
+      "name": "Nyani Campsite",
       "area": null,
       "description": null,
       "url": null,

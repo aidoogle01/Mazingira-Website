@@ -1,8 +1,7 @@
 # ItineraryDay
 
-One entry in the day-by-day timeline on a trip page. **Every day is visible at once.** The old site hid days behind tabs, which hid most of the content from visitors and search engines.
+One day (or run of days) in a trip's plan. **Every day is visible**; there are no tabs. The day number is set in Cormorant like a chapter number.
 
-- Provide, per entry in `itinerary[]`: the day label ("Day 3", or "Days 7–8" for a `days` range, en dash), `title`, `description` (Markdown), `accommodation`, and `meal_plan`. Kilimanjaro days also show `altitude`.
-- Wrap entries in `<ol class="mz-itin">`. The sage line and dots are drawn by CSS.
-- Leave out a meta item rather than showing an empty one.
-- Don't collapse days into an accordion on desktop. On mobile, an "Expand all" control is acceptable for itineraries over 10 days.
+- Provide, per entry in `itinerary[]`: the day label ("Day 3", or "Days 7–8" for a `days` range, en dash), `title`, `description` (Markdown), `accommodation` and `meal_plan` (shown as a small "Stay / Meals" list, not a dotted string). Kilimanjaro days add `altitude` ("Altitude 3,850m").
+- Leave out a row rather than showing an empty one.
+- Pair the itinerary with a **RouteMap** beside it on desktop, above it on mobile.

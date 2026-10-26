@@ -66,9 +66,10 @@
       ],
       "title": "Tarangire National Park",
       "description": "After breakfast, your personal driver-guide will collect you from your lodge in Arusha and you'll embark on the journey to Tarangire National Park. As you travel across the scenic Maasai plains, dotted with acacia trees, you’ll witness Maasai tribespeople walking along the roadside, riding bicycles, driving donkeys, and herding cattle—a vibrant glimpse into their daily lives.\nKnown as the \"elephant playground,\" Tarangire is famous for its large herds of elephants. From the comfort of your open-roof safari vehicle, prepare to be amazed by the diverse wildlife this park offers, including lions, zebras, warthogs, wildebeests, and buffaloes. Keep an eye on the trees where you might spot lions on the hunt or leopards lounging in the branches above.\nDuring the dry season, the park becomes a bustling hub of activity as animals and birds gather around the Tarangire River, the park’s permanent water source, making it an excellent time for wildlife viewing.",
-      "accommodation": "Figs Camping Site The camping area is situated in a nice garden with a swimming pool, where you can cool down after a wonderful safari.There are separate toilets and showers for the campers. The lodge also provides an outdoor kitchen.",
+      "accommodation": "Figs Camping Site",
       "destination_note": "Tarangire National Park Famous for its large elephant herds",
-      "meal_plan": "Breakfast, lunch, Dinner"
+      "meal_plan": "Breakfast, lunch, Dinner",
+      "accommodation_note": "The camping area is situated in a nice garden with a swimming pool, where you can cool down after a wonderful safari.There are separate toilets and showers for the campers. The lodge also provides an outdoor kitchen."
     },
     {
       "days": [
@@ -77,9 +78,10 @@
       ],
       "title": "Serengeti National Park",
       "description": "The next two days are fully devoted to exploring the vast expanse of Serengeti National Park, a name derived from the Maasai word \"Siringet,\" meaning \"the endless plain.\" These days in the Serengeti promise unparalleled wildlife viewing opportunities, especially in the Central Serengeti, which is a hotbed for animal activity throughout the year.\nIn this heart of the Serengeti, you'll encounter a wide array of wildlife including elephants, giraffes, impalas, waterbucks, hippos, reedbucks, buffaloes, and baboons. These species thrive here year-round, well after the dramatic migration of blue wildebeest and zebras has passed through. The Serengeti is particularly famous for its high concentration of lions and leopards, making it a premier destination for big cat enthusiasts\n.\nKeep an eye out for the iconic Serengeti “Kopjes” – these striking granite boulders stand out against the grassy plains and serve as essential shelters for diverse flora and fauna. Each day, after immersing yourself in game drives and experiencing the wild beauty of the Serengeti, you will return to your camp to relax, dine, and rest under the stars, gearing up for another day of adventure in one of Africa’s most spectacular settings.",
-      "accommodation": "Nyani Campsite One of the most frequented public campsites in the Seronera area, located a few kilometres east of the tourist information centre. Although most of the campsites in the area are similar, it is one of few that are on level ground and well sheltered from winds, meaning less cold nights.",
+      "accommodation": "Nyani Campsite",
       "destination_note": "Serengeti National Park is a World Heritage Site teeming with wildlife",
-      "meal_plan": "Breakfast Lunch and Dinner"
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation_note": "One of the most frequented public campsites in the Seronera area, located a few kilometres east of the tourist information centre. Although most of the campsites in the area are similar, it is one of few that are on level ground and well sheltered from winds, meaning less cold nights."
     },
     {
       "days": [
@@ -107,9 +109,10 @@
       ],
       "title": "Lake Manyara National Park",
       "description": "At 8:30 AM, depart from your accommodation and head to Lake Manyara National Park, bringing along a picnic lunch for a full day of exploration. As you enter the park, you're welcomed by lush forests of Acacia and Mahogany trees, setting the scene for the day's adventure.\nSpend the day immersed in a game drive that continues into the evening, breaking only for your picnic lunch. Keep an eye out for buffaloes, giraffes, impalas, baboons, and blue monkeys. One of Lake Manyara's highlights is its tree-climbing lions, although spotting them requires a bit of luck. In the right season, the lake's shoreline may turn pink with millions of flamingos—a breathtaking sight.\nThe day concludes with a drive back to Arusha, marking the end of your enriching 7-day safari experience with Mazingira Safari.",
-      "accommodation": "No Accommodation End of Safari Tour",
+      "accommodation": null,
       "destination_note": "Lake Manyara National Park, well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos",
-      "meal_plan": "Breakfast Lunch and Dinner"
+      "meal_plan": "Breakfast Lunch and Dinner",
+      "accommodation_note": "End of Safari Tour"
     }
   ],
   "includes": [
@@ -166,5 +169,13 @@
       "alt": "Colorful tents set up at Figs Camping Site in Tanzania, surrounded by lush greenery and trees. Enjoy an adventurous and nature-filled stay with Mazingira Safari."
     }
   ],
-  "source": "https://www.mazingirasafari.com/serengeti-under-the-stars"
+  "source": "https://www.mazingirasafari.com/serengeti-under-the-stars",
+  "route": [
+    "arusha",
+    "tarangire",
+    "serengeti",
+    "ndutu",
+    "ngorongoro",
+    "lake-manyara"
+  ]
 }

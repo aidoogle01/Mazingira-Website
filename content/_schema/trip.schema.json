@@ -256,6 +256,18 @@
     },
     "source": {
       "type": "string"
+    },
+    "route": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "description": "Route-map stops in order: keys of Mazingira.PLACES (design system components/bundle.js); \"fly:\" marks a flight leg. null for climbs.",
+      "items": {
+        "type": "string",
+        "pattern": "^(fly:)?(arusha|kilimanjaro|tarangire|lake-manyara|karatu|ngorongoro|ndutu|serengeti|north-serengeti|lake-natron|zanzibar)$"
+      },
+      "minItems": 2
     }
   },
   "additionalProperties": false,

@@ -124,8 +124,9 @@
       "title": "Zanzibar Departure Day",
       "description": "Zanzibar is known for its world-class beaches. Today, take the opportunity to relax, swim, sunbathe, or stroll along the coastline before your transfer to the airport for your journey home. This will conclude your memorable wildlife and beach safari with Mazingira. You can choose to fly directly from Zanzibar or via Dar es Salaam.\n(Please note that opting to depart from Dar es Salaam will incur additional transportation costs, either by boat or flight, from Zanzibar.)",
       "meal_plan": "Breakfast",
-      "accommodation": "No Accommodation flight home.",
-      "destination_note": "Zanzibar last half day before heading home."
+      "accommodation": null,
+      "destination_note": "Zanzibar last half day before heading home.",
+      "accommodation_note": "flight home."
     }
   ],
   "includes": [
@@ -187,5 +188,14 @@
       "alt": "A herd of elephants a large family including babies, heading to the watering hole in the dry season on Tarangire National Park Tanzania"
     }
   ],
-  "source": "https://www.mazingirasafari.com/packages/honeymoon-package"
+  "source": "https://www.mazingirasafari.com/packages/honeymoon-package",
+  "route": [
+    "arusha",
+    "tarangire",
+    "ngorongoro",
+    "serengeti",
+    "ngorongoro",
+    "arusha",
+    "fly:zanzibar"
+  ]
 }

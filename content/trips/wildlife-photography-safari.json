@@ -110,9 +110,10 @@
       ],
       "title": "Ngorongoro Crater",
       "description": "Begin your final day with breakfast before descending into the Ngorongoro Crater, a UNESCO World Heritage site renowned for its prehistoric formation and thriving ecosystem. This natural amphitheater is home to over 25,000 animals, making it one of the best spots in Africa to view the \"Big Five\" (rhino, elephant, buffalo, lion, and leopard) in their natural habitat.\nAs you explore the vast grasslands and acacia forests of the crater floor, keep an eye out for the endangered black rhinos, a rare and special sighting as they graze in the open plains. The crater is also known for its significant hippo population, which can be seen enjoying the cool waters of the area's water bodies. Other wildlife includes wildebeest, zebras, gazelles, and an impressive array of over 500 bird species.\nAfter a day filled with unforgettable wildlife encounters, you will leave the crater and return to Arusha. From there, you will be transferred to the airport for your departure home or an optional extension to Zanzibar, carrying memories of a lifetime from the heart of Tanzania.",
-      "accommodation": "No Accommodation last day of safari",
+      "accommodation": null,
       "destination_note": "Ngorongoro Crater",
-      "meal_plan": "Breakfast and Lunch"
+      "meal_plan": "Breakfast and Lunch",
+      "accommodation_note": "last day of safari"
     }
   ],
   "includes": [
@@ -171,5 +172,12 @@
       "alt": "A herd of elephants a large family including babies, heading to the watering hole in the dry season on Tarangire National Park Tanzania"
     }
   ],
-  "source": "https://www.mazingirasafari.com/wildlife-photography-package"
+  "source": "https://www.mazingirasafari.com/wildlife-photography-package",
+  "route": [
+    "arusha",
+    "tarangire",
+    "ndutu",
+    "serengeti",
+    "ngorongoro"
+  ]
 }

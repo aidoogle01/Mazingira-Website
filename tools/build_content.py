@@ -215,6 +215,13 @@ def build_trip(wslug, tid, style):
             name, _, note = acc.partition(' -')
             fields['accommodation'] = name.strip()
             fields['accommodation_note'] = note.strip(' -') or None
+        elif re.match(r'^No Accommodation', acc, re.I):
+            fields['accommodation'], fields['accommodation_note'] = None, re.sub(r'^No Accommodation[\s.,-]*', '', acc, flags=re.I).strip() or None
+        elif len(acc) > 60:
+            # "Figs Camping Site The camping area is…": the name runs into a description on the old site
+            m = re.match(r'^(.{3,60}?\b(?:Camping Site|Campsites?|Camp|Lodge|Hotel|House|Resort))\b[\s.:-]*(.*)$', acc)
+            if m and m.group(2):
+                fields['accommodation'], fields['accommodation_note'] = m.group(1).strip(), m.group(2).strip()
         itinerary.append({'days': [d_from, d_to] if d_to != d_from else [d_from], 'title': day_title, 'description': tidy_md(body), **fields})
 
     # price block + includes/excludes
@@ -294,7 +301,36 @@ def correct_trip(t):
         flag(w, f"Locations list {', '.join(sorted(listed - visited - {'Arusha'}))} but no itinerary day goes there")
     t['summary'] = SUMMARIES.get(t['id'])
     t['add_ons'] = ADD_ONS.get(t['id'], [])
+    t['route'] = derive_route(t)
     return t
+
+# Route-map stops (keys of Mazingira.PLACES in the design system's components/bundle.js),
+# in the order each day title names them. Any move to Zanzibar is a flight.
+ROUTE_KEYS = [(r'north(ern)?\s+serengeti', 'north-serengeti'), (r'ndutu( southern serengeti( plains)?)?', 'ndutu'), (r'serengeti', 'serengeti'),
+              (r'ngorongoro', 'ngorongoro'), (r'manyara', 'lake-manyara'), (r'tarangire', 'tarangire'),
+              (r'natron', 'lake-natron'), (r'zanzibar', 'zanzibar'), (r'arusha', 'arusha'), (r'karatu', 'karatu')]
+ROUTE_PLACES = {k for _, k in ROUTE_KEYS} | {'kilimanjaro'}
+
+def derive_route(t):
+    if t['style'] == 'kilimanjaro' or not t['itinerary']:
+        return None
+    stops = []
+    for d in t['itinerary']:
+        title = d['title'].lower()
+        if ' via ' in title:                      # "Serengeti via Ngorongoro Highlands": the via-place comes first
+            dest, _, via = title.partition(' via ')
+            title = via + ' - ' + dest
+        hits, taken = [], []
+        for pat, key in ROUTE_KEYS:
+            for m in re.finditer(pat, title):
+                if any(a <= m.start() < b for a, b in taken):
+                    continue      # "northern serengeti" already matched; don't count "serengeti" again
+                taken.append((m.start(), m.end()))
+                hits.append((m.start(), key))
+        for _, key in sorted(hits):
+            if not stops or stops[-1].replace('fly:', '') != key:
+                stops.append(('fly:' + key) if key == 'zanzibar' else key)
+    return stops
 
 SUMMARIES = {}   # filled from listing cards below
 ADD_ONS = {

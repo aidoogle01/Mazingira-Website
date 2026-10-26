@@ -10,6 +10,7 @@
   "libraries": [],
   "sections": {},
   "groups": [
+    "Team",
     "Logos",
     "Photos"
   ],
@@ -92,6 +93,35 @@
           "type": "image/jpeg"
         }
       }
+    },
+    "Team": {
+      "name": "Team",
+      "tile": "m",
+      "order": [
+        "team-group.jpg",
+        "jacob-kereiya.jpg",
+        "goodluck-nathan.jpg"
+      ],
+      "files": {
+        "team-group.jpg": {
+          "name": "team-group.jpg",
+          "blob": "434605766bf98d237033cb8865d922ba",
+          "size": 276488,
+          "type": "image/jpeg"
+        },
+        "jacob-kereiya.jpg": {
+          "name": "jacob-kereiya.jpg",
+          "blob": "e6e09a0f853b4a26e86b45cb1f5a9c7f",
+          "size": 235000,
+          "type": "image/jpeg"
+        },
+        "goodluck-nathan.jpg": {
+          "name": "goodluck-nathan.jpg",
+          "blob": "14ac09024981e096e2a81c3f20bbfef5",
+          "size": 107388,
+          "type": "image/jpeg"
+        }
+      }
     }
   },
   "blobs": {},
@@ -101,8 +131,8 @@
   },
   "lastChange": {
     "by": "Claude",
-    "at": "2026-10-26T11:24:56Z",
+    "at": "2026-10-26T13:20:33Z",
     "via": "Claude Code",
-    "note": "First version, built from the audit of mazingirasafari.com"
+    "note": "v2 after research: dust and olive palette, Alegreya Sans body, no all-caps or dot strings, small radii, route-map signature, guide, payment-safety and process components"
   }
 }
