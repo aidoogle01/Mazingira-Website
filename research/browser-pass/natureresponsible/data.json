@@ -1,0 +1,1467 @@
+{
+ "key": "natureresponsible",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://natureresponsiblesafari.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 1580,
+    "lcpMs": 1648,
+    "perf": {
+     "ttfb": 374,
+     "domContentLoaded": 564,
+     "perfApiTransferKB": 1651,
+     "resources": 12
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://natureresponsiblesafari.com/",
+     "title": "Tanzania Kenya Uganda and Rwanda African Safaris - Nature Responsible Safaris",
+     "docHeight": 8080,
+     "nav": [
+      "+255 767 773 877",
+      "request@natureresponsiblesafari.com",
+      "SAFARIS",
+      "DESTINATIONS",
+      "COMMUNITY PROJECTS",
+      "ABOUT US",
+      "FAQ’S",
+      "VERSION FRANÇAISE"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Safari Experts Made Easy With Us!",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "request@natureresponsiblesafari.com",
+        1
+       ],
+       [
+        "Help Me Plan My Safari",
+        1
+       ],
+       [
+        "VIEW ALL FREQUENTLY ASKED QUESTIONS",
+        1
+       ],
+       [
+        "HELP ME PLAN MY TRIP",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "request@natureresponsiblesafari.com"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9237616013814893&output=html&adk=1812271804&adf=3025194257&abgtt=7&lmt=17929928",
+      "https://www.google.com/recaptcha/api2/aframe",
+      "https://googleads.g.doubleclick.net/pagead/html/r20261020/r20190131/zrt_lookup.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "tawk": "script/iframe",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 767 773 877",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "request@natureresponsiblesafari.com%20%20%20%20"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "cky-consent-container cky-box-bottom-left",
+        "pos": "fixed",
+        "top": 626,
+        "bottom": 40,
+        "h": 234,
+        "w": 440,
+        "text": "We value your privacy Nature Responsible Safari uses cookies to enhance your browsing experience, se"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "TATO",
+       "text": "Tanzania Association of Tour Operators (TATO)",
+       "where": "body"
+      },
+      {
+       "match": "TATO",
+       "text": "WHAT IS TATO?",
+       "where": "body"
+      },
+      {
+       "match": "Tripadvisor",
+       "text": "We’ll go on a journey together. Below are the awards for 2025 , 2024 and 2023 Traveller’s Choice Awards by Tripadvisor",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "tripadvisor-travelers-choice-2023-best-of-best1335.logowik.c",
+       "where": "body"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Font Awesome 5 Free",
+       "Lato",
+       "elementskit",
+       "Aclonica",
+       "Libre Franklin",
+       "EB Garamond",
+       "Font Awesome 5 Brands"
+      ],
+      "h1": "Aclonica, lato",
+      "h1Style": "54px/400 ls=-2px tt=capitalize",
+      "h2": "Lato, lato",
+      "h2Style": "32px/600 ls=normal tt=none",
+      "body": "Lato, lato",
+      "bodyStyle": "18px/700 ls=normal tt=none",
+      "nav": "Lato, lato",
+      "button": "Lato, lato"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 7159050",
+       "rgb(247, 249, 251) 2979720",
+       "rgb(0, 0, 0) 2016000",
+       "rgb(195, 191, 179) 789120",
+       "rgb(24, 21, 21) 627683",
+       "rgb(247, 245, 240) 352183",
+       "rgb(231, 230, 228) 194108",
+       "rgb(78, 73, 61) 179255"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 34",
+       "rgb(34, 38, 41) 34",
+       "rgb(33, 33, 33) 16",
+       "rgb(255, 255, 255) 13",
+       "rgb(63, 72, 31) 13",
+       "rgb(24, 99, 220) 5"
+      ]
+     },
+     "images": {
+      "count": 9,
+      "alts": [
+       "Nature Responsible Logo"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [
+       "3px 3",
+       "6px 2",
+       "1px 2"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5861,
+    "requests": 219,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://natureresponsiblesafari.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 4723,
+    "lcpMs": 2476,
+    "perf": {
+     "ttfb": 274,
+     "domContentLoaded": 361,
+     "perfApiTransferKB": 6257,
+     "resources": 139
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://natureresponsiblesafari.com/",
+     "title": "Tanzania Kenya Uganda and Rwanda African Safaris - Nature Responsible Safaris",
+     "docHeight": 12846,
+     "nav": [
+      "+255 767 773 877",
+      "request@natureresponsiblesafari.com",
+      "SAFARIS",
+      "DESTINATIONS",
+      "COMMUNITY PROJECTS",
+      "ABOUT US",
+      "FAQ’S",
+      "VERSION FRANÇAISE"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Safari Experts Made Easy With Us!",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "HELP ME PLAN MY TRIP",
+        2
+       ],
+       [
+        "request@natureresponsiblesafari.com",
+        1
+       ],
+       [
+        "Help Me Plan My Safari",
+        1
+       ],
+       [
+        "view all Frequently Asked Questions",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "request@natureresponsiblesafari.com"
+      ]
+     },
+     "forms": [],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 767 773 877",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "request@natureresponsiblesafari.com%20%20%20%20"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "TATO",
+       "text": "Tanzania Association of Tour Operators (TATO)",
+       "where": "body"
+      },
+      {
+       "match": "TATO",
+       "text": "WHAT IS TATO?",
+       "where": "body"
+      },
+      {
+       "match": "Tripadvisor",
+       "text": "We’ll go on a journey together. Below are the awards for 2025 , 2024 and 2023 Traveller’s Choice Awards by Tripadvisor",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "tripadvisor-travelers-choice-2023-best-of-best1335.logowik.c",
+       "where": "body"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Font Awesome 5 Free",
+       "Lato",
+       "elementskit"
+      ],
+      "h1": "Lato, lato",
+      "h1Style": "25px/700 ls=normal tt=capitalize",
+      "h2": "Lato, lato",
+      "h2Style": "32px/600 ls=normal tt=none",
+      "body": "Lato, lato",
+      "bodyStyle": "22px/500 ls=normal tt=none",
+      "nav": "Lato, lato",
+      "button": "Lato, lato"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 1561600",
+       "rgb(247, 249, 251) 351134",
+       "rgb(63, 72, 31) 295647",
+       "rgba(0, 0, 0, 0.41) 258960",
+       "rgba(255, 255, 255, 0) 100980",
+       "rgb(231, 230, 228) 67781",
+       "rgb(134, 194, 50) 35313"
+      ],
+      "textByCount": [
+       "rgb(204, 51, 102) 34",
+       "rgb(34, 38, 41) 28",
+       "rgb(255, 255, 255) 14",
+       "rgb(51, 51, 51) 14",
+       "rgb(63, 72, 31) 13",
+       "rgb(105, 114, 125) 4"
+      ]
+     },
+     "images": {
+      "count": 9,
+      "alts": [
+       "Nature Responsible Logo"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7524,
+    "requests": 248,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://natureresponsiblesafari.com/our-bestseller-6-days-tanzania-safari/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 2552,
+    "lcpMs": 2072,
+    "perf": {
+     "ttfb": 344,
+     "domContentLoaded": 2057,
+     "perfApiTransferKB": 1196,
+     "resources": 51
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://natureresponsiblesafari.com/our-bestseller-6-days-tanzania-safari/",
+     "title": "Our Bestseller ( 6 Days Tanzania Safari ) - Nature Responsible Safaris",
+     "docHeight": 7969,
+     "nav": [
+      "+255 767 773 877",
+      "request@natureresponsiblesafari.com",
+      "SAFARIS",
+      "DESTINATIONS",
+      "COMMUNITY PROJECTS",
+      "ABOUT US",
+      "FAQ’S",
+      "VERSION FRANÇAISE"
+     ],
+     "h1": [
+      {
+       "text": "Thank you for giving us a chance to be part of your safari experience in Tanzania",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "request@natureresponsiblesafari.com",
+        1
+       ],
+       [
+        "Plan Your Next Trip here",
+        1
+       ],
+       [
+        "HELP ME PLAN MY TRIP",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "request@natureresponsiblesafari.com"
+      ]
+     },
+     "forms": [],
+     "iframes": [
+      "https://form.jotform.com/241961335320551?parentURL=https%3A%2F%2Fnatureresponsiblesafari.com%2Four-bestseller-6-days-tanzania-safari%2F&jsFo",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9237616013814893&output=html&adk=1812271804&adf=3025194257&abgtt=7&lmt=17930074",
+      "https://www.google.com/recaptcha/api2/aframe",
+      "https://googleads.g.doubleclick.net/pagead/html/r20261020/r20190131/zrt_lookup.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "tawk": "script/iframe",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 767 773 877",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "request@natureresponsiblesafari.com%20%20%20%20"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "cky-consent-container cky-box-bottom-left",
+        "pos": "fixed",
+        "top": 626,
+        "bottom": 40,
+        "h": 234,
+        "w": 440,
+        "text": "We value your privacy Nature Responsible Safari uses cookies to enhance your browsing experience, se"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Font Awesome 5 Brands",
+       "Font Awesome 5 Free",
+       "Lato",
+       "EB Garamond",
+       "Karla"
+      ],
+      "h1": "\"EB Garamond\", lato",
+      "h1Style": "20px/500 ls=normal tt=none",
+      "h2": "\"EB Garamond\", lato",
+      "h2Style": "69px/500 ls=-2px tt=none",
+      "body": "Lato, lato",
+      "bodyStyle": "18px/700 ls=normal tt=none",
+      "nav": "Lato, lato",
+      "button": "Lato, lato"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 7159050",
+       "rgb(225, 225, 221) 5760000",
+       "rgb(238, 238, 238) 2487902",
+       "rgb(78, 73, 61) 1634014",
+       "rgb(156, 167, 118) 1545368",
+       "rgb(195, 191, 179) 789120",
+       "rgb(63, 72, 31) 76191",
+       "rgba(255, 255, 255, 0) 36394"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 42",
+       "rgb(88, 107, 106) 32",
+       "rgb(134, 194, 50) 17",
+       "rgb(34, 38, 41) 17",
+       "rgb(33, 33, 33) 16",
+       "rgb(63, 72, 31) 12"
+      ]
+     },
+     "images": {
+      "count": 3,
+      "alts": [
+       "Nature Responsible Logo"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "4px 8",
+       "6px 2",
+       "1px 2"
+      ],
+      "animAttrs": 8,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4389,
+    "requests": 171,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://natureresponsiblesafari.com/our-bestseller-6-days-tanzania-safari/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 4599,
+    "lcpMs": 4716,
+    "perf": {
+     "ttfb": 584,
+     "domContentLoaded": 2028,
+     "perfApiTransferKB": 3122,
+     "resources": 127
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://natureresponsiblesafari.com/our-bestseller-6-days-tanzania-safari/",
+     "title": "Our Bestseller ( 6 Days Tanzania Safari ) - Nature Responsible Safaris",
+     "docHeight": 13944,
+     "nav": [
+      "+255 767 773 877",
+      "request@natureresponsiblesafari.com",
+      "SAFARIS",
+      "DESTINATIONS",
+      "COMMUNITY PROJECTS",
+      "ABOUT US",
+      "FAQ’S",
+      "VERSION FRANÇAISE"
+     ],
+     "h1": [
+      {
+       "text": "Thank you for giving us a chance to be part of your safari experience in Tanzania",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "request@natureresponsiblesafari.com",
+        1
+       ],
+       [
+        "Plan Your Next Trip here",
+        1
+       ],
+       [
+        "HELP ME PLAN MY TRIP",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "request@natureresponsiblesafari.com"
+      ]
+     },
+     "forms": [],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 767 773 877",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "request@natureresponsiblesafari.com%20%20%20%20"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Font Awesome 5 Brands",
+       "Font Awesome 5 Free",
+       "Lato",
+       "EB Garamond",
+       "Karla",
+       "elementskit"
+      ],
+      "h1": "\"EB Garamond\", lato",
+      "h1Style": "42px/500 ls=normal tt=none",
+      "h2": "\"EB Garamond\", lato",
+      "h2Style": "42px/500 ls=-2px tt=none",
+      "body": "Lato, lato",
+      "bodyStyle": "21px/500 ls=normal tt=none",
+      "nav": "Lato, lato",
+      "button": "Lato, lato"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(238, 238, 238) 2114763",
+       "rgb(255, 255, 255) 1561600",
+       "rgb(225, 225, 221) 1560000",
+       "rgb(78, 73, 61) 570788",
+       "rgb(195, 191, 179) 533301",
+       "rgb(156, 167, 118) 396935",
+       "rgb(63, 72, 31) 295647",
+       "rgba(0, 0, 0, 0.41) 258960"
+      ],
+      "textByCount": [
+       "rgb(88, 107, 106) 32",
+       "rgb(0, 0, 0) 24",
+       "rgb(134, 194, 50) 17",
+       "rgb(34, 38, 41) 17",
+       "rgb(63, 72, 31) 12",
+       "rgb(255, 255, 255) 10"
+      ]
+     },
+     "images": {
+      "count": 3,
+      "alts": [
+       "Nature Responsible Logo"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "4px 8",
+       "1px 2"
+      ],
+      "animAttrs": 8,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5352,
+    "requests": 241,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://natureresponsiblesafari.com/help-me-plan-my-trip/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 1134,
+    "lcpMs": 1124,
+    "perf": {
+     "ttfb": 326,
+     "domContentLoaded": 448,
+     "perfApiTransferKB": 586,
+     "resources": 11
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://natureresponsiblesafari.com/help-me-plan-my-trip/",
+     "title": "HELP ME PLAN MY TRIP - Nature Responsible Safaris",
+     "docHeight": 3338,
+     "nav": [
+      "+255 767 773 877",
+      "request@natureresponsiblesafari.com",
+      "SAFARIS",
+      "DESTINATIONS",
+      "COMMUNITY PROJECTS",
+      "ABOUT US",
+      "FAQ’S",
+      "VERSION FRANÇAISE"
+     ],
+     "h1": [
+      {
+       "text": "Tour Reservation Form",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "request@natureresponsiblesafari.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "HELP ME PLAN MY TRIP",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "request@natureresponsiblesafari.com"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://submit.jotform.com/submit/232232936534556",
+       "id": "232232936534556",
+       "cls": "jotform-form",
+       "y": 127,
+       "fieldsTotal": 21,
+       "fieldsVisible": 16,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q9_fullName9[first]",
+         "label": "Full Name*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q9_fullName9[last]",
+         "label": "Last Name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "q10_email10",
+         "label": "E-mail*",
+         "placeholder": "ex: myname@example.com",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q31_fillIn",
+         "label": "Fill in your Country*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q12_phoneNumber12[area]",
+         "label": "Phone Number*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q12_phoneNumber12[phone]",
+         "label": "Phone Number",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q8_whenAre8[year]",
+         "label": "When are you planning to visit?*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q8_whenAre8[month]",
+         "label": "Month",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q8_whenAre8[day]",
+         "label": "Day",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q27_whenAre[year]",
+         "label": "When are you planning to return?*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q27_whenAre[month]",
+         "label": "Month",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q27_whenAre[day]",
+         "label": "Day",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "q43_howMany43",
+         "label": "How many days in a safari?*",
+         "placeholder": "e.g., 6 Days Safari",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q41_package",
+         "label": "Package",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "q4_whichTours[]",
+         "label": "Top Luxury",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "q34_whatIs[]",
+         "label": "From $1000 - $2000 Per person",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "q13_whoWill[]",
+         "label": "By Myself",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "q11_howMany",
+         "label": "How many people are in your group?*",
+         "placeholder": "ex: 23",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "q7_anythingElse7",
+         "label": "Anything else we should know about you?*",
+         "placeholder": "Type here...",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "q19_anySpecial",
+         "label": "Any special interest, other desires ?",
+         "placeholder": "Type here...",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "website",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9237616013814893&output=html&adk=1812271804&adf=3025194257&abgtt=7&lmt=17930034",
+      "https://googleads.g.doubleclick.net/pagead/html/r20261020/r20190131/zrt_lookup.html"
+     ],
+     "contact": {
+      "vendorHits": {
+       "tawk": "script/iframe",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 767 773 877",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "request@natureresponsiblesafari.com%20%20%20%20"
+      ],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "cky-consent-container cky-box-bottom-left",
+        "pos": "fixed",
+        "top": 626,
+        "bottom": 40,
+        "h": 234,
+        "w": 440,
+        "text": "We value your privacy Nature Responsible Safari uses cookies to enhance your browsing experience, se"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Font Awesome 5 Free",
+       "Lato",
+       "Inter",
+       "Font Awesome 5 Brands"
+      ],
+      "h1": "Lato, lato",
+      "h1Style": "32px/600 ls=normal tt=none",
+      "h2": null,
+      "h2Style": null,
+      "body": "Lato, lato",
+      "bodyStyle": "18px/700 ls=normal tt=none",
+      "nav": "Lato, lato",
+      "button": "Lato, lato"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(243, 243, 254) 4806360",
+       "rgb(244, 255, 223) 1720564",
+       "rgb(255, 255, 255) 1712166",
+       "rgb(195, 191, 179) 789120",
+       "rgb(78, 73, 61) 179255",
+       "rgb(63, 72, 31) 79520",
+       "rgba(255, 255, 255, 0) 36394",
+       "rgb(24, 99, 220) 15986"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 33",
+       "rgb(69, 84, 41) 29",
+       "rgb(33, 33, 33) 16",
+       "rgb(86, 102, 56) 15",
+       "rgb(220, 38, 38) 12",
+       "rgb(24, 99, 220) 5"
+      ]
+     },
+     "images": {
+      "count": 2,
+      "alts": [
+       "Tour Reservation Form Logo",
+       "Nature Responsible Logo"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 5",
+       "4px 3",
+       "6px 2",
+       "1px 2"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3473,
+    "requests": 189,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://natureresponsiblesafari.com/help-me-plan-my-trip/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 4747,
+    "lcpMs": 1088,
+    "perf": {
+     "ttfb": 452,
+     "domContentLoaded": 654,
+     "perfApiTransferKB": 1841,
+     "resources": 132
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://natureresponsiblesafari.com/help-me-plan-my-trip/",
+     "title": "HELP ME PLAN MY TRIP - Nature Responsible Safaris",
+     "docHeight": 4128,
+     "nav": [
+      "+255 767 773 877",
+      "request@natureresponsiblesafari.com",
+      "SAFARIS",
+      "DESTINATIONS",
+      "COMMUNITY PROJECTS",
+      "ABOUT US",
+      "FAQ’S",
+      "VERSION FRANÇAISE"
+     ],
+     "h1": [
+      {
+       "text": "Tour Reservation Form",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Tour Reservation Form Logo",
+        "src": "https://www.jotform.com/uploads/natureresponsible/form_files/Untitled-removebg-preview.64d760a24bd543.19841622.png"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "HELP ME PLAN MY TRIP",
+        2
+       ],
+       [
+        "request@natureresponsiblesafari.com",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ],
+       [
+        "Facebook-f",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "request@natureresponsiblesafari.com"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://submit.jotform.com/submit/232232936534556",
+       "id": "232232936534556",
+       "cls": "jotform-form",
+       "y": 190,
+       "fieldsTotal": 21,
+       "fieldsVisible": 16,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q9_fullName9[first]",
+         "label": "Full Name*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q9_fullName9[last]",
+         "label": "Last Name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "q10_email10",
+         "label": "E-mail*",
+         "placeholder": "ex: myname@example.com",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q31_fillIn",
+         "label": "Fill in your Country*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q12_phoneNumber12[area]",
+         "label": "Phone Number*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q12_phoneNumber12[phone]",
+         "label": "Phone Number",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q8_whenAre8[year]",
+         "label": "When are you planning to visit?*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q8_whenAre8[month]",
+         "label": "Month",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q8_whenAre8[day]",
+         "label": "Day",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q27_whenAre[year]",
+         "label": "When are you planning to return?*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q27_whenAre[month]",
+         "label": "Month",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "q27_whenAre[day]",
+         "label": "Day",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "q43_howMany43",
+         "label": "How many days in a safari?*",
+         "placeholder": "e.g., 6 Days Safari",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q41_package",
+         "label": "Package",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "q4_whichTours[]",
+         "label": "Top Luxury",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "q34_whatIs[]",
+         "label": "From $1000 - $2000 Per person",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "checkbox",
+         "name": "q13_whoWill[]",
+         "label": "By Myself",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "q11_howMany",
+         "label": "How many people are in your group?*",
+         "placeholder": "ex: 23",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "q7_anythingElse7",
+         "label": "Anything else we should know about you?*",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "q19_anySpecial",
+         "label": "Any special interest, other desires ?",
+         "placeholder": "",
+         "required": false,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "website",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 767 773 877",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [
+       "request@natureresponsiblesafari.com%20%20%20%20"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Font Awesome 5 Free",
+       "Lato",
+       "elementskit",
+       "Inter"
+      ],
+      "h1": "Lato, lato",
+      "h1Style": "32px/600 ls=normal tt=none",
+      "h2": null,
+      "h2Style": null,
+      "body": "Lato, lato",
+      "bodyStyle": "18px/400 ls=normal tt=none",
+      "nav": "Lato, lato",
+      "button": "Lato, lato"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(243, 243, 254) 1560000",
+       "rgb(244, 255, 223) 835824",
+       "rgb(63, 72, 31) 302500",
+       "rgba(0, 0, 0, 0.41) 258960",
+       "rgb(255, 255, 255) 206152",
+       "rgba(255, 255, 255, 0) 100980",
+       "rgb(243, 244, 247) 3200"
+      ],
+      "textByCount": [
+       "rgb(204, 51, 102) 30",
+       "rgb(69, 84, 41) 29",
+       "rgb(86, 102, 56) 15",
+       "rgb(220, 38, 38) 12",
+       "rgb(255, 255, 255) 8",
+       "rgb(44, 51, 69) 5"
+      ]
+     },
+     "images": {
+      "count": 2,
+      "alts": [
+       "Tour Reservation Form Logo",
+       "Nature Responsible Logo"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "3px 5",
+       "4px 3"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3980,
+    "requests": 234,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:42:45.963Z"
+}

@@ -1,0 +1,2914 @@
+{
+ "key": "roy",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://roysafaris.co.tz/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 5763,
+    "lcpMs": 3284,
+    "perf": {
+     "ttfb": 1198,
+     "domContentLoaded": 4388,
+     "perfApiTransferKB": 2709,
+     "resources": 109
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://roysafaris.co.tz/",
+     "title": "Tanzania Safari Tours & Holidays | Roy Safaris",
+     "docHeight": 4067,
+     "nav": [
+      "HOME",
+      "SAFARI & ZANZIBAR",
+      "WHERE TO GO",
+      "WHY ROY SAFARIS",
+      "GUIDES & FAQS",
+      "THE SERENGETI STORY",
+      "GALLERY",
+      "CONTACT",
+      "PERSONALISE MY SAFARI"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Safari Tours, Designed Around You",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+      ],
+      "sliders": [
+       "carousel slide",
+       "carousel-inner",
+       "carousel-item active"
+      ],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "CONTACT",
+        1
+       ],
+       [
+        "GET IN TOUCH",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACT"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://roysafaris.co.tz/#wpcf7-f5887-o1",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 3771,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "your-name",
+         "label": "",
+         "placeholder": "Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "your-email",
+         "label": "",
+         "placeholder": "Email Address",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/#wpcf7-f6356-o2",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 0,
+       "fieldsTotal": 20,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-586",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-949",
+         "label": "",
+         "placeholder": "Full Name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "tel-360",
+         "label": "",
+         "placeholder": "Phone number without country code",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-434",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-279",
+         "label": "",
+         "placeholder": "Address",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-619",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-688",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-474",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-588",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "SlowCont_Requiredsubject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "slowComments",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-306",
+         "label": "Fixed",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-731",
+         "label": "",
+         "placeholder": "Arrival point in E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-557",
+         "label": "",
+         "placeholder": "Departure point from E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-231",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-343",
+         "label": "Single",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-324",
+         "label": "Honeymoon",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-877",
+         "label": "",
+         "placeholder": "If anything else, please specify",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "Our Support - Your Peace of Mind We valu",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 745 182 923",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "top-fix",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 749,
+        "h": 151,
+        "w": 1440,
+        "text": "HOME SAFARI & ZANZIBAR WHERE TO GO WHY ROY SAFARIS GUIDES & FAQS THE SERENGETI STORY GALLERY CONTACT"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "woofc-count woofc-count-shake",
+        "pos": "fixed",
+        "top": 836,
+        "bottom": 10,
+        "h": 54,
+        "w": 54,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "gt_float_wrapper",
+        "cls": "",
+        "pos": "fixed",
+        "top": 829,
+        "bottom": 20,
+        "h": 51,
+        "w": 122,
+        "text": "EN"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "\"Great safari experience in Tanzania!\" October 24, 2026 - A Tripadvisor Traveler Read 2,043 reviews of Roy Safaris",
+       "where": "body"
+      },
+      {
+       "match": "Tripadvisor",
+       "text": "October 24, 2026 - A Tripadvisor Traveler",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Tripadvisor",
+       "src": "Tripadvisor_lockup_vertical.svg",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "transparent_pixel-17198-2.gif",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0ia",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2,043 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "bootstrap-icons",
+       "Cormorant Garamond",
+       "Playwrite ES Deco",
+       "Barlow",
+       "Barlow Condensed",
+       "dashicons"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "40px/500 ls=normal tt=none",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "46px/300 ls=normal tt=none",
+      "body": "\"Cormorant Garamond\"",
+      "bodyStyle": "30px/600 ls=0.3px tt=none",
+      "nav": "Barlow, sans-serif",
+      "button": "\"Barlow Condensed\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 250, 246) 5760000",
+       "rgb(251, 244, 233) 2977223",
+       "rgb(255, 255, 255) 1515200",
+       "rgb(53, 53, 53) 1400805",
+       "rgb(0, 0, 0) 351040",
+       "rgb(241, 241, 241) 87500",
+       "rgb(242, 234, 221) 25600",
+       "rgb(240, 138, 107) 19405"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 35",
+       "rgb(0, 0, 0) 26",
+       "rgb(17, 48, 31) 7",
+       "rgb(57, 57, 57) 6",
+       "rgb(102, 102, 102) 4",
+       "rgb(0, 43, 17) 4"
+      ]
+     },
+     "images": {
+      "count": 61,
+      "alts": [
+       "Rwanda",
+       "Tanzania",
+       "Kenya",
+       "Balloon Safari",
+       "Mountain Trekking",
+       "Bespoke Safaris",
+       "Serval Wildlife",
+       "Balloon Safari",
+       "Mountain Trekking",
+       "Bespoke Safaris",
+       "Serval Wildlife",
+       "Balloon Safari",
+       "Mountain Trekking",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " the wildebeeste migration",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " tanzania serengeti plains",
+       " ",
+       " ",
+       " ",
+       " ",
+       " "
+      ]
+     },
+     "slop": {
+      "eyebrows": 13,
+      "eyebrowEx": [
+       "Personalise my Safari",
+       "Choose Destination",
+       "By Traveller",
+       "View Details",
+       "View Details",
+       "View Details"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© 2026 All Rights Reserved | Roy Safaris Ltd"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 4,
+      "radii": [
+       "12px 4"
+      ],
+      "animAttrs": 32,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 11731,
+    "requests": 184,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://roysafaris.co.tz/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 5242,
+    "lcpMs": 2388,
+    "perf": {
+     "ttfb": 543,
+     "domContentLoaded": 3905,
+     "perfApiTransferKB": 2198,
+     "resources": 105
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://roysafaris.co.tz/",
+     "title": "Tanzania Safari Tours & Holidays | Roy Safaris",
+     "docHeight": 5038,
+     "nav": [
+      "PERSONALISE MY SAFARI"
+     ],
+     "h1": [
+      {
+       "text": "Tanzania Safari Tours, Designed Around You",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "GET IN TOUCH",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "GET IN TOUCH"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://roysafaris.co.tz/#wpcf7-f5887-o1",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 4810,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "your-name",
+         "label": "",
+         "placeholder": "Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "your-email",
+         "label": "",
+         "placeholder": "Email Address",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/#wpcf7-f6356-o2",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 0,
+       "fieldsTotal": 20,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-586",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-949",
+         "label": "",
+         "placeholder": "Full Name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "tel-360",
+         "label": "",
+         "placeholder": "Phone number without country code",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-434",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-279",
+         "label": "",
+         "placeholder": "Address",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-619",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-688",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-474",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-588",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "SlowCont_Requiredsubject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "slowComments",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-306",
+         "label": "Fixed",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-731",
+         "label": "",
+         "placeholder": "Arrival point in E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-557",
+         "label": "",
+         "placeholder": "Departure point from E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-231",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-343",
+         "label": "Single",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-324",
+         "label": "Honeymoon",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-877",
+         "label": "",
+         "placeholder": "If anything else, please specify",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "Our Support - Your Peace of Mind We valu",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 745 182 923",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "top-fix",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 594,
+        "h": 70,
+        "w": 390,
+        "text": "PERSONALISE MY SAFARI"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "woofc-count woofc-count-shake",
+        "pos": "fixed",
+        "top": 616,
+        "bottom": 10,
+        "h": 38,
+        "w": 38,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "gt_float_wrapper",
+        "cls": "",
+        "pos": "fixed",
+        "top": 593,
+        "bottom": 20,
+        "h": 51,
+        "w": 122,
+        "text": "EN"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "\"Great safari experience in Tanzania!\" October 24, 2026 - A Tripadvisor Traveler Read 2,043 reviews of Roy Safaris",
+       "where": "body"
+      },
+      {
+       "match": "Tripadvisor",
+       "text": "October 24, 2026 - A Tripadvisor Traveler",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Tripadvisor",
+       "src": "Tripadvisor_lockup_vertical.svg",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "transparent_pixel-17198-2.gif",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "triplogoof.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2,043 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "bootstrap-icons",
+       "Cormorant Garamond",
+       "Playwrite ES Deco",
+       "Barlow",
+       "Barlow Condensed"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "27.85px/500 ls=normal tt=none",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "23px/700 ls=normal tt=none",
+      "body": "\"Cormorant Garamond\"",
+      "bodyStyle": "20px/600 ls=normal tt=none",
+      "nav": "Barlow, sans-serif",
+      "button": "Barlow, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 250, 246) 1560000",
+       "rgb(251, 244, 233) 1214046",
+       "rgb(53, 53, 53) 752413",
+       "rgb(0, 0, 0) 276100",
+       "rgb(255, 255, 255) 205712",
+       "rgb(255, 249, 239) 138377",
+       "rgb(242, 234, 221) 25600",
+       "rgb(240, 138, 107) 11240"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 25",
+       "rgb(17, 48, 31) 7",
+       "rgb(57, 57, 57) 6",
+       "rgb(0, 43, 17) 4",
+       "rgb(4, 4, 4) 3",
+       "rgb(240, 138, 107) 2"
+      ]
+     },
+     "images": {
+      "count": 59,
+      "alts": [
+       "Rwanda",
+       "Tanzania",
+       "Kenya",
+       "Mountain Trekking",
+       "Bespoke Safaris",
+       "Serval Wildlife",
+       "Balloon Safari",
+       "Mountain Trekking",
+       "Bespoke Safaris",
+       "Serval Wildlife",
+       "Balloon Safari",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " the wildebeeste migration",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " tanzania serengeti plains",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " ",
+       " "
+      ]
+     },
+     "slop": {
+      "eyebrows": 11,
+      "eyebrowEx": [
+       "Get in touch",
+       "Choose Destination",
+       "By Traveller",
+       "View Details",
+       "View Details",
+       "View Details"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© 2026 All Rights Reserved | Roy Safaris Ltd"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 4,
+      "radii": [
+       "12px 4"
+      ],
+      "animAttrs": 30,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 10450,
+    "requests": 181,
+    "shotCappedAt": null
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 8685,
+    "lcpMs": 3772,
+    "perf": {
+     "ttfb": 1890,
+     "domContentLoaded": 6700,
+     "perfApiTransferKB": 2357,
+     "resources": 96
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/",
+     "title": "7 Day Hakuna Matata Safari | Arusha Tarangire Serengeti Ngorongoro",
+     "docHeight": 5048,
+     "nav": [
+      "HOME",
+      "SAFARI & ZANZIBAR",
+      "WHERE TO GO",
+      "WHY ROY SAFARIS",
+      "GUIDES & FAQS",
+      "THE SERENGETI STORY",
+      "GALLERY",
+      "CONTACT",
+      "PERSONALISE MY SAFARI"
+     ],
+     "h1": [
+      {
+       "text": "7 Day Hakuna Matata Safari – Arusha, Tarangire, Serengeti & Ngorongoro",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "CONTACT",
+        1
+       ],
+       [
+        "BOOK NOW",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACT",
+       "BOOK NOW"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/#wpcf7-f5887-o1",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 4753,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "your-name",
+         "label": "",
+         "placeholder": "Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "your-email",
+         "label": "",
+         "placeholder": "Email Address",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/#wpcf7-f6356-o2",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 0,
+       "fieldsTotal": 20,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-586",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-949",
+         "label": "",
+         "placeholder": "Full Name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "tel-360",
+         "label": "",
+         "placeholder": "Phone number without country code",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-434",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-279",
+         "label": "",
+         "placeholder": "Address",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-619",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-688",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-474",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-588",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "SlowCont_Requiredsubject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "slowComments",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-306",
+         "label": "Fixed",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-731",
+         "label": "",
+         "placeholder": "Arrival point in E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-557",
+         "label": "",
+         "placeholder": "Departure point from E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-231",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-343",
+         "label": "Single",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-324",
+         "label": "Honeymoon",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-877",
+         "label": "",
+         "placeholder": "If anything else, please specify",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0",
+      "https://www.google.com/maps/d/u/0/embed?mid=13CRePuG014aW40W-TvydMRWLo380t7Q&ehbc=2E312F",
+      "https://wetu.com/Itinerary/Landing/d9d87909-0661-4222-96d4-24cab526c4c6"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "elfsight": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 745 182 923",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "top-fix",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 749,
+        "h": 151,
+        "w": 1440,
+        "text": "HOME SAFARI & ZANZIBAR WHERE TO GO WHY ROY SAFARIS GUIDES & FAQS THE SERENGETI STORY GALLERY CONTACT"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "woofc-count woofc-count-shake",
+        "pos": "fixed",
+        "top": 836,
+        "bottom": 10,
+        "h": 54,
+        "w": 54,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "gt_float_wrapper",
+        "cls": "",
+        "pos": "fixed",
+        "top": 829,
+        "bottom": 20,
+        "h": 51,
+        "w": 122,
+        "text": "EN"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Tripadvisor",
+       "src": "triplogoof.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "bootstrap-icons",
+       "Cormorant Garamond",
+       "Barlow",
+       "Barlow Condensed",
+       "dashicons"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "46px/700 ls=normal tt=none",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "25px/600 ls=normal tt=none",
+      "body": "Barlow, sans-serif",
+      "bodyStyle": "18px/400 ls=0.3px tt=none",
+      "nav": "Barlow, sans-serif",
+      "button": "\"Barlow Condensed\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 250, 246) 5760000",
+       "rgb(255, 255, 255) 2055390",
+       "rgba(43, 43, 43, 0.9) 1296000",
+       "rgb(53, 53, 53) 829373",
+       "rgba(0, 0, 0, 0.8) 807615",
+       "rgb(241, 241, 241) 87500",
+       "rgb(247, 247, 247) 12542",
+       "rgb(240, 138, 107) 11493"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 56",
+       "rgb(0, 0, 0) 26",
+       "rgb(57, 57, 57) 16",
+       "rgb(75, 27, 27) 8",
+       "rgb(37, 11, 16) 7",
+       "rgb(36, 36, 36) 7"
+      ]
+     },
+     "images": {
+      "count": 11,
+      "alts": [
+       "Every Tanzania story doesn’t begin in the bush.   Some begin among carved doo...",
+       "Where the mountains meet the lake.  Mahale is Tanzania’s wild luxury escape  ...",
+       "Luxury safari isn’t about the champagne.  It’s about never having to ask, “Wh...",
+       "Lions have a pretty good work-life balance. 😂  Hunt. Eat. Rest. Repeat.  Pre...",
+       "Some safaris are designed to be discovered.   Mahale takes you deep into remo...",
+       "Your safari starts long before the first game drive. 🦁  Behind every great T...",
+       "A country worth protecting. A wilderness worth celebrating.  Today we remembe...",
+       "October light hits different.   Golden hours, wild landscapes and Tanzania sh...",
+       "The lion gets the headline, the little guys steal the story.   Servals. Honey...",
+       "Everyone comes for the lions, few come for the chimpanzees.   Gombe takes you..."
+      ]
+     },
+     "slop": {
+      "eyebrows": 2,
+      "eyebrowEx": [
+       "Personalise my Safari",
+       "Book Now"
+      ],
+      "dots": 2,
+      "dotEx": [
+       "Roy Safaris | Tanzania Safari Specialists",
+       "© 2026 All Rights Reserved | Roy Safaris Ltd"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 5,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 10749,
+    "requests": 256,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 5945,
+    "lcpMs": 2212,
+    "perf": {
+     "ttfb": 555,
+     "domContentLoaded": 3650,
+     "perfApiTransferKB": 2180,
+     "resources": 94
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/",
+     "title": "7 Day Hakuna Matata Safari | Arusha Tarangire Serengeti Ngorongoro",
+     "docHeight": 5386,
+     "nav": [
+      "PERSONALISE MY SAFARI"
+     ],
+     "h1": [
+      {
+       "text": "7 Day Hakuna Matata Safari – Arusha, Tarangire, Serengeti & Ngorongoro",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "BOOK NOW",
+        1
+       ],
+       [
+        "Submit",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "BOOK NOW"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/#wpcf7-f5887-o1",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 5158,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "your-name",
+         "label": "",
+         "placeholder": "Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "your-email",
+         "label": "",
+         "placeholder": "Email Address",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/itineraries/7-day-hakuna-matata-safari-arusha-tarangire-serengeti-ngorongoro/#wpcf7-f6356-o2",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 0,
+       "fieldsTotal": 20,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-586",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-949",
+         "label": "",
+         "placeholder": "Full Name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "tel-360",
+         "label": "",
+         "placeholder": "Phone number without country code",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-434",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-279",
+         "label": "",
+         "placeholder": "Address",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-619",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-688",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-474",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-588",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "SlowCont_Requiredsubject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "slowComments",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-306",
+         "label": "Fixed",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-731",
+         "label": "",
+         "placeholder": "Arrival point in E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-557",
+         "label": "",
+         "placeholder": "Departure point from E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-231",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-343",
+         "label": "Single",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-324",
+         "label": "Honeymoon",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-877",
+         "label": "",
+         "placeholder": "If anything else, please specify",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0",
+      "https://www.google.com/maps/d/u/0/embed?mid=13CRePuG014aW40W-TvydMRWLo380t7Q&ehbc=2E312F",
+      "https://wetu.com/Itinerary/Landing/d9d87909-0661-4222-96d4-24cab526c4c6"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "elfsight": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 745 182 923",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [],
+      "mail": [],
+      "phrases": [],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "top-fix",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 594,
+        "h": 70,
+        "w": 390,
+        "text": "PERSONALISE MY SAFARI"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "woofc-count woofc-count-shake",
+        "pos": "fixed",
+        "top": 616,
+        "bottom": 10,
+        "h": 38,
+        "w": 38,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "gt_float_wrapper",
+        "cls": "",
+        "pos": "fixed",
+        "top": 593,
+        "bottom": 20,
+        "h": 51,
+        "w": 122,
+        "text": "EN"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Tripadvisor",
+       "src": "triplogoof.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "bootstrap-icons",
+       "Cormorant Garamond",
+       "Barlow",
+       "Barlow Condensed"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "22px/700 ls=normal tt=none",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "16px/600 ls=normal tt=none",
+      "body": "Barlow, sans-serif",
+      "bodyStyle": "15px/400 ls=normal tt=none",
+      "nav": "Barlow, sans-serif",
+      "button": "Barlow, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 250, 246) 1560000",
+       "rgb(53, 53, 53) 408098",
+       "rgb(255, 255, 255) 381176",
+       "rgba(43, 43, 43, 0.9) 258960",
+       "rgba(0, 0, 0, 0.8) 135420",
+       "rgb(248, 248, 248) 18720",
+       "rgb(240, 138, 107) 11869",
+       "rgb(247, 247, 247) 7792"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 26",
+       "rgb(57, 57, 57) 16",
+       "rgb(75, 27, 27) 8",
+       "rgb(37, 11, 16) 7",
+       "rgb(36, 36, 36) 7",
+       "rgb(33, 37, 41) 3"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 8,
+      "eyebrowEx": [
+       "Book Now",
+       "Day 1",
+       "Day 2",
+       "Day 3",
+       "Day 4",
+       "Day 5"
+      ],
+      "dots": 2,
+      "dotEx": [
+       "Roy Safaris | Tanzania Safari Specialists",
+       "© 2026 All Rights Reserved | Roy Safaris Ltd"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [],
+      "animAttrs": 5,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 8486,
+    "requests": 229,
+    "shotCappedAt": null
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://roysafaris.co.tz/contact-us/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 5613,
+    "lcpMs": 2408,
+    "perf": {
+     "ttfb": 747,
+     "domContentLoaded": 3775,
+     "perfApiTransferKB": 2357,
+     "resources": 94
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://roysafaris.co.tz/contact-us/",
+     "title": "Contact Roy Safaris | Tanzania Safari Experts In Arusha",
+     "docHeight": 2083,
+     "nav": [
+      "HOME",
+      "SAFARI & ZANZIBAR",
+      "WHERE TO GO",
+      "WHY ROY SAFARIS",
+      "GUIDES & FAQS",
+      "THE SERENGETI STORY",
+      "GALLERY",
+      "CONTACT",
+      "PERSONALISE MY SAFARI"
+     ],
+     "h1": [
+      {
+       "text": "Contact Roy Safaris",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Submit",
+        2
+       ],
+       [
+        "CONTACT",
+        1
+       ],
+       [
+        "enquiries@roysafaris.co.tz",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACT"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://roysafaris.co.tz/contact-us/#wpcf7-f1413-o1",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 958,
+       "fieldsTotal": 7,
+       "fieldsVisible": 7,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "FristName",
+         "label": "",
+         "placeholder": "First Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "LastName",
+         "label": "",
+         "placeholder": "Last Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "Phone",
+         "label": "",
+         "placeholder": "Phone",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-610",
+         "label": "",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "Subject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-702",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/contact-us/#wpcf7-f5887-o3",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 1788,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "your-name",
+         "label": "",
+         "placeholder": "Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "your-email",
+         "label": "",
+         "placeholder": "Email Address",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/contact-us/#wpcf7-f6356-o4",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 0,
+       "fieldsTotal": 20,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-586",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-949",
+         "label": "",
+         "placeholder": "Full Name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "tel-360",
+         "label": "",
+         "placeholder": "Phone number without country code",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-434",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-279",
+         "label": "",
+         "placeholder": "Address",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-619",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-688",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-474",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-588",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "SlowCont_Requiredsubject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "slowComments",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-306",
+         "label": "Fixed",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-731",
+         "label": "",
+         "placeholder": "Arrival point in E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-557",
+         "label": "",
+         "placeholder": "Departure point from E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-231",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-343",
+         "label": "Single",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-324",
+         "label": "Honeymoon",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-877",
+         "label": "",
+         "placeholder": "If anything else, please specify",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 745 182 923",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 745 182 923",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 27 297 0713/4/5 (Office Hours)",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "enquiries@roysafaris.co.tz"
+      ],
+      "phrases": [
+       "whatsapp"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "top-fix",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 749,
+        "h": 151,
+        "w": 1440,
+        "text": "HOME SAFARI & ZANZIBAR WHERE TO GO WHY ROY SAFARIS GUIDES & FAQS THE SERENGETI STORY GALLERY CONTACT"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "woofc-count woofc-count-shake",
+        "pos": "fixed",
+        "top": 836,
+        "bottom": 10,
+        "h": 54,
+        "w": 54,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "gt_float_wrapper",
+        "cls": "",
+        "pos": "fixed",
+        "top": 829,
+        "bottom": 20,
+        "h": 51,
+        "w": 122,
+        "text": "EN"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Tripadvisor",
+       "src": "triplogoof.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "4/5 (Office Hours) +255 745 182 923 enquiries@roysafaris"
+     ],
+     "fonts": {
+      "loaded": [
+       "bootstrap-icons",
+       "Cormorant Garamond",
+       "Barlow",
+       "Barlow Condensed",
+       "dashicons"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "40px/500 ls=normal tt=none",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "46px/300 ls=normal tt=none",
+      "body": "Barlow, sans-serif",
+      "bodyStyle": "18px/400 ls=0.3px tt=none",
+      "nav": "Barlow, sans-serif",
+      "button": "Barlow, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 250, 246) 2998845",
+       "rgb(53, 53, 53) 829373",
+       "rgb(255, 255, 255) 781368",
+       "rgb(249, 249, 249) 178270",
+       "rgb(241, 241, 241) 87500",
+       "rgb(240, 138, 107) 17524",
+       "rgb(255, 190, 61) 3504",
+       "rgb(63, 191, 63) 2916"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 29",
+       "rgb(255, 255, 255) 14",
+       "rgb(119, 135, 158) 7",
+       "rgb(102, 102, 102) 4",
+       "rgb(17, 48, 31) 4",
+       "rgb(240, 138, 107) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 1,
+      "eyebrowEx": [
+       "Personalise my Safari"
+      ],
+      "dots": 1,
+      "dotEx": [
+       "© 2026 All Rights Reserved | Roy Safaris Ltd"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "6px 1"
+      ],
+      "animAttrs": 5,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 7257,
+    "requests": 164,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://roysafaris.co.tz/contact-us/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 5379,
+    "lcpMs": 2004,
+    "perf": {
+     "ttfb": 477,
+     "domContentLoaded": 3297,
+     "perfApiTransferKB": 2179,
+     "resources": 94
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://roysafaris.co.tz/contact-us/",
+     "title": "Contact Roy Safaris | Tanzania Safari Experts In Arusha",
+     "docHeight": 2545,
+     "nav": [
+      "PERSONALISE MY SAFARI"
+     ],
+     "h1": [
+      {
+       "text": "Contact Roy Safaris",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+      ],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Submit",
+        2
+       ],
+       [
+        "enquiries@roysafaris.co.tz",
+        1
+       ]
+      ],
+      "aboveFold": []
+     },
+     "forms": [
+      {
+       "action": "https://roysafaris.co.tz/contact-us/#wpcf7-f1413-o1",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 892,
+       "fieldsTotal": 7,
+       "fieldsVisible": 7,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "FristName",
+         "label": "",
+         "placeholder": "First Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "LastName",
+         "label": "",
+         "placeholder": "Last Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "Phone",
+         "label": "",
+         "placeholder": "Phone",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-610",
+         "label": "",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "Subject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-702",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/contact-us/#wpcf7-f5887-o3",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 2317,
+       "fieldsTotal": 2,
+       "fieldsVisible": 2,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "your-name",
+         "label": "",
+         "placeholder": "Name",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "your-email",
+         "label": "",
+         "placeholder": "Email Address",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      },
+      {
+       "action": "https://roysafaris.co.tz/contact-us/#wpcf7-f6356-o4",
+       "id": "",
+       "cls": "wpcf7-form init",
+       "y": 0,
+       "fieldsTotal": 20,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-586",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-949",
+         "label": "",
+         "placeholder": "Full Name",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country-code",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "tel-360",
+         "label": "",
+         "placeholder": "Phone number without country code",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email-434",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "country",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-279",
+         "label": "",
+         "placeholder": "Address",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-619",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "number",
+         "name": "number-688",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-474",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "date",
+         "name": "date-588",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "SlowCont_Requiredsubject",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "slowComments",
+         "label": "",
+         "placeholder": "Tell us a few words",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-306",
+         "label": "Fixed",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-731",
+         "label": "",
+         "placeholder": "Arrival point in E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "text-557",
+         "label": "",
+         "placeholder": "Departure point from E.Africa",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "select-231",
+         "label": "",
+         "placeholder": "",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-343",
+         "label": "Single",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "radio",
+         "name": "radio-324",
+         "label": "Honeymoon",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "textarea",
+         "type": "textarea",
+         "name": "textarea-877",
+         "label": "",
+         "placeholder": "If anything else, please specify",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Submit"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://www.youtube.com/embed/dXnS16Yy0jA?feature=oembed&autoplay=1&mute=1&loop=1&playlist=dXnS16Yy0jA&rel=0"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "+255 745 182 923",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 745 182 923",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 27 297 0713/4/5 (Office Hours)",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "enquiries@roysafaris.co.tz"
+      ],
+      "phrases": [
+       "whatsapp"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "top-fix",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 594,
+        "h": 70,
+        "w": 390,
+        "text": "PERSONALISE MY SAFARI"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "woofc-count woofc-count-shake",
+        "pos": "fixed",
+        "top": 616,
+        "bottom": 10,
+        "h": 38,
+        "w": 38,
+        "text": ""
+       },
+       {
+        "tag": "div",
+        "id": "gt_float_wrapper",
+        "cls": "",
+        "pos": "fixed",
+        "top": 593,
+        "bottom": 20,
+        "h": 51,
+        "w": 122,
+        "text": "EN"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "Tripadvisor",
+       "src": "triplogoof.png",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "4/5 (Office Hours) +255 745 182 923 enquiries@roysafaris"
+     ],
+     "fonts": {
+      "loaded": [
+       "bootstrap-icons",
+       "Cormorant Garamond",
+       "Barlow"
+      ],
+      "h1": "\"Cormorant Garamond\", sans-serif",
+      "h1Style": "27.85px/500 ls=normal tt=none",
+      "h2": "\"Cormorant Garamond\", sans-serif",
+      "h2Style": "23px/700 ls=normal tt=none",
+      "body": "Barlow, sans-serif",
+      "bodyStyle": "15px/400 ls=normal tt=none",
+      "nav": "Barlow, sans-serif",
+      "button": "Barlow, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 250, 246) 992398",
+       "rgb(53, 53, 53) 408098",
+       "rgb(249, 249, 249) 113099",
+       "rgb(255, 255, 255) 30315",
+       "rgb(240, 138, 107) 16041",
+       "rgb(255, 190, 61) 3504",
+       "rgb(58, 85, 159) 1600",
+       "rgb(0, 0, 0) 1600"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 8",
+       "rgb(119, 135, 158) 7",
+       "rgb(17, 48, 31) 4",
+       "rgb(0, 0, 0) 3",
+       "rgb(57, 57, 57) 1",
+       "rgb(51, 51, 51) 1"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "© 2026 All Rights Reserved | Roy Safaris Ltd"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "6px 1"
+      ],
+      "animAttrs": 5,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6918,
+    "requests": 159,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:44:32.795Z"
+}

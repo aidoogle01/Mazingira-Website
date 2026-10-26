@@ -1,6 +1,6 @@
 {
  "key": "wilderness",
- "captured": "2026-10-26T13:18:11.961Z",
+ "captured": "2026-10-26T13:47:15.379Z",
  "pages": {
   "home": {
    "desktop": {
@@ -1917,6 +1917,705 @@
     "transferKB_afterScroll": 3548,
     "requests": 145,
     "shotCappedAt": null
+   }
+  },
+  "enquiry": {
+   "desktop": {
+    "url": "https://www.wildernessdestinations.com/?_enquiry=1",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 14516,
+    "lcpMs": 6188,
+    "perf": {
+     "ttfb": 584,
+     "domContentLoaded": 3549,
+     "perfApiTransferKB": 4102,
+     "resources": 163
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/?_enquiry=1",
+     "title": "Wilderness | Award-Winning Luxury Safaris",
+     "docHeight": 900,
+     "nav": [
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "BOTSWANA",
+      "KENYA",
+      "NAMIBIA",
+      "RWANDA",
+      "SOUTH AFRICA",
+      "TANZANIA",
+      "ZAMBIA",
+      "ZIMBABWE",
+      "Mombo Okavango Delta, Botswana",
+      "Mara Masai Mara, Kenya",
+      "Usawa Serengeti Serengeti, Tanzania",
+      "Little Kulala Sossusvlei, Namibia",
+      "Linkwasha Hwange, Zimbabwe",
+      "BISATE LODGE",
+      "MOMBO CAMP",
+      "WILDERNESS MARA",
+      "MAGASHI PENINSULA",
+      "USAWA CAMP",
+      "LITTLE KULALA",
+      "LINKWASHA CAMP",
+      "Linyanti",
+      "Okavango Delta",
+      "The Mababe Depression",
+      "Masai Mara",
+      "Damaraland",
+      "Etosha National Park",
+      "Kunene",
+      "Sossusvlei",
+      "Akagera National Park",
+      "Volcanoes National Park",
+      "Cape Peninsula",
+      "Culture & food",
+      "The Cape Winelands",
+      "Serengeti",
+      "Kafue National Park",
+      "Mosi-oa-Tunya",
+      "Hwange",
+      "Mana Pools",
+      "Gorilla Trekking",
+      "Game Drives",
+      "Guided Quad Biking",
+      "Rhino Tracking",
+      "Helicopter Safari",
+      "Star Beds",
+      "Night Game Drives",
+      "Boat Safari",
+      "The Sanctuary at Mombo",
+      "The Sanctuary at Bisate",
+      "Guided Walking Safaris",
+      "Desert E-biking",
+      "Local Culture",
+      "Conservation Experience",
+      "Tailor-made Journeys",
+      "Family Journeys",
+      "Group Journeys",
+      "Solo Journeys",
+      "Couples Journeys",
+      "Journeys for Seniors",
+      "Private Journeys",
+      "Journey Planning",
+      "Our Services",
+      "Stories of Change",
+      "Educate",
+      "Empower",
+      "Protect",
+      "Our awards",
+      "Our story",
+      "Our partnerships",
+      "The Wilderness Family",
+      "Wilderness24",
+      "Meet our Safari Specialists",
+      "Press room"
+     ],
+     "h1": [
+      {
+       "text": "WILDERNESS",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe"
+      ],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Wilderness Mombo Botswana Delta Channel",
+        "src": "https://www.wildernessdestinations.com/media/gpzgtmrn/mombo-gallery-delta-channel.jpg?rmode=crop&height=809&format=webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "Tailor-made Journeys",
+        1
+       ],
+       [
+        "Journey Planning",
+        1
+       ],
+       [
+        "PLAN YOUR SAFARI",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE NOW",
+       "Tailor-made Journeys",
+       "Journey Planning"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/?_enquiry=1",
+       "id": "",
+       "cls": "",
+       "y": 12250,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://15136161.fls.doubleclick.net/activityi;src=15136161;type=invmedia;cat=wldplan;rcb=13;ord=1;num=6725759234205;npa=0;gdid=dY2Q2ZW;uaa=",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "calendly": "mentioned-in-html",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "talk to"
+      ],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler Wilderness Bisate Reserve - Best New Hotels in the World",
+       "where": "bottom"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler",
+       "where": "bottom"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure Wilderness Bisate Reserve - Best New Luxury Hotels",
+       "where": "bottom"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure",
+       "where": "bottom"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Read more reviews on Trustpilot",
+       "where": "bottom"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "",
+       "src": "mens-journal-travel-awards-2025.png?rmode=crop&width=288&hei",
+       "where": "bottom"
+      },
+      {
+       "alt": "",
+       "src": "world-travel-awards-2025.png?rmode=crop&width=288&height=162",
+       "where": "bottom"
+      },
+      {
+       "alt": "",
+       "src": "town-country-awards-2025.png?rmode=crop&width=288&height=162",
+       "where": "bottom"
+      },
+      {
+       "alt": "Trustpilot logo",
+       "src": "trustpilot_brandmark_gr-blk_rgb-576x144-xl.png",
+       "where": "bottom"
+      },
+      {
+       "alt": "",
+       "src": "0?ti=187033900&tm=gtm002&Ver=2&mid=8838bce0-35e4-40c7-8569-8",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [
+      "134 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Regular",
+       "Atyp Display Medium",
+       "Athelas",
+       "Atyp Display"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "72px/400 ls=28.8px tt=uppercase",
+      "h2": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h2Style": "56px/400 ls=normal tt=none",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "\"Atyp Display\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "button": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(34, 31, 32) 5649181",
+       "rgb(182, 162, 143) 5574720",
+       "rgb(255, 255, 255) 5431825",
+       "rgb(18, 52, 56) 4588208",
+       "rgba(0, 0, 0, 0.7) 1322041",
+       "rgb(82, 94, 106) 1296000",
+       "rgba(0, 0, 0, 0.2) 1296000",
+       "rgb(0, 0, 0) 954144"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 112",
+       "rgb(238, 235, 229) 63",
+       "rgb(0, 0, 0) 43",
+       "rgb(182, 162, 143) 42",
+       "rgba(255, 255, 255, 0.75) 32",
+       "rgba(0, 0, 0, 0.75) 10"
+      ]
+     },
+     "images": {
+      "count": 37,
+      "alts": [
+       "Home",
+       "Cheetah in open savannah landscape on African safari",
+       "Cheetah resting in tree in Serengeti Tanzania safari",
+       "Luxury Botswana safari landscape in the Okavango Delta with floodplains and abun",
+       "Busanga Plains floodplains landscape male lion walking bast puku in Zambia safar",
+       "Walking on the dunes at Wilderness Serra Cafema ",
+       "Buffalo herd at sunset in Zimbabwe wilderness safari",
+       "Giraffes walking elegantly across the iconic Kenyan landscape",
+       "Guided hiking experience in Cape Town wilderness landscape",
+       "Lions walking in African wilderness during safari experience",
+       "Guests trekking free-roaming black rhino at Wilderness Desert Rhino Camp in Nami",
+       "Guests trekking free-roaming black rhino at Wilderness Desert Rhino Camp in Nami",
+       "Wilderness Experiences Mokoro Okavango Delta",
+       "Wilderness Experiences Mokoro Okavango Delta",
+       "Iconic African safari destinations across Botswana's Okavango Delta and beyond",
+       "Elephant walking through the open plains of Mana Pools in Zimbabwe",
+       "Expert safari guide leading walking safari and wildlife experience in Africa",
+       "Luxury safari camp architecture blending into wilderness landscape Bisate Lodge ",
+       "Immerse yourselve in African culture by getting to know the local staff at Wilde",
+       "Guests walking to a Wilderness Air flight in the bush in Africa",
+       "Conservation and community impact in African safari destinations",
+       "Tree planting conservation initiative in African wilderness",
+       "Community upliftment project supported by safari tourism",
+       "The male lion is the king of the Wilderness",
+       "Wilderness Mombo Botswana Delta Channel"
+      ]
+     },
+     "slop": {
+      "eyebrows": 100,
+      "eyebrowEx": [
+       "Enquire Now",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 4,
+      "gradients": 3,
+      "radii": [
+       "9999px 9"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 22488,
+    "requests": 252,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://www.wildernessdestinations.com/?_enquiry=1",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 4222,
+    "lcpMs": 3556,
+    "perf": {
+     "ttfb": 212,
+     "domContentLoaded": 2237,
+     "perfApiTransferKB": 1755,
+     "resources": 93
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://www.wildernessdestinations.com/?_enquiry=1",
+     "title": "Wilderness | Award-Winning Luxury Safaris",
+     "docHeight": 15812,
+     "nav": [
+      "ENQUIRE",
+      "EXCLUSIVE OFFERS",
+      "JOURNAL",
+      "Search"
+     ],
+     "h1": [
+      {
+       "text": "WILDERNESS",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [
+       "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe"
+      ],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Male lion walking through grassland in African safari landscape",
+        "src": "https://www.wildernessdestinations.com/media/timhcgzu/hero-image-lion.jpg?rmode=crop&rxy=0.4974921630094044%2C0.42798226776429615&width=764&height=460"
+       },
+       {
+        "alt": "Male lion walking through grassland in African safari landscape",
+        "src": "https://www.wildernessdestinations.com/media/timhcgzu/hero-image-lion.jpg?rmode=crop&rxy=0.4974921630094044%2C0.42798226776429615&width=764&height=460"
+       },
+       {
+        "alt": "Wilderness Mombo Botswana Delta Channel",
+        "src": "https://www.wildernessdestinations.com/media/gpzgtmrn/mombo-gallery-delta-channel.jpg?rmode=crop&width=809&height=1385&format=webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "ENQUIRE",
+        1
+       ],
+       [
+        "PLAN YOUR SAFARI",
+        1
+       ],
+       [
+        "ENQUIRE NOW",
+        1
+       ],
+       [
+        "SUBMIT",
+        1
+       ],
+       [
+        "Wilderness Facebook Page",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Safari Planning",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "ENQUIRE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://www.wildernessdestinations.com/?_enquiry=1",
+       "id": "",
+       "cls": "",
+       "y": 14350,
+       "fieldsTotal": 4,
+       "fieldsVisible": 4,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "First name",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Surname",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "",
+         "label": "Email Address",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "",
+         "label": "Country of residence",
+         "placeholder": "",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "SUBMIT"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://customer-27c2ml6fadzjjsib.cloudflarestream.com/eed4e42ee04b928636db671c94812677/iframe",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a",
+      "https://15136161.fls.doubleclick.net/activityi;src=15136161;type=invmedia;cat=wldplan;rcb=2;ord=1;num=6359889667027;npa=0;uaa=arm;uab=64;uaf",
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6Lf6LuUhAAAAAHFpXj0NaIk5WpA2HJyukllFfpD0&co=aHR0cHM6Ly93d3cud2lsZGVybmVzc2Rlc3RpbmF0a"
+     ],
+     "contact": {
+      "vendorHits": {
+       "hubspotChat": "script/iframe",
+       "calendly": "mentioned-in-html",
+       "trustpilot": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [],
+      "mail": [],
+      "phrases": [
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "nav",
+        "id": "",
+        "cls": "z-40 w-full transition-all duration-500 fixed block md:hidde",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 572,
+        "h": 92,
+        "w": 390,
+        "text": "ENQUIRE DESTINATIONS CAMPS REGIONS EXPERIENCES JOURNEYS EXCLUSIVE OFFERS IMPACT JOURNAL ABOUT WILDER"
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler Wilderness Bisate Reserve - Best New Hotels in the World",
+       "where": "body"
+      },
+      {
+       "match": "Condé Nast",
+       "text": "Condé Nast Traveler",
+       "where": "body"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure Wilderness Bisate Reserve - Best New Luxury Hotels",
+       "where": "body"
+      },
+      {
+       "match": "Travel + Leisure",
+       "text": "Travel + Leisure",
+       "where": "body"
+      },
+      {
+       "match": "Trustpilot",
+       "text": "Read more reviews on Trustpilot",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Trustpilot logo",
+       "src": "trustpilot_brandmark_gr-blk_rgb-576x144-xl.png",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "0?ti=187033900&tm=gtm002&Ver=2&mid=9a7136b9-bacf-4509-930d-4",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [
+      ". STAR BEDS Botswana, Namibia, Zimbabwe, Rwanda Luxury guided walk",
+      "134 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Atyp Display Light",
+       "Atyp Display Regular",
+       "Atyp Display Medium",
+       "Athelas",
+       "Atyp Display"
+      ],
+      "h1": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h1Style": "32px/400 ls=12.8px tt=uppercase",
+      "h2": "Athelas, Georgia, \"Times New Roman\", Baskerville, ui-serif, \"system-ui\", -apple-system",
+      "h2Style": "48px/400 ls=normal tt=none",
+      "body": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif",
+      "bodyStyle": "14px/500 ls=5.6px tt=uppercase",
+      "nav": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, BlinkMacSystemFont, \"Helvetica Neue\", Arial, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "button": "\"Atyp Display Medium\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 3406130",
+       "rgb(18, 52, 56) 2881775",
+       "rgb(34, 31, 32) 1781520",
+       "rgb(182, 162, 143) 631020",
+       "rgba(0, 0, 0, 0.2) 531792",
+       "rgb(238, 235, 229) 276900",
+       "rgba(0, 0, 0, 0.7) 264153",
+       "rgb(82, 94, 106) 258960"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 108",
+       "rgb(0, 0, 0) 36",
+       "rgba(255, 255, 255, 0.75) 27",
+       "rgb(238, 235, 229) 14",
+       "rgba(0, 0, 0, 0.75) 10",
+       "rgba(255, 255, 255, 0.5) 6"
+      ]
+     },
+     "images": {
+      "count": 38,
+      "alts": [
+       "Male lion walking through grassland in African safari landscape",
+       "Male lion walking through grassland in African safari landscape",
+       "Cheetah in open savannah landscape on African safari",
+       "Luxury Botswana safari landscape in the Okavango Delta with floodplains and abun",
+       "Busanga Plains floodplains landscape male lion walking bast puku in Zambia safar",
+       "Walking on the dunes at Wilderness Serra Cafema ",
+       "Buffalo herd at sunset in Zimbabwe wilderness safari",
+       "Giraffes walking elegantly across the iconic Kenyan landscape",
+       "Guided hiking experience in Cape Town wilderness landscape",
+       "Cheetah resting in tree in Serengeti Tanzania safari",
+       "Lions walking in African wilderness during safari experience",
+       "Guests trekking free-roaming black rhino at Wilderness Desert Rhino Camp in Nami",
+       "Wilderness Experiences Mokoro Okavango Delta",
+       "Explore the desert from the skies in a hot air balloon",
+       "Wilderness Experiences Star Bed",
+       "Photographer taking amazing close-up eye-level photos of elephants at a waterhol",
+       "Iconic African safari destinations across Botswana's Okavango Delta and beyond",
+       "Elephant walking through the open plains of Mana Pools in Zimbabwe",
+       "Expert safari guide leading walking safari and wildlife experience in Africa",
+       "Luxury safari camp architecture blending into wilderness landscape Bisate Lodge ",
+       "Immerse yourselve in African culture by getting to know the local staff at Wilde",
+       "Guests walking to a Wilderness Air flight in the bush in Africa",
+       "Conservation and community impact in African safari destinations",
+       "Tree planting conservation initiative in African wilderness",
+       "The male lion is the king of the Wilderness",
+       "Wilderness Mombo Botswana Delta Channel"
+      ]
+     },
+     "slop": {
+      "eyebrows": 54,
+      "eyebrowEx": [
+       "Enquire",
+       "Destinations",
+       "Camps",
+       "Regions",
+       "Experiences",
+       "Journeys"
+      ],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 3,
+      "radii": [
+       "9999px 7"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 5015,
+    "requests": 205,
+    "shotCappedAt": 9000
    }
   }
  }

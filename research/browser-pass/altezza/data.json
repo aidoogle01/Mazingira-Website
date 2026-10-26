@@ -1,0 +1,2808 @@
+{
+ "key": "altezza",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://altezzatravel.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 4828,
+    "lcpMs": 1168,
+    "perf": {
+     "ttfb": 288,
+     "domContentLoaded": 2215,
+     "perfApiTransferKB": 2753,
+     "resources": 199
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://altezzatravel.com/",
+     "title": "Altezza Travel - Tanzania Tour Operator",
+     "docHeight": 9944,
+     "nav": [
+      "Ranked #1 on TripAdvisor",
+      "€ EUR",
+      "£ GBP",
+      "$ USD",
+      "United States (English)",
+      "France (Français)",
+      "Deutschland (Deutsch)",
+      "Nederland (Nederlands)",
+      "España (Español)",
+      "Argentina (Español)",
+      "Brazil (Português)",
+      "Japan (Japanese)",
+      "Croatia (Hrvatski)",
+      "Czech Republic (Čeština)",
+      "Danmark (Dansk)",
+      "Suomi (Suomi)",
+      "Italy (Italiano)",
+      "Latvia (Latviešu)",
+      "North Macedonia (Македонски)",
+      "Norway (Norsk)",
+      "Poland (Polski)",
+      "Россия (Русский)",
+      "Sverige (Svenska)",
+      "Schweiz (Deutsch)",
+      "Україна (Українська)",
+      "KILIMANJARO",
+      "SAFARI",
+      "DAY TRIPS",
+      "BLOG",
+      "ABOUT US",
+      "CONTACTS",
+      "Plan my trip"
+     ],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [
+       "hero__slider swiper swiper-fade swiper-initialized swiper-horizontal swiper-watc",
+       "hero__slider-wrap swiper-wrapper",
+       "hero__slide swiper-slide swiper-slide-next swiper-slide-prev"
+      ],
+      "bigImages": [
+       {
+        "alt": "Climbers at a Kilimanjaro trekking camp at sunset in Tanzania Safari slide:",
+        "src": "https://altezzatravel.com/local/templates/main/images/pages/hero/hero-img1.webp"
+       },
+       {
+        "alt": "Elephants crossing the road during a Tanzania safari with Altezza Travel",
+        "src": "https://altezzatravel.com/local/templates/main/images/pages/hero/hero-img2.webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact in Telegram",
+        2
+       ],
+       [
+        "Contact in WhatsApp",
+        2
+       ],
+       [
+        "CONTACTS",
+        1
+       ],
+       [
+        "Plan my trip",
+        1
+       ],
+       [
+        "Design my safari",
+        1
+       ],
+       [
+        "Chat Online",
+        1
+       ],
+       [
+        "Send an Inquiry",
+        1
+       ],
+       [
+        "Book a Free Call",
+        1
+       ],
+       [
+        "Chat on WhatsApp",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Voice Call",
+        1
+       ],
+       [
+        "Our Contacts",
+        1
+       ],
+       [
+        "Send a Request",
+        1
+       ],
+       [
+        "WhatsApp",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACTS",
+       "Plan my trip",
+       "Design my safari"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "form-search",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Search here",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "search-form",
+       "y": -48,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Type here... For example: Kilimanjaro",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://altezzatravel.com/"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "Chat on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Chat on WhatsApp",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 682 174 280",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "+255 717 120 809",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "whatsapp",
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 767,
+        "h": 133,
+        "w": 1440,
+        "text": "Ranked #1 on TripAdvisor $ - USD € EUR £ GBP $ USD United States Popular United States (English) Fra"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "trengo-btn js-trengo-btn",
+        "pos": "fixed",
+        "top": 820,
+        "bottom": 20,
+        "h": 60,
+        "w": 60,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "eat Migration & River Crossing in Serengeti 3 days safari Starts from $1,860 Per person View Trip Lemosho Route 6-8 days hike ",
+      "m $1,860 Per person View Trip Lemosho Route 6-8 days hike Starts from $2,422 Per person View Trip Comfort Safari to Arusha, Ma",
+      "ire & Ngorongoro – Balloon Safari Included! 7 days safari Starts from $2,382 Per person View Trip Machame Route 6-7 days hike ",
+      "m $2,382 Per person View Trip Machame Route 6-7 days hike Starts from $2,364 Per person View Trip From Arusha to the Serengeti",
+      "rengeti – Complete Northern Tanzania Safari 9 days safari Starts from $2,719 Per person View Trip Rongai Route 6-7 days hike S",
+      "om $2,719 Per person View Trip Rongai Route 6-7 days hike Starts from $2,442 Per person View Trip Tarangire, Ngorongoro & Calv",
+      "ngire, Ngorongoro & Calving Season in Ndutu 6 days safari Starts from $2,099 Per person View Trip Northern Circuit Route 8 day",
+      "9 Per person View Trip Northern Circuit Route 8 days hike Starts from $3,123 Per person View Trip Tarangire to Ndutu & Serenge",
+      "& Serengeti – Wildebeest Calving & Big Game 8 days safari Starts from $3,735 Per person View Trip Marangu Route 5-6 days hike ",
+      "m $3,735 Per person View Trip Marangu Route 5-6 days hike Starts from $1,956 Per person View Trip Big Cats & Serengeti Balloon",
+      "loon Safari: 6 Days in Tanzania's Top Parks 6 days safari Starts from $2,200 Per person View Trip Umbwe Route 6-7 days hike St",
+      "rom $2,200 Per person View Trip Umbwe Route 6-7 days hike Starts from $2,387 Per person View Trip Ngorongoro 4-Day Trip: Sunri"
+     ],
+     "trust": [
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor",
+       "where": "above-fold"
+      },
+      {
+       "match": "Tripadvisor",
+       "text": "Ranked #1 on Tripadvisor",
+       "where": "body"
+      },
+      {
+       "match": "Travelife",
+       "text": "Travelife Certified",
+       "where": "body"
+      },
+      {
+       "match": "B Corp",
+       "text": "B Corp™ Certified",
+       "where": "body"
+      },
+      {
+       "match": "KPAP",
+       "text": "KPAP Member",
+       "where": "body"
+      },
+      {
+       "match": "ATTA",
+       "text": "ATTA. African Travel & Tourism Association",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Altezza Travel Ranked #1 on TripAdvisor",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "2571 Reviews on TripAdvisor",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "on TripAdvisor",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "© 2013 - 2026 Altezza Travel. All rights reserved. Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "about-why-choose-altezza-travel.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "",
+       "src": "tripadvisor_bg.webp",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "tripadvisor_icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "3_certified.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Travelife Certified",
+       "src": "ca-icon-2.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Travelife Certified",
+       "src": "ca-icon-2.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "B Corp™<br> Certified",
+       "src": "ca-icon-3.webp",
+       "where": "body"
+      },
+      {
+       "alt": "B Corp™<br> Certified",
+       "src": "ca-icon-3.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel - Certified B Corporation",
+       "src": "al-img7.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel Ranked #1 on TripAdvisor",
+       "src": "al-img1.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Affiliate Member of UN Tourism",
+       "src": "al-img2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Tanzania’s Leading Tour Operator 2024/2025 ",
+       "src": "2026_wta_x1.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel is a member of the KPAP organization",
+       "src": "al-img6.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel - Sustainability partner of UIAA (Internation",
+       "src": "al-img10.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Travelife Certificate for Altezza Travel",
+       "src": "tl_desk_x1.webp",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2571 REVIEWS",
+      "2571 Reviews",
+      "2571 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Mazzard",
+       "CoreSansCR",
+       "swiper-icons"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Mazzard",
+      "h2Style": "30px/600 ls=-0.6px tt=none",
+      "body": "CoreSansCR",
+      "bodyStyle": "17px/400 ls=normal tt=none",
+      "nav": "Mazzard",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 252, 252) 5941215",
+       "rgb(255, 255, 255) 4223074",
+       "rgb(249, 249, 247) 675405",
+       "rgb(13, 47, 74) 486864",
+       "rgb(250, 248, 244) 265232",
+       "rgb(113, 170, 71) 167180",
+       "rgb(236, 242, 226) 95004",
+       "rgb(246, 246, 246) 72000"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 397",
+       "rgb(0, 0, 0) 67",
+       "rgb(77, 77, 77) 56",
+       "rgb(164, 145, 117) 50",
+       "rgb(48, 48, 48) 40",
+       "rgb(33, 33, 33) 17"
+      ]
+     },
+     "images": {
+      "count": 90,
+      "alts": [
+       "Climber reaching the summit of Mount Kilimanjaro with glaciers in the background",
+       "Lion in the savanna with a safari vehicle in the background",
+       "Mountain guide with Kilimanjaro in the background",
+       "Safari SUV in the savanna",
+       "Altezza Travel prizes at World Travel Awards 2025",
+       "Employees of Altezza Travel at work",
+       "Climbers at a Kilimanjaro trekking camp at sunset in Tanzania Safari slide:",
+       "Elephants crossing the road during a Tanzania safari with Altezza Travel",
+       "A safari vehicle with tourists and a guide is parked on a grassy plain during su",
+       "A person in a red jacket stands on the snow-covered summit of Mount Kilimanjaro ",
+       "Great Migration & River Crossing in Serengeti",
+       "Lemosho Route",
+       "Comfort Safari to Arusha, Manyara, Tarangire & Ngorongoro – Balloon Safari Inclu",
+       "Machame Route",
+       "From Arusha to the Serengeti – Complete Northern Tanzania Safari",
+       "Rongai Route",
+       "Tarangire, Ngorongoro & Calving Season in Ndutu",
+       "Northern Circuit Route",
+       "Tarangire to Ndutu & Serengeti – Wildebeest Calving & Big Game",
+       "Marangu Route",
+       "Big Cats & Serengeti Balloon Safari: 6 Days in Tanzania's Top Parks",
+       "Umbwe Route",
+       "Ngorongoro 4-Day Trip: Sunrise on the Rim",
+       "Northern Circuit Route with Crater Camping",
+       "Serengeti's Mara River Crossing, Ngorongoro & Tarangire Safari",
+       "Lake Natron & Ngorongoro Safari and Cultural Visit to Mto wa Mbu Village",
+       "Crater World: Ngorongoro, Empakaai and Crater Floor Safari",
+       "Predator’s Season: Big Cats Safari in Tarangire, Ngorongoro & Ndutu",
+       "Budget-Friendly Tour to Serengeti's Great Migration",
+       "7 Days Luxury in Tarangire, Ngorongoro & Serengeti",
+       "From Northern Icons to Ruaha’s Quiet Wilderness: 17 Days Across Tanzania",
+       "Serengeti Cheetah Safari & Game-drives in Tarangire & Ngorongoro",
+       "Migration & Calving Safari: Tarangire, Ngorongoro, Ndutu & Southern Serengeti",
+       "Active Explorer Safari – Canoeing in Arusha, Trekking in Ngorongoro & Serengeti ",
+       "Rhino Safari in Mkomazi",
+       "5-Day Tarangire & Ngorongoro Safari | Includes Guided Bush Walk",
+       "Wild Trails of Tarangire – 5-Day Immersive Safari with Walking & Night Game Driv",
+       "Luxury Tarangire Safari with Bush Walk & Balloon Ride",
+       "Lake Natron: Ol Doinyo Lengai Hike & Flamingo Walks",
+       "Quick 4-Day Safari – Tarangire & Lake Manyara"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 4,
+      "dotEx": [
+       "#1 in Tanzania on  Tripadvisor · 2571 reviews",
+       "5-Day Tarangire & Ngorongoro Safari | Includes Guided Bush Walk",
+       "Tanzania’s Leading Tour Operator 2024 • 2025 • 2026",
+       "Meet the best Kilimanjaro guides | Altezza Travel"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 3,
+      "radii": [
+       "10px 93",
+       "20px 7",
+       "16px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3961,
+    "requests": 267,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://altezzatravel.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3776,
+    "lcpMs": 724,
+    "perf": {
+     "ttfb": 172,
+     "domContentLoaded": 1434,
+     "perfApiTransferKB": 2697,
+     "resources": 194
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://altezzatravel.com/",
+     "title": "Altezza Travel - Tanzania Tour Operator",
+     "docHeight": 14271,
+     "nav": [],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [
+       "hero__slider swiper swiper-fade swiper-initialized swiper-horizontal swiper-ios ",
+       "hero__slider-wrap swiper-wrapper",
+       "hero__slide swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-"
+      ],
+      "bigImages": [
+       {
+        "alt": "Climbers at a Kilimanjaro trekking camp at sunset in Tanzania Safari slide:",
+        "src": "https://altezzatravel.com/local/templates/main/images/pages/hero/hero-img-mob11.webp"
+       },
+       {
+        "alt": "Elephants crossing the road during a Tanzania safari with Altezza Travel",
+        "src": "https://altezzatravel.com/local/templates/main/images/pages/hero/hero-img-mob12.webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Plan my trip",
+        1
+       ],
+       [
+        "Design my safari",
+        1
+       ],
+       [
+        "Chat Online",
+        1
+       ],
+       [
+        "Send an Inquiry",
+        1
+       ],
+       [
+        "Book a Free Call",
+        1
+       ],
+       [
+        "Chat on WhatsApp",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Voice Call",
+        1
+       ],
+       [
+        "Send a Request",
+        1
+       ],
+       [
+        "WhatsApp",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan my trip",
+       "Design my safari"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "form-search",
+       "y": 148,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Search here",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "search-form",
+       "y": -123,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Type here... For example: Kilimanjaro",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://altezzatravel.com/"
+     ],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "Chat on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "WhatsApp",
+        "where": "body",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Chat on WhatsApp",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 682 174 280",
+        "where": "footer",
+        "visible": false
+       },
+       {
+        "text": "+255 717 120 809",
+        "where": "footer",
+        "visible": false
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "whatsapp",
+       "speak to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "header-mobile",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 594,
+        "h": 70,
+        "w": 390,
+        "text": "Plan my trip"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "trengo-btn js-trengo-btn",
+        "pos": "fixed",
+        "top": 584,
+        "bottom": 20,
+        "h": 60,
+        "w": 60,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      "eat Migration & River Crossing in Serengeti 3 days safari Starts from $1,860 Per person View Trip Lemosho Route 6-8 days hike ",
+      "m $1,860 Per person View Trip Lemosho Route 6-8 days hike Starts from $2,422 Per person View Trip Comfort Safari to Arusha, Ma",
+      "ire & Ngorongoro – Balloon Safari Included! 7 days safari Starts from $2,382 Per person View Trip Machame Route 6-7 days hike ",
+      "m $2,382 Per person View Trip Machame Route 6-7 days hike Starts from $2,364 Per person View Trip From Arusha to the Serengeti",
+      "rengeti – Complete Northern Tanzania Safari 9 days safari Starts from $2,719 Per person View Trip Rongai Route 6-7 days hike S",
+      "om $2,719 Per person View Trip Rongai Route 6-7 days hike Starts from $2,442 Per person View Trip Tarangire, Ngorongoro & Calv",
+      "ngire, Ngorongoro & Calving Season in Ndutu 6 days safari Starts from $2,099 Per person View Trip Northern Circuit Route 8 day",
+      "9 Per person View Trip Northern Circuit Route 8 days hike Starts from $3,123 Per person View Trip Tarangire to Ndutu & Serenge",
+      "& Serengeti – Wildebeest Calving & Big Game 8 days safari Starts from $3,735 Per person View Trip Marangu Route 5-6 days hike ",
+      "m $3,735 Per person View Trip Marangu Route 5-6 days hike Starts from $1,956 Per person View Trip Big Cats & Serengeti Balloon",
+      "loon Safari: 6 Days in Tanzania's Top Parks 6 days safari Starts from $2,200 Per person View Trip Umbwe Route 6-7 days hike St",
+      "rom $2,200 Per person View Trip Umbwe Route 6-7 days hike Starts from $2,387 Per person View Trip Ngorongoro 4-Day Trip: Sunri"
+     ],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "Ranked #1 on Tripadvisor",
+       "where": "body"
+      },
+      {
+       "match": "Travelife",
+       "text": "Travelife Certified",
+       "where": "body"
+      },
+      {
+       "match": "B Corp",
+       "text": "B Corp™ Certified",
+       "where": "body"
+      },
+      {
+       "match": "KPAP",
+       "text": "KPAP Member",
+       "where": "body"
+      },
+      {
+       "match": "ATTA",
+       "text": "ATTA. African Travel & Tourism Association",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Altezza Travel Ranked #1 on TripAdvisor",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "2571 Reviews on TripAdvisor",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "on TripAdvisor",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "© 2013 - 2026 Altezza Travel. All rights reserved. Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "",
+       "src": "tripadvisor_bg.webp",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "tripadvisor_icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "",
+       "src": "3_certified.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Travelife Certified",
+       "src": "ca-icon-2.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Travelife Certified",
+       "src": "ca-icon-2.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "B Corp™<br> Certified",
+       "src": "ca-icon-3.webp",
+       "where": "body"
+      },
+      {
+       "alt": "B Corp™<br> Certified",
+       "src": "ca-icon-3.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel - Certified B Corporation",
+       "src": "al-img7X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel Ranked #1 on TripAdvisor",
+       "src": "al-mob-img1X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Affiliate Member of UN Tourism",
+       "src": "al-mob-img2X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Tanzania’s Leading Tour Operator 2024/2025 ",
+       "src": "2026_wta_mobile_x2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel is a member of the KPAP organization",
+       "src": "al-img6X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel - Sustainability partner of UIAA (Internation",
+       "src": "al-img10X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Travelife Certificate for Altezza Travel",
+       "src": "tl_desk_x2.webp",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2571 REVIEWS",
+      "2571 Reviews",
+      "2571 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Mazzard",
+       "CoreSansCR"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Mazzard",
+      "h2Style": "25px/600 ls=-0.5px tt=none",
+      "body": "CoreSansCR",
+      "bodyStyle": "16px/400 ls=normal tt=none",
+      "nav": null,
+      "button": "Mazzard"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 4362957",
+       "rgb(252, 252, 252) 1753479",
+       "rgb(249, 249, 247) 592304",
+       "rgb(13, 47, 74) 426699",
+       "rgb(250, 248, 244) 286316",
+       "rgba(102, 102, 102, 0.8) 258960",
+       "rgb(113, 170, 71) 115543",
+       "rgb(33, 33, 33) 70136"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 389",
+       "rgb(0, 0, 0) 56",
+       "rgb(164, 145, 117) 51",
+       "rgb(77, 77, 77) 30",
+       "rgb(33, 33, 33) 17",
+       "rgb(109, 106, 94) 13"
+      ]
+     },
+     "images": {
+      "count": 82,
+      "alts": [
+       "Climbers at a Kilimanjaro trekking camp at sunset in Tanzania Safari slide:",
+       "Elephants crossing the road during a Tanzania safari with Altezza Travel",
+       "A safari vehicle with tourists and a guide is parked on a grassy plain during su",
+       "A person in a red jacket stands on the snow-covered summit of Mount Kilimanjaro ",
+       "Great Migration & River Crossing in Serengeti",
+       "Lemosho Route",
+       "Comfort Safari to Arusha, Manyara, Tarangire & Ngorongoro – Balloon Safari Inclu",
+       "Machame Route",
+       "From Arusha to the Serengeti – Complete Northern Tanzania Safari",
+       "Rongai Route",
+       "Tarangire, Ngorongoro & Calving Season in Ndutu",
+       "Northern Circuit Route",
+       "Tarangire to Ndutu & Serengeti – Wildebeest Calving & Big Game",
+       "Marangu Route",
+       "Big Cats & Serengeti Balloon Safari: 6 Days in Tanzania's Top Parks",
+       "Umbwe Route",
+       "Ngorongoro 4-Day Trip: Sunrise on the Rim",
+       "Northern Circuit Route with Crater Camping",
+       "Serengeti's Mara River Crossing, Ngorongoro & Tarangire Safari",
+       "Lake Natron & Ngorongoro Safari and Cultural Visit to Mto wa Mbu Village",
+       "Crater World: Ngorongoro, Empakaai and Crater Floor Safari",
+       "Predator’s Season: Big Cats Safari in Tarangire, Ngorongoro & Ndutu",
+       "Budget-Friendly Tour to Serengeti's Great Migration",
+       "7 Days Luxury in Tarangire, Ngorongoro & Serengeti",
+       "From Northern Icons to Ruaha’s Quiet Wilderness: 17 Days Across Tanzania",
+       "Serengeti Cheetah Safari & Game-drives in Tarangire & Ngorongoro",
+       "Migration & Calving Safari: Tarangire, Ngorongoro, Ndutu & Southern Serengeti",
+       "Active Explorer Safari – Canoeing in Arusha, Trekking in Ngorongoro & Serengeti ",
+       "Rhino Safari in Mkomazi",
+       "5-Day Tarangire & Ngorongoro Safari | Includes Guided Bush Walk",
+       "Wild Trails of Tarangire – 5-Day Immersive Safari with Walking & Night Game Driv",
+       "Luxury Tarangire Safari with Bush Walk & Balloon Ride",
+       "Lake Natron: Ol Doinyo Lengai Hike & Flamingo Walks",
+       "Quick 4-Day Safari – Tarangire & Lake Manyara",
+       "Short Safari Escape – Tarangire & Ngorongoro",
+       "Luxury Honeymoon Escape: Arusha National Park, Ngorongoro Crater & Serengeti - R",
+       "Arusha Walking Safari & Classic Ngorongoro Game-Drive",
+       "Best of Lake Manyara & Ngorongoro Safari",
+       "Luxury Safari: Ngorongoro, Lake Natron & Serengeti Migration in 9 Days",
+       "Honeymoon Safari in Arusha, Ngorongoro & Serengeti – Romantic Lodges & Serengeti"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 4,
+      "dotEx": [
+       "#1 in Tanzania on  Tripadvisor · 2571 reviews",
+       "5-Day Tarangire & Ngorongoro Safari | Includes Guided Bush Walk",
+       "Tanzania’s Leading Tour Operator 2024 • 2025 • 2026",
+       "Meet the best Kilimanjaro guides | Altezza Travel"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 3,
+      "radii": [
+       "10px 92",
+       "20px 6",
+       "16px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4081,
+    "requests": 263,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://altezzatravel.com/tanzania-safari/tours/classic-northern-circuit-tarangire-ngorongoro-serengeti",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 4155,
+    "lcpMs": 1572,
+    "perf": {
+     "ttfb": 159,
+     "domContentLoaded": 1650,
+     "perfApiTransferKB": 2473,
+     "resources": 220
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://altezzatravel.com/tanzania-safari/tours/classic-northern-circuit-tarangire-ngorongoro-serengeti",
+     "title": "Epic Tanzania Safari – Big Five & Northern Circuit Highlights",
+     "docHeight": 7839,
+     "nav": [
+      "Ranked #1 on TripAdvisor",
+      "€ EUR",
+      "£ GBP",
+      "$ USD",
+      "United States (English)",
+      "France (Français)",
+      "Deutschland (Deutsch)",
+      "Nederland (Nederlands)",
+      "España (Español)",
+      "Argentina (Español)",
+      "Brazil (Português)",
+      "Japan (Japanese)",
+      "Croatia (Hrvatski)",
+      "Czech Republic (Čeština)",
+      "Danmark (Dansk)",
+      "Suomi (Suomi)",
+      "Italy (Italiano)",
+      "Latvia (Latviešu)",
+      "North Macedonia (Македонски)",
+      "Norway (Norsk)",
+      "Poland (Polski)",
+      "Россия (Русский)",
+      "Sverige (Svenska)",
+      "Schweiz (Deutsch)",
+      "Україна (Українська)",
+      "KILIMANJARO",
+      "SAFARI",
+      "DAY TRIPS",
+      "BLOG",
+      "ABOUT US",
+      "CONTACTS",
+      "Plan my safari"
+     ],
+     "h1": [
+      {
+       "text": "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [
+       "safari-intro__slider",
+       "slider-intro",
+       "slider-intro__slider swiper swiper-initialized swiper-horizontal swiper-backface"
+      ],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact in Telegram",
+        2
+       ],
+       [
+        "Contact in WhatsApp",
+        2
+       ],
+       [
+        "CONTACTS",
+        1
+       ],
+       [
+        "Plan my safari",
+        1
+       ],
+       [
+        "REQUEST QUOTE",
+        1
+       ],
+       [
+        "Chat on WhatsApp",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Voice Call",
+        1
+       ],
+       [
+        "Our Contacts",
+        1
+       ],
+       [
+        "Send a Request",
+        1
+       ],
+       [
+        "WhatsApp",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACTS",
+       "Plan my safari",
+       "REQUEST QUOTE"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "form-search",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Search here",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "search-form",
+       "y": -48,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Type here... For example: Kilimanjaro",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      },
+      {
+       "action": "https://altezzatravel.com/local/templates/main/ajax/form.php",
+       "id": "",
+       "cls": "download-form js-form js-form-packlist",
+       "y": 0,
+       "fieldsTotal": 6,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "comment",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "first_name",
+         "label": "",
+         "placeholder": "Your Name*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "last_name",
+         "label": "",
+         "placeholder": "Your Last Name*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "",
+         "placeholder": "Your E-Mail*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "phone",
+         "label": "",
+         "placeholder": "Your phone*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "type",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Get PDF"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "Chat on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Chat on WhatsApp",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 682 174 280",
+        "where": "footer",
+        "visible": true
+       },
+       {
+        "text": "+255 717 120 809",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "zoom",
+       "whatsapp"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 767,
+        "h": 133,
+        "w": 1440,
+        "text": "Ranked #1 on TripAdvisor $ - USD € EUR £ GBP $ USD United States Popular United States (English) Fra"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "safari-nav",
+        "pos": "sticky",
+        "top": 874,
+        "bottom": -34,
+        "h": 60,
+        "w": 1440,
+        "text": "Overview Packing List Price Itinerary Inclusions Visa and Documents"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "trengo-btn js-trengo-btn",
+        "pos": "fixed",
+        "top": 820,
+        "bottom": 20,
+        "h": 60,
+        "w": 60,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      " On Any Date Duration: 7 days Physical rating: Easy Price starts from $2,227 REQUEST QUOTE View prices for other seasons Overv",
+      " & Pricing Explorer 3* Hotels Signature 4* Hotels Premium 5* Hotels $ USD 2026 Low Season April 2026 / May 2026 1 Person $4,757 ",
+      "remium 5* Hotels $ USD 2026 Low Season April 2026 / May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,29",
+      "$ USD 2026 Low Season April 2026 / May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,22",
+      "ason April 2026 / May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,227 6+ Persons Upon",
+      " May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,227 6+ Persons Upon Request Shoulder",
+      "n $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,227 6+ Persons Upon Request Shoulder Season 6 Jan 202",
+      "n Request Shoulder Season 6 Jan 2026 - Mar/June/Nov/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,58",
+      "r Season 6 Jan 2026 - Mar/June/Nov/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,51",
+      "26 - Mar/June/Nov/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,512 6+ Persons Upon",
+      "/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,512 6+ Persons Upon Request Peak Sea",
+      "n $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,512 6+ Persons Upon Request Peak Season July-Oct / 20"
+     ],
+     "trust": [
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor",
+       "where": "above-fold"
+      },
+      {
+       "match": "Travelife",
+       "text": "Travelife Certification",
+       "where": "body"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "© 2013 - 2026 Altezza Travel. All rights reserved. Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "about-why-choose-altezza-travel.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel - Certified B Corporation",
+       "src": "al-img7.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel Ranked #1 on TripAdvisor",
+       "src": "al-img1.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Affiliate Member of UN Tourism",
+       "src": "al-img2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Tanzania’s Leading Tour Operator 2024/2025 ",
+       "src": "2026_wta_x1.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel is a member of the KPAP organization",
+       "src": "al-img6.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel - Sustainability partner of UIAA (Internation",
+       "src": "al-img10.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Travelife Certificate for Altezza Travel",
+       "src": "tl_desk_x1.webp",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2571 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Mazzard",
+       "CoreSansCR",
+       "swiper-icons"
+      ],
+      "h1": "Mazzard",
+      "h1Style": "30px/600 ls=-0.6px tt=none",
+      "h2": "Mazzard",
+      "h2Style": "30px/600 ls=-0.6px tt=none",
+      "body": "CoreSansCR",
+      "bodyStyle": "16px/400 ls=normal tt=none",
+      "nav": "Mazzard",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 252, 252) 5819886",
+       "rgb(255, 255, 255) 4269679",
+       "rgb(242, 243, 239) 784922",
+       "rgb(249, 247, 244) 505005",
+       "rgb(250, 248, 244) 297140",
+       "rgb(113, 170, 71) 142164",
+       "rgb(236, 242, 226) 95004",
+       "rgb(244, 242, 238) 86400"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 193",
+       "rgb(109, 106, 94) 79",
+       "rgb(77, 77, 77) 52",
+       "rgb(48, 48, 48) 48",
+       "rgb(164, 145, 117) 46",
+       "rgb(255, 255, 255) 42"
+      ]
+     },
+     "images": {
+      "count": 39,
+      "alts": [
+       "Climber reaching the summit of Mount Kilimanjaro with glaciers in the background",
+       "Lion in the savanna with a safari vehicle in the background",
+       "Mountain guide with Kilimanjaro in the background",
+       "Safari SUV in the savanna",
+       "Altezza Travel prizes at World Travel Awards 2025",
+       "Employees of Altezza Travel at work",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 1",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 2",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 3",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 4",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 5",
+       "Get PDF Safari Packing List + Useful Tips",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti",
+       "Ngare Sero Mountain Lodge",
+       "Elewana Arusha Coffee Lodge",
+       "Legendary Lodge",
+       "Tarangire National Park",
+       "Sound of Silence - Lake Manyara",
+       "Wellworth Ngorongoro Oldeani Mountain Lodge",
+       "Gibb's Farm",
+       "Ngorongoro Conservation Area",
+       "Sound of Silence - Serengeti",
+       "Manya Luxury Camp Central Serengeti",
+       "Melia Serengeti Lodge",
+       "Serengeti National Park — Seronera",
+       "Sound of Silence - Serengeti",
+       "Manya Luxury Camp Central Serengeti",
+       "Melia Serengeti Lodge",
+       "Serengeti National Park — Seronera",
+       "Sound of Silence - Serengeti",
+       "Manya Luxury Camp Central Serengeti",
+       "Melia Serengeti Lodge",
+       "Serengeti National Park — Seronera",
+       "Ngare Sero Mountain Lodge",
+       "Elewana Arusha Coffee Lodge",
+       "Legendary Lodge",
+       "4x4 Land Cruiser with pop-up roof and special features img 1",
+       "4x4 Land Cruiser with pop-up roof and special features img 2"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 6,
+      "dotEx": [
+       "Day 1 | Accommodation",
+       "Day 2 | Accommodation",
+       "Day 3 | Accommodation",
+       "Day 4 | Accommodation"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "15px 47",
+       "10px 17",
+       "20px 7"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3436,
+    "requests": 273,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://altezzatravel.com/tanzania-safari/tours/classic-northern-circuit-tarangire-ngorongoro-serengeti",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 4313,
+    "lcpMs": 1432,
+    "perf": {
+     "ttfb": 142,
+     "domContentLoaded": 1463,
+     "perfApiTransferKB": 2515,
+     "resources": 204
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://altezzatravel.com/tanzania-safari/tours/classic-northern-circuit-tarangire-ngorongoro-serengeti",
+     "title": "Epic Tanzania Safari – Big Five & Northern Circuit Highlights",
+     "docHeight": 12750,
+     "nav": [],
+     "h1": [
+      {
+       "text": "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [
+       {
+        "alt": "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 1",
+        "src": "https://altezzatravel.com/upload/vote/f91/xxlo4n70kwl1a0pqabjcet5v46l47wfw.webp"
+       },
+       {
+        "alt": "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 2",
+        "src": "https://altezzatravel.com/upload/vote/52c/ubsg2l2wocs9nm1r1t73ih4a6rh6x8un.webp"
+       },
+       {
+        "alt": "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 3",
+        "src": "https://altezzatravel.com/upload/vote/884/as1uafuv2a4bz3e1cr7yces6pyfw53ul.webp"
+       },
+       {
+        "alt": "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 4",
+        "src": "https://altezzatravel.com/upload/vote/7c4/gqcbkyxsqja4zcnogdyeb9739p86fycw.webp"
+       }
+      ],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Plan my safari",
+        1
+       ],
+       [
+        "REQUEST QUOTE",
+        1
+       ],
+       [
+        "Chat on WhatsApp",
+        1
+       ],
+       [
+        "Enquire Now",
+        1
+       ],
+       [
+        "Voice Call",
+        1
+       ],
+       [
+        "Send a Request",
+        1
+       ],
+       [
+        "WhatsApp",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan my safari"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "form-search",
+       "y": 148,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Search here",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "search-form",
+       "y": -123,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Type here... For example: Kilimanjaro",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      },
+      {
+       "action": "https://altezzatravel.com/local/templates/main/ajax/form.php",
+       "id": "",
+       "cls": "download-form js-form js-form-packlist",
+       "y": 0,
+       "fieldsTotal": 6,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "comment",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "first_name",
+         "label": "",
+         "placeholder": "Your Name*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "last_name",
+         "label": "",
+         "placeholder": "Your Last Name*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "email",
+         "label": "",
+         "placeholder": "Your E-Mail*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "tel",
+         "name": "phone",
+         "label": "",
+         "placeholder": "Your phone*",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "select",
+         "type": "select-one",
+         "name": "type",
+         "label": "",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Get PDF"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "Chat on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "WhatsApp",
+        "where": "body",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Chat on WhatsApp",
+        "where": "footer",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 682 174 280",
+        "where": "footer",
+        "visible": false
+       },
+       {
+        "text": "+255 717 120 809",
+        "where": "footer",
+        "visible": false
+       }
+      ],
+      "mail": [],
+      "phrases": [
+       "zoom",
+       "whatsapp"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "header-mobile",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 594,
+        "h": 70,
+        "w": 390,
+        "text": "Plan my safari"
+       },
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "safari-nav",
+        "pos": "sticky",
+        "top": 1106,
+        "bottom": -502,
+        "h": 60,
+        "w": 390,
+        "text": "Overview Packing List Price Itinerary Inclusions Visa and Documents"
+       },
+       {
+        "tag": "a",
+        "id": "",
+        "cls": "trengo-btn js-trengo-btn",
+        "pos": "fixed",
+        "top": 584,
+        "bottom": 20,
+        "h": 60,
+        "w": 60,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [
+      " On Any Date Duration: 7 days Physical rating: Easy Price starts from $2,227 REQUEST QUOTE View prices for other seasons Overv",
+      " & Pricing Explorer 3* Hotels Signature 4* Hotels Premium 5* Hotels $ USD 2026 Low Season April 2026 / May 2026 1 Person $4,757 ",
+      "remium 5* Hotels $ USD 2026 Low Season April 2026 / May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,29",
+      "$ USD 2026 Low Season April 2026 / May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,22",
+      "ason April 2026 / May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,227 6+ Persons Upon",
+      " May 2026 1 Person $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,227 6+ Persons Upon Request Shoulder",
+      "n $4,757 2 Persons $2,843 3 Persons $2,553 4 Persons $2,291 5 Persons $2,227 6+ Persons Upon Request Shoulder Season 6 Jan 202",
+      "n Request Shoulder Season 6 Jan 2026 - Mar/June/Nov/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,58",
+      "r Season 6 Jan 2026 - Mar/June/Nov/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,51",
+      "26 - Mar/June/Nov/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,512 6+ Persons Upon",
+      "/1-19 Dec 1 Person $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,512 6+ Persons Upon Request Peak Sea",
+      "n $4,831 2 Persons $3,213 3 Persons $2,884 4 Persons $2,584 5 Persons $2,512 6+ Persons Upon Request Peak Season July-Oct / 20"
+     ],
+     "trust": [
+      {
+       "match": "Travelife",
+       "text": "Travelife Certification",
+       "where": "bottom"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "© 2013 - 2026 Altezza Travel. All rights reserved. Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel - Certified B Corporation",
+       "src": "al-img7X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel Ranked #1 on TripAdvisor",
+       "src": "al-mob-img1X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Affiliate Member of UN Tourism",
+       "src": "al-mob-img2X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Tanzania’s Leading Tour Operator 2024/2025 ",
+       "src": "2026_wta_mobile_x2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel is a member of the KPAP organization",
+       "src": "al-img6X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel - Sustainability partner of UIAA (Internation",
+       "src": "al-img10X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Travelife Certificate for Altezza Travel",
+       "src": "tl_desk_x2.webp",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2571 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Mazzard",
+       "CoreSansCR"
+      ],
+      "h1": "Mazzard",
+      "h1Style": "30px/600 ls=-0.6px tt=none",
+      "h2": "Mazzard",
+      "h2Style": "25px/600 ls=-0.5px tt=none",
+      "body": "CoreSansCR",
+      "bodyStyle": "15px/400 ls=normal tt=none",
+      "nav": null,
+      "button": "Mazzard"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 4368610",
+       "rgb(252, 252, 252) 1631790",
+       "rgb(242, 243, 239) 598774",
+       "rgb(249, 247, 244) 460292",
+       "rgba(102, 102, 102, 0.8) 258960",
+       "rgb(250, 248, 244) 244765",
+       "rgb(113, 170, 71) 92359",
+       "rgb(33, 33, 33) 70136"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 183",
+       "rgb(109, 106, 94) 79",
+       "rgb(164, 145, 117) 47",
+       "rgb(54, 45, 30) 36",
+       "rgb(255, 255, 255) 34",
+       "rgb(77, 77, 77) 26"
+      ]
+     },
+     "images": {
+      "count": 32,
+      "alts": [
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 1",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 2",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 3",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 4",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti 5",
+       "Get PDF Safari Packing List + Useful Tips",
+       "Classic Northern Circuit – Tarangire, Ngorongoro & Serengeti",
+       "Ngare Sero Mountain Lodge",
+       "Elewana Arusha Coffee Lodge",
+       "Legendary Lodge",
+       "Tarangire National Park",
+       "Sound of Silence - Lake Manyara",
+       "Wellworth Ngorongoro Oldeani Mountain Lodge",
+       "Gibb's Farm",
+       "Ngorongoro Conservation Area",
+       "Sound of Silence - Serengeti",
+       "Manya Luxury Camp Central Serengeti",
+       "Melia Serengeti Lodge",
+       "Serengeti National Park — Seronera",
+       "Sound of Silence - Serengeti",
+       "Manya Luxury Camp Central Serengeti",
+       "Melia Serengeti Lodge",
+       "Serengeti National Park — Seronera",
+       "Sound of Silence - Serengeti",
+       "Manya Luxury Camp Central Serengeti",
+       "Melia Serengeti Lodge",
+       "Serengeti National Park — Seronera",
+       "Ngare Sero Mountain Lodge",
+       "Elewana Arusha Coffee Lodge",
+       "Legendary Lodge",
+       "4x4 Land Cruiser with pop-up roof and special features img 1",
+       "4x4 Land Cruiser with pop-up roof and special features img 2"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 6,
+      "dotEx": [
+       "Day 1 | Accommodation",
+       "Day 2 | Accommodation",
+       "Day 3 | Accommodation",
+       "Day 4 | Accommodation"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "15px 42",
+       "20px 10",
+       "10px 9",
+       "7px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4722,
+    "requests": 262,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://altezzatravel.com/contacts",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 3536,
+    "lcpMs": 712,
+    "perf": {
+     "ttfb": 194,
+     "domContentLoaded": 873,
+     "perfApiTransferKB": 2096,
+     "resources": 203
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://altezzatravel.com/contacts",
+     "title": "Our contacts | Altezza Travel",
+     "docHeight": 4101,
+     "nav": [
+      "Ranked #1 on TripAdvisor",
+      "€ EUR",
+      "£ GBP",
+      "$ USD",
+      "United States (English)",
+      "France (Français)",
+      "Deutschland (Deutsch)",
+      "Nederland (Nederlands)",
+      "España (Español)",
+      "Argentina (Español)",
+      "Brazil (Português)",
+      "Japan (Japanese)",
+      "Croatia (Hrvatski)",
+      "Czech Republic (Čeština)",
+      "Danmark (Dansk)",
+      "Suomi (Suomi)",
+      "Italy (Italiano)",
+      "Latvia (Latviešu)",
+      "North Macedonia (Македонски)",
+      "Norway (Norsk)",
+      "Poland (Polski)",
+      "Россия (Русский)",
+      "Sverige (Svenska)",
+      "Schweiz (Deutsch)",
+      "Україна (Українська)",
+      "KILIMANJARO",
+      "SAFARI",
+      "DAY TRIPS",
+      "BLOG",
+      "ABOUT US",
+      "CONTACTS",
+      "Plan my trip"
+     ],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact in Telegram",
+        2
+       ],
+       [
+        "Contact in WhatsApp",
+        2
+       ],
+       [
+        "CONTACTS",
+        1
+       ],
+       [
+        "Plan my trip",
+        1
+       ],
+       [
+        "Plan My Trip",
+        1
+       ],
+       [
+        "Open WhatsApp",
+        1
+       ],
+       [
+        "Our Contacts",
+        1
+       ],
+       [
+        "Send a Request",
+        1
+       ],
+       [
+        "WhatsApp",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "CONTACTS",
+       "Plan my trip",
+       "Plan My Trip",
+       "Open WhatsApp"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "form-search",
+       "y": 0,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Search here",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "search-form",
+       "y": -48,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Type here... For example: Kilimanjaro",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "Chat on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Open WhatsApp",
+        "where": "above-fold",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 652 793 118",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 684 082 865",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 757 195 654",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 717 120 809",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 769 818 461",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "press@altezza.travel",
+       "partners@altezza.travel",
+       "hr@altezza.travel",
+       "feedback@altezza.travel",
+       "editorial@altezza.travel",
+       "influencers@altezza.travel"
+      ],
+      "phrases": [
+       "whatsapp",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "header",
+        "id": "",
+        "cls": "header",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 767,
+        "h": 133,
+        "w": 1440,
+        "text": "Ranked #1 on TripAdvisor $ - USD € EUR £ GBP $ USD United States Popular United States (English) Fra"
+       },
+       {
+        "tag": "span",
+        "id": "A726D997-85A2-4524-B3B1-43081F3E02A5",
+        "cls": "",
+        "pos": "fixed",
+        "top": 1905,
+        "bottom": -1006,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       },
+       {
+        "tag": "span",
+        "id": "A5DD767D-2E5D-480C-8690-E6A0BA7B8A4D",
+        "cls": "",
+        "pos": "fixed",
+        "top": 1905,
+        "bottom": -1006,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor",
+       "where": "above-fold"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "© 2013 - 2026 Altezza Travel. All rights reserved. Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "about-why-choose-altezza-travel.webp",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel ranked #1 on Tripadvisor",
+       "src": "company-logo.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Altezza Travel named Tanzania's Leading Tour Operator at the",
+       "src": "company-logo3.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Altezza Travel certified as a B Corporation",
+       "src": "company-logo2.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Altezza Travel - Certified B Corporation",
+       "src": "al-img7.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel Ranked #1 on TripAdvisor",
+       "src": "al-img1.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Affiliate Member of UN Tourism",
+       "src": "al-img2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Tanzania’s Leading Tour Operator 2024/2025 ",
+       "src": "2026_wta_x1.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel is a member of the KPAP organization",
+       "src": "al-img6.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel - Sustainability partner of UIAA (Internation",
+       "src": "al-img10.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Travelife Certificate for Altezza Travel",
+       "src": "tl_desk_x1.webp",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2571 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Mazzard",
+       "CoreSansCR"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Mazzard",
+      "h2Style": "30px/600 ls=-0.6px tt=none",
+      "body": null,
+      "bodyStyle": null,
+      "nav": "Mazzard",
+      "button": "Arial"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(252, 252, 252) 6080797",
+       "rgb(255, 255, 255) 3022608",
+       "rgb(248, 248, 246) 1112648",
+       "rgb(250, 248, 244) 240108",
+       "rgb(222, 222, 222) 188600",
+       "rgb(229, 227, 223) 188600",
+       "rgb(113, 170, 71) 114213",
+       "rgb(236, 242, 226) 95004"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 67",
+       "rgb(77, 77, 77) 52",
+       "rgb(48, 48, 48) 39",
+       "rgb(85, 83, 76) 28",
+       "rgb(33, 33, 33) 17",
+       "rgb(255, 255, 255) 17"
+      ]
+     },
+     "images": {
+      "count": 20,
+      "alts": [
+       "Climber reaching the summit of Mount Kilimanjaro with glaciers in the background",
+       "Lion in the savanna with a safari vehicle in the background",
+       "Mountain guide with Kilimanjaro in the background",
+       "Safari SUV in the savanna",
+       "Altezza Travel prizes at World Travel Awards 2025",
+       "Employees of Altezza Travel at work",
+       "Mount Kilimanjaro in the clouds",
+       "Aerial view of the Ngorongoro Crater",
+       "Shadows of acacia branches on a textured wall",
+       "Sunset at a safari camp in Tanzania",
+       "Hot-air balloon safari over the Tanzanian savanna",
+       "Instagram"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "20px 4",
+       "10px 3",
+       "17px 3",
+       "16px 2"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 1440,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2767,
+    "requests": 223,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://altezzatravel.com/contacts",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3151,
+    "lcpMs": 4612,
+    "perf": {
+     "ttfb": 186,
+     "domContentLoaded": 1173,
+     "perfApiTransferKB": 1944,
+     "resources": 189
+    },
+    "cookie": ".cky-btn-accept",
+    "data": {
+     "url": "https://altezzatravel.com/contacts",
+     "title": "Our contacts | Altezza Travel",
+     "docHeight": 6486,
+     "nav": [],
+     "h1": [],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 0
+     },
+     "cta": {
+      "counts": [
+       [
+        "Plan my trip",
+        1
+       ],
+       [
+        "Plan My Trip",
+        1
+       ],
+       [
+        "Open WhatsApp",
+        1
+       ],
+       [
+        "Send a Request",
+        1
+       ],
+       [
+        "WhatsApp",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan my trip",
+       "Plan My Trip"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "form-search",
+       "y": 148,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Search here",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": []
+      },
+      {
+       "action": "https://altezzatravel.com/search",
+       "id": "",
+       "cls": "search-form",
+       "y": -123,
+       "fieldsTotal": 1,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "q",
+         "label": "",
+         "placeholder": "Type here... For example: Kilimanjaro",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Search"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "whatsappWidget": "mentioned-in-html",
+       "calendly": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [
+       {
+        "text": "Chat on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "WhatsApp",
+        "where": "body",
+        "visible": false
+       },
+       {
+        "text": "Message us on WhatsApp",
+        "where": "above-fold",
+        "visible": false
+       },
+       {
+        "text": "Open WhatsApp",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 652 793 118",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 684 082 865",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 757 195 654",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 717 120 809",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 769 818 461",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "press@altezza.travel",
+       "partners@altezza.travel",
+       "hr@altezza.travel",
+       "feedback@altezza.travel",
+       "editorial@altezza.travel",
+       "influencers@altezza.travel"
+      ],
+      "phrases": [
+       "whatsapp",
+       "talk to"
+      ],
+      "fixed": [
+       {
+        "tag": "div",
+        "id": "",
+        "cls": "header-mobile",
+        "pos": "fixed",
+        "top": 0,
+        "bottom": 594,
+        "h": 70,
+        "w": 390,
+        "text": "Plan my trip"
+       },
+       {
+        "tag": "span",
+        "id": "507C96F5-2CA9-42B0-9323-26A940B1BC66",
+        "cls": "",
+        "pos": "fixed",
+        "top": 3017,
+        "bottom": -2354,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       },
+       {
+        "tag": "span",
+        "id": "C9367BEC-8301-48A2-BDB2-75988B4A4D36",
+        "cls": "",
+        "pos": "fixed",
+        "top": 3413,
+        "bottom": -2750,
+        "h": 1,
+        "w": 1,
+        "text": ""
+       }
+      ]
+     },
+     "prices": [],
+     "trust": [
+      {
+       "match": "TripAdvisor",
+       "text": "© 2013 - 2026 Altezza Travel. All rights reserved. Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor 5.0 (2571 Reviews)",
+       "where": "footer"
+      },
+      {
+       "match": "TripAdvisor",
+       "text": "Ranked #1 on TripAdvisor",
+       "where": "footer"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel prizes at World Travel Awards 2025",
+       "src": "",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Altezza Travel ranked #1 on Tripadvisor",
+       "src": "company-logo.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Altezza Travel named Tanzania's Leading Tour Operator at the",
+       "src": "company-logo3.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Altezza Travel certified as a B Corporation",
+       "src": "company-logo2.webp",
+       "where": "body"
+      },
+      {
+       "alt": "Altezza Travel - Certified B Corporation",
+       "src": "al-img7X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel Ranked #1 on TripAdvisor",
+       "src": "al-mob-img1X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Affiliate Member of UN Tourism",
+       "src": "al-mob-img2X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel – Tanzania’s Leading Tour Operator 2024/2025 ",
+       "src": "2026_wta_mobile_x2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel is a member of the KPAP organization",
+       "src": "al-img6X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Altezza Travel - Sustainability partner of UIAA (Internation",
+       "src": "al-img10X2.webp",
+       "where": "footer"
+      },
+      {
+       "alt": "Travelife Certificate for Altezza Travel",
+       "src": "tl_desk_x2.webp",
+       "where": "footer"
+      }
+     ],
+     "ratingText": [
+      "2571 Reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Roboto",
+       "Mazzard",
+       "CoreSansCR"
+      ],
+      "h1": null,
+      "h1Style": null,
+      "h2": "Mazzard",
+      "h2Style": "30px/600 ls=-0.6px tt=none",
+      "body": null,
+      "bodyStyle": null,
+      "nav": null,
+      "button": "Mazzard"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 3375479",
+       "rgb(252, 252, 252) 1758789",
+       "rgb(248, 248, 246) 482765",
+       "rgba(102, 102, 102, 0.8) 258960",
+       "rgb(250, 248, 244) 257400",
+       "rgb(222, 222, 222) 140580",
+       "rgb(229, 227, 223) 140580",
+       "rgb(33, 33, 33) 70136"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 56",
+       "rgb(77, 77, 77) 26",
+       "rgb(85, 83, 76) 26",
+       "rgb(33, 33, 33) 17",
+       "rgb(255, 255, 255) 9",
+       "rgb(116, 159, 84) 6"
+      ]
+     },
+     "images": {
+      "count": 11,
+      "alts": [
+       "Mount Kilimanjaro in the clouds",
+       "Aerial view of the Ngorongoro Crater",
+       "Shadows of acacia branches on a textured wall"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 0,
+      "dotEx": [],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 0,
+      "radii": [
+       "20px 4",
+       "17px 3",
+       "16px 2"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 2876,
+    "requests": 221,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:38:48.755Z"
+}

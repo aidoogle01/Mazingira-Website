@@ -1,0 +1,1689 @@
+{
+ "key": "ahsante",
+ "pages": {
+  "home": {
+   "desktop": {
+    "url": "https://ahsantetours.com/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 6347,
+    "lcpMs": 5708,
+    "perf": {
+     "ttfb": 4966,
+     "domContentLoaded": 5343,
+     "perfApiTransferKB": 532,
+     "resources": 32
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://ahsantetours.com/",
+     "title": "Ahsante Tours - Ahsante Tours & Safaris",
+     "docHeight": 16674,
+     "nav": [
+      "Home",
+      "About",
+      "Kilimanjaro",
+      "Safaris",
+      "Cycling",
+      "Zanzibar",
+      "Contact",
+      "New Tours"
+     ],
+     "h1": [
+      {
+       "text": "Conquer Kilimanjaro with Expert Guides",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Book Now",
+        17
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        "Book a Free Consultation",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Contact",
+       "Plan your trip",
+       "Book Now",
+       "Book a Free Consultation"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://ahsantetours.com/",
+       "id": "",
+       "cls": "elementor-form",
+       "y": 16222,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "form_fields[email]",
+         "label": "Email",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      },
+      {
+       "action": "https://ahsantetours.com/",
+       "id": "mc4wp-form-1",
+       "cls": "mc4wp-form mc4wp-form-2888",
+       "y": 3,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "EMAIL",
+         "label": "",
+         "placeholder": "Your email address",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "_mc4wp_honeypot",
+         "label": "Leave this field empty if you're human:",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "DOWNLOAD NOW"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "+255 748 525 386",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@ahsantetours.com"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [
+      "lar Tours 8 Days Lemosho Route Kilimanjaro,Tanzania 8 days Price from $ 2,897 (£ 2,337) Book Now 4 Days Great Migration Calving",
+      " 8 Days Lemosho Route Kilimanjaro,Tanzania 8 days Price from $ 2,897 (£ 2,337) Book Now 4 Days Great Migration Calving Season T",
+      " Now 4 Days Great Migration Calving Season Tanzania 4 days Price from $1,910 ( £ 1,410) Book Now 7 Days Machame Route Kilimanj",
+      "ys Great Migration Calving Season Tanzania 4 days Price from $1,910 ( £ 1,410) Book Now 7 Days Machame Route Kilimanjaro,Tanzan",
+      " Book Now 7 Days Machame Route Kilimanjaro,Tanzania 7 days Price from $ 2,570 ( £ 2,064) Book Now 6 Days The Great Migration Es",
+      "7 Days Machame Route Kilimanjaro,Tanzania 7 days Price from $ 2,570 ( £ 2,064) Book Now 6 Days The Great Migration Escape! Tanz",
+      "ook Now 6 Days The Great Migration Escape! Tanzania 6 days Price from $2,139 (£1,654) Book Now Check Out Our Client Reviews EX",
+      "6 Days The Great Migration Escape! Tanzania 6 days Price from $2,139 (£1,654) Book Now Check Out Our Client Reviews EXCELLENT ",
+      "lifetime! 6 Days Marangu Route Kilimanjaro,Tanzania 6 days Price from $ 2,300 (£ 1,847) Book Now 7 Days Lemosho Route Kilimanja",
+      " 6 Days Marangu Route Kilimanjaro,Tanzania 6 days Price from $ 2,300 (£ 1,847) Book Now 7 Days Lemosho Route Kilimanjaro,Tanzan",
+      " Book Now 7 Days Lemosho Route Kilimanjaro,Tanzania 7 days Price from $ 2,549 ( £ 2,049) Book Now 7 Days Machame Route Kilimanj",
+      "7 Days Lemosho Route Kilimanjaro,Tanzania 7 days Price from $ 2,549 ( £ 2,049) Book Now 7 Days Machame Route Kilimanjaro,Tanzan"
+     ],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "Posted on Tripadvisor",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "copy logo",
+       "src": "copy-logo-1536x536.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "TANAPA AWARD 2022",
+       "src": "TANAPA-AWARD-2022-r7i8jmr7l8n2odyp5efjr46tqmzny69itiqa7h3shs",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "logo.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Duncan profile picture",
+       "src": "default-avatar-2020-27.jpg?w=1200&h=1200&s=1",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "kisspng logo google customer service review 5afddeba51c2a5 1",
+       "src": "kisspng-logo-google-customer-service-review-5afddeba51c2a5-1",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      "206 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Poppins",
+       "Work Sans",
+       "Archivo",
+       "Lato",
+       "remixicon",
+       "elementskit",
+       "teenyicon",
+       "Trustindex Poppins"
+      ],
+      "h1": "Poppins, sans-serif",
+      "h1Style": "54px/900 ls=normal tt=none",
+      "h2": "Poppins, sans-serif",
+      "h2Style": "50px/900 ls=normal tt=none",
+      "body": "Poppins, sans-serif",
+      "bodyStyle": "16px/400 ls=normal tt=none",
+      "nav": "Poppins, sans-serif",
+      "button": "Garet, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(241, 241, 241) 9179033",
+       "rgb(255, 255, 255) 7629664",
+       "rgb(0, 0, 0) 4225499",
+       "rgb(248, 255, 251) 560000",
+       "rgb(181, 193, 142) 496155",
+       "rgb(102, 161, 121) 486797",
+       "rgb(122, 60, 47) 121512",
+       "rgb(244, 244, 244) 70400"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 91",
+       "rgb(40, 40, 40) 58",
+       "rgb(255, 255, 255) 55",
+       "rgb(102, 161, 121) 32",
+       "rgb(113, 113, 113) 32",
+       "rgb(245, 239, 234) 13"
+      ]
+     },
+     "images": {
+      "count": 27,
+      "alts": [
+       "QSF00713",
+       "Great Migration Calving Season scaled",
+       "QSF09115",
+       "jorge tung 1pZJqQlgpsY unsplash",
+       "QSF00289",
+       "QSF00713",
+       "QSF09115",
+       "QSF06169 scaled",
+       "TARANGIRE NP 6 1024x768 1",
+       "jorge tung 1pZJqQlgpsY unsplash",
+       "CU",
+       "2",
+       "DRJ 0850 scaled",
+       "moses londo vxo PFcaVAw unsplash 1 scaled e1742199067962",
+       "IMG 1339 2 scaled",
+       "tour 1706952627",
+       "jorge tung 1pZJqQlgpsY unsplash scaled e1775628733338",
+       "artturi jalli WUYFbcqrtiw unsplash scaled",
+       "1 UVQwUnigWITVRGRwLgAQvA",
+       "KILI SUMMITEERS SEASON 7 🔥🔥\n\nSeven years of adventure, friendship, and unforge",
+       "Peak season is peak season for a reason. It is also crowded and expensive.\nThe g",
+       "Two wheels, endless views, and Kilimanjaro leading the way. Ride through Tanzani",
+       "ahsante partners tato",
+       "ahsante partners atta",
+       "25d965 b8c0d0883e064787bf83f2da968d57f6 mv2 1 1",
+       "25d965 4654d348c25a477797b8c80ac551f309 mv2 1 1",
+       "weruweru"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 2,
+      "dotEx": [
+       "·  10% off all Kilimanjaro climbs & safaris  ·  Ends 1 Dec 2026, 23:59 EAT",
+       "© Ahsante Tours & Safaris 2025 | Join Tanzania's Wildest Adventures"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 2,
+      "radii": [
+       "14px 42",
+       "12px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": true,
+     "scrollWidth": 1448,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6226,
+    "requests": 138,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://ahsantetours.com/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 8772,
+    "lcpMs": 6564,
+    "perf": {
+     "ttfb": 5823,
+     "domContentLoaded": 6137,
+     "perfApiTransferKB": 263,
+     "resources": 30
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://ahsantetours.com/",
+     "title": "Ahsante Tours - Ahsante Tours & Safaris",
+     "docHeight": 24675,
+     "nav": [],
+     "h1": [
+      {
+       "text": "Conquer Kilimanjaro with Expert Guides",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Book Now",
+        16
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Book a Free Consultation",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       "Contact",
+       "Book a Free Consultation"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://ahsantetours.com/",
+       "id": "",
+       "cls": "elementor-form",
+       "y": 24301,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "form_fields[email]",
+         "label": "Email",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      },
+      {
+       "action": "https://ahsantetours.com/",
+       "id": "mc4wp-form-1",
+       "cls": "mc4wp-form mc4wp-form-2888",
+       "y": 0,
+       "fieldsTotal": 2,
+       "fieldsVisible": 0,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "EMAIL",
+         "label": "",
+         "placeholder": "Your email address",
+         "required": true,
+         "visible": false
+        },
+        {
+         "tag": "input",
+         "type": "text",
+         "name": "_mc4wp_honeypot",
+         "label": "Leave this field empty if you're human:",
+         "placeholder": "",
+         "required": false,
+         "visible": false
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "DOWNLOAD NOW"
+       ]
+      }
+     ],
+     "iframes": [
+      "data:text/html;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1Ym",
+      "data:text/html;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1Ym",
+      "data:text/html;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1Ym",
+      "data:text/html;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1Ym",
+      "data:text/html;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1Ym"
+     ],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "script/iframe"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "+255 748 525 386",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@ahsantetours.com"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [
+      "lar Tours 8 Days Lemosho Route Kilimanjaro,Tanzania 8 days Price from $ 2,897 (£ 2,337) Book Now 4 Days Great Migration Calving",
+      " 8 Days Lemosho Route Kilimanjaro,Tanzania 8 days Price from $ 2,897 (£ 2,337) Book Now 4 Days Great Migration Calving Season T",
+      " Now 4 Days Great Migration Calving Season Tanzania 4 days Price from $1,910 ( £ 1,410) Book Now 7 Days Machame Route Kilimanj",
+      "ys Great Migration Calving Season Tanzania 4 days Price from $1,910 ( £ 1,410) Book Now 7 Days Machame Route Kilimanjaro,Tanzan",
+      " Book Now 7 Days Machame Route Kilimanjaro,Tanzania 7 days Price from $ 2,570 ( £ 2,064) Book Now 6 Days The Great Migration Es",
+      "7 Days Machame Route Kilimanjaro,Tanzania 7 days Price from $ 2,570 ( £ 2,064) Book Now 6 Days The Great Migration Escape! Tanz",
+      "ook Now 6 Days The Great Migration Escape! Tanzania 6 days Price from $2,139 (£1,654) Book Now Check Out Our Client Reviews EX",
+      "6 Days The Great Migration Escape! Tanzania 6 days Price from $2,139 (£1,654) Book Now Check Out Our Client Reviews EXCELLENT ",
+      "lifetime! 6 Days Marangu Route Kilimanjaro,Tanzania 6 days Price from $ 2,300 (£ 1,847) Book Now 7 Days Lemosho Route Kilimanja",
+      " 6 Days Marangu Route Kilimanjaro,Tanzania 6 days Price from $ 2,300 (£ 1,847) Book Now 7 Days Lemosho Route Kilimanjaro,Tanzan",
+      " Book Now 7 Days Lemosho Route Kilimanjaro,Tanzania 7 days Price from $ 2,549 ( £ 2,049) Book Now 7 Days Machame Route Kilimanj",
+      "7 Days Lemosho Route Kilimanjaro,Tanzania 7 days Price from $ 2,549 ( £ 2,049) Book Now 7 Days Machame Route Kilimanjaro,Tanzan"
+     ],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "Posted on Tripadvisor",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "copy logo",
+       "src": "copy-logo-1536x536.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "TANAPA AWARD 2022",
+       "src": "TANAPA-AWARD-2022-r7i8jmr7l8n2odyp5efjr46tqmzny69itiqa7h3shs",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "logo.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Duncan profile picture",
+       "src": "default-avatar-2020-27.jpg?w=1200&h=1200&s=1",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "kisspng logo google customer service review 5afddeba51c2a5 1",
+       "src": "kisspng-logo-google-customer-service-review-5afddeba51c2a5-1",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      "206 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Poppins",
+       "Work Sans",
+       "Archivo",
+       "Lato",
+       "remixicon",
+       "feather",
+       "elementskit",
+       "Trustindex Poppins"
+      ],
+      "h1": "Poppins, sans-serif",
+      "h1Style": "40px/900 ls=normal tt=none",
+      "h2": "Poppins, sans-serif",
+      "h2Style": "50px/900 ls=normal tt=none",
+      "body": "Poppins, sans-serif",
+      "bodyStyle": "20px/400 ls=normal tt=none",
+      "nav": null,
+      "button": "Garet, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(241, 241, 241) 4261164",
+       "rgb(255, 255, 255) 1697596",
+       "rgb(0, 0, 0) 953912",
+       "rgb(248, 255, 251) 395900",
+       "rgb(181, 193, 142) 315705",
+       "rgb(247, 247, 247) 258960",
+       "rgba(51, 51, 51, 0.5) 258960",
+       "rgb(102, 161, 121) 254882"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 82",
+       "rgb(255, 255, 255) 53",
+       "rgb(102, 161, 121) 32",
+       "rgb(113, 113, 113) 32",
+       "rgb(245, 239, 234) 12",
+       "rgb(122, 60, 47) 5"
+      ]
+     },
+     "images": {
+      "count": 24,
+      "alts": [
+       "QSF00713",
+       "Great Migration Calving Season scaled",
+       "QSF09115",
+       "jorge tung 1pZJqQlgpsY unsplash",
+       "QSF00289",
+       "QSF00713",
+       "QSF09115",
+       "QSF06169 scaled",
+       "TARANGIRE NP 6 1024x768 1",
+       "jorge tung 1pZJqQlgpsY unsplash",
+       "CU",
+       "2",
+       "DRJ 0850 scaled",
+       "moses londo vxo PFcaVAw unsplash 1 scaled e1742199067962",
+       "IMG 1339 2 scaled",
+       "tour 1706952627",
+       "jorge tung 1pZJqQlgpsY unsplash scaled e1775628733338",
+       "artturi jalli WUYFbcqrtiw unsplash scaled",
+       "1 UVQwUnigWITVRGRwLgAQvA",
+       "ahsante partners tato",
+       "ahsante partners atta",
+       "25d965 b8c0d0883e064787bf83f2da968d57f6 mv2 1 1",
+       "25d965 4654d348c25a477797b8c80ac551f309 mv2 1 1",
+       "weruweru"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "© Ahsante Tours & Safaris 2025 | Join Tanzania's Wildest Adventures"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 2,
+      "radii": [
+       "14px 42",
+       "12px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 6325,
+    "requests": 137,
+    "shotCappedAt": 9000
+   }
+  },
+  "trip": {
+   "desktop": {
+    "url": "https://ahsantetours.com/8-days-wildlife-safari-in-tanzania/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 4921,
+    "lcpMs": 6284,
+    "perf": {
+     "ttfb": 3532,
+     "domContentLoaded": 3814,
+     "perfApiTransferKB": 439,
+     "resources": 35
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://ahsantetours.com/8-days-wildlife-safari-in-tanzania/",
+     "title": "8 Days Wildlife Safari in Tanzania - Ahsante Tours & Safaris",
+     "docHeight": 7530,
+     "nav": [
+      "Home",
+      "About",
+      "Kilimanjaro",
+      "Safaris",
+      "Cycling",
+      "Zanzibar",
+      "Contact",
+      "New Tours"
+     ],
+     "h1": [
+      {
+       "text": "8 Days Ultimate Tanzania Safari",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Book Now",
+        4
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        "Book Your Safari Now",
+        1
+       ],
+       [
+        "Start Your Inquiry",
+        1
+       ],
+       [
+        "WhatsApp Us",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Contact",
+       "Plan your trip",
+       "Book Your Safari Now",
+       "Start Your Inquiry"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://ahsantetours.com/8-days-wildlife-safari-in-tanzania/",
+       "id": "",
+       "cls": "elementor-form",
+       "y": 7078,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "form_fields[email]",
+         "label": "Email",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "WhatsApp Us",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 748 525 386",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@ahsantetours.com"
+      ],
+      "phrases": [
+       "whatsapp"
+      ],
+      "fixed": []
+     },
+     "prices": [
+      " Tanzania Safari Home » 8 Days Wildlife Safari in Tanzania Price from $3,190 (£ 2,467) Book Your Safari Now Start Your Inquiry",
+      "a Safari Home » 8 Days Wildlife Safari in Tanzania Price from $3,190 (£ 2,467) Book Your Safari Now Start Your Inquiry TANAPA A"
+     ],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "Posted on Tripadvisor",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "copy logo",
+       "src": "copy-logo-1536x536.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "TANAPA AWARD 2022",
+       "src": "TANAPA-AWARD-2022-r7i8jmr7l8n2odyp5efjr46tqmzny69itiqa7h3shs",
+       "where": "above-fold"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "logo.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Duncan profile picture",
+       "src": "default-avatar-2020-27.jpg?w=1200&h=1200&s=1",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      "206 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Poppins",
+       "Work Sans",
+       "Archivo",
+       "Lato",
+       "elementskit",
+       "remixicon",
+       "feather",
+       "teenyicon",
+       "Trustindex Poppins"
+      ],
+      "h1": "Poppins, sans-serif",
+      "h1Style": "40px/800 ls=normal tt=none",
+      "h2": "Poppins, sans-serif",
+      "h2Style": "40px/700 ls=normal tt=none",
+      "body": "Poppins, sans-serif",
+      "bodyStyle": "16px/400 ls=normal tt=none",
+      "nav": "Poppins, sans-serif",
+      "button": "Garet, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 7629664",
+       "rgb(241, 241, 241) 1605600",
+       "rgb(245, 245, 245) 1008000",
+       "rgb(0, 0, 0) 927878",
+       "rgb(102, 161, 121) 711258",
+       "rgb(247, 249, 251) 355752",
+       "rgb(244, 244, 244) 70400",
+       "rgb(152, 77, 55) 57600"
+      ],
+      "textByCount": [
+       "rgb(40, 40, 40) 65",
+       "rgb(0, 0, 0) 65",
+       "rgb(255, 255, 255) 36",
+       "rgb(245, 239, 234) 17",
+       "rgb(102, 161, 121) 10",
+       "rgb(113, 113, 113) 8"
+      ]
+     },
+     "images": {
+      "count": 10,
+      "alts": [
+       "ARUSHA NP 6 1 1024x682 1",
+       "SERENGETI NP 10 1024x768 1",
+       "SERENGETI NP 14 1024x576 1",
+       "SERENGETI NP 15 1024x576 1",
+       "25d965 2ada2785d2064fe493a728ea5ab2b499 mv2 1",
+       "ahsante experts",
+       "ARUSHA NP 6 1 1024x682 1",
+       "TARANGIRE NP 6 1024x768 1",
+       "image9 1 1024x772 1",
+       "KILI 2 INDIAN PROFILE PICTURE 1024x683 1"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "© Ahsante Tours & Safaris 2025 | Join Tanzania's Wildest Adventures"
+      ],
+      "arrows": 1,
+      "arrowEx": [
+       "»"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [
+       "14px 12",
+       "10px 5",
+       "12px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": true,
+     "scrollWidth": 1448,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3664,
+    "requests": 116,
+    "shotCappedAt": 6000
+   },
+   "mobile": {
+    "url": "https://ahsantetours.com/8-days-wildlife-safari-in-tanzania/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 2044,
+    "lcpMs": 1020,
+    "perf": {
+     "ttfb": 633,
+     "domContentLoaded": 881,
+     "perfApiTransferKB": 437,
+     "resources": 35
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://ahsantetours.com/8-days-wildlife-safari-in-tanzania/",
+     "title": "8 Days Wildlife Safari in Tanzania - Ahsante Tours & Safaris",
+     "docHeight": 10559,
+     "nav": [],
+     "h1": [
+      {
+       "text": "8 Days Ultimate Tanzania Safari",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Book Now",
+        4
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Book Your Safari Now",
+        1
+       ],
+       [
+        "Start Your Inquiry",
+        1
+       ],
+       [
+        "WhatsApp Us",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       "Contact"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://ahsantetours.com/8-days-wildlife-safari-in-tanzania/",
+       "id": "",
+       "cls": "elementor-form",
+       "y": 10185,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "form_fields[email]",
+         "label": "Email",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html",
+       "googleReviews": "script/iframe"
+      },
+      "whatsapp": [
+       {
+        "text": "WhatsApp Us",
+        "where": "body",
+        "visible": true
+       }
+      ],
+      "tel": [
+       {
+        "text": "+255 748 525 386",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@ahsantetours.com"
+      ],
+      "phrases": [
+       "whatsapp"
+      ],
+      "fixed": []
+     },
+     "prices": [
+      " Tanzania Safari Home » 8 Days Wildlife Safari in Tanzania Price from $3,190 (£ 2,467) Book Your Safari Now Start Your Inquiry",
+      "a Safari Home » 8 Days Wildlife Safari in Tanzania Price from $3,190 (£ 2,467) Book Your Safari Now Start Your Inquiry TANAPA A"
+     ],
+     "trust": [
+      {
+       "match": "Tripadvisor",
+       "text": "Posted on Tripadvisor",
+       "where": "body"
+      }
+     ],
+     "trustImgs": [
+      {
+       "alt": "copy logo",
+       "src": "copy-logo-1536x536.png",
+       "where": "above-fold"
+      },
+      {
+       "alt": "TANAPA AWARD 2022",
+       "src": "TANAPA-AWARD-2022-r7i8jmr7l8n2odyp5efjr46tqmzny69itiqa7h3shs",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "logo.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor",
+       "src": "icon.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Duncan profile picture",
+       "src": "default-avatar-2020-27.jpg?w=1200&h=1200&s=1",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 1",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 2",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 3",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 4",
+       "src": "f.svg",
+       "where": "body"
+      },
+      {
+       "alt": "Tripadvisor star 5",
+       "src": "f.svg",
+       "where": "body"
+      }
+     ],
+     "ratingText": [
+      "206 reviews"
+     ],
+     "fonts": {
+      "loaded": [
+       "Poppins",
+       "Work Sans",
+       "Archivo",
+       "Lato",
+       "elementskit",
+       "remixicon",
+       "feather",
+       "Trustindex Poppins"
+      ],
+      "h1": "Poppins, sans-serif",
+      "h1Style": "30px/800 ls=normal tt=none",
+      "h2": "Poppins, sans-serif",
+      "h2Style": "30px/700 ls=normal tt=none",
+      "body": "Poppins, sans-serif",
+      "bodyStyle": "16px/400 ls=normal tt=none",
+      "nav": null,
+      "button": "Garet, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 1688129",
+       "rgb(241, 241, 241) 634530",
+       "rgb(0, 0, 0) 634358",
+       "rgb(102, 161, 121) 363908",
+       "rgb(245, 245, 245) 273000",
+       "rgb(247, 247, 247) 258960",
+       "rgba(51, 51, 51, 0.5) 258960",
+       "rgb(247, 249, 251) 144336"
+      ],
+      "textByCount": [
+       "rgb(0, 0, 0) 57",
+       "rgb(255, 255, 255) 36",
+       "rgb(245, 239, 234) 17",
+       "rgb(102, 161, 121) 10",
+       "rgb(40, 40, 40) 8",
+       "rgb(113, 113, 113) 8"
+      ]
+     },
+     "images": {
+      "count": 6,
+      "alts": [
+       "25d965 2ada2785d2064fe493a728ea5ab2b499 mv2 1",
+       "ahsante experts",
+       "ARUSHA NP 6 1 1024x682 1",
+       "TARANGIRE NP 6 1024x768 1",
+       "image9 1 1024x772 1",
+       "KILI 2 INDIAN PROFILE PICTURE 1024x683 1"
+      ]
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "© Ahsante Tours & Safaris 2025 | Join Tanzania's Wildest Adventures"
+      ],
+      "arrows": 1,
+      "arrowEx": [
+       "»"
+      ],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [
+       "14px 12",
+       "10px 2",
+       "12px 1"
+      ],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 3631,
+    "requests": 116,
+    "shotCappedAt": 9000
+   }
+  },
+  "contact": {
+   "desktop": {
+    "url": "https://ahsantetours.com/contact/",
+    "mode": "desktop",
+    "status": 200,
+    "loadMs": 1717,
+    "lcpMs": 2032,
+    "perf": {
+     "ttfb": 584,
+     "domContentLoaded": 819,
+     "perfApiTransferKB": 162,
+     "resources": 21
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://ahsantetours.com/contact/",
+     "title": "Contact - Ahsante Tours & Safaris",
+     "docHeight": 2162,
+     "nav": [
+      "Home",
+      "About",
+      "Kilimanjaro",
+      "Safaris",
+      "Cycling",
+      "Zanzibar",
+      "Contact",
+      "New Tours"
+     ],
+     "h1": [
+      {
+       "text": "Contact Us Today",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Contact",
+       "Plan your trip"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://ahsantetours.com/contact/",
+       "id": "",
+       "cls": "elementor-form",
+       "y": 1710,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "form_fields[email]",
+         "label": "Email",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "+255 748 525 386",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 748 525 386",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@ahsantetours.com"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "copy logo",
+       "src": "copy-logo-1536x536.png",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Poppins",
+       "Work Sans",
+       "Archivo",
+       "Lato",
+       "remixicon",
+       "teenyicon",
+       "elementskit"
+      ],
+      "h1": "Poppins, sans-serif",
+      "h1Style": "45px/800 ls=normal tt=none",
+      "h2": "Poppins, sans-serif",
+      "h2Style": "50px/800 ls=normal tt=none",
+      "body": "Poppins, sans-serif",
+      "bodyStyle": "20px/400 ls=normal tt=none",
+      "nav": "Poppins, sans-serif",
+      "button": "Garet, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 4730996",
+       "rgb(0, 0, 0) 914400",
+       "rgb(244, 244, 244) 70400",
+       "rgb(122, 60, 47) 14532"
+      ],
+      "textByCount": [
+       "rgb(40, 40, 40) 63",
+       "rgb(255, 255, 255) 26",
+       "rgb(0, 0, 0) 17",
+       "rgb(245, 239, 234) 9",
+       "rgb(122, 60, 47) 4",
+       "rgb(81, 163, 117) 2"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "© Ahsante Tours & Safaris 2025 | Join Tanzania's Wildest Adventures"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": true,
+     "scrollWidth": 1448,
+     "innerWidth": 1440
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4795,
+    "requests": 106,
+    "shotCappedAt": null
+   },
+   "mobile": {
+    "url": "https://ahsantetours.com/contact/",
+    "mode": "mobile",
+    "status": 200,
+    "loadMs": 3132,
+    "lcpMs": 3532,
+    "perf": {
+     "ttfb": 2303,
+     "domContentLoaded": 2509,
+     "perfApiTransferKB": 160,
+     "resources": 21
+    },
+    "cookie": null,
+    "data": {
+     "url": "https://ahsantetours.com/contact/",
+     "title": "Contact - Ahsante Tours & Safaris",
+     "docHeight": 3391,
+     "nav": [],
+     "h1": [
+      {
+       "text": "Contact Us Today",
+       "visible": true
+      }
+     ],
+     "hero": {
+      "videos": [],
+      "iframes": [],
+      "sliders": [],
+      "bigImages": [],
+      "bgImageSections": 1
+     },
+     "cta": {
+      "counts": [
+       [
+        "Plan your trip",
+        1
+       ],
+       [
+        "Contact",
+        1
+       ],
+       [
+        "Facebook",
+        1
+       ]
+      ],
+      "aboveFold": [
+       "Plan your trip",
+       "Contact"
+      ]
+     },
+     "forms": [
+      {
+       "action": "https://ahsantetours.com/contact/",
+       "id": "",
+       "cls": "elementor-form",
+       "y": 3017,
+       "fieldsTotal": 1,
+       "fieldsVisible": 1,
+       "fields": [
+        {
+         "tag": "input",
+         "type": "email",
+         "name": "form_fields[email]",
+         "label": "Email",
+         "placeholder": "Email",
+         "required": true,
+         "visible": true
+        }
+       ],
+       "stepText": false,
+       "nextBtn": false,
+       "submit": [
+        "Subscribe"
+       ]
+      }
+     ],
+     "iframes": [
+      "https://maps.google.com/maps?q=Ahsante%20Tours&t=m&z=16&output=embed&iwloc=near"
+     ],
+     "contact": {
+      "vendorHits": {
+       "tawk": "mentioned-in-html",
+       "whatsappWidget": "mentioned-in-html",
+       "tripadvisor": "mentioned-in-html"
+      },
+      "whatsapp": [],
+      "tel": [
+       {
+        "text": "+255 748 525 386",
+        "where": "body",
+        "visible": true
+       },
+       {
+        "text": "+255 748 525 386",
+        "where": "bottom",
+        "visible": true
+       }
+      ],
+      "mail": [
+       "info@ahsantetours.com"
+      ],
+      "phrases": [],
+      "fixed": []
+     },
+     "prices": [],
+     "trust": [],
+     "trustImgs": [
+      {
+       "alt": "copy logo",
+       "src": "copy-logo-1536x536.png",
+       "where": "above-fold"
+      }
+     ],
+     "ratingText": [],
+     "fonts": {
+      "loaded": [
+       "Poppins",
+       "Work Sans",
+       "Archivo",
+       "Lato",
+       "remixicon",
+       "teenyicon",
+       "feather",
+       "elementskit"
+      ],
+      "h1": "Poppins, sans-serif",
+      "h1Style": "30px/800 ls=normal tt=none",
+      "h2": "Poppins, sans-serif",
+      "h2Style": "30px/800 ls=normal tt=none",
+      "body": "Poppins, sans-serif",
+      "bodyStyle": "20px/400 ls=normal tt=none",
+      "nav": null,
+      "button": "Garet, sans-serif"
+     },
+     "colours": {
+      "backgroundsByArea": [
+       "rgb(255, 255, 255) 1372770",
+       "rgb(0, 0, 0) 620880",
+       "rgb(247, 247, 247) 258960",
+       "rgba(51, 51, 51, 0.5) 258960",
+       "rgb(122, 60, 47) 20492"
+      ],
+      "textByCount": [
+       "rgb(255, 255, 255) 26",
+       "rgb(245, 239, 234) 9",
+       "rgb(0, 0, 0) 8",
+       "rgb(40, 40, 40) 7",
+       "rgb(122, 60, 47) 4",
+       "rgb(81, 163, 117) 2"
+      ]
+     },
+     "images": {
+      "count": 0,
+      "alts": []
+     },
+     "slop": {
+      "eyebrows": 0,
+      "eyebrowEx": [],
+      "dots": 1,
+      "dotEx": [
+       "© Ahsante Tours & Safaris 2025 | Join Tanzania's Wildest Adventures"
+      ],
+      "arrows": 0,
+      "arrowEx": [],
+      "numMarkers": 0,
+      "gradients": 1,
+      "radii": [],
+      "animAttrs": 0,
+      "interUsed": false
+     },
+     "overflowX": false,
+     "scrollWidth": 390,
+     "innerWidth": 390
+    },
+    "transferKB_atLoadPlus5s": null,
+    "transferKB_afterScroll": 4842,
+    "requests": 111,
+    "shotCappedAt": null
+   }
+  }
+ },
+ "captured": "2026-10-26T13:40:44.331Z"
+}
