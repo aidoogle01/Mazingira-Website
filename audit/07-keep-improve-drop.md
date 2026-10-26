@@ -2,13 +2,26 @@
 
 **This is the decision list.** We go through it with you (and ideally Mazingira) before building anything. My recommendation is in the right-hand column; mark anything you disagree with.
 
+## Decisions (reviewed 26 Oct 2026)
+
+| Topic | Decision |
+|---|---|
+| Recommendations below | ✅ **Accepted as the baseline** (✅ keep, 🔧 improve, ❌ drop, ➕ add) |
+| Platform | ⏸ **Decide later.** Build the content model and design first, and keep them independent of any platform |
+| "Wild Wonders" Ruaha trip | ❓ **Ask the client first.** Hide it until they confirm (question 4 in `08-questions-for-client.md`) |
+| WhatsApp | ➕ **Add** a fixed button on mobile and an option in the enquiry form |
+| Newsletter | ✅ **Keep:** one sign-up block |
+| Pop-ups (Poptin) | ✅ **Keep** email-capture pop-ups (against my recommendation). Use one gentle pop-up, triggered when the visitor is about to leave or after they scroll, never on arrival, and not on enquiry pages |
+| Live chat widget | ❌ **Drop.** WhatsApp replaces it |
+| Still open | Languages (question 19); confirming prices, bank details and emails (questions 1–3) |
+
 ## Content
 
 | Item | Recommendation | Why |
 |---|---|---|
 | 9 trip itineraries (days, lodges, meal plans, prices, inclusions) | ✅ **Keep** as structured data, after fixing the errors in 06 #9 | The core sales content, and genuinely detailed |
 | Shared inclusions/exclusions template | ✅ **Keep**, written once and reused | Stops the copy-paste drift |
-| "Wild Wonders" Ruaha trip | ❓ **Client decides**: write it up properly or drop it | It's advertised at $7,500 with no page |
+| "Wild Wonders" Ruaha trip | ❓ **Ask the client first; hidden until confirmed** (decided) | It's advertised at $7,500 with no page |
 | 7 national park pages + Tanzania overview + Big 5 | ✅ **Keep**, after copy-editing | Good, original-feeling content that helps search ranking |
 | Kilimanjaro hub, routes, packing guide | ✅ **Keep**. Consider adding Lemosho and Rongai packages, since the site recommends them | It recommends routes it doesn't sell |
 | Activities (balloon, night drive, walking, Maasai, picnic, tented) | ✅ **Keep** as "add-ons" that trip pages link to | Natural upsells |
@@ -44,14 +57,14 @@
 | 3 different forms | 🔧 **Merge** into one short enquiry form that knows the trip and is emailed to the right inbox(es) |
 | WhatsApp | ➕ **Add** a fixed button on mobile and an option in the form |
 | Review score and badges | ➕ **Add** the live rating; update the 2020 badge; show TATO and "since 2007" prominently |
-| Wix Chat | ❓ Client decides: keep a chat tool or rely on WhatsApp |
-| Poptin pop-ups | ❓ Client decides (I'd suggest dropping them) |
+| Wix Chat | ❌ **Drop.** WhatsApp replaces it (decided) |
+| Poptin pop-ups | ✅ **Keep**, limited to one gentle exit or scroll pop-up (decided) |
 
 ## Technical
 
 | Item | Recommendation |
 |---|---|
-| Platform | 🔧 **Move off Wix** to a fast static site with an easy way to edit trips. Platform choice is a separate decision. |
+| Platform | ⏸ **Decide later** (decided). Keep the content model and design platform-independent |
 | Redirects | ➕ **Add** a full redirect map: old WordPress URLs, Wix URLs, and the misspelled slugs mapped to corrected ones |
 | URLs | 🔧 Clean, consistent slugs (`/safaris/great-migration`, `/parks/ngorongoro`, …) |
 | Structured data | ➕ TravelAgency, TouristTrip, FAQPage, AggregateRating |
