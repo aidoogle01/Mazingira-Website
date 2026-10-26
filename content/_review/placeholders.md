@@ -28,4 +28,4 @@ These values came from placeholder answers, not from Mazingira. Replace them bef
 | Q14 | `reviews.json` | `aggregate.1.checked` | "client placeholder answer" |
 | Q19 | `site.json` | `languages` | ["en"] |
 
-25 of 25 answers are placeholders.
+24 of 25 answers are placeholders.

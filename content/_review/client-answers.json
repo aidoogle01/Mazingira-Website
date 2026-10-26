@@ -415,10 +415,11 @@
     {
       "id": "Q18",
       "q": "Who updates trips and prices after launch?",
-      "answer": "Cassie (UK sales). Comfortable with Wix and Google Docs, not with code: she needs a simple online editor.",
+      "answer": "The site owner (our consultancy) makes all website changes, using Claude in this repo. Mazingira sends price and itinerary changes to us; no client-facing CMS is needed.",
       "apply": [],
       "resolves": [],
-      "status": "placeholder"
+      "status": "confirmed",
+      "confirmed_by": "site owner, 26 Oct 2026"
     },
     {
       "id": "Q19",
