@@ -8,7 +8,7 @@ import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { tokensCss } from '../lib/tokens';
-import { whatsapp } from '../lib/content';
+import { whatsapp, planner } from '../lib/content';
 
 interface Props { title: string; description?: string; solidHeader?: boolean; whatsappText?: string }
 const { title, description, solidHeader = false, whatsappText } = Astro.props;
@@ -32,7 +32,7 @@ const fullTitle = title === 'Home' ? 'Mazingira Safari: Tanzanian-owned safaris 
     <Footer />
     <div class="actionbar" aria-label="Contact Mazingira">
       <a class="mz-btn" href="#enquire">Get your itinerary</a>
-      <a class="mz-btn mz-btn--whatsapp" href={whatsapp(whatsappText)}>WhatsApp Johari</a>
+      <a class="mz-btn mz-btn--whatsapp" href={whatsapp(whatsappText)}>{planner.whatsappLabel}</a>
     </div>
   </body>
 </html>

@@ -45,4 +45,4 @@ These values came from placeholder answers, not from Mazingira. Replace them bef
 | C-titles | `trips/winged-wonders-birding.json` | `title` | "Birding safari: Lake Natron to the Serengeti" |
 | C-titles | `trips/kilimanjaro-machame-7-day.json` | `title` | "Kilimanjaro on the Machame route" |
 
-29 of 30 answers are placeholders.
+30 of 32 answers are placeholders.

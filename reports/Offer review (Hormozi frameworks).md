@@ -10,8 +10,8 @@ Value = (dream outcome × perceived likelihood of getting it) ÷ (time delay × 
 |---|---|---|---|
 | Dream outcome | Trip names were vague ("Serengeti Escape A Romantic Adventure") | Names say who the trip is for and where it goes ("Serengeti for two", "Great Migration river crossings"); photo bands show the outcome | Approve the names (C-titles) |
 | Perceived likelihood | One review score, in the hero only | Both scores (Tripadvisor 5.0 from 120, SafariBookings 5.0 from 81) beside the hero buttons and on the Safaris index; own guides, since 2007, TATO | Confirm the counts (Q14) |
-| Time delay | Nothing said about how fast Johari replies | Unchanged on the page: the enquiry block shows `site.reply_promise` only once it exists | A reply time they can keep every day (Q21) |
-| Effort and sacrifice | Calls to action asked for work ("Plan your safari", "Send enquiry") | Calls to action name what you get ("Get your itinerary and price", "Send to Johari"); "Every safari price includes" lists the private 4x4, own guide, park fees, transfers, meals and lodges | |
+| Time delay | Nothing said about how fast enquiries are answered | Unchanged on the page: the enquiry block shows `site.reply_promise` only once it exists | A reply time they can keep every day (Q21) |
+| Effort and sacrifice | Calls to action asked for work ("Plan your safari", "Send enquiry") | Calls to action name what you get ("Get your itinerary and price"); the form button names the person once the enquiries contact is confirmed (Q24); "Every safari price includes" lists the private 4x4, own guide, park fees, transfers, meals and lodges | |
 
 ## Risk reversal
 

@@ -573,7 +573,7 @@
     },
     {
       "id": "Q21",
-      "q": "How quickly does Johari reply to a new enquiry, and can we promise it on the site (for example \"a first itinerary and price within 24 hours\")? A stated reply time is one of the strongest reasons people enquire.",
+      "q": "How quickly does the person answering enquiries reply to a new enquiry, and can we promise it on the site (for example \"a first itinerary and price within 24 hours\")? A stated reply time is one of the strongest reasons people enquire.",
       "answer": "Not answered yet. Nothing is shown on the site until Mazingira confirms a time they can keep every day, including weekends.",
       "status": "placeholder"
     },
@@ -587,6 +587,25 @@
       "id": "Q23",
       "q": "How far ahead do guests need to book for July to September, and for the river-crossing camps (Mara Under Canvas)? An honest booking-ahead note helps people decide sooner.",
       "answer": "Not answered yet. No urgency or availability claims are shown until Mazingira confirms them.",
+      "status": "placeholder"
+    },
+    {
+      "id": "S-johari-left",
+      "q": "Johari Msangi (travel specialist) no longer works at Mazingira.",
+      "answer": "Remove Johari from the team and from every enquiry message, button and form. Until the new contact is named (Q24), enquiries are answered by \"our team in Arusha\".",
+      "status": "confirmed",
+      "confirmed_by": "Site owner, 1 November 2026",
+      "apply": [
+        {
+          "file": "team/johari-msangi.json",
+          "delete": true
+        }
+      ]
+    },
+    {
+      "id": "Q24",
+      "q": "Who now answers enquiries and WhatsApp messages? Their name, role and a photo let the site say \"<name> will reply\" and \"WhatsApp <name>\", which reads as a real person rather than a company.",
+      "answer": "Not answered yet. The site says \"our team in Arusha\" and \"WhatsApp us\". When confirmed, set enquiries.person in site.json (through this file) to their team id.",
       "status": "placeholder"
     }
   ]

@@ -15,6 +15,16 @@ export const tripPath = (t: any) => `${t.style === 'kilimanjaro' ? '/kilimanjaro
 export const experienceById = (id: string) => experiences.find((e) => e.id === id);
 export const person = (id: string) => team.find((p) => p.id === id);
 
+// Who answers enquiries and WhatsApp. Named once Mazingira confirms it (site.json enquiries.person,
+// set through content/_review/client-answers.json); until then the copy speaks for the team.
+import siteData from '../../../content/site.json';
+const plannerRecord = (siteData as any).enquiries?.person ? person((siteData as any).enquiries.person) : undefined;
+export const planner = {
+  first: plannerRecord ? plannerRecord.name.trim().split(/\s+/)[0] : null as string | null,
+  greeting: plannerRecord ? `Hello ${plannerRecord.name.trim().split(/\s+/)[0]}` : 'Hello Mazingira',
+  whatsappLabel: plannerRecord ? `WhatsApp ${plannerRecord.name.trim().split(/\s+/)[0]}` : 'WhatsApp us',
+};
+
 const MONTH = { jan: 'January', feb: 'February', mar: 'March', apr: 'April', may: 'May', jun: 'June', jul: 'July', aug: 'August', sep: 'September', oct: 'October', nov: 'November', dec: 'December' } as Record<string, string>;
 const WORD = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen'];
 

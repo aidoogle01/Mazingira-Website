@@ -4,7 +4,7 @@ The research behind this system (`reports/Safari website benchmarks and AI desig
 
 ## Voice and content
 
-- **Write as Mazingira: "we" are the Arusha team, "you" are the traveller.** Name people: "Johari will reply", "Goodluck will guide you", not "a representative".
+- **Write as Mazingira: "we" are the Arusha team, "you" are the traveller.** Name people: "Goodluck will guide you", "Jacob planned this route", not "a representative". Name the person who answers enquiries once Mazingira confirms who it is (`site.json` `enquiries.person`).
 - **British English** (most guests are from the UK): *colour, organise, travellers*. Numerals for ages, durations and distances: "6 years and over", "a 2-hour drive", "3,850m".
 - **Sentence case** everywhere: headings, buttons, labels. There is no all-caps text in this system.
 - **Write facts as sentences or labelled lists, never as strings joined by dots.** Write "Nine days, best June to September", not "9 DAYS · JUN–SEP". On trip days, use a small "Stay / Meals" list.
@@ -71,7 +71,7 @@ Every trip page has a **RouteMap**: a quiet drawing of northern Tanzania from re
 
 ## Iconography
 
-None. The system uses words: "WhatsApp Johari", "Call +255 784 278 205", "Instagram". If icons are ever needed, use one outline set at 1.5px in `ink`, and never redraw third-party logos (WhatsApp, Tripadvisor); use their official badges.
+None. The system uses words: "WhatsApp us" (or the named contact), "Call +255 784 278 205", "Instagram". If icons are ever needed, use one outline set at 1.5px in `ink`, and never redraw third-party logos (WhatsApp, Tripadvisor); use their official badges.
 
 ## Components
 

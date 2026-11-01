@@ -455,6 +455,10 @@ def apply_client_answers():
     for a in answers:
         for op in a.get('apply', []):
             fp = os.path.join(OUT, op['file'])
+            if op.get('delete'):   # e.g. someone who has left: their generated record goes
+                if os.path.exists(fp):
+                    os.remove(fp)
+                continue
             doc = json.load(open(fp))
             for k, v in op['set'].items():
                 set_path(doc, k, v)

@@ -4,7 +4,7 @@ import Base from '../layouts/Base.astro';
 import RouteMap from './RouteMap.astro';
 import Enquiry from './Enquiry.astro';
 import Day from './Day.astro';
-import { tripLabel, bestMonths, usd, dayLabel, days, nights, experienceById, whatsapp, reviews } from '../lib/content';
+import { tripLabel, bestMonths, usd, dayLabel, days, nights, experienceById, whatsapp, reviews, planner } from '../lib/content';
 import { md } from '../lib/md';
 import { photo, photosFor } from '../lib/photos';
 import { TRIP_HERO, TRIP_BAND } from '../lib/art';
@@ -26,7 +26,7 @@ const alts = climb ? itin.filter((d: any) => d.altitude).map((d: any) => ({ day:
 const maxAlt = Math.max(5895, ...alts.map((a: any) => a.m));
 const routeTitle = `Route of ${t.title}: ${(t.route ?? []).map(placeName).join(', ')}`;
 ---
-<Base title={t.title} description={t.summary ?? undefined} whatsappText={`Hello Johari, I'm interested in ${t.title}.`}>
+<Base title={t.title} description={t.summary ?? undefined} whatsappText={`${planner.greeting}, I'm interested in ${t.title}.`}>
   <section class="hero hero--band">
     {hero && <Picture class="hero__img" src={hero.img} alt={hero.alt} widths={[640, 960, 1280, 1600, 2000]} sizes="100vw" formats={['avif', 'webp']} loading="eager" fetchpriority="high" />}
     <div class="wrap hero__content">
@@ -129,7 +129,7 @@ const routeTitle = `Route of ${t.title}: ${(t.route ?? []).map(placeName).join('
         ) : (
           <p class="lead">From <span class="price">{usd(t.price.from)}</span> per person.</p>
         )}
-        <p class="measure">This is a starting point. Johari will adjust the lodges, length and pace to suit you, and confirm the exact price for your dates. You pay nothing until you've approved the written quote.</p>
+        <p class="measure">This is a starting point. We'll adjust the lodges, length and pace to suit you, and confirm the exact price for your dates. You pay nothing until you've approved the written quote.</p>
       </div>
       <div class="lists">
         <div><h3 style="font-size:26px">Included</h3><ul>{t.includes.map((x: string) => <li>{x}</li>)}</ul></div>
