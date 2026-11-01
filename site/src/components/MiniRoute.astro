@@ -1,0 +1,31 @@
+---
+// A small, static version of the route map for trip cards: the same real-coordinate projection,
+// no labels and no motion. The full RouteMap on the trip page names every stop.
+import { PLACES, F } from '../lib/places';
+interface Props { stops: string[] }
+const { stops } = Astro.props;
+const W = 220, H = 160, P = 14;
+const pt = (k: string) => {
+  const p = PLACES[k];
+  if (!p || p.off) return { x: W - 4, y: H - 4 };
+  return { x: P + ((p.lon - F.west) / (F.east - F.west)) * (W - 2 * P), y: P + ((F.north - p.lat) / (F.north - F.south)) * (H - 2 * P) };
+};
+const legs = stops.map((s) => ({ key: s.replace(/^fly:/, ''), fly: s.startsWith('fly:') })).filter((l) => PLACES[l.key]);
+const visited = new Set(legs.map((l) => l.key));
+const segs = legs.slice(1).map((l, i) => {
+  const a = pt(legs[i].key), b = pt(l.key);
+  if (!l.fly) return { d: `M${a.x} ${a.y}L${b.x} ${b.y}`, fly: false };
+  const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2, dx = b.x - a.x, dy = b.y - a.y;
+  let cx = mx + dy * 0.35, cy = my - dx * 0.35;
+  if (cy > my) { cx = mx - dy * 0.35; cy = my + dx * 0.35; }
+  return { d: `M${a.x} ${a.y}Q${cx} ${cy} ${b.x} ${b.y}`, fly: true };
+});
+const seen = new Set<string>();
+const dots = legs.filter((l) => !PLACES[l.key].off && (seen.has(l.key) ? false : (seen.add(l.key), true))).map((l, i) => ({ ...pt(l.key), start: i === 0 }));
+const others = Object.keys(PLACES).filter((k) => !visited.has(k) && !PLACES[k].off).map(pt);
+---
+<svg class="mini-route" viewBox={`0 0 ${W} ${H}`} aria-hidden="true" focusable="false">
+  {others.map((o) => <circle class="mini-route__lm" cx={o.x} cy={o.y} r="2.6" />)}
+  {segs.map((s) => <path class:list={['mini-route__leg', { 'mini-route__fly': s.fly }]} d={s.d} />)}
+  {dots.map((d) => <circle class:list={['mini-route__st', { 'mini-route__st0': d.start }]} cx={d.x} cy={d.y} r={d.start ? 4.5 : 4} />)}
+</svg>

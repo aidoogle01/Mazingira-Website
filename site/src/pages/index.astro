@@ -15,7 +15,7 @@ const goodluckImg = teamPhoto('goodluck-nathan', 'Goodluck Nathan on the roof of
 const featured = HOME_TRIPS.map(tripById).filter(Boolean);
 const sb = reviews.aggregate.find((r: any) => r.source === 'SafariBookings');
 const carly = reviews.featured.find((r: any) => r.name === 'Carly A');
-const elephants = photo('1ac0ef_1aa46308');
+const elephants = photo('1ac0ef_03be9bc3');
 const migration = tripById('great-migration-river-crossing');
 const guides = published.length;
 ---
@@ -33,7 +33,7 @@ const guides = published.length;
     </div>
   </section>
 
-  <section class="section">
+  <section class="section band-soft">
     <div class="wrap stack" style="gap:48px">
       <p class="statement"><em>Mazingira</em> means environment in Swahili. Our guides grew up in it, and we plan every trip ourselves, from our office in Arusha.</p>
       <dl class="facts-row">
@@ -45,27 +45,29 @@ const guides = published.length;
     </div>
   </section>
 
-  <section class="section" style="padding-top:0" aria-labelledby="trips-title">
-    <div class="wrap">
-      <div class="actions" style="justify-content:space-between;margin-bottom:24px">
-        <h2 id="trips-title" class="heading">Safaris we run</h2>
-        <a href="/safaris">All {published.length} safaris and climbs</a>
-      </div>
-      <div class="triprows">
-        {featured.map((t: any) => {
-          const p = photo(TRIP_HERO[t.id]);
-          return (
-            <a class="triprow" href={tripPath(t)}>
-              <Picture class="triprow__img" src={p.img} alt={p.alt} widths={[480, 800, 1200]} sizes="(max-width: 760px) 100vw, 58vw" formats={['avif', 'webp']} />
-              <div class="triprow__text">
-                <p class="label">{tripLabel(t)}</p>
-                <h3 class="triprow__title">{t.title}</h3>
-                {t.summary && <p>{t.summary}</p>}
-                <p><span class="price">From {usd(t.price.from)}</span> <span class="label">per person</span></p>
-              </div>
-            </a>
-          );
-        })}
+  <section aria-labelledby="trips-title">
+    <h2 id="trips-title" class="sr-only">Safaris we run</h2>
+    {featured.map((t: any) => {
+      const p = photo(TRIP_HERO[t.id]);
+      return (
+        <article class="tripband">
+          <Picture class="tripband__img" src={p.img} alt={p.alt} widths={[640, 960, 1280, 1600, 2000]} sizes="100vw" formats={['avif', 'webp']} />
+          <div class="wrap tripband__content">
+            <div class="tripband__text">
+              <p class="label">{tripLabel(t)}</p>
+              <h3 class="tripband__title"><a href={tripPath(t)}>{t.title}</a></h3>
+              {t.summary && <p>{t.summary}</p>}
+              <p><span class="tripband__price">From {usd(t.price.from)}</span> <span class="label">per person</span></p>
+              <p><a class="mz-btn mz-btn--light" href={tripPath(t)}>View this safari</a></p>
+            </div>
+          </div>
+        </article>
+      );
+    })}
+    <div class="band-deep allsafaris">
+      <div class="wrap actions" style="justify-content:space-between">
+        <p class="lead">{published.length - featured.length} more safaris and climbs, each with its route and price.</p>
+        <a class="mz-btn mz-btn--light" href="/safaris">See all safaris</a>
       </div>
     </div>
   </section>
@@ -96,7 +98,7 @@ const guides = published.length;
   )}
 
   {goodluck && (
-    <section class="section" aria-labelledby="guide-title">
+    <section class="section band-deep" aria-labelledby="guide-title">
       <div class="wrap guide">
         <Picture src={goodluckImg.img} alt={goodluckImg.alt} widths={[480, 800, 1100]} sizes="(max-width: 760px) 100vw, 40vw" formats={['avif', 'webp']} />
         <div class="stack">

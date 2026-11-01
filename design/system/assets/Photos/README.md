@@ -3,7 +3,7 @@
 Mazingira's own photographs, uploaded by them to the old site (Wix file IDs starting `1ac0ef_`), resized to 1600px at most. Ownership is from a placeholder client answer, so confirm before launch. Use them for heroes, trip cards and park pages, with alt text.
 
 - `mazingira-vehicle.jpg`: the branded Land Cruiser on a dirt track. Use on About and Home, as proof this is a real local operator.
-- `elephant-herd-tarangire.jpg`: elephants in dry grass. Tarangire, migration trips.
+- `elephant-herd-tarangire.jpg`: elephants in dry grass (the old site places it in the Serengeti; the file name is ours and wrong). Any northern-circuit trip.
 - `camp-dinner-firelight.jpg`: a dinner table by a campfire at dusk. Honeymoon and luxury trips.
 - `savannah-sunset.jpg`: an acacia silhouette against a pink sky (portrait). Hero crops and the enquiry band.
 - `tented-camp.jpg`: a canvas tent under acacias (portrait). Camping and tented trips.

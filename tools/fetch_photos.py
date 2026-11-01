@@ -34,7 +34,7 @@ TEAM = {
 
 # Mazingira's own gallery photos from the old homepage (also in the design system's Photos group).
 GALLERY = {
-    '1ac0ef_1aa4630866284fad84ec60a2b72fc68e~mv2.jpg': 'A herd of elephants walking through dry grass in Tarangire',
+    '1ac0ef_1aa4630866284fad84ec60a2b72fc68e~mv2.jpg': 'A herd of elephants, including calves, walking through dry grass',
     '1ac0ef_2c70ca514e524c8790facd8f0c6460a1~mv2.png': 'A dinner table set beside a campfire at dusk',
     '1ac0ef_3d3287c1a3954a1c8ebc92fa142e5be2~mv2.png': 'An acacia silhouetted against a pink sky over the savannah',
     '1ac0ef_914921ce50b841fd9201f83163329c0d~mv2.png': 'A Mazingira Land Cruiser on a dirt track under a big sky',

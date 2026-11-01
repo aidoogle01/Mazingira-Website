@@ -9,6 +9,7 @@
   --deep: #22261a;          /* deep forest band */
   --on-deep: #f1f0e6;       /* text on --deep: 14.6:1 */
   --on-deep-muted: #c9ccb8; /* secondary text on --deep: 9.4:1 */
+  --deep-2: #2c3123;        /* cards on --deep; --on-deep on it: 11.7:1, --on-deep-muted 8.2:1 */
   --on-photo: #ffffff;      /* text over darkened photos */
   --gutter: max(16px, env(safe-area-inset-left, 0px));
   --measure: 38rem;
@@ -82,9 +83,11 @@ a { color: var(--forest); text-underline-offset: 3px; }
 
 /* Deep band ------------------------------------------------------------------ */
 .band-deep { background: var(--deep); color: var(--on-deep); }
-.band-deep h2, .band-deep h3 { color: var(--on-deep); }
+.band-deep h1, .band-deep h2, .band-deep h3 { color: var(--on-deep); }
 .band-deep .label { color: var(--on-deep-muted); }
 .band-deep a:not(.mz-btn) { color: var(--on-deep); }
+.band-deep .guide dt { color: var(--on-deep-muted); }
+.band-deep .guide dl { border-color: rgb(241 240 230 / 0.16); }
 .band-dust { background: var(--dust); }
 .band-soft { background: var(--sage-soft); }
 
@@ -115,27 +118,45 @@ a { color: var(--forest); text-underline-offset: 3px; }
 .quote { font-family: var(--font-display); font-weight: 500; font-style: italic; font-size: clamp(24px, 2.6vw, 36px); line-height: 1.3; max-width: 34ch; margin: 0; }
 .quote-by { margin-top: var(--space-4); font-size: 16px; }
 
-/* Trip rows (Home) ----------------------------------------------------------------- */
-.triprows { display: flex; flex-direction: column; }
-.triprow { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: clamp(24px, 4vw, 56px); align-items: center;
-  padding-block: clamp(32px, 4vw, 56px); border-top: 1px solid var(--line); color: inherit; text-decoration: none; }
-.triprow:nth-child(even) { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); }
-.triprow:nth-child(even) .triprow__img { order: 2; }
-.triprow__img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; }
-.triprow__text { display: flex; flex-direction: column; gap: var(--space-3); min-width: 0; }
-.triprow__title { font-size: clamp(32px, 3.6vw, 48px); line-height: 1.04; }
-.triprow:hover .triprow__title { text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 1px; }
+/* Trip bands (Home): one full-width photograph per featured trip ---------------------- */
+.tripband { position: relative; display: flex; align-items: flex-end; min-height: clamp(480px, 48vw, 700px); overflow: hidden; background: var(--deep); color: var(--on-photo); }
+.tripband__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.tripband::after { content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, rgb(18 20 14 / 0.86) 0%, rgb(18 20 14 / 0.55) 38%, rgb(18 20 14 / 0.05) 72%), linear-gradient(0deg, rgb(18 20 14 / 0.5), transparent 50%); }
+.tripband__content { position: relative; z-index: 1; width: 100%; padding-block: clamp(40px, 6vw, 80px); }
+.tripband__text { max-width: 34rem; display: flex; flex-direction: column; gap: var(--space-4); }
+.tripband .label { color: rgb(241 240 230 / 0.88); }
+.tripband__title { font-size: clamp(36px, 4.6vw, 64px); line-height: 1; color: var(--on-photo); text-wrap: balance; }
+.tripband__title a { color: inherit; text-decoration: none; }
+.tripband__title a:hover { text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 1px; }
+.tripband__price { font-family: var(--font-display); font-weight: 600; font-size: 30px; line-height: 32px; font-variant-numeric: lining-nums tabular-nums; }
 @media (max-width: 760px) {
-  .triprow, .triprow:nth-child(even) { grid-template-columns: 1fr; }
-  .triprow:nth-child(even) .triprow__img { order: 0; }
+  .tripband { min-height: 0; flex-direction: column; align-items: stretch; }
+  .tripband__img { position: static; aspect-ratio: 4 / 3; height: auto; }
+  .tripband::after { display: none; }
+  .tripband__content { background: var(--deep); padding-block: var(--space-8) var(--space-12); }
 }
+.allsafaris { padding-block: var(--space-8); border-top: 1px solid rgb(241 240 230 / 0.16); }
+.allsafaris .lead { color: var(--on-deep-muted); margin: 0; }
 
-/* Trip cards (Safaris index) --------------------------------------------------------------- */
-.tripgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: clamp(32px, 4vw, 48px) var(--space-8); }
-.tripcard { display: flex; flex-direction: column; gap: var(--space-3); color: inherit; text-decoration: none; }
-.tripcard img { aspect-ratio: 3 / 2; object-fit: cover; width: 100%; height: auto; }
-.tripcard h3 { font-size: 28px; line-height: 32px; }
-.tripcard:hover h3 { text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+/* Trip cards (Safaris index): field-journal cards on the deep band --------------------- */
+.tripgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 28px; }
+.tripcard { display: flex; flex-direction: column; background: var(--deep-2); border-radius: var(--radius-md); overflow: hidden; color: var(--on-deep); text-decoration: none; }
+.tripcard img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; }
+.tripcard__body { display: flex; flex-direction: column; gap: var(--space-4); padding: var(--space-6); flex: 1; }
+.tripcard__head { display: grid; grid-template-columns: minmax(0, 1fr) 124px; gap: var(--space-4); align-items: start; }
+.tripcard h2 { font-size: 28px; line-height: 32px; color: var(--on-deep); text-wrap: balance; }
+.tripcard:hover h2 { text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+.tripcard .label { color: var(--on-deep-muted); }
+.tripcard__price { margin-top: auto; padding-top: var(--space-4); border-top: 1px solid rgb(241 240 230 / 0.16); }
+.tripcard__price .price { color: var(--on-deep); }
+.mini-route { width: 124px; height: auto; }
+.mini-route__lm { fill: var(--sage); opacity: 0.7; }
+.mini-route__leg { fill: none; stroke: var(--dust); stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+.mini-route__fly { stroke-width: 2; stroke-dasharray: 2 5; }
+.mini-route__st { fill: var(--deep-2); stroke: var(--dust); stroke-width: 2.6; }
+.mini-route__st0 { fill: var(--dust); }
+@media (max-width: 420px) { .tripcard__head { grid-template-columns: minmax(0, 1fr) 92px; } .mini-route { width: 92px; } }
 
 /* Fact strip + months --------------------------------------------------------------- */
 .mz-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: var(--space-6); margin: 0; padding-block: var(--space-6); border-block: 1px solid var(--line); }
