@@ -76,7 +76,7 @@
     {
       "path": "/safaris/family-wilderness-adventure",
       "type": "trip",
-      "title": "Family Wilderness Adventure 7-Day Safari",
+      "title": "Family safari: Serengeti and Ngorongoro",
       "source": "content/trips/family-wilderness-adventure.json",
       "status": "published",
       "nav": null
@@ -84,7 +84,7 @@
     {
       "path": "/safaris/great-migration-river-crossing",
       "type": "trip",
-      "title": "7-Day Great Migration River Crossing Adventure",
+      "title": "Great Migration river crossings",
       "source": "content/trips/great-migration-river-crossing.json",
       "status": "published",
       "nav": null
@@ -92,7 +92,7 @@
     {
       "path": "/safaris/honeymoon-safari-and-zanzibar",
       "type": "trip",
-      "title": "A Romantic Honeymoon Safari and Zanzibar Retreat",
+      "title": "Honeymoon in the Serengeti and Zanzibar",
       "source": "content/trips/honeymoon-safari-and-zanzibar.json",
       "status": "published",
       "nav": null
@@ -100,7 +100,7 @@
     {
       "path": "/kilimanjaro/kilimanjaro-machame-7-day",
       "type": "trip",
-      "title": "7-Day Kilimanjaro Expedition: Machame Route Adventure",
+      "title": "Kilimanjaro on the Machame route",
       "source": "content/trips/kilimanjaro-machame-7-day.json",
       "status": "published",
       "nav": null
@@ -108,7 +108,7 @@
     {
       "path": "/safaris/savannah-to-shore",
       "type": "trip",
-      "title": "Luxury Savannah to Shore 9 Day Adventure",
+      "title": "Savannah to Shore: Serengeti and Zanzibar",
       "source": "content/trips/savannah-to-shore.json",
       "status": "published",
       "nav": null
@@ -116,7 +116,7 @@
     {
       "path": "/safaris/serengeti-romantic-escape",
       "type": "trip",
-      "title": "Serengeti Escape A Romantic Adventure",
+      "title": "Serengeti for two",
       "source": "content/trips/serengeti-romantic-escape.json",
       "status": "published",
       "nav": null
@@ -124,7 +124,7 @@
     {
       "path": "/safaris/serengeti-under-the-stars",
       "type": "trip",
-      "title": "Serengeti Under The Stars",
+      "title": "Serengeti under the stars: a camping safari",
       "source": "content/trips/serengeti-under-the-stars.json",
       "status": "published",
       "nav": null
@@ -140,7 +140,7 @@
     {
       "path": "/safaris/wildlife-photography-safari",
       "type": "trip",
-      "title": "Wildlife Photography Safari, Capture Every Moment",
+      "title": "Photographic safari: Ndutu and the Serengeti",
       "source": "content/trips/wildlife-photography-safari.json",
       "status": "published",
       "nav": null
@@ -148,7 +148,7 @@
     {
       "path": "/safaris/winged-wonders-birding",
       "type": "trip",
-      "title": "Winged Wonders: 7 Days Tanzanian Birdwatching",
+      "title": "Birding safari: Lake Natron to the Serengeti",
       "source": "content/trips/winged-wonders-birding.json",
       "status": "published",
       "nav": null

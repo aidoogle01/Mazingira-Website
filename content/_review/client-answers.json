@@ -508,6 +508,86 @@
       "resolves": [],
       "status": "placeholder",
       "kind": "draft copy for client approval"
+    },
+    {
+      "id": "C-titles",
+      "q": "Trip names. The old names mixed title case, durations and filler (\"Serengeti Escape A Romantic Adventure\", \"Luxury Savannah to Shore 9 Day Adventure\"). Drafts name who the trip is for and where it goes; the length already shows beside every name.",
+      "answer": "Draft names written from each itinerary, for Mazingira to approve or rename. URLs stay the same.",
+      "status": "placeholder",
+      "apply": [
+        {
+          "file": "trips/savannah-to-shore.json",
+          "set": {
+            "title": "Savannah to Shore: Serengeti and Zanzibar"
+          }
+        },
+        {
+          "file": "trips/great-migration-river-crossing.json",
+          "set": {
+            "title": "Great Migration river crossings"
+          }
+        },
+        {
+          "file": "trips/family-wilderness-adventure.json",
+          "set": {
+            "title": "Family safari: Serengeti and Ngorongoro"
+          }
+        },
+        {
+          "file": "trips/honeymoon-safari-and-zanzibar.json",
+          "set": {
+            "title": "Honeymoon in the Serengeti and Zanzibar"
+          }
+        },
+        {
+          "file": "trips/serengeti-romantic-escape.json",
+          "set": {
+            "title": "Serengeti for two"
+          }
+        },
+        {
+          "file": "trips/serengeti-under-the-stars.json",
+          "set": {
+            "title": "Serengeti under the stars: a camping safari"
+          }
+        },
+        {
+          "file": "trips/wildlife-photography-safari.json",
+          "set": {
+            "title": "Photographic safari: Ndutu and the Serengeti"
+          }
+        },
+        {
+          "file": "trips/winged-wonders-birding.json",
+          "set": {
+            "title": "Birding safari: Lake Natron to the Serengeti"
+          }
+        },
+        {
+          "file": "trips/kilimanjaro-machame-7-day.json",
+          "set": {
+            "title": "Kilimanjaro on the Machame route"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Q21",
+      "q": "How quickly does Johari reply to a new enquiry, and can we promise it on the site (for example \"a first itinerary and price within 24 hours\")? A stated reply time is one of the strongest reasons people enquire.",
+      "answer": "Not answered yet. Nothing is shown on the site until Mazingira confirms a time they can keep every day, including weekends.",
+      "status": "placeholder"
+    },
+    {
+      "id": "Q22",
+      "q": "Would Mazingira offer a guarantee that lowers the risk of booking? Options: (a) the first itinerary and quote are free with no obligation; (b) a free date change up to 60 days before travel; (c) if a guide or vehicle lets you down, a day refunded. Which, if any, can you stand behind?",
+      "answer": "Not answered yet. The site only says what the booking terms already say: nothing to pay until you approve a written quote, then a 30% deposit.",
+      "status": "placeholder"
+    },
+    {
+      "id": "Q23",
+      "q": "How far ahead do guests need to book for July to September, and for the river-crossing camps (Mara Under Canvas)? An honest booking-ahead note helps people decide sooner.",
+      "answer": "Not answered yet. No urgency or availability claims are shown until Mazingira confirms them.",
+      "status": "placeholder"
     }
   ]
 }

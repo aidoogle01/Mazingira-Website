@@ -3,9 +3,10 @@ import { Picture } from 'astro:assets';
 import Base from '../../layouts/Base.astro';
 import Enquiry from '../../components/Enquiry.astro';
 import MiniRoute from '../../components/MiniRoute.astro';
-import { published, tripPath, tripLabel, usd } from '../../lib/content';
+import { published, tripPath, tripLabel, usd, reviews } from '../../lib/content';
 import { photo } from '../../lib/photos';
 import { TRIP_HERO } from '../../lib/art';
+const scores = reviews.aggregate.filter((r: any) => r.rating);
 const list = [...published].sort((a, b) => a.duration_days - b.duration_days || a.title.localeCompare(b.title));
 ---
 <Base title="Safaris" description="Tailor-made safaris and Kilimanjaro climbs, with prices and day-by-day routes." solidHeader>
@@ -14,6 +15,7 @@ const list = [...published].sort((a, b) => a.duration_days - b.duration_days || 
       <div class="stack measure">
         <h1 class="display-l">Our safaris</h1>
         <p class="lead" style="color:var(--on-deep-muted)">Each of these is a starting point with a real route and a real price. Johari will change the lodges, pace and length to suit you.</p>
+        <div class="reviews-row">{scores.map((r: any) => <a class="mz-review" href={r.url}><span class="mz-review__score">{r.rating.toFixed(1)}</span> from {r.count} reviews on {r.source === 'TripAdvisor' ? 'Tripadvisor' : r.source}</a>)}</div>
       </div>
       <div class="tripgrid">
         {list.map((t) => { const p = photo(TRIP_HERO[t.id]); return (

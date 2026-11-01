@@ -18,16 +18,16 @@ Generated from `content/` by `tools/build_routes.py` (data: `routes.json`, redir
 
 | Path | Page | Content |
 |---|---|---|
-| `/safaris/family-wilderness-adventure` | Family Wilderness Adventure 7-Day Safari | `content/trips/family-wilderness-adventure.json` |
-| `/safaris/great-migration-river-crossing` | 7-Day Great Migration River Crossing Adventure | `content/trips/great-migration-river-crossing.json` |
-| `/safaris/honeymoon-safari-and-zanzibar` | A Romantic Honeymoon Safari and Zanzibar Retreat | `content/trips/honeymoon-safari-and-zanzibar.json` |
-| `/kilimanjaro/kilimanjaro-machame-7-day` | 7-Day Kilimanjaro Expedition: Machame Route Adventure | `content/trips/kilimanjaro-machame-7-day.json` |
-| `/safaris/savannah-to-shore` | Luxury Savannah to Shore 9 Day Adventure | `content/trips/savannah-to-shore.json` |
-| `/safaris/serengeti-romantic-escape` | Serengeti Escape A Romantic Adventure | `content/trips/serengeti-romantic-escape.json` |
-| `/safaris/serengeti-under-the-stars` | Serengeti Under The Stars | `content/trips/serengeti-under-the-stars.json` |
+| `/safaris/family-wilderness-adventure` | Family safari: Serengeti and Ngorongoro | `content/trips/family-wilderness-adventure.json` |
+| `/safaris/great-migration-river-crossing` | Great Migration river crossings | `content/trips/great-migration-river-crossing.json` |
+| `/safaris/honeymoon-safari-and-zanzibar` | Honeymoon in the Serengeti and Zanzibar | `content/trips/honeymoon-safari-and-zanzibar.json` |
+| `/kilimanjaro/kilimanjaro-machame-7-day` | Kilimanjaro on the Machame route | `content/trips/kilimanjaro-machame-7-day.json` |
+| `/safaris/savannah-to-shore` | Savannah to Shore: Serengeti and Zanzibar | `content/trips/savannah-to-shore.json` |
+| `/safaris/serengeti-romantic-escape` | Serengeti for two | `content/trips/serengeti-romantic-escape.json` |
+| `/safaris/serengeti-under-the-stars` | Serengeti under the stars: a camping safari | `content/trips/serengeti-under-the-stars.json` |
 | `/safaris/wild-wonders-serengeti-tarangire-ruaha` | Wild Wonders: A Safari Across Serengeti, Tarangire, and Ruaha *(hidden until confirmed)* | `content/trips/wild-wonders-serengeti-tarangire-ruaha.json` |
-| `/safaris/wildlife-photography-safari` | Wildlife Photography Safari, Capture Every Moment | `content/trips/wildlife-photography-safari.json` |
-| `/safaris/winged-wonders-birding` | Winged Wonders: 7 Days Tanzanian Birdwatching | `content/trips/winged-wonders-birding.json` |
+| `/safaris/wildlife-photography-safari` | Photographic safari: Ndutu and the Serengeti | `content/trips/wildlife-photography-safari.json` |
+| `/safaris/winged-wonders-birding` | Birding safari: Lake Natron to the Serengeti | `content/trips/winged-wonders-birding.json` |
 
 ## Destinations
 

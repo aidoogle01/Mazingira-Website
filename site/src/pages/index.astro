@@ -14,6 +14,7 @@ const goodluck = person('goodluck-nathan');
 const goodluckImg = teamPhoto('goodluck-nathan', 'Goodluck Nathan on the roof of a Mazingira safari vehicle')!;
 const featured = HOME_TRIPS.map(tripById).filter(Boolean);
 const sb = reviews.aggregate.find((r: any) => r.source === 'SafariBookings');
+const ta = reviews.aggregate.find((r: any) => r.source === 'TripAdvisor');
 const carly = reviews.featured.find((r: any) => r.name === 'Carly A');
 const elephants = photo('1ac0ef_03be9bc3');
 const migration = tripById('great-migration-river-crossing');
@@ -26,10 +27,13 @@ const guides = published.length;
       <h1>Tanzania, guided by Tanzanians.</h1>
       <p class="hero__lead">Tailor-made safaris from Arusha since {site.founded}. You travel with our own guides, in our own vehicles, on a trip we plan around you.</p>
       <div class="actions">
-        <a class="mz-btn mz-btn--light" href="#enquire">Plan your safari</a>
+        <a class="mz-btn mz-btn--light" href="#enquire">Get your itinerary and price</a>
         <a class="mz-btn mz-btn--ghost" href="/safaris">See our safaris</a>
       </div>
-      {sb && <a class="mz-review" href={sb.url}><span class="mz-review__score">{sb.rating.toFixed(1)}</span> from {sb.count} reviews on SafariBookings</a>}
+      <div class="reviews-row">
+        {ta && <a class="mz-review" href={ta.url}><span class="mz-review__score">{ta.rating.toFixed(1)}</span> from {ta.count} reviews on Tripadvisor</a>}
+        {sb && <a class="mz-review" href={sb.url}><span class="mz-review__score">{sb.rating.toFixed(1)}</span> from {sb.count} reviews on SafariBookings</a>}
+      </div>
     </div>
   </section>
 
@@ -42,6 +46,17 @@ const guides = published.length;
         <div><dt>Member of</dt><dd>Tanzania Association of Tour Operators</dd></div>
         <div><dt>Based in</dt><dd>Arusha, Tanzania</dd></div>
       </dl>
+      <div class="included">
+        <h2 class="heading">Every safari price includes</h2>
+        <ul>
+          <li>A private 4x4 with an open roof, for your group only</li>
+          <li>An English-speaking guide from our own team</li>
+          <li>Park entry fees, with VAT</li>
+          <li>Airport transfers</li>
+          <li>Meals and lodges as listed day by day</li>
+        </ul>
+        <p>You pay nothing until you've approved a written quote. A {site.booking_terms.deposit_pct}% deposit then secures your lodges and vehicle.</p>
+      </div>
     </div>
   </section>
 

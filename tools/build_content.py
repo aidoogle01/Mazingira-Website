@@ -497,7 +497,7 @@ def main():
     # shared inclusions: the lines most trips share
     counts = defaultdict(int)
     for t in trips:
-        for x in set(t['includes']):
+        for x in dict.fromkeys(t['includes']):  # ordered, so the output is stable between builds
             counts[x] += 1
     write('shared/standard-inclusions.json', {
         'note': 'Lines included in at least 5 safari packages on the old site. Trips list their own includes; use this to keep wording consistent.',

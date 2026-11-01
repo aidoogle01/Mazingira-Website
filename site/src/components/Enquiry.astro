@@ -9,8 +9,8 @@ const wa = whatsapp(trip ? `Hello Johari, I'm interested in ${trip.title}.` : 'H
 <section id="enquire" class="band-dust section" aria-labelledby="enquire-title">
   <div class="wrap enquire">
     <div class="stack">
-      <h2 id="enquire-title" class="heading">{trip ? 'Plan this trip with Johari' : 'Plan your safari with Johari'}</h2>
-      <p class="measure">{johari ? `${johari.name.trim()}, our travel specialist in Arusha, replies to every enquiry personally.` : 'Our travel specialist in Arusha replies to every enquiry personally.'} Tell us roughly when and who; we'll suggest the rest.</p>
+      <h2 id="enquire-title" class="heading">{trip ? 'Get this itinerary and price from Johari' : 'Get your itinerary and price from Johari'}</h2>
+      <p class="measure">{johari ? `${johari.name.trim()}, our travel specialist in Arusha, replies to every enquiry personally.` : 'Our travel specialist in Arusha replies to every enquiry personally.'} Tell us roughly when and who; we'll suggest the rest.{site.reply_promise && ` ${site.reply_promise}`}</p>
       <ol class="steps">
         <li><div><h3>Tell us what you'd like</h3><p>Month, who's travelling, a budget and what you want to see.</p></div></li>
         <li><div><h3>Johari replies from Arusha</h3><p>With a first itinerary and an estimated cost per person.</p></div></li>
@@ -39,7 +39,8 @@ const wa = whatsapp(trip ? `Hello Johari, I'm interested in ${trip.title}.` : 'H
           <select id="f-budget" name="budget"><option>Not sure yet</option><option>Under $3,000</option><option>$3,000 to $5,000</option><option>$5,000 to $8,000</option><option>Over $8,000</option></select></div>
       </div>
       <div class="mz-field"><label for="f-msg">Anything we should know?</label><textarea id="f-msg" name="message"></textarea></div>
-      <button class="mz-btn" type="submit">Send enquiry</button>
+      <button class="mz-btn" type="submit">Send to Johari</button>
+      <p class="form-note">You pay nothing until you've approved a written quote.</p>
       <p class="form-status" data-status hidden></p>
       <div class="actions"><span class="form-note">Prefer to talk it through?</span><a class="mz-btn mz-btn--whatsapp" href={wa}>WhatsApp Johari</a></div>
     </form>

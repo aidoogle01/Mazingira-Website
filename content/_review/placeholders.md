@@ -35,5 +35,14 @@ These values came from placeholder answers, not from Mazingira. Replace them bef
 | C-summaries | `trips/serengeti-under-the-stars.json` | `summary` | "Seven days camping: Tarangire, two nights at Nyani campsite in the central Serengeti, a g |
 | C-summaries | `trips/wildlife-photography-safari.json` | `summary` | "Eight days for photographers: Tarangire, Lake Manyara, Ndutu on the southern plains, two  |
 | C-summaries | `trips/winged-wonders-birding.json` | `summary` | "Seven days for birders, best November to April: Arusha National Park, Lake Manyara, the s |
+| C-titles | `trips/savannah-to-shore.json` | `title` | "Savannah to Shore: Serengeti and Zanzibar" |
+| C-titles | `trips/great-migration-river-crossing.json` | `title` | "Great Migration river crossings" |
+| C-titles | `trips/family-wilderness-adventure.json` | `title` | "Family safari: Serengeti and Ngorongoro" |
+| C-titles | `trips/honeymoon-safari-and-zanzibar.json` | `title` | "Honeymoon in the Serengeti and Zanzibar" |
+| C-titles | `trips/serengeti-romantic-escape.json` | `title` | "Serengeti for two" |
+| C-titles | `trips/serengeti-under-the-stars.json` | `title` | "Serengeti under the stars: a camping safari" |
+| C-titles | `trips/wildlife-photography-safari.json` | `title` | "Photographic safari: Ndutu and the Serengeti" |
+| C-titles | `trips/winged-wonders-birding.json` | `title` | "Birding safari: Lake Natron to the Serengeti" |
+| C-titles | `trips/kilimanjaro-machame-7-day.json` | `title` | "Kilimanjaro on the Machame route" |
 
-25 of 26 answers are placeholders.
+29 of 30 answers are placeholders.
